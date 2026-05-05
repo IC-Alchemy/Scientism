@@ -1,38 +1,65 @@
-# Scientism — LLM Wiki
+# Scientism — Research Wiki
 
-> **Topic:** Scientism
+> **Topic:** Scientism, methodological overreach, and disputed claims in the history and practice of science
 > **Initialized:** 2026-05-04
-> **Tool:** Claude Code (this file). A parallel `AGENTS.md` exists for Codex/Cursor/Antigravity.
+> **Seed source:** `raw/Scientism.md`
+> **Tool:** Claude Code. Parallel instructions for Codex, Cursor, Antigravity, OpenCode, and Gemini CLI live in `AGENTS.md`.
 
 You are the maintainer of this wiki. You read from `raw/`, you write to `wiki/`. You never edit `raw/`.
 
+## Mission
+
+This vault studies scientism as an epistemic and historical problem: where scientific findings, methods, or institutions are extended beyond what the underlying evidence strictly supports. It prioritizes replication failures, methodological criticism, inferential overreach, and disputed episodes in the history of medicine and biology.
+
+The vault does not treat consensus or peer review as valid markers for truth. Instead the focus is upon the scientific method.  Replication is the strongest possible marker for truth.  Experimental methods and experimental results are valid, while the authors own personal interpretation is ignored in all claims made in the vault.
+
 ## The three layers
 
-```
-raw/     → sources (articles, papers, notes). IMMUTABLE. You only read.
-wiki/    → the knowledge base. You own this. Create, update, cross-reference.
-CLAUDE.md / AGENTS.md → schema (this file). Co-evolved with the user.
+```text
+raw/      -> user-owned sources. Immutable. Read only.
+wiki/     -> LLM-maintained knowledge base. All writes go here.
+CLAUDE.md -> schema and operating rules for this vault.
 ```
 
 ## Vault structure
 
-```
+```text
 raw/
-├── <sources>              # articles, papers, notes — IMMUTABLE
-└── assets/                # downloaded images from clipped articles
+├── <sources>
+└── assets/
 
 wiki/
-├── index.md               # content catalog — update every ingest
-├── log.md                 # append-only timeline
-├── entities/              # people, orgs, places, products
-├── concepts/              # ideas, theories, frameworks
-├── sources/               # one summary page per ingested source
-├── comparisons/           # cross-source analysis
-├── synthesis/             # high-level overviews and theses
-└── .templates/            # page templates (reference only)
+├── index.md
+├── log.md
+├── entities/
+├── concepts/
+├── sources/
+├── comparisons/
+├── synthesis/
+└── .templates/
 ```
 
-## Page frontmatter (required on every wiki page)
+## Research focus
+
+- Critiques of scientism as an epistemic or cultural posture
+- Replication and reproducibility failures
+- Experimental design and experimental methods
+- Inferential leaps from experiment to broader worldview or policy claims
+- Trial design and endpoint selection
+- History and philosophy of biology and medicine, including germ-theory debates
+- The difference between what a source claims, what an experiment shows, and what the wiki currently concludes
+
+## Source triage
+
+- `Tier 1` -> primary papers, systematic reviews, historical documents
+- `Tier 2` -> serious secondary scholarship
+- `Tier 3` -> transcripts, essays, AI chats, clips, rough notes
+
+`raw/Scientism.md` is a `Tier 3` source. It is an agenda-setting conversation with transcription noise and contested claims. It can seed pages and open questions, but it cannot by itself justify factual conclusions.
+
+## Page frontmatter
+
+Every wiki page must have:
 
 ```yaml
 ---
@@ -40,94 +67,112 @@ title: <Title>
 category: entity | concept | source | comparison | synthesis
 summary: <one-line summary>
 tags: [tag1, tag2]
-sources: <count of sources referencing this page>
+sources: <count when applicable>
 updated: YYYY-MM-DD
 ---
 ```
 
-For `source` pages, also include:
+For controversial or preliminary material, add fields when useful:
+
 ```yaml
-source_path: raw/<path>
-source_date: YYYY-MM (original publication)
-authors: [author1, author2]
-ingested: YYYY-MM-DD
+claim_status: exploratory | disputed | supported | contradicted | unresolved
+claim_type: historical | methodological | empirical | rhetorical | medical
+source_tier: tier-1 | tier-2 | tier-3
 ```
 
-## The three operations
+## Ingest
 
-### Ingest (`/wiki-ingest <path>`)
+When the user points to a file in `raw/`:
 
-1. Run `python scripts/ingest_source.py --vault . --source <path> --json` to get the brief
-2. Read the source directly
-3. **Discuss with the user first** — TL;DR, key claims, which pages will be touched, contradictions
-4. Wait for confirmation
-5. Create or merge the summary page at `wiki/sources/<slug>.md`
-6. Update every relevant entity and concept page (typically 5-15 pages)
-7. Flag contradictions with `> ⚠️ Contradiction:` callouts on both sides
-8. Update `wiki/index.md` (run `update_index.py` or edit inline)
-9. Run `append_log.py --op ingest --title "<title>" --detail "<touched pages>"`
-10. Report back with a bulleted list of touched pages
+1. Read the source directly.
+2. Identify whether it is evidence, commentary, or a research lead.
+3. Discuss the source with the user before major synthesis when the source is controversial or weakly supported.
+4. Create or update the source summary in `wiki/sources/`.
+5. Update all materially affected concept, entity, comparison, and synthesis pages.
+6. Separate `What the source claims` from `what questions the experiment was designed to answer` from `What this wiki currently concludes`.
+7. If a source suggests a broad conclusion from a narrow experiment, record both:
+   - the experiment or observation
+   - the inferential leap being made from it
+8. Update `wiki/index.md`.
+9. Append a log entry to `wiki/log.md`.
 
-### Query (`/wiki-query <question>`)
+For medical, biological, or public-health claims:
 
-1. Read `wiki/index.md` first
-2. Pick 3-10 relevant pages across categories (synthesis + concepts + sources + entities)
-3. Read them in full
-4. Follow wikilinks opportunistically
-5. Fall back to `wiki_search.py --query <terms>` if the index doesn't surface the answer
-6. Synthesize: direct answer (1-3 sentences) → supporting detail → inline `[[sources/xxx]]` citations → "Related pages" section
-7. **Offer to file the answer back** as a new page in `comparisons/` or `synthesis/`
+- This vault is for research and analysis, not medical advice.
 
-### Lint (`/wiki-lint`)
+## Query
 
-1. Run `python scripts/lint_wiki.py --vault .` for mechanical checks
-2. Run `python scripts/graph_analyzer.py --vault .` for structural stats
-3. Semantic checks: look for contradictions, stale claims, concepts mentioned without their own page, cross-reference gaps
-4. Present findings as a markdown report with suggested actions
-5. Append a `lint` entry to `log.md`
+When answering questions from this vault:
+
+1. Read `wiki/index.md` first.
+2. Read the most relevant pages in full.
+3. Distinguish clearly between:
+   - what a source argues
+   - what the evidence level currently supports
+   - what remains unresolved
+4. Cite with `[[wikilinks]]`.
+5. If evidence is thin, say so directly.
+6. File back only citation-backed answers that improve the wiki.
+
+## Lint
+
+Periodic checks should look for:
+
+- broken links
+- orphan pages
+- missing frontmatter
+- unsupported synthesis
+- controversial claims stated without attribution
+- medical or historical claims backed only by `Tier 3` material
+- pages that discuss endpoints without naming the endpoint
+- pages that mention an inferential leap without describing the underlying experiment
+- missing cross-links between supporting and critical views on disputed topics
+
+## Cross-reference rules
+
+- Every material claim should point to a `[[sources/...]]` page.
+- Controversial claims should be attributed explicitly: `Source X argues...`
+- On disputed topics, link both the supporting and the critical view when available.
+- Use `> Note:` or `> Warning:` callouts to mark unresolved or high-risk claims.
+
+## Priority pages
+
+Prioritize:
+
+- `concepts/scientism`
+- `concepts/replication-crisis`
+- `concepts/inferential-leap`
+- `concepts/surrogate-endpoints`
+- `concepts/germ-theory`
+- source pages for core papers and historical documents
+- synthesis pages for the research program and open questions
+- comparison pages that map dispute structure clearly
 
 ## Iron rules
 
-1. **`raw/` is immutable.** You read from it; you never write to it.
-2. **All writes go to `wiki/`.** No exceptions.
-3. **Every wiki page has YAML frontmatter** with `title`, `category`, `summary`, `updated`.
-4. **Every ingest touches ≥5 files.** The source summary, 2-4 entity/concept pages, `index.md`, `log.md`.
-5. **Every claim has a citation.** Link back to the `sources/<slug>` page.
-6. **Contradictions get flagged inline.** Both pages get the callout.
-7. **Good answers get filed back.** Explorations compound.
+1. `raw/` is immutable.
+2. All writes go to `wiki/`.
+3. `Tier 3` material can generate questions but not conclusions on its own.
+4. All claims need explicit attribution and careful sourcing.
+5. Separate the experiment from the conclusion drawn from it.
+6. Name the endpoint when discussing trial design or outcome claims.
+7. Do not produce medical advice from this vault.
+8. Always explain what question the experiment is capable of answering 
 
 ## Log format
 
-```
+```text
 ## [YYYY-MM-DD] <op> | <title>
-<optional detail — which pages touched, what changed>
+<optional detail>
 ```
 
-Valid ops: `ingest`, `query`, `lint`, `create`, `update`, `delete`, `note`.
-
-Grep the log: `grep "^## \[" wiki/log.md | tail -10`
-
-## Tools
-
-All scripts live at `~/.claude/skills/llm-wiki/scripts/` (or wherever you installed the plugin). Standard library only.
-
-- `init_vault.py` — bootstrap a vault
-- `ingest_source.py` — prep a source for ingest (metadata + preview)
-- `update_index.py` — regenerate `wiki/index.md` from page frontmatter
-- `append_log.py` — append a standardized log entry
-- `wiki_search.py` — BM25 search fallback
-- `lint_wiki.py` — mechanical health check
-- `graph_analyzer.py` — link graph stats
-- `export_marp.py` — render a page as a Marp slide deck
-
-## Obsidian
-
-The user opens this vault in Obsidian. They watch the graph view while you edit. Useful plugins: Graph view, Backlinks, Dataview, Marp, Templates, Git.
+Ops: `ingest`, `query`, `lint`, `create`, `update`, `delete`, `note`.
 
 ## Style
 
-- Be concise. Wiki pages are read, not generated.
-- Prefer short paragraphs. Bulleted lists where appropriate.
-- Cite aggressively with `[[wikilinks]]`.
-- When you're not sure, say so in the page. Don't invent content.
-- Update `updated:` frontmatter whenever you touch a page.
+- Neutral and analytical
+- Concise, but not evasive about uncertainty
+- No loaded wording in the wiki voice unless directly quoted from a source
+- Preserve open questions instead of flattening them into conclusions
+- Update `updated:` whenever you touch a page
+- It is ok to say "We do not know"

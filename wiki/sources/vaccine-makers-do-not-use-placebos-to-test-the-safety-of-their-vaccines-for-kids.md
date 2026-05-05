@@ -1,0 +1,44 @@
+---
+title: Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids
+category: source
+summary: Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos.
+tags: [vaccines, placebo-controls, pediatric-trials, safety]
+source_path: raw/Vaccine makers do not use placebos to test the safety of their vaccines for kids.md
+updated: 2026-05-04
+claim_status: disputed
+claim_type: methodological
+source_tier: tier-3
+---
+
+# Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids
+
+## TL;DR
+This raw file is an advocacy article that compiles examples of pediatric vaccine trials and argues that many use active comparators or non-inert controls rather than inert placebos. It is a useful lead on trial-design questions, but not a neutral synthesis.
+
+> Warning: This page is for trial-methodology research only. It is not medical advice.
+
+## Source triage
+- Type: advocacy commentary that cites many primary trials
+- Signal: moderate as a lead on control-group design
+- Limitation: strong rhetorical framing, selective emphasis, and conclusions that require checking the cited trials directly
+
+## What the source claims
+- Many pediatric vaccine safety studies compare one vaccine against another vaccine or against a biologically active control rather than an inert placebo.
+- This design choice is presented as important for interpreting safety claims.
+- The article also argues that some broader safety conclusions may be overstated when the comparator is not inert.
+
+## What question the cited experiments were designed to answer
+- The cited trials can answer comparative questions between the arms actually studied.
+- Some can answer immunogenicity questions, some can answer short-term reactogenicity or adverse-event comparisons, and some can answer disease-specific efficacy questions.
+- Those trial designs do not automatically answer every broader question about absolute safety, rare harms, or total net health benefit.
+
+## What this wiki currently concludes
+- The article points to a real methodological issue: comparator choice matters.
+- The article itself should not be treated as a final authority on what each cited trial proves.
+- This source is most useful when paired with [[concepts/placebo-controls]], [[concepts/clinical-endpoints]], and direct review of the named studies.
+
+## Related
+- [[concepts/placebo-controls]]
+- [[concepts/clinical-endpoints]]
+- [[concepts/surrogate-endpoints]]
+- [[comparisons/disease-prevention-vs-health-outcomes]]

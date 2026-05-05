@@ -1,0 +1,55 @@
+---
+title: Germ Theory
+category: concept
+summary: A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved.
+tags: [history-of-science, medicine, causation]
+sources: 9
+updated: 2026-05-04
+claim_status: unresolved
+claim_type: historical
+---
+
+# Germ Theory
+
+## Definition
+Germ theory is the framework that specific microorganisms can cause specific diseases. In this vault, the topic is being studied not as a slogan but as a set of historical experiments, diagnostic practices, laboratory methods, and later interpretations that may or may not align cleanly with one another.
+
+## Historical anchors in this vault
+- [[sources/kochs-famous-paper]] is a core methodological anchor because it shows Koch distinguishing pathogenicity, infectiousness, host choice, and laboratory identification.
+- [[sources/edward-jenners-smallpox-paper-1798]] and [[sources/diagnosis-smallpox-viroliegy]] matter because they raise questions about historical diagnosis and about how later vaccination narratives compress more complex source material.
+- [[sources/pasteurs-researches-on-rabies]] identifies a near-contemporary reporting node for Pasteur's rabies work, while [[sources/louis-pasteurs-unethical-rabies-fraud]] and [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] present strong modern revisionist criticism.
+- [[sources/experimental-inhalation-anthrax-in-the-chimpanzee]] points to a controlled animal model relevant to later causal claims, though the raw vault note is still thin.
+- [[sources/the-germ-hypothesis-part-2]] and [[sources/the-infectious-myth-busted-part-6-the-germ-duel]] provide modern critique of how historical and experimental claims are generalized.
+
+## What the sources argue
+- [[sources/kochs-famous-paper]] argues for explicit methodological standards: isolate the organism, observe it carefully, choose the right host, and test transmissibility rather than assuming it.
+- [[sources/the-germ-hypothesis-part-2]] argues that later history often credits Koch with broader proof than the underlying experiments warrant.
+- [[sources/diagnosis-smallpox-viroliegy]] argues that disease labeling in rash illnesses was often unstable, which matters for historical retrospection.
+- [[sources/louis-pasteurs-unethical-rabies-fraud]] and [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] argue that Pasteur-centered narratives should be treated as contested rather than automatically authoritative.
+- [[sources/the-infectious-myth-busted-part-6-the-germ-duel]] argues that failed challenge or self-experiment episodes expose weaknesses in broad contagion claims.
+
+## What the evidence level currently supports
+- The vault now has support for a limited historical claim: major figures such as Jenner, Koch, and Pasteur worked through concrete experiments and observational programs that can be examined separately from later doctrine.
+- The vault also has support for a methodological claim: experiment design, route of exposure, host choice, endpoint definition, and diagnostic confidence materially affect what any one study can show.
+- The vault does not yet have enough balanced source work to conclude either that classical germ theory is straightforwardly established in all disputed cases or that it was globally refuted.
+
+## Unresolved issues
+- Which classic historical experiments are strongest when read on their own terms?
+- Which later claims are direct continuations of those experiments, and which are inferential expansions?
+- How often do diagnostic ambiguity, artificial challenge conditions, or changed proof standards affect the canonical narrative?
+- How should near-contemporary sources be weighed against much later critical reinterpretations?
+
+## Contrasts with
+- [[concepts/inferential-leap]] - this is the pattern the source wants to inspect within germ-theory history
+- [[concepts/scientism]] - the broader vault theme concerns how settled authority forms around scientific claims
+
+## Related entities
+- [[entities/edward-jenner]]
+- [[entities/louis-pasteur]]
+- [[entities/robert-koch]]
+- [[entities/mike-stone]]
+- [[entities/viroliegy]]
+
+## Used in
+- [[synthesis/scientism-research-program-overview]]
+- [[sources/scientism-conversation-may-1-2026]]
