@@ -3,8 +3,8 @@ title: Clinical Endpoints
 category: concept
 summary: Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures.
 tags: [clinical-trials, endpoints, outcomes]
-sources: 2
-updated: 2026-05-04
+sources: 3
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: medical
 ---
@@ -17,7 +17,7 @@ Clinical endpoints are outcomes that directly describe patient health, such as m
 ## Why this matters in this vault
 [[sources/scientism-conversation-may-1-2026]] repeatedly asks whether disease-prevention claims are being overstated into broader claims about health benefit.
 
-[[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] focuses more on control groups, but it also points back to a related question: which outcomes were actually measured in the cited trials.
+[[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] focuses more on control groups, but it also points back to a related question: which outcomes were actually measured in the cited trials. [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] begins that trial-record check by naming abstract-level safety, immunogenicity, and disease endpoints for the cited records.
 
 ## What question the underlying experiments can answer
 - A trial that directly measures hospitalization or mortality can speak to those named outcomes within its design limits.
@@ -32,3 +32,4 @@ Clinical endpoints are outcomes that directly describe patient health, such as m
 - [[concepts/surrogate-endpoints]]
 - [[concepts/placebo-controls]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
+- [[sources/pediatric-vaccine-trial-records-placebo-control-audit]]

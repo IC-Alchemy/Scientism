@@ -50,3 +50,7 @@ Updated wiki templates, synthesis pages, concept/entity pages, and flagged sourc
 ## [2026-05-04] ingest | ViroLIEgy method page, Rosenau influenza page, and Leverson germ-theory critique
 
 Added three Tier 3 source pages from `raw/`, updated germ-theory and scientism-related concept/entity/synthesis pages, kept all conclusions attribution-bound, and flagged the new material as dispute-mapping and follow-up research leads rather than closure.
+
+## [2026-05-05] query | Pediatric vaccine placebo-control trial audit
+
+Used Lens scholarly search and PubMed abstracts to check the 18 trial records cited by the CHD pediatric vaccine placebo-control source. Added a trial-record audit page, linked it from the CHD source page, and updated placebo-control and endpoint concept pages to distinguish active comparators, placebo-labeled comparators, and unresolved placebo composition.

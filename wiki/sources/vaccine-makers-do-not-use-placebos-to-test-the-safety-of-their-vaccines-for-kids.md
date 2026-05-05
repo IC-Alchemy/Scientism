@@ -4,7 +4,7 @@ category: source
 summary: Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos.
 tags: [vaccines, placebo-controls, pediatric-trials, safety]
 source_path: raw/Vaccine makers do not use placebos to test the safety of their vaccines for kids.md
-updated: 2026-05-04
+updated: 2026-05-05
 claim_status: disputed
 claim_type: methodological
 source_tier: tier-3
@@ -37,8 +37,14 @@ This raw file is an advocacy article that compiles examples of pediatric vaccine
 - The article itself should not be treated as a final authority on what each cited trial proves.
 - This source is most useful when paired with [[concepts/placebo-controls]], [[concepts/clinical-endpoints]], and direct review of the named studies.
 
+## Direct trial-record follow-up
+[[sources/pediatric-vaccine-trial-records-placebo-control-audit]] checked the 18 PubMed-indexed trial records cited in this source using Lens and PubMed abstracts. That audit found many active-comparator trials, several placebo-labeled trials where inertness is not visible from the abstract, and at least one separate pediatric influenza vaccine trial with saline and excipient placebo arms.
+
+This means the strongest preserved claim is trial-specific rather than universal: the comparator and endpoint must be named before a vaccine safety claim is treated as experimentally supported.
+
 ## Related
 - [[concepts/placebo-controls]]
 - [[concepts/clinical-endpoints]]
 - [[concepts/surrogate-endpoints]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
+- [[sources/pediatric-vaccine-trial-records-placebo-control-audit]]

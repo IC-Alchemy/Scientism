@@ -1,6 +1,6 @@
 # Index — Scientism
 
-_Auto-generated 2026-05-04 • 52 pages_
+_Auto-generated 2026-05-05 • 53 pages_
 
 > Content-oriented catalog of every page in `wiki/`. Updated by
 > `scripts/update_index.py` or during `/wiki-ingest`. Answer queries
@@ -17,11 +17,11 @@ _Auto-generated 2026-05-04 • 52 pages_
 ## Concept (10)
 
 - [[concepts/cell-culture|Cell Culture]] — Cell culture is a laboratory method whose evidentiary meaning depends on controls, media conditions, and the specific endpoint being claimed. _(4 sources · upd 2026-05-04)_
-- [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(2 sources · upd 2026-05-04)_
+- [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(3 sources · upd 2026-05-05)_
 - [[concepts/empirical-evidence|Empirical Evidence]] — Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility. _(5 sources · upd 2026-05-04)_
 - [[concepts/germ-theory|Germ Theory]] — A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved. _(11 sources · upd 2026-05-04)_
 - [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(13 sources · upd 2026-05-04)_
-- [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(2 sources · upd 2026-05-04)_
+- [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(3 sources · upd 2026-05-05)_
 - [[concepts/replication-crisis|Replication Crisis]] — Exploratory concept page for reported reproducibility problems; this vault still needs direct replication-study anchors. _(2 sources · upd 2026-05-04)_
 - [[concepts/scientism|Scientism]] — In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports. _(6 sources · upd 2026-05-04)_
 - [[concepts/surrogate-endpoints|Surrogate Endpoints]] — Trial outcomes that stand in for broader clinical benefit, such as infection counts, biomarkers, or immune response measures rather than overall health outcomes. _(2 sources · upd 2026-05-04)_
@@ -37,7 +37,7 @@ _Auto-generated 2026-05-04 • 52 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(3 sources · upd 2026-05-04)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(8 sources · upd 2026-05-04)_
 
-## Source (29)
+## Source (30)
 
 - [[sources/aids|AIDS]] — Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation arguments, especially drug-toxicity and AZT-toxicity claims. _(upd 2026-05-04)_
 - [[sources/an-inquiry-into-the-logical-basis-of-the-germ-theory|An Inquiry into the Logical Basis of the Germ Theory]] — Tier 3 commentary arguing that germ theory rests on invalid causal reasoning and institutional overreach. _(1 sources · upd 2026-05-04)_
@@ -56,6 +56,7 @@ _Auto-generated 2026-05-04 • 52 pages_
 - [[sources/louis-pasteurs-unethical-rabies-fraud|Louis Pasteur's Unethical Rabies Fraud]] — A Tier 3 polemical critique that argues Pasteur's rabies work involved misconduct and should be read with strong caution. _(1 sources · upd 2026-05-04)_
 - [[sources/magmax-pathogen-rna-kit|MagMAX Pathogen RNA Kit]] — Product-link note identifying an RNA extraction kit referenced in the H5N1 sequencing workflow. _(upd 2026-05-04)_
 - [[sources/pasteurs-researches-on-rabies|Pasteur's Researches on Rabies]] — A pointer to an 1886 BMJ report on Pasteur's rabies work, currently represented in the raw vault as a short bibliographic note rather than a developed summary. _(1 sources · upd 2026-05-04)_
+- [[sources/pediatric-vaccine-trial-records-placebo-control-audit|Pediatric Vaccine Trial Records Placebo-Control Audit]] — Abstract-level audit of vaccine clinical-trial records cited by the CHD placebo-control article, focused on comparator type and endpoint scope. _(20 sources · upd 2026-05-05)_
 - [[sources/polio|Polio]] — Sparse note linking Scobey's poisoning-based interpretation of poliomyelitis and a set of historical vaccine advertisements. _(upd 2026-05-04)_
 - [[sources/profitable-sacred-cows-that-are-clearly-wrong-but-profitable-continue-getting-fu|Profitable Sacred Cows That Are Clearly Wrong but Profitable Continue Getting Fu]] — AI-assisted note speculating about how vaccination overcounts and harm undercounts could distort safety and effectiveness analysis. _(upd 2026-05-04)_
 - [[sources/rabies-the-virus-of-fear|Rabies: The Virus of Fear]] — ViroLIEgy essay arguing that rabies history, diagnosis, and vaccination are built on fear, weak attribution, and disputed laboratory methods. _(upd 2026-05-04)_
@@ -66,7 +67,7 @@ _Auto-generated 2026-05-04 • 52 pages_
 - [[sources/the-infectious-myth-busted-part-6-the-germ-duel|The Infectious Myth Busted Part 6: The Germ Duel]] — A Tier 3 polemical essay that argues failed self-experiments and challenge anecdotes undermine germ-theory claims, while also shifting across very different diseases and study designs. _(1 sources · upd 2026-05-04)_
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science|The Virus Cult - A Religion Built on Fear, Not Science]] — Polemical essay that packages multiple methodological criticisms of virology, public-health policy, and no-virus arguments into a single Tier 3 commentary source. _(1 sources · upd 2026-05-04)_
 - [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine|The Virus Paradigm - Assumptions, Lies, and the Foundation of Modern Medicine]] — Long-form no-virus commentary built around arguments about isolation, controls, FOI responses, and the difference between observed effects and broader doctrine. _(1 sources · upd 2026-05-04)_
-- [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids|Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids]] — Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos. _(upd 2026-05-04)_
+- [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids|Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids]] — Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos. _(upd 2026-05-05)_
 - [[sources/viroliegy-101-the-scientific-method|ViroLIEgy 101: The Scientific Method]] — Tier 3 commentary arguing that a fixed scientific method is the boundary between science and pseudoscience, with virology presented as a failing case. _(1 sources · upd 2026-05-04)_
 
 ## Comparison (1)
