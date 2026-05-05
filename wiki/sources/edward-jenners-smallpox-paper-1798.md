@@ -36,6 +36,14 @@ This raw source is a modern commentary page by ViroLIEgy built around long excer
 - He also described inoculation experiments, including transfer of material from cowpox lesions into human subjects and later smallpox inoculation challenges.
 - The best-known case in the raw source is James Phipps, who was inoculated with material from Sarah Nelmes and later challenged with variolous matter.
 
+## Reported case details needing direct verification
+- Method: cowpox material from Sarah Nelmes was reportedly inoculated into James Phipps, followed by later variolous challenge.
+- Subject: James Phipps, as reported in the source excerpts.
+- Comparator or control: no formal comparator is extracted in this wiki page.
+- Endpoint: whether the later variolous challenge produced smallpox symptoms.
+- Reported result: the source presents the case as apparent protection in that reported individual.
+- Limitation: the current wiki page is based on Tier 3 commentary around excerpts, not a direct full review of Jenner's primary text.
+
 ## What question the experiment was designed to answer
 - Jenner's core experimental question was whether prior cowpox exposure could protect a person from subsequent smallpox inoculation or exposure.
 - Parts of Jenner's broader theory also tried to explain where cowpox came from, including the horse-grease pathway.

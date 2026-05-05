@@ -13,6 +13,19 @@ This vault studies scientism as an epistemic and historical problem: where scien
 
 The vault does not treat consensus or peer review as valid markers for truth. Instead the focus is upon the scientific method.  Replication is the strongest possible marker for truth.  Experimental methods and experimental results are valid, while the authors own personal interpretation is ignored in all claims made in the vault.
 
+## Evidence standard
+
+Only direct scientific evidence counts as evidence in this vault.
+
+- Valid evidence means a named experiment, trial, observational study, systematic review of underlying studies, or direct historical document that preserves the experiment, method, endpoint, and result.
+- Invalid evidence for factual support includes expert opinion, institutional guidance, consensus statements, policy pages, encyclopedic summaries, textbooks, interviews, essays, debate documents, and authority claims that do not themselves present the underlying experiment in enough detail to inspect.
+- Agency, university, and journal summary pages may be used for chronology, definitions, bibliography leads, or policy history, but not as proof of a scientific claim.
+- Primary papers are preferred over summaries about those papers.
+- A claim is not `supported` unless the wiki names the relevant experiment or study design, the endpoint, and what the result is actually capable of answering.
+- If the page only has commentary, authority summaries, or argument by citation count, mark the claim `exploratory`, `disputed`, or `unresolved`.
+- Appeal to authority is not evidence. "CDC says", "NIH says", "WHO says", "the experts agree", and similar phrasing cannot stand in for experiment-based support.
+- Replication outweighs prestige, consensus, and publication venue.
+
 ## The three layers
 
 ```text
@@ -57,6 +70,11 @@ wiki/
 
 `raw/Scientism.md` is a `Tier 3` source. It is an agenda-setting conversation with transcription noise and contested claims. It can seed pages and open questions, but it cannot by itself justify factual conclusions.
 
+Notes on triage:
+
+- A government, medical, university, or journal website summary is not automatically `Tier 1` or `Tier 2`. If it is summarizing science rather than presenting the study itself, treat it as commentary or bibliography aid.
+- A source may be historically primary but scientifically weak. Keep historical-document value separate from experimental-evidence value.
+
 ## Page frontmatter
 
 Every wiki page must have:
@@ -96,9 +114,23 @@ When the user points to a file in `raw/`:
 8. Update `wiki/index.md`.
 9. Append a log entry to `wiki/log.md`.
 
+For every scientific claim that is preserved in the wiki, name the following whenever possible:
+
+- study type
+- sample or subject type
+- intervention or exposure
+- comparator or control
+- endpoint
+- result
+- main limitation
+
+If those fields cannot be named from the source in hand, do not treat the claim as experimentally supported.
+
 For medical, biological, or public-health claims:
 
 - This vault is for research and analysis, not medical advice.
+- Do not rely on medical guidance pages, public-health summaries, or expert FAQ pages as scientific proof.
+- If no direct experiment is available, say that the evidence standard has not been met.
 
 ## Query
 
@@ -114,6 +146,13 @@ When answering questions from this vault:
 5. If evidence is thin, say so directly.
 6. File back only citation-backed answers that improve the wiki.
 
+Additional query rules:
+
+- Do not present official summaries, expert consensus, or institutional statements as evidence.
+- If asked a scientific question, answer from direct experiments or explicit absence of direct experiments.
+- If the only material available is commentary, policy, or authority summary, say that the vault does not yet have experiment-grade support.
+- When using a systematic review, still name the underlying experimental question and endpoint rather than treating the review's conclusion as self-justifying.
+
 ## Lint
 
 Periodic checks should look for:
@@ -127,6 +166,8 @@ Periodic checks should look for:
 - pages that discuss endpoints without naming the endpoint
 - pages that mention an inferential leap without describing the underlying experiment
 - missing cross-links between supporting and critical views on disputed topics
+- claims marked `supported` but backed only by authority summaries, policy guidance, or expert statements
+- pages that cite conclusions without naming the experiment, study design, or endpoint
 
 ## Cross-reference rules
 
@@ -158,6 +199,8 @@ Prioritize:
 6. Name the endpoint when discussing trial design or outcome claims.
 7. Do not produce medical advice from this vault.
 8. Always explain what question the experiment is capable of answering 
+9. Do not treat authority summaries or expert statements as scientific evidence.
+10. If no direct experiment is in hand, say "We do not know" or mark the claim unresolved.
 
 ## Log format
 

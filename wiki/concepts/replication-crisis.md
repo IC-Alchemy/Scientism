@@ -1,7 +1,7 @@
 ---
 title: Replication Crisis
 category: concept
-summary: The replication crisis is a family of problems in which published findings prove difficult to reproduce reliably across repeated studies.
+summary: Exploratory concept page for reported reproducibility problems; this vault still needs direct replication-study anchors.
 tags: [replication, reproducibility, methodology]
 sources: 2
 updated: 2026-05-04
@@ -12,7 +12,7 @@ claim_type: empirical
 # Replication Crisis
 
 ## Definition
-The replication crisis concerns whether reported findings can be reproduced when similar methods are used again. In this vault, it matters because weak reproducibility narrows what can be claimed from published results.
+The replication crisis concerns whether reported findings can be reproduced when similar methods are used again. In this vault, the page is still exploratory because it has not yet ingested direct replication projects with field, method, endpoint, replication result, and limitation.
 
 ## Why it matters here
 - [[sources/scientism-conversation-may-1-2026]] treats replication failure as one route into a wider critique of scientific authority.
@@ -28,7 +28,7 @@ The replication crisis concerns whether reported findings can be reproduced when
 Replication alone does not resolve whether a broader interpretation is justified. A result may replicate and still support an excessive conclusion. That is why [[concepts/inferential-leap]] remains separate.
 
 ## What this wiki currently concludes
-- Replication is one of the strongest markers of reliable experimental findings.
+- Replication is this vault's preferred evidence standard for reliable experimental findings.
 - The vault still needs stronger anchor sources for this page than it currently has.
 - Until then, this concept should be used cautiously and not overloaded with field-wide quantitative claims.
 

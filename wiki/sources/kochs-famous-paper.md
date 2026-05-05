@@ -31,9 +31,9 @@ This raw file is largely a historical text attributed to Robert Koch on methods 
 - He also warns against confusing normal flora, cell artifacts, or staining artifacts with pathogenic organisms.
 
 ## What experiment or observation is involved
-- The paper describes methods for staining and detecting organisms in tissue and fluids.
-- It discusses continuous culture, comparative microscopy, pathology findings, and experimental transfer between hosts.
-- It also discusses how different animal species can respond differently to the same organism.
+- No specific experiment/result pair has been extracted here yet.
+- The current page can only summarize Koch's stated methodological concerns about pure culture, microscopy, host selection, tissue evidence, pathogenicity, and infectiousness.
+- Any anthrax-specific critique needs a named experiment with material, subject, comparator, endpoint, result, and limitation.
 
 ## What question the paper was designed to answer
 - The paper asks how investigators can reliably identify whether a microorganism is pathogenic and whether it is transmissible.

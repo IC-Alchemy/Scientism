@@ -15,7 +15,7 @@ claim_type: medical
 A placebo control is a comparator intended to help interpret the effects of an intervention. In practice, the key distinction is often between an inert control and an active comparator that may have biological effects of its own.
 
 ## Why this matters in this vault
-[[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] repeatedly argues that vaccine trials often compare one active product against another active product or adjuvanted control rather than an inert comparator.
+[[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] repeatedly argues that vaccine trials often compare one active product against another active product or adjuvanted control rather than an inert comparator. The vault has not yet verified the named trials directly.
 
 [[sources/scientism-conversation-may-1-2026]] treats this as part of a broader methodological concern: whether trial design supports the strength of the conclusion later drawn from it.
 
@@ -27,6 +27,7 @@ A placebo control is a comparator intended to help interpret the effects of an i
 - An active-comparator trial can answer comparative questions between the tested interventions.
 - An inert-placebo trial can better isolate some kinds of absolute treatment effect within the study design.
 - Neither design alone settles every question about long-term net health benefit, background risk, or rare adverse events.
+- Trial-specific safety claims remain unresolved until the wiki extracts named trials with intervention, comparator, endpoint, result, and limitation.
 
 ## What this wiki currently concludes
 - The control-group question is a real design issue, not a rhetorical side note.

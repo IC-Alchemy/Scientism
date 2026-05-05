@@ -35,6 +35,13 @@ It is not designed to answer larger biological questions such as whether a downs
 - It also illustrates [[concepts/inferential-leap]]: even a sound measurement paper does not automatically justify unrelated claims about biological meaning.
 
 ## Methodology and evidence notes
+- Study type: primary methodology study of sequencing error patterns.
+- Sample or subject type: defined mock communities and single-species samples.
+- Intervention or exposure: different library-preparation methods, primer choices, sequencing runs, trimming, error correction, and read-overlap handling.
+- Comparator or control: known input compositions and alternative preparation/correction conditions.
+- Endpoint: observed substitution and indel error rates and structured error profiles in MiSeq amplicon data.
+- Result: error profiles varied by preparation and primer choice, and correction strategies reduced observed error rates.
+- Main limitation: the result applies to the tested sequencing setups and does not settle downstream biological or disease-causation claims.
 - The study uses defined mock communities and repeated technical conditions, which makes it much stronger than the commentary-heavy sources elsewhere in this slice.
 - Its main limitation is scope: it addresses sequencing artifacts in specific experimental contexts, not every possible sequencing workflow.
 

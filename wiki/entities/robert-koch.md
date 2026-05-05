@@ -24,7 +24,8 @@ The page matters because it anchors the vault's interest in how claims of causat
 
 ## What this wiki currently concludes
 - Koch is central here less as a symbol than as a methodological benchmark.
-- The current sources support the claim that his own framework was more technically specific than simplified textbook retellings often suggest.
+- [[sources/kochs-famous-paper]] can be used for the narrower claim that Koch's text contains technically specific methodological concerns around culture, microscopy, host selection, tissue evidence, pathogenicity, and infectiousness.
+- Claims about simplified textbook retellings remain unresolved until actual textbook or secondary-history sources are ingested.
 - The current sources do not yet justify either a full validation or a full dismissal of Koch-centered germ-theory history; the dispute remains source-specific.
 
 ## Related

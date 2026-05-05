@@ -6,7 +6,7 @@ tags: [sequencing, lab-methods, rna-extraction]
 source_path: raw/MagMAX pathogen RNA kit.md
 updated: 2026-05-04
 claim_status: exploratory
-claim_type: empirical
+claim_type: methodological
 source_tier: tier-3
 ---
 
@@ -27,6 +27,7 @@ This raw file is only a product reference with an image and a Thermo Fisher link
 ## What this wiki currently concludes
 - On its own, this file is tangential to the vault's scientism focus.
 - Its relevance is instrumental rather than argumentative: it names one component of a reported lab workflow.
+- It cannot support extraction-performance claims unless specifications or validation studies are ingested directly.
 
 ## Related
 - [[sources/h5n1]]

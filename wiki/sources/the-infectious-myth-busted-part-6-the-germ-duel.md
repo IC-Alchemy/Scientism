@@ -17,7 +17,7 @@ source_tier: tier-3
 # The Infectious Myth Busted Part 6: The Germ Duel
 
 ## TL;DR
-This raw source is a polemical essay that uses self-experimentation stories, challenge rhetoric, and selected failed transmission studies to argue against infectious-disease causation claims. It raises valid questions about study design and burden of proof, but it also jumps between diseases, routes of exposure, and evidentiary standards.
+This raw source is a polemical essay that uses self-experimentation stories, challenge rhetoric, and selected failed transmission studies to argue against infectious-disease causation claims. It raises questions worth checking against the cited studies about study design and burden of proof, but it also jumps between diseases, routes of exposure, and evidentiary standards.
 
 ## Source type and scope
 - Tier 3 argumentative essay.

@@ -5,6 +5,7 @@ summary: <one-line summary — what this comparison is about>
 tags: [comparison]
 sources: 0
 updated: <YYYY-MM-DD>
+claim_status: exploratory
 ---
 
 # <A> vs <B>
@@ -24,11 +25,12 @@ Common ground. Same problem space? Same goals?
 - [[sources/yyy]] — pro-<B>
 - [[sources/zzz]] — neutral / both
 
-## When to prefer <A>
-- Context where A wins
+## What direct evidence can answer
+- Which experiment, study, or historical document can distinguish the two sides?
+- What endpoint would decide the comparison?
 
-## When to prefer <B>
-- Context where B wins
+## What remains unresolved
+- Claims that are still based on commentary, expert summary, or incomplete evidence
 
 ## Open questions
 - Unresolved disagreements

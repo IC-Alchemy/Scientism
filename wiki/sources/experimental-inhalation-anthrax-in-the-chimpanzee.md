@@ -17,7 +17,7 @@ source_tier: tier-1
 # Experimental Inhalation Anthrax in the Chimpanzee
 
 ## TL;DR
-The raw vault entry is only a stub that points to a 1959 primary paper and embedded images. The underlying paper appears to be a controlled animal study on inhalational anthrax in chimpanzees, which is relevant because it examines experimentally induced disease under defined exposure conditions rather than relying on historical argument alone.
+The raw vault entry is only a stub that points to a 1959 primary paper and embedded images. The underlying paper appears relevant to inhalational anthrax in chimpanzees, but method, dose or exposure, comparator, endpoint, and result have not yet been extracted.
 
 > Note: The raw note contains very little text. This summary is therefore a conservative first-pass based on the source pointer and article metadata, not a full extraction of the paper's methods and results.
 
@@ -32,8 +32,8 @@ The raw vault entry is only a stub that points to a 1959 primary paper and embed
 - How well the animal model maps onto inhalational anthrax claims.
 
 ## What experiment was designed to answer
-- The experiment was designed to test whether a defined inhalational exposure could produce anthrax disease in a nonhuman primate model.
-- That kind of design can answer a narrower question about induced disease under the study conditions.
+- The likely experimental question is whether inhalational exposure could produce anthrax disease in a nonhuman primate model.
+- The vault cannot yet state the dose or exposure, comparator, endpoint, result, or limitation from the current stub.
 - It does not, by itself, resolve every later policy, biodefense, or general germ-theory claim attached to anthrax.
 
 ## What this wiki currently concludes

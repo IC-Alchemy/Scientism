@@ -13,19 +13,29 @@ updated: <YYYY-MM-DD>
 # <Source Title>
 
 ## TL;DR
-Two sentences max. What did they do, what did they find / argue.
+Two sentences max. State whether this is a direct study, historical experimental document, review, commentary, or research lead.
 
-## Key claims
-1. Claim with page/section pointer if applicable
-2. ...
+## What the source claims
+- Attributed claim with page/section pointer if applicable
 
-## Methods (if applicable)
-How the work was done. Data, model, training, evaluation. For non-research sources, describe the approach/argument structure.
+## Direct evidence present
+Use this section only for direct experiments, studies, systematic reviews of underlying studies, or historical experimental documents.
 
-## Evidence cited
-- Figure X shows ...
-- Table Y ...
-- Quote: "..." (p. NN)
+- Study type:
+- Sample or subject type:
+- Intervention or exposure:
+- Comparator or control:
+- Endpoint:
+- Result:
+- Main limitation:
+
+If these fields cannot be filled from the source, say: "No experiment-grade support is present in this source."
+
+## What the source can answer
+Describe the narrow question the source can answer. Do not treat expert opinion, institutional guidance, or consensus language as scientific evidence.
+
+## What this wiki can conclude
+State only conclusions supported by direct evidence named above. Otherwise mark the claim exploratory, disputed, or unresolved.
 
 ## Surprises / contradictions
 - Where this source conflicts with [[sources/other]] or [[concepts/xxx]]

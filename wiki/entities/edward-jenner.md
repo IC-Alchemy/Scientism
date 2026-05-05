@@ -20,7 +20,8 @@ Jenner matters here because later medical history often treats his work as a cle
 
 ## What this wiki currently concludes
 - Jenner's reported inoculation cases are historically central and should be read directly where possible.
-- The current vault evidence supports a narrower statement than later legend: Jenner reported apparent protection after cowpox inoculation in at least some cases, while some theoretical and observational aspects remained uncertain or were later rejected.
+- The current vault can only preserve a narrow reported-case lead: Jenner's account describes cowpox-material inoculation, later variolous challenge, and an observed non-smallpox response in at least some cases.
+- The limitation is significant: the current wiki source is Tier 3 commentary around excerpts, not a direct full review of Jenner's 1798 text or later historical analysis.
 - We do not yet know, from this first-pass ingest alone, how a balanced historical review would weigh the full record.
 
 ## Related

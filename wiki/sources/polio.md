@@ -1,7 +1,7 @@
 ---
 title: Polio
 category: source
-summary: Sparse note linking a poisoning-based interpretation of poliomyelitis and a set of historical vaccine advertisements.
+summary: Sparse note linking Scobey's poisoning-based interpretation of poliomyelitis and a set of historical vaccine advertisements.
 tags: [polio, propaganda, vaccination, history]
 source_path: raw/Polio.md
 updated: 2026-05-04
@@ -23,7 +23,7 @@ This raw file is a minimal note rather than a developed argument. It links one P
 - Limitation: the note contains almost no analytic text and does not explain what claims the linked PDF or images are meant to support
 
 ## What the source appears to claim
-- The linked PDF title suggests a poisoning-based interpretation of poliomyelitis.
+- The linked PDF points to [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]], which argues for a poisoning-based interpretation of poliomyelitis.
 - The advertisement images suggest interest in vaccine propaganda and public persuasion rather than only laboratory evidence.
 
 ## What question the underlying material may be capable of answering
@@ -34,6 +34,10 @@ This raw file is a minimal note rather than a developed argument. It links one P
 ## What this wiki currently concludes
 - This file is best treated as a pointer to two separate research tracks: causal critique and propaganda history.
 - It is too thin to support substantive conclusions in the current wiki.
+
+## Related
+- [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]]
+- [[concepts/inferential-leap]]
 
 ## Open questions
 - What exactly does the linked PDF argue, and what evidence level does it use?

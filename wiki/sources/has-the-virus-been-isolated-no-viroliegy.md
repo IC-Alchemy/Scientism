@@ -23,7 +23,7 @@ HTML-only commentary page from ViroLIEgy.
 - Given the surrounding outlet context, the article likely advances a methodological critique of virology centered on isolation standards and cell-culture interpretation.
 
 ## What question the source is capable of answering
-At this stage, it can only answer that ViroLIEgy presents an explicit no-isolation claim.
+
 
 It cannot yet support any detailed conclusions about the underlying evidence, because the article body was not normalized into a readable markdown source during this pass.
 

@@ -17,7 +17,7 @@ source_tier: tier-3
 # Diagnosis: Smallpox? - ViroLIEgy
 
 ## TL;DR
-This raw source is a modern commentary arguing that historical smallpox diagnosis was often confounded with measles, chickenpox, monkeypox, syphilis, drug eruptions, and other rash illnesses. Its strongest usable point is narrower than its conclusion: clinical diagnosis alone was often difficult, and laboratory confirmation later became important.
+This raw source is a modern commentary arguing that historical smallpox diagnosis was often confounded with measles, chickenpox, monkeypox, syphilis, drug eruptions, and other rash illnesses. It is a research lead on diagnostic ambiguity, not direct support for a settled conclusion about historical diagnosis.
 
 > Warning: The source moves from genuine diagnostic ambiguity to a much broader claim that several named diseases are really one process. That broader conclusion is not established here.
 
@@ -43,7 +43,7 @@ This raw source is a modern commentary arguing that historical smallpox diagnosi
 
 ## What this wiki currently concludes
 - This source is useful as a caution against retrospective overconfidence in historical disease labeling.
-- Its broader identity claim should remain unresolved unless supported by stronger primary and secondary evidence.
+- Its broader identity claim should remain unresolved unless supported by direct clinical records, surveillance studies, or systematic reviews with named endpoints.
 - Within this vault, the page mainly sharpens the distinction between clinical appearance, laboratory identification, and broader etiological conclusions.
 
 ## Connections

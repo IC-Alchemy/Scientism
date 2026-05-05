@@ -16,6 +16,7 @@ claim_type: historical
 
 ## Why it matters
 This page matters because Pasteur is a concrete historical case where the vault can test [[concepts/inferential-leap]] against named experiments, named endpoints, and competing historical interpretations.
+The current vault has not yet ingested direct Pasteur fermentation sources, so fermentation claims should not carry evidentiary weight here.
 
 ## What the sources say
 - [[sources/pasteurs-researches-on-rabies]] points to a near-contemporary BMJ report on Pasteur's rabies treatment program, but the current raw note is only a stub and still needs direct extraction.
@@ -24,9 +25,10 @@ This page matters because Pasteur is a concrete historical case where the vault 
 - [[sources/the-germ-hypothesis-part-2]] uses Pasteur mainly as background contrast while shifting focus to Koch's role in later germ-theory proof claims.
 
 ## What this wiki currently concludes
-- Pasteur is a major disputed figure in the vault, but the current owned source set supports caution more than closure.
-- The strongest immediate conclusion is methodological: his rabies work should be evaluated by the actual treatment sequence, case selection, and reported outcomes, not by later hero or villain narratives alone.
-- We do not yet know, from the ingested material here, whether the strongest revisionist accusations against Pasteur hold up under direct primary-source review.
+- Pasteur remains an unresolved case in this vault.
+- Current Pasteur-related pages mostly concern rabies-history dispute leads, and the rabies source base is still too thin for direct experiment-level conclusions.
+- Any future Pasteur claim should name the experiment, subject or material, comparator, endpoint, result, and limitation before it is used in synthesis.
+
 
 ## Related
 - [[concepts/germ-theory]]

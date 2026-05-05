@@ -5,6 +5,7 @@ summary: <one-line summary — what this entity is and why it matters>
 tags: []
 sources: 0
 updated: <YYYY-MM-DD>
+claim_status: exploratory
 ---
 
 # <Entity Name>
@@ -15,9 +16,13 @@ One-paragraph definition. What kind of entity (person, org, place, product), fou
 ## Why it matters
 Why this entity shows up across sources. What role does it play in the narrative of this wiki?
 
-## Key facts
+## Historical-document facts
 - Fact 1 — cited from [[sources/xxx]]
-- Fact 2 — cited from [[sources/yyy]]
+
+## Scientific claims involving this entity
+| Claim | Status | Source | Method / endpoint / result | Limitation |
+|---|---|---|---|---|
+| Claim text | exploratory/disputed/supported/unresolved | [[sources/xxx]] | Required for scientific claims | ... |
 
 ## Related
 - Related [[entities/other]]

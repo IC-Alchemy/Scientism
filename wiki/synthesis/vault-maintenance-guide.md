@@ -5,7 +5,7 @@ summary: Operating guide for maintaining this Obsidian research vault without bl
 tags: [meta, maintenance, workflow, obsidian]
 sources: 3
 updated: 2026-05-04
-claim_status: supported
+claim_status: exploratory
 claim_type: methodological
 ---
 
@@ -31,6 +31,8 @@ This page explains how to maintain the Scientism vault as a research wiki rather
 - `Tier 3`: transcripts, essays, clips, AI summaries, advocacy material, rough notes.
 
 The maintenance rule is not to discard weak sources, but to file them honestly. Tier 3 material can open questions, map disputes, and suggest follow-up ingestion. It cannot settle high-stakes conclusions on its own.
+
+Historical documents can be Tier 1 for historical claims while still being weak or unusable as biomedical evidence. Always name which evidentiary role a source is playing.
 
 ## Ingest workflow
 1. Read the source in `raw/` directly.
@@ -67,6 +69,9 @@ Before considering the vault healthy, also scan for:
 - medical or historical claims backed only by Tier 3 material
 - endpoint discussions that do not name the endpoint
 - inferential-leap discussions that do not describe the underlying experiment
+- authority-as-evidence phrasing where an agency, expert group, or consensus statement is used as proof
+- `claim_status: supported` pages that do not name direct method, endpoint, result, and limitation
+- scientific claims backed only by institutional summaries, guidance pages, policy pages, or expert statements
 
 ## Local scripts
 - `python scripts/update_index.py --write --date YYYY-MM-DD` regenerates `wiki/index.md` from page frontmatter.
@@ -77,6 +82,7 @@ Before considering the vault healthy, also scan for:
 - Thin notes are labeled as thin notes.
 - Out-of-scope material is preserved for traceability but marked as out of scope.
 - Stronger primary sources are preferred when advancing a conclusion.
+- Direct experiments, studies, and checked historical experimental documents outrank summaries about them.
 - Medical and historical disputes remain explicitly unresolved until better sourcing exists.
 
 ## Current maintenance priorities

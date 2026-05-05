@@ -28,10 +28,10 @@ This raw source is a strongly polemical critique of Pasteur's character and rabi
 
 ## What the source claims
 - ViroLIEgy argues that Pasteur's rabies program was ethically and scientifically compromised.
-- The page treats problems in character, prestige-seeking, and historical narrative as evidence relevant to evaluating the science.
+- The page treats problems in character, prestige-seeking, and historical narrative as part of its rhetoric, but those are not direct evidence about rabies experiments.
 - It implies that Pasteur's public reputation outran what his rabies evidence justified.
 
-## What evidence or observation is involved
+## What material is cited
 - The raw page opens with moral and character framing rather than a tightly specified experimental endpoint.
 - It cites critical quotations about Pasteur as a person.
 - The article likely intends to connect those judgments to specific rabies episodes, but the vault should separate those claims from any direct evidence about inoculation outcomes.

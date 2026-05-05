@@ -37,6 +37,9 @@ This raw file is a briefing note about Peter Duesberg's book *Inventing the AIDS
 - The note does not justify concluding that HIV is not causal, or that drug toxicity alone explains AIDS.
 - Any strong conclusion here requires direct engagement with the cited book and higher-grade primary or review literature.
 
+## Related source in this vault
+- [[sources/congressman-questions-aids-in-letter]] documents how closely related dissent claims were being framed in congressional correspondence in 1995.
+
 ## Open questions
 - Which specific primary studies are most often used to support the drug-toxicity and AZT-toxicity arguments?
 - Which claims in this debate are empirical, and which are reinterpretations of epidemiology?

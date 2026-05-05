@@ -3,7 +3,7 @@ title: Source Corpus Triage
 category: synthesis
 summary: First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value.
 tags: [triage, evidence-quality, source-map]
-sources: 28
+sources: 33
 updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
@@ -14,15 +14,16 @@ claim_type: methodological
 ## Why this page exists
 The raw corpus is mixed. Some files are direct papers or historical texts, some are commentary on those materials, and some are only tangentially related to the vault. This page keeps that distinction visible so future synthesis does not over-read weak inputs.
 
-## Stronger anchors currently in the wiki
-- [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] - clear Tier 1 methodology paper about measurement error and experimental design limits
-- [[sources/kochs-famous-paper]] - useful historical method anchor, though still worth checking against a stable primary edition or translation
-- [[sources/experimental-inhalation-anthrax-in-the-chimpanzee]] - points toward direct experimental literature, but the current raw note is still thin
+## Direct-study or historical-document leads
+- [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] - direct methodology paper; method, endpoint, and limitation are summarized on its source page.
+- [[sources/kochs-famous-paper]] - historical method anchor; use only for what the text itself records until checked against a stable edition or translation.
+- [[sources/experimental-inhalation-anthrax-in-the-chimpanzee]] - direct experimental-literature lead, but the current raw note remains too thin for conclusion-level use.
 
 ## Commentary-heavy clusters
-- Germ-theory revisionist cluster: [[sources/the-germ-hypothesis-part-2]], [[sources/the-infectious-myth-busted-part-6-the-germ-duel]], [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]], [[sources/louis-pasteurs-unethical-rabies-fraud]]
-- Virology-critique cluster: [[sources/has-the-virus-been-isolated-no-viroliegy]], [[sources/the-virus-cult-a-religion-built-on-fear-not-science]], [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]], [[sources/cell-culture-viroliegy]], [[sources/rabies-the-virus-of-fear]]
-- Clinical-trial critique cluster: [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]], [[sources/polio]], [[sources/aids]]
+- Germ-theory revisionist cluster: [[sources/the-germ-hypothesis-part-2]], [[sources/an-inquiry-into-the-logical-basis-of-the-germ-theory]], [[sources/the-infectious-myth-busted-part-6-the-germ-duel]], [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]], [[sources/louis-pasteurs-unethical-rabies-fraud]]
+- Virology-critique cluster: [[sources/has-the-virus-been-isolated-no-viroliegy]], [[sources/the-virus-cult-a-religion-built-on-fear-not-science]], [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]], [[sources/cell-culture-viroliegy]], [[sources/rabies-the-virus-of-fear]], [[sources/viroliegy-101-the-scientific-method]]
+- Historical transmission-dispute cluster: [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918]]
+- Clinical-trial and causation-dispute cluster: [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]], [[sources/polio]], [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]], [[sources/aids]], [[sources/congressman-questions-aids-in-letter]]
 
 ## Thin or indirect notes
 - [[sources/pasteurs-researches-on-rabies]] - currently more of a pointer note than a fully ingested historical document
@@ -34,8 +35,10 @@ The raw corpus is mixed. Some files are direct papers or historical texts, some 
 - [[sources/in-case-i-do-not-reach-my-decision-point-or-the-mexico-border-i-am-sending-this]]
 
 ## What the corpus currently supports
-- It supports a structured research program around method, endpoint choice, interpretation, and dispute mapping.
-- It supports the claim that much of the current corpus is commentary-heavy and should not be treated as conclusion-settling evidence.
+- It is adequate for a structured research program around method, endpoint choice, interpretation, and dispute mapping.
+- It documents that much of the current corpus is commentary-heavy and should not be treated as conclusion-settling evidence.
+- It now also includes a small number of primary historical documents whose main value is to document dissent arguments and controversy structure rather than to resolve biomedical causation directly.
+- It also includes several additional Tier 3 commentary pages that are useful because they name specific experiments, proof standards, and logical objections that can later be checked against stronger sources.
 - It supports targeted follow-up ingestion priorities: primary trial documents, primary virology methods papers, stronger replication-crisis papers, and stable historical editions.
 
 ## What the corpus does not currently support
@@ -49,7 +52,8 @@ The raw corpus is mixed. Some files are direct papers or historical texts, some 
 1. Direct primary papers or stable historical editions behind the thin note pages.
 2. Stronger replication-crisis literature to balance the current agenda-setting transcript material.
 3. Review or methods papers that define endpoints, controls, isolation procedures, and sequencing error handling in formal terms.
-4. Paired supporting and critical sources on the same disputed historical episodes.
+4. The primary Rosenau and related influenza reports, read directly rather than through commentary.
+5. Paired supporting and critical sources on the same disputed historical episodes.
 
 ## Related
 - [[synthesis/scientism-research-program-overview]]

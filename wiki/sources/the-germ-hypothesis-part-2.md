@@ -34,13 +34,13 @@ source_tier: tier-3
 
 ## What question the source is capable of answering
 - It can help identify where critics think the historical burden of proof is weakest.
-- It can support the narrower claim that retrospective celebrations of Koch often compress distinct methodological issues into a single success story.
+- It can raise the narrower research question of whether retrospective celebrations of Koch compress distinct methodological issues into a single success story.
 - It cannot, on its own, establish that germ theory as a whole was disproved.
 
 ## What this wiki currently concludes
 - This is one of the more useful Tier 3 critique pages because it points to specific experiments and standards rather than only rhetoric.
 - Its factual claims still need source-by-source checking against primary papers and careful history.
-- Within the vault, it supports an unresolved question: which parts of the later Koch narrative are direct experimental results, and which parts are broader historical interpretation.
+- Within the vault, it raises an unresolved question: which parts of the later Koch narrative are direct experimental results, and which parts are broader historical interpretation.
 
 ## Connections
 - Related to [[sources/kochs-famous-paper]]

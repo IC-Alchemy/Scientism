@@ -5,6 +5,8 @@ summary: <one-line definition>
 tags: []
 sources: 0
 updated: <YYYY-MM-DD>
+claim_status: exploratory
+claim_type: methodological
 ---
 
 # <Concept Name>
@@ -15,9 +17,12 @@ Precise, one-paragraph definition. The canonical form used across your sources.
 ## Origin
 Who proposed it, when, in what work. Link [[entities]] and [[sources]].
 
-## Key claims
-- Claim 1 — cited from [[sources/xxx]]
-- Claim 2 — cited from [[sources/yyy]]
+## Claim register
+| Claim | Status | Source | Method / endpoint / result | Limitation |
+|---|---|---|---|---|
+| Claim 1 | exploratory/disputed/supported/unresolved | [[sources/xxx]] | Required for scientific claims | ... |
+
+Scientific claims require a direct experiment, study, historical experimental document, or systematic review of underlying studies. Otherwise mark them exploratory or unresolved.
 
 ## Contrasts with
 - [[concepts/other]] — see [[comparisons/xxx-vs-other]]

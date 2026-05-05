@@ -5,12 +5,19 @@ summary: <current thesis in one line>
 tags: [overview]
 sources: 0
 updated: <YYYY-MM-DD>
+claim_status: exploratory
+claim_type: methodological
 ---
 
 # <Topic> Overview
 
 ## Thesis
-Two or three sentences capturing the current synthesis across all sources read so far. **Revised** as new sources come in.
+Two or three sentences capturing the current synthesis across all sources read so far. Mark unresolved claims explicitly.
+
+## Evidence limits
+Name what kind of evidence is currently available: direct experiments, observational studies, historical experimental documents, systematic reviews, commentary, or research leads.
+
+Do not use expert summaries, institutional guidance, or consensus statements as scientific support.
 
 ## The landscape
 - Sub-area A — pursued by [[entities/x]], papers [[sources/y]]
@@ -23,8 +30,13 @@ Two or three sentences capturing the current synthesis across all sources read s
 - [[concepts/zzz]] — short note
 
 ## Key sources
-- [[sources/xxx]] — why it matters
+- [[sources/xxx]] — why it matters and whether it has direct method/endpoint/result evidence
 - [[sources/yyy]] — why it matters
+
+## Claim register
+| Claim | Status | Direct source | Method / endpoint / result | Limitation |
+|---|---|---|---|---|
+| Claim text | exploratory/disputed/supported/unresolved | [[sources/xxx]] | ... | ... |
 
 ## Current open problems
 Short list with [[concepts]] and [[sources]] pointers.

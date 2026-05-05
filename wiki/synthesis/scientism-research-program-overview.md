@@ -3,7 +3,7 @@ title: Scientism Research Program Overview
 category: synthesis
 summary: First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki.
 tags: [overview, research-program]
-sources: 28
+sources: 33
 updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
@@ -34,16 +34,21 @@ The raw corpus is now broad enough to map the research program in detail, but no
 
 ## Evidence balance
 - The corpus is now heavily mapped, but most pages still draw from Tier 3 commentary, clippings, transcripts, or advocacy material.
-- The clearest direct empirical anchor currently ingested is [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]], which is useful because it shows how much downstream interpretation depends on upstream measurement reliability.
-- Historical germ-theory coverage is stronger than before because [[sources/kochs-famous-paper]] gives the vault a method-focused primary-source style anchor, even though translation and editorial context still need checking.
+- The clearest direct empirical lead currently ingested is [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]], which names a specific sequencing-method question, endpoint, and limitation on its source page.
+- Historical germ-theory coverage has a better method lead because [[sources/kochs-famous-paper]] gives the vault a primary-source style text to inspect, though translation and editorial context still need checking before using it as conclusion-level support.
+- The newly added ViroLIEgy methodological and historical commentary pages sharpen the distinction between a useful critique of causal overreach and a broader claim that whole disciplines are pseudoscientific.
 - Several medical and virology disputes are now documented as disputes rather than treated as settled findings. This includes pages tied to ViroLIEgy, Mike Stone, and advocacy material about vaccine controls.
+- The new historical dissent nodes on polio and AIDS are useful mainly for mapping how counter-establishment arguments were framed, not for resolving those disputes on their own.
+- The Rosenau influenza page is a good example of why this vault separates experiment from interpretation: a negative transmission result under specific conditions can be historically important without settling the broader theory question attached to it by later commentary.
 
 ## Key source clusters
 - [[sources/scientism-conversation-may-1-2026]] - seed transcript that sets the agenda but does not resolve claims
-- [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] - strongest methodology paper currently in the vault
+- [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] - direct methodology paper; use only for its tested sequencing-error question and endpoint
 - [[sources/kochs-famous-paper]] - historical method anchor for germ-theory questions
 - [[sources/the-germ-hypothesis-part-2]] and [[sources/the-infectious-myth-busted-part-6-the-germ-duel]] - revisionist/commentary readings that raise historical and methodological challenges without settling them
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] - trial-design critique that needs direct source-checking before stronger use
+- [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]] and [[sources/congressman-questions-aids-in-letter]] - historical dissent sources that sharpen the dispute map while remaining insufficient for causal conclusions by themselves
+- [[sources/viroliegy-101-the-scientific-method]], [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918]], and [[sources/an-inquiry-into-the-logical-basis-of-the-germ-theory]] - methodology-heavy and historical-dissent commentary sources that expand the anti-germ-theory and anti-virology argument map without resolving those disputes on their own
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science]] and [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] - dispute-mapping sources for virology criticism, currently too commentary-heavy for firm conclusions
 
 ## Source triage state
@@ -56,6 +61,7 @@ The raw corpus is now broad enough to map the research program in detail, but no
 - Add direct primary papers and systematic reviews for vaccine-trial methodology, placebo controls, and endpoint interpretation
 - Separate classical germ-theory method claims from later doctrinal uses of those claims without collapsing either side into caricature
 - Normalize the virology-method dispute pages around named procedures, controls, and endpoints rather than slogan-level disagreement
+- Pair the Rosenau influenza transmission material and the Leverson/Hurd/Tait-style logic critique with stronger primary or review sources before letting either strand carry synthesis weight
 - Replace thin note pages that mostly point elsewhere with direct ingestion of the underlying papers or documents
 
 ## How this synthesis has changed
