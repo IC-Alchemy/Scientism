@@ -1,0 +1,23 @@
+{
+  "markerEndpoint": "localhost:8000",
+  "pythonEndpoint": "localhost:8001",
+  "createFolder": true,
+  "deleteOriginal": true,
+  "extractContent": "all",
+  "writeMetadata": true,
+  "movePDFtoFolder": true,
+  "createAssetSubfolder": true,
+  "apiEndpoint": "mistralai",
+  "apiKey": "",
+  "datalabApiKey": "",
+  "mistralaiApiKey": "NBjHEMoyy1BmdVqpwLUDZydrN4qdme8V",
+  "langs": "en",
+  "forceOCR": false,
+  "paginate": false,
+  "stripExistingOCR": false,
+  "useLLM": false,
+  "skipCache": false,
+  "imageLimit": 0,
+  "imageMinSize": 0,
+  "deleteFileFromMistralaiAfterConversion": true
+}

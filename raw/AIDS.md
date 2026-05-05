@@ -64,6 +64,6 @@ He presents detailed statistical comparisons of AIDS cases and risk factors acro
 Duesberg's book presents a controversial viewpoint that challenges the mainstream scientific consensus on the cause of AIDS. While his arguments are meticulously presented and backed by research, his conclusions remain disputed by the majority of the scientific community.
 It is crucial to note that this book was published in 1996, and scientific understanding of HIV and AIDS has progressed significantly since then.
 Despite its controversial nature, “Inventing the AIDS Virus” raises important questions about the complexities of AIDS and the need for continued research into all potential contributing factors.
-This document is a brief overview of the main themes and key arguments presented in “Inventing the AIDS Virus”. It is crucial to read the book in its entirety to fully understand the nuances of Duesberg's arguments and the evidence he presents.
 
-[Inventing-the-AIDS-Virus.pdf](Inventing-the-AIDS-Virus.pdf)
+
+[[Congressman Questions AIDS in Letter]]

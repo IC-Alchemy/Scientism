@@ -20,5 +20,4 @@ tags:
 ![[Pasted image 20250222100345.png]]
 
 
-![[anthraxmonkey.pdf]]
-
+[[anthraxmonkey.pdf]]

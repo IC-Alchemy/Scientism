@@ -16,8 +16,6 @@ source_tier: tier-3
 
 # The Germ Hypothesis Part 2
 
-## TL;DR
-This raw source is a revisionist essay by Mike Stone arguing that Koch is often credited with proving more than his experiments justified. It is useful because it names concrete experimental disputes, but it remains a Tier 3 adversarial interpretation rather than a settled historical account.
 
 ## Source type and scope
 - Modern commentary and critique.

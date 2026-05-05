@@ -14,7 +14,6 @@ source_date: 2026-05-01
 
 # Scientism Conversation (May 1, 2026)
 
-> Warning: This is an agenda-setting transcript with transcription noise and unstable sourcing. It can open questions, but it cannot by itself justify factual conclusions.
 
 ## Source type
 Voice transcript and brainstorming exchange. This is commentary and research planning, not a stable bibliography or a primary study.
