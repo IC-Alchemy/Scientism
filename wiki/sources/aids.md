@@ -16,7 +16,7 @@ source_tier: tier-3
 This raw file is a briefing note about Peter Duesberg's book *Inventing the AIDS Virus*. It is a research lead on HIV/AIDS causation disputes and AZT-toxicity arguments, not a source that can settle those disputes by itself.
 
 > Warning: This page is for research analysis only. It is not medical advice.
-[[Inventing-the-AIDS-Virus.pdf]]
+
 ## Source triage
 - Type: commentary on a controversial book
 - Signal: moderate as a map of dissenting claims

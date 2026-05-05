@@ -22,7 +22,7 @@ The raw corpus is mixed. Some files are direct papers or historical texts, some 
 ## Commentary-heavy clusters
 - Germ-theory revisionist cluster: [[sources/the-germ-hypothesis-part-2]], [[sources/the-infectious-myth-busted-part-6-the-germ-duel]], [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]], [[sources/louis-pasteurs-unethical-rabies-fraud]]
 - Virology-critique cluster: [[sources/has-the-virus-been-isolated-no-viroliegy]], [[sources/the-virus-cult-a-religion-built-on-fear-not-science]], [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]], [[sources/cell-culture-viroliegy]], [[sources/rabies-the-virus-of-fear]]
-- Clinical-trial critique cluster: [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]], [[sources/vaccine-clips]], [[sources/polio]], [[sources/aids]]
+- Clinical-trial critique cluster: [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]], [[sources/polio]], [[sources/aids]]
 
 ## Thin or indirect notes
 - [[sources/pasteurs-researches-on-rabies]] - currently more of a pointer note than a fully ingested historical document
@@ -30,7 +30,7 @@ The raw corpus is mixed. Some files are direct papers or historical texts, some 
 - [[sources/magmax-pathogen-rna-kit]] - useful only as workflow context for sequencing-related claims
 
 ## Out-of-scope material kept for traceability
-- [[sources/isreal]]
+- The raw `Isreal.md` note remains out of scope and has not yet been promoted to a `wiki/sources/` page.
 - [[sources/in-case-i-do-not-reach-my-decision-point-or-the-mexico-border-i-am-sending-this]]
 
 ## What the corpus currently supports
@@ -53,5 +53,6 @@ The raw corpus is mixed. Some files are direct papers or historical texts, some 
 
 ## Related
 - [[synthesis/scientism-research-program-overview]]
+- [[synthesis/vault-maintenance-guide]]
 - [[concepts/empirical-evidence]]
 - [[concepts/inferential-leap]]

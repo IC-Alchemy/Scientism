@@ -20,8 +20,8 @@ An inferential leap occurs when a source moves from observed data or a specific 
 3. The gap between the two is left implicit.
 
 ## Current examples in this vault
-- [[sources/speciation]] separates observed chromosome differences from stronger historical stories about what caused speciation.
-- [[sources/evolution]] distinguishes present-day evidence from claims about deep-time causal history.
+- The raw `Speciation.md` note separates observed chromosome differences from stronger historical stories about what caused speciation, but it is not yet summarized in `wiki/sources/`.
+- The raw `Evolution.md` note distinguishes present-day evidence from claims about deep-time causal history, but it is not yet summarized in `wiki/sources/`.
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science]] and [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] move from methodological criticisms of cell culture or isolation standards to broad claims about virology and public policy.
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] is a useful counterexample: it makes narrower claims that are closely tied to the experiment actually performed.
 

@@ -18,3 +18,7 @@ Updated AGENTS.md and CLAUDE.md. Added source, concept, entity, comparison, and 
 ## [2026-05-04] ingest | Raw corpus batch ingested into wiki
 
 Batch-ingested the broader `raw/` corpus into `wiki/sources/` with evidence-quality triage, added new methodology and history concept/entity pages, expanded synthesis, and regenerated `wiki/index.md`. Out-of-scope or low-signal notes were preserved but marked explicitly rather than forced into conclusions.
+
+## [2026-05-04] create | Vault maintenance guide
+
+Added a meta synthesis page describing how to maintain the vault, including ingest, query, lint, triage, and local script usage.

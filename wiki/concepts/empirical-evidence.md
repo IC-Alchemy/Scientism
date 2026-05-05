@@ -23,8 +23,8 @@ This distinction is why empirical evidence connects directly to [[concepts/infer
 
 ## How current sources use the term
 - [[sources/empirical-evidence]] offers a broad tertiary definition of the term.
-- [[sources/speciation]] distinguishes direct observations from causal stories about speciation.
-- [[sources/evolution]] distinguishes historical reconstruction from direct replicated experiment.
+- The raw `Speciation.md` note distinguishes direct observations from causal stories about speciation, but it has not yet been promoted to a `wiki/sources/` page.
+- The raw `Evolution.md` note distinguishes historical reconstruction from direct replicated experiment, but it has not yet been promoted to a `wiki/sources/` page.
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] shows a stronger case in which the experiment and the conclusion align closely.
 
 ## What this wiki currently concludes

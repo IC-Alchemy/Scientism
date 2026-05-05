@@ -24,7 +24,7 @@ That distinction is central to [[concepts/empirical-evidence]] and [[concepts/in
 
 ## How the current sources frame it
 - [[sources/scientism-conversation-may-1-2026]] treats scientism as a research program centered on overreach, replication, and endpoint disputes.
-- [[sources/evolution]] and [[sources/speciation]] raise the question of how historical interpretation relates to direct experiment.
+- The raw `Evolution.md` and `Speciation.md` notes raise the question of how historical interpretation relates to direct experiment, though they have not yet been formalized as `wiki/sources/` pages.
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science]] and [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] argue that virology turns contested methods into broad doctrine.
 
 ## What this wiki currently concludes

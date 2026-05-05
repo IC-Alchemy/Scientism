@@ -1,15 +1,16 @@
 # Index — Scientism
 
-_Auto-generated 2026-05-04 • 48 pages_
+_Auto-generated 2026-05-04 • 45 pages_
 
 > Content-oriented catalog of every page in `wiki/`. Updated by
 > `scripts/update_index.py` or during `/wiki-ingest`. Answer queries
 > by reading this file first, then drilling into relevant pages.
 
-## Synthesis (2)
+## Synthesis (3)
 
 - [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(28 sources · upd 2026-05-04)_
 - [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(28 sources · upd 2026-05-04)_
+- [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
 
 ## Concept (10)
 
@@ -34,21 +35,19 @@ _Auto-generated 2026-05-04 • 48 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(3 sources · upd 2026-05-04)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(5 sources · upd 2026-05-04)_
 
-## Source (28)
+## Source (24)
 
 - [[sources/aids|AIDS]] — Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation arguments, especially drug-toxicity and AZT-toxicity claims. _(upd 2026-05-04)_
 - [[sources/cell-culture-viroliegy|Cell Culture - ViroLIEgy]] — Category-style landing page from ViroLIEgy that signals a critical stance toward virology cell-culture methods but contains little standalone evidentiary detail. _(1 sources · upd 2026-05-04)_
 - [[sources/diagnosis-smallpox-viroliegy|Diagnosis: Smallpox? - ViroLIEgy]] — A Tier 3 commentary page arguing that historical smallpox diagnosis was clinically unstable and that differential diagnosis problems complicate retrospective certainty. _(1 sources · upd 2026-05-04)_
 - [[sources/edward-jenners-smallpox-paper-1798|Edward Jenner's Smallpox Paper (1798)]] — A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and argues that the original record is more ambiguous than later triumphal retellings suggest. _(1 sources · upd 2026-05-04)_
 - [[sources/empirical-evidence|Empirical Evidence]] — Short tertiary note that defines empirical evidence in broad terms but does not itself provide source-grade methodological analysis. _(1 sources · upd 2026-05-04)_
-- [[sources/evolution|Evolution]] — AI-style note arguing that deep-time evolution relies on historical inference rather than replicated mammalian experiments. _(1 sources · upd 2026-05-04)_
 - [[sources/experimental-inhalation-anthrax-in-the-chimpanzee|Experimental Inhalation Anthrax in the Chimpanzee]] — A primary research paper on aerosol anthrax challenge in chimpanzees, currently represented in the raw vault by a minimal pointer note rather than a substantive summary. _(1 sources · upd 2026-05-04)_
 - [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth|From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth]] — A Tier 3 interview-style commentary that consolidates Mike Stone's revisionist criticisms of Pasteur, virology, and modern infectious-disease narratives. _(1 sources · upd 2026-05-04)_
 - [[sources/h5n1|H5N1]] — Raw note excerpting a 2024 H5N1 dairy-cattle sequencing paper and its sample-processing methods. _(upd 2026-05-04)_
 - [[sources/has-the-virus-been-isolated-no-viroliegy|Has the Virus Been Isolated? No. - ViroLIEgy]] — HTML-only ViroLIEgy source whose title and outlet framing indicate a strong no-virus claim, but whose evidentiary details were not stably extracted during this first pass. _(1 sources · upd 2026-05-04)_
 - [[sources/in-case-i-do-not-reach-my-decision-point-or-the-mexico-border-i-am-sending-this|In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending This]] — UAP and national-security letter that is outside the clinical, vaccine, and virology scope of this ingest slice. _(upd 2026-05-04)_
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform|Insight into Biases and Sequencing Errors of the Illumina MiSeq Platform]] — Primary paper showing that Illumina MiSeq amplicon error patterns depend strongly on library preparation and primer choice rather than occurring purely at random. _(1 sources · upd 2026-05-04)_
-- [[sources/isreal|Isreal]] — Geopolitical funding note about U.S. aid to Israel that appears outside the clinical, vaccine, and virology scope of this ingest slice. _(upd 2026-05-04)_
 - [[sources/kochs-famous-paper|Koch's Famous Paper]] — A primary-source style historical text centered on Koch's methods for identifying pathogenic organisms, with emphasis on staining, pure culture, host specificity, and transmission testing. _(1 sources · upd 2026-05-04)_
 - [[sources/louis-pasteurs-unethical-rabies-fraud|Louis Pasteur's Unethical Rabies Fraud]] — A Tier 3 polemical critique that argues Pasteur's rabies work involved misconduct and should be read with strong caution. _(1 sources · upd 2026-05-04)_
 - [[sources/magmax-pathogen-rna-kit|MagMAX Pathogen RNA Kit]] — Product-link note identifying an RNA extraction kit referenced in the H5N1 sequencing workflow. _(upd 2026-05-04)_
@@ -57,12 +56,10 @@ _Auto-generated 2026-05-04 • 48 pages_
 - [[sources/profitable-sacred-cows-that-are-clearly-wrong-but-profitable-continue-getting-fu|Profitable Sacred Cows That Are Clearly Wrong but Profitable Continue Getting Fu]] — AI-assisted note speculating about how vaccination overcounts and harm undercounts could distort safety and effectiveness analysis. _(upd 2026-05-04)_
 - [[sources/rabies-the-virus-of-fear|Rabies: The Virus of Fear]] — ViroLIEgy essay arguing that rabies history, diagnosis, and vaccination are built on fear, weak attribution, and disputed laboratory methods. _(upd 2026-05-04)_
 - [[sources/scientism-conversation-may-1-2026|Scientism Conversation (May 1, 2026)]] — Voice-transcript seed source that frames the vault's initial questions about scientism, replication, endpoints, and inferential overreach. _(1 sources · upd 2026-05-04)_
-- [[sources/speciation|Speciation]] — AI-style note distinguishing direct observations such as chromosome differences from broader causal stories about speciation. _(1 sources · upd 2026-05-04)_
 - [[sources/the-germ-hypothesis-part-2|The Germ Hypothesis Part 2]] — A Tier 3 revisionist essay arguing that Koch's work and later germ-theory claims overstate what the historical experiments actually proved. _(1 sources · upd 2026-05-04)_
 - [[sources/the-infectious-myth-busted-part-6-the-germ-duel|The Infectious Myth Busted Part 6: The Germ Duel]] — A Tier 3 polemical essay that argues failed self-experiments and challenge anecdotes undermine germ-theory claims, while also shifting across very different diseases and study designs. _(1 sources · upd 2026-05-04)_
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science|The Virus Cult - A Religion Built on Fear, Not Science]] — Polemical essay that packages multiple methodological criticisms of virology, public-health policy, and no-virus arguments into a single Tier 3 commentary source. _(1 sources · upd 2026-05-04)_
 - [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine|The Virus Paradigm - Assumptions, Lies, and the Foundation of Modern Medicine]] — Long-form no-virus commentary built around arguments about isolation, controls, FOI responses, and the difference between observed effects and broader doctrine. _(1 sources · upd 2026-05-04)_
-- [[sources/vaccine-clips|Vaccine Clips]] — Image-heavy clipping file that aggregates screenshots, PDFs, and fragments about vaccines without a stable argument or citation structure. _(upd 2026-05-04)_
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids|Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids]] — Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos. _(upd 2026-05-04)_
 
 ## Comparison (1)
