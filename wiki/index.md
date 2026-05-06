@@ -1,29 +1,30 @@
 # Index — Scientism
 
-_Auto-generated 2026-05-05 • 53 pages_
+_Auto-generated 2026-05-05 • 55 pages_
 
 > Content-oriented catalog of every page in `wiki/`. Updated by
 > `scripts/update_index.py` or during `/wiki-ingest`. Answer queries
 > by reading this file first, then drilling into relevant pages.
 
-## Synthesis (5)
+## Synthesis (6)
 
+- [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children. _(13 sources · upd 2026-05-05)_
 - [[synthesis/gutknecht-letter-evidence-check|Gutknecht Letter Evidence Check]] — Research-worklist version of the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, kept as a map of what still needs direct experiment review. _(1 sources · upd 2026-05-04)_
 - [[synthesis/gutknecht-letter-questions-7-9|Gutknecht Letter Questions 7-9]] — Partial direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT. _(10 sources · upd 2026-05-04)_
-- [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(33 sources · upd 2026-05-04)_
-- [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(33 sources · upd 2026-05-04)_
+- [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(34 sources · upd 2026-05-05)_
+- [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(34 sources · upd 2026-05-05)_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
 
 ## Concept (10)
 
 - [[concepts/cell-culture|Cell Culture]] — Cell culture is a laboratory method whose evidentiary meaning depends on controls, media conditions, and the specific endpoint being claimed. _(4 sources · upd 2026-05-04)_
-- [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(3 sources · upd 2026-05-05)_
+- [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(4 sources · upd 2026-05-05)_
 - [[concepts/empirical-evidence|Empirical Evidence]] — Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility. _(5 sources · upd 2026-05-04)_
 - [[concepts/germ-theory|Germ Theory]] — A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved. _(11 sources · upd 2026-05-04)_
-- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(13 sources · upd 2026-05-04)_
-- [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(3 sources · upd 2026-05-05)_
+- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(14 sources · upd 2026-05-05)_
+- [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(4 sources · upd 2026-05-05)_
 - [[concepts/replication-crisis|Replication Crisis]] — Exploratory concept page for reported reproducibility problems; this vault still needs direct replication-study anchors. _(2 sources · upd 2026-05-04)_
-- [[concepts/scientism|Scientism]] — In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports. _(6 sources · upd 2026-05-04)_
+- [[concepts/scientism|Scientism]] — In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports. _(7 sources · upd 2026-05-05)_
 - [[concepts/surrogate-endpoints|Surrogate Endpoints]] — Trial outcomes that stand in for broader clinical benefit, such as infection counts, biomarkers, or immune response measures rather than overall health outcomes. _(2 sources · upd 2026-05-04)_
 - [[concepts/virus-isolation|Virus Isolation]] — Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation. _(5 sources · upd 2026-05-04)_
 
@@ -37,7 +38,7 @@ _Auto-generated 2026-05-05 • 53 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(3 sources · upd 2026-05-04)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(8 sources · upd 2026-05-04)_
 
-## Source (30)
+## Source (31)
 
 - [[sources/aids|AIDS]] — Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation arguments, especially drug-toxicity and AZT-toxicity claims. _(upd 2026-05-04)_
 - [[sources/an-inquiry-into-the-logical-basis-of-the-germ-theory|An Inquiry into the Logical Basis of the Germ Theory]] — Tier 3 commentary arguing that germ theory rests on invalid causal reasoning and institutional overreach. _(1 sources · upd 2026-05-04)_
@@ -45,6 +46,7 @@ _Auto-generated 2026-05-05 • 53 pages_
 - [[sources/congressman-questions-aids-in-letter|Congressman Questions AIDS in Letter]] — A 1995 congressional letter to Anthony Fauci that packages HIV/AIDS dissent claims as political and scientific challenge questions rather than experimental proof. _(upd 2026-05-04)_
 - [[sources/diagnosis-smallpox-viroliegy|Diagnosis: Smallpox? - ViroLIEgy]] — A Tier 3 commentary page arguing that historical smallpox diagnosis was clinically unstable and that differential diagnosis problems complicate retrospective certainty. _(1 sources · upd 2026-05-04)_
 - [[sources/edward-jenners-smallpox-paper-1798|Edward Jenner's Smallpox Paper (1798)]] — A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and argues that the original record is more ambiguous than later triumphal retellings suggest. _(1 sources · upd 2026-05-04)_
+- [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults|Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults]] — Double-blind randomized saline-placebo trial testing inactivated influenza vaccination in healthy working adults across two influenza seasons. _(1 sources · upd 2026-05-05)_
 - [[sources/empirical-evidence|Empirical Evidence]] — Short tertiary note that defines empirical evidence in broad terms but does not itself provide source-grade methodological analysis. _(1 sources · upd 2026-05-04)_
 - [[sources/experimental-inhalation-anthrax-in-the-chimpanzee|Experimental Inhalation Anthrax in the Chimpanzee]] — A primary research paper on aerosol anthrax challenge in chimpanzees, currently represented in the raw vault by a minimal pointer note rather than a substantive summary. _(1 sources · upd 2026-05-04)_
 - [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth|From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth]] — A Tier 3 interview-style commentary that consolidates Mike Stone's revisionist criticisms of Pasteur, virology, and modern infectious-disease narratives. _(1 sources · upd 2026-05-04)_
@@ -72,4 +74,4 @@ _Auto-generated 2026-05-05 • 53 pages_
 
 ## Comparison (1)
 
-- [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(3 sources · upd 2026-05-04)_
+- [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(5 sources · upd 2026-05-05)_

@@ -66,6 +66,7 @@ These were not part of the CHD citation list, but they matter because they show 
 - The trial records do not support a blanket conclusion that pediatric vaccine trials never use placebo or saline controls; the Lens counter-search found child vaccine trials with placebo-labeled and saline arms.
 - For the cited trials, the defensible claim is trial-specific: name the comparator, endpoint, result, and limitation before making safety claims.
 - Placebo-labeled records are not automatically inert-placebo records. Inertness must be checked from the full paper, protocol, package insert, or regulatory file.
+- These trial records also do not answer the broader question of whether vaccinated children are more healthy than not vaccinated children, because the audited endpoints are mostly disease-specific, immunogenicity-based, or short-term safety measures rather than broader overall-health comparisons.
 
 ## Related
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]]
@@ -73,3 +74,4 @@ These were not part of the CHD citation list, but they matter because they show 
 - [[concepts/clinical-endpoints]]
 - [[concepts/surrogate-endpoints]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
+- [[synthesis/vaccinated-children-more-healthy-question]]

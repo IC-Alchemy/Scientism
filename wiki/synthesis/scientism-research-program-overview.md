@@ -3,8 +3,8 @@ title: Scientism Research Program Overview
 category: synthesis
 summary: First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki.
 tags: [overview, research-program]
-sources: 33
-updated: 2026-05-04
+sources: 34
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -18,7 +18,7 @@ The raw corpus is now broad enough to map the research program in detail, but no
 - Philosophy-of-science critique - tracked through [[concepts/scientism]] and leads like [[entities/paul-feyerabend]]
 - Research-practice critique - tracked through [[concepts/replication-crisis]], [[concepts/empirical-evidence]], and the sequencing-method example in [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]]
 - Experiment-to-conclusion slippage - tracked through [[concepts/inferential-leap]]
-- Clinical-trial interpretation - tracked through [[concepts/surrogate-endpoints]], [[concepts/placebo-controls]], [[concepts/clinical-endpoints]], and [[comparisons/disease-prevention-vs-health-outcomes]]
+- Clinical-trial interpretation - tracked through [[concepts/surrogate-endpoints]], [[concepts/placebo-controls]], [[concepts/clinical-endpoints]], [[comparisons/disease-prevention-vs-health-outcomes]], and direct trial examples like [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]]
 - Historical case studies - tracked through [[concepts/germ-theory]], [[entities/louis-pasteur]], [[entities/robert-koch]], [[entities/edward-jenner]], and [[entities/rene-dubos]]
 - Virology-method disputes - tracked through [[concepts/virus-isolation]], [[concepts/cell-culture]], and several explicitly disputed Tier 3 sources
 
@@ -35,6 +35,8 @@ The raw corpus is now broad enough to map the research program in detail, but no
 ## Evidence balance
 - The corpus is now heavily mapped, but most pages still draw from Tier 3 commentary, clippings, transcripts, or advocacy material.
 - The clearest direct empirical lead currently ingested is [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]], which names a specific sequencing-method question, endpoint, and limitation on its source page.
+- [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] is now a key direct clinical-trial anchor. It is especially relevant because the randomized 1997-1998 data show significantly worse ILI-related sick-day, lost-workday, and physician-visit work-hour endpoints in the vaccine group, while the author conclusion foregrounds conditional benefit in matched seasons and economic non-benefit rather than warning around that unfavorable endpoint signal.
+- [[synthesis/vaccinated-children-more-healthy-question]] is now the central page for the parental-consent version of the endpoint problem. It records that the vault has found narrower vaccine-specific and endpoint-specific evidence, but not clear direct evidence that childhood vaccination as a general program makes children more healthy overall than unvaccinated children.
 - Historical germ-theory coverage has a better method lead because [[sources/kochs-famous-paper]] gives the vault a primary-source style text to inspect, though translation and editorial context still need checking before using it as conclusion-level support.
 - The newly added ViroLIEgy methodological and historical commentary pages sharpen the distinction between a useful critique of causal overreach and a broader claim that whole disciplines are pseudoscientific.
 - Several medical and virology disputes are now documented as disputes rather than treated as settled findings. This includes pages tied to ViroLIEgy, Mike Stone, and advocacy material about vaccine controls.
@@ -44,6 +46,8 @@ The raw corpus is now broad enough to map the research program in detail, but no
 ## Key source clusters
 - [[sources/scientism-conversation-may-1-2026]] - seed transcript that sets the agenda but does not resolve claims
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] - direct methodology paper; use only for its tested sequencing-error question and endpoint
+- [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] - direct randomized vaccine trial; use for strain-match, placebo control, endpoint direction, cost-benefit, and author-conclusion gap analysis
+- [[synthesis/vaccinated-children-more-healthy-question]] - synthesis page for the broad parental-health claim; use to separate target-disease evidence from overall child-health evidence
 - [[sources/kochs-famous-paper]] - historical method anchor for germ-theory questions
 - [[sources/the-germ-hypothesis-part-2]] and [[sources/the-infectious-myth-busted-part-6-the-germ-duel]] - revisionist/commentary readings that raise historical and methodological challenges without settling them
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] - trial-design critique that needs direct source-checking before stronger use
@@ -58,7 +62,8 @@ The raw corpus is now broad enough to map the research program in detail, but no
 
 ## Current open problems
 - Build a credible first bibliography for replication-crisis work that is itself stronger than transcript-level summaries
-- Add direct primary papers and systematic reviews for vaccine-trial methodology, placebo controls, and endpoint interpretation
+- Add direct primary papers and systematic reviews for vaccine-trial methodology, placebo controls, endpoint interpretation, and whether unfavorable randomized endpoint signals are disclosed or softened in author conclusions
+- For vaccine claims aimed at parents, require explicit separation between target-disease endpoints and the stronger claim that vaccination improves overall child health.
 - Separate classical germ-theory method claims from later doctrinal uses of those claims without collapsing either side into caricature
 - Normalize the virology-method dispute pages around named procedures, controls, and endpoints rather than slogan-level disagreement
 - Pair the Rosenau influenza transmission material and the Leverson/Hurd/Tait-style logic critique with stronger primary or review sources before letting either strand carry synthesis weight
@@ -67,6 +72,8 @@ The raw corpus is now broad enough to map the research program in detail, but no
 ## How this synthesis has changed
 - **2026-05-04** - initial synthesis after ingesting the seed transcript and turning its themes into a starter research program
 - **2026-05-04** - expanded to reflect first-pass ingest of the broader raw corpus, with explicit evidence-quality triage and new methodology concepts
+- **2026-05-05** - added Bridges et al. influenza vaccine trial as a central direct-study case where a randomized unfavorable endpoint signal is more important than the abstract's conditional-benefit framing makes it appear.
+- **2026-05-05** - added the vaccinated-children synthesis as the central case for distinguishing parental messaging about overall health from the narrower endpoints actually measured.
 
 ## Related
 - [[comparisons/disease-prevention-vs-health-outcomes]]

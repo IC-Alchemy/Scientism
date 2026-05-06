@@ -54,3 +54,35 @@ Added three Tier 3 source pages from `raw/`, updated germ-theory and scientism-r
 ## [2026-05-05] query | Pediatric vaccine placebo-control trial audit
 
 Used Lens scholarly search and PubMed abstracts to check the 18 trial records cited by the CHD pediatric vaccine placebo-control source. Added a trial-record audit page, linked it from the CHD source page, and updated placebo-control and endpoint concept pages to distinguish active comparators, placebo-labeled comparators, and unresolved placebo composition.
+
+## [2026-05-05] query | Vaccinated children more healthy question
+
+Added a direct synthesis answer clarifying that the currently audited vaccine trials do not establish that vaccinated children are more healthy than not vaccinated children, because the measured endpoints are mostly narrower disease, immunogenicity, or short-term safety outcomes rather than broader overall-health comparisons.
+
+## [2026-05-05] query | Lens shortlist for vaccinated-versus-unvaccinated health outcomes
+
+Ran tighter Lens searches for vaccinated-versus-unvaccinated child health outcomes, including all-cause mortality, hospitalization, chronic disease, neurodevelopment, asthma, allergy, and development endpoints. Added the strongest candidate studies and search strings to the vaccinated-children synthesis page.
+
+## [2026-05-05] update | Added results to vaccinated-children shortlist
+
+Added abstract-level reported results for each shortlisted study in the vaccinated-versus-unvaccinated health-outcomes synthesis page, keeping the result separate from each study's design limits.
+
+## [2026-05-05] update | Added interpretation boundary to vaccinated-children synthesis
+
+Clarified that the current shortlist does not establish a broad overall-health benefit claim for childhood vaccination, while also requiring vaccine-specific and endpoint-specific support before converting harm associations into universal causal conclusions.
+
+## [2026-05-05] update | Added parental messaging endpoint boundary
+
+Updated the vaccinated-children synthesis, disease-prevention comparison, inferential-leap concept, and research-program overview to state that parents may hear disease-specific vaccine evidence presented as proof of overall child-health benefit. Marked that as an inferential leap unless broad health outcomes are directly measured.
+
+## [2026-05-05] ingest | Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults
+
+Added a Tier 1 source page for the Bridges et al. randomized saline-placebo influenza vaccine trial in healthy working adults. Updated clinical endpoints, placebo controls, inferential leap, disease-prevention versus health-outcomes, source-corpus triage, and regenerated `wiki/index.md`.
+
+## [2026-05-05] update | Corrected 1997-1998 influenza vaccine trial endpoint summary
+
+Revised the Bridges et al. source summary and related endpoint/comparison pages to preserve the paper's unfavorable 1997-1998 clinical-utilization finding: vaccine recipients reported significantly more ILI-related sick days, lost workdays, and physician-visit work hours than placebo recipients.
+
+## [2026-05-05] update | Added warning-gap framing for Bridges influenza vaccine trial
+
+Updated the Bridges et al. source page, scientism concept page, inferential-leap page, and research-program overview to treat the unfavorable 1997-1998 randomized clinical-utilization findings as a central author-conclusion versus endpoint-result case for the vault.

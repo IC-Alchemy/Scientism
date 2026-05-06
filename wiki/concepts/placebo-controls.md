@@ -3,7 +3,7 @@ title: Placebo Controls
 category: concept
 summary: A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show.
 tags: [clinical-trials, controls, methodology]
-sources: 3
+sources: 4
 updated: 2026-05-05
 claim_status: exploratory
 claim_type: medical
@@ -21,15 +21,19 @@ A placebo control is a comparator intended to help interpret the effects of an i
 
 [[sources/scientism-conversation-may-1-2026]] treats this as part of a broader methodological concern: whether trial design supports the strength of the conclusion later drawn from it.
 
+[[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] provides a clear inert-comparator example: participants were randomized to trivalent inactivated influenza vaccine or sterile saline injection in identical syringes.
+
 ## What these sources claim
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] argues that many pediatric vaccine trials do not use inert controls and that this matters for safety interpretation.
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] supports the narrower trial-specific point that comparator type varies and must be named explicitly.
+- [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] reports a saline-placebo comparator in a healthy-adult influenza vaccine trial and therefore can support trial-specific placebo-control claims for that study.
 - [[sources/scientism-conversation-may-1-2026]] asks for clearer distinctions between what a trial directly tests and what later advocates infer from it.
 
 ## What question the underlying experiments can answer
 - An active-comparator trial can answer comparative questions between the tested interventions.
 - An inert-placebo trial can better isolate some kinds of absolute treatment effect within the study design.
 - Neither design alone settles every question about long-term net health benefit, background risk, or rare adverse events.
+- In the Bridges et al. influenza trial, the saline control supports interpretation of short-term ILI, utilization, and common reactogenicity endpoints; it does not by itself provide long-term safety or rare-event evidence.
 - Trial-specific safety claims remain unresolved until the wiki extracts named trials with intervention, comparator, endpoint, result, and limitation.
 
 ## What this wiki currently concludes
@@ -42,3 +46,4 @@ A placebo control is a comparator intended to help interpret the effects of an i
 - [[concepts/clinical-endpoints]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit]]
+- [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]]
