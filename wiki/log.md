@@ -86,3 +86,7 @@ Revised the Bridges et al. source summary and related endpoint/comparison pages 
 ## [2026-05-05] update | Added warning-gap framing for Bridges influenza vaccine trial
 
 Updated the Bridges et al. source page, scientism concept page, inferential-leap page, and research-program overview to treat the unfavorable 1997-1998 randomized clinical-utilization findings as a central author-conclusion versus endpoint-result case for the vault.
+
+## [2026-05-05] update | Gutknecht questions 7-9 direct-study expansion
+
+Ran one PMID/DOI API lookup per candidate paper for the Gutknecht questions 7-9 audit, saved PubMed JSON/CSV and Lens JSON lookup dumps under `wiki/synthesis/`, added linked source pages for the direct studies and chronology records, rebuilt the direct-study registers, and preserved full-text-needed flags where abstracts were insufficient.

@@ -1,10 +1,10 @@
 ---
 title: Gutknecht Letter Evidence Check
 category: synthesis
-summary: Research-worklist version of the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, kept as a map of what still needs direct experiment review.
+summary: Research-worklist version of the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with questions 7-9 now backed by a larger direct-study register.
 tags: [aids, hiv, fauci, gutknecht, evidence-check]
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-05
 claim_status: unresolved
 claim_type: medical
 ---
@@ -70,21 +70,21 @@ Needed before answering:
 - direct evidence bearing on the role, if any, of recreational drugs or AZT avoidance
 
 ### 7. Hemophiliac survival
-Status: partial direct-study work exists in [[synthesis/gutknecht-letter-questions-7-9]].
+Status: expanded direct-study work exists in [[synthesis/gutknecht-letter-questions-7-9]].
 
 Needed before the question is fully closed:
 - cleaner reconstruction of the exact statistic quoted in the letter
 - direct comparison of pre-HIV survival gains versus HIV-era mortality
 
 ### 8. Recreational drugs or AZT as the cause of AIDS
-Status: partial direct-study work exists in [[synthesis/gutknecht-letter-questions-7-9]].
+Status: expanded direct-study work exists in [[synthesis/gutknecht-letter-questions-7-9]].
 
 Needed before the question is fully closed:
 - direct-study reconstruction of non-drug exposure cohorts
 - separate historical reconstruction of the AZT timeline from primary historical documents
 
 ### 9. Ethics of prescribing AZT
-Status: partial direct-study work exists in [[synthesis/gutknecht-letter-questions-7-9]].
+Status: expanded direct-study work exists in [[synthesis/gutknecht-letter-questions-7-9]].
 
 Needed before the question is fully closed:
 - broader trial set beyond the initial zidovudine studies
@@ -117,7 +117,7 @@ Needed before answering:
 ## What this wiki currently concludes
 - This page should not currently be treated as an answer page.
 - It is now only a research worklist for rebuilding the topic from direct studies.
-- Questions 7-9 have the best first-pass direct-study reconstruction so far, but even those remain unresolved.
+- Questions 7-9 have the strongest direct-study reconstruction so far, including identifier-level API lookup dumps, but even those remain unresolved at the broad-causation and broad-ethics level.
 
 ## Related
 - [[sources/congressman-questions-aids-in-letter]]
