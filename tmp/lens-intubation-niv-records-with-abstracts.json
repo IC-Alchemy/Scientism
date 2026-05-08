@@ -1,0 +1,4546 @@
+{
+  "total": 14,
+  "max_score": 0.0,
+  "data": [
+    {
+      "lens_id": "008-559-006-949-494",
+      "title": "High-Flow, Noninvasive Ventilation and Awake (Nonintubation) Proning in Patients With Coronavirus Disease 2019 With Respiratory Failure.",
+      "publication_type": "journal article",
+      "year_published": 2020,
+      "date_published": "2020-07-15T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmid",
+          "value": "32681847"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc7362846"
+        },
+        {
+          "type": "magid",
+          "value": "3042834885"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.chest.2020.07.013"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Suhail",
+          "last_name": "Raoof",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2549622691"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Lenox Hill Hospital",
+              "name_original": "Lung Center, Lenox Hill Hospital, New York, NY.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "2800628709"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.415895.4"
+                },
+                {
+                  "type": "ror",
+                  "value": "0231d2y50"
+                }
+              ],
+              "grid_id": "grid.415895.4",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Stefano",
+          "last_name": "Nava",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2161472595"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Respiratory and Critical Care, Sant'Orsola Malpighi Hospital, Bologna, Italy."
+            }
+          ]
+        },
+        {
+          "first_name": "Charles M.",
+          "last_name": "Carpati",
+          "initials": "CM",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "1239509728"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Lenox Hill Hospital",
+              "name_original": "Lung Center, Lenox Hill Hospital, New York, NY.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "2800628709"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.415895.4"
+                },
+                {
+                  "type": "ror",
+                  "value": "0231d2y50"
+                }
+              ],
+              "grid_id": "grid.415895.4",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Nicholas S.",
+          "last_name": "Hill",
+          "initials": "NS",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2135764176"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Tufts Medical Center",
+              "name_original": "Division of Pulmonary, Critical Care and Sleep Medicine, Tufts Medical Center, Boston, MA",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "1290900354"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.67033.31"
+                },
+                {
+                  "type": "fundref",
+                  "value": "100006954"
+                },
+                {
+                  "type": "ror",
+                  "value": "002hsbm82"
+                }
+              ],
+              "grid_id": "grid.67033.31",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Chest",
+        "type": "Journal",
+        "publisher": "Elsevier BV",
+        "issn": [
+          {
+            "type": "unknown",
+            "value": "19313543"
+          },
+          {
+            "type": "print",
+            "value": "00123692"
+          }
+        ],
+        "country": "United States",
+        "asjc_codes": [
+          "2705",
+          "2740",
+          "2706"
+        ],
+        "asjc_subjects": [
+          "Cardiology and Cardiovascular Medicine",
+          "Pulmonary and Respiratory Medicine",
+          "Critical Care and Intensive Care Medicine"
+        ]
+      },
+      "abstract": "The coronavirus disease 2019 pandemic will be remembered for the rapidity with which it spread, the morbidity and mortality associated with it, and the paucity of evidence-based management guidelines. One of the major concerns of hospitals was to limit spread of infection to health-care workers. Because the virus is spread mainly by respiratory droplets and aerosolized particles, procedures that may potentially disperse viral particles, the so-called \"aerosol-generating procedures\" were avoided whenever possible. Included in this category were noninvasive ventilation (NIV), high-flow nasal cannula (HFNC), and awake (nonintubated) proning. Accordingly, at many health-care facilities, patients who had increasing oxygen requirements were emergently intubated and mechanically ventilated to avoid exposure to aerosol-generating procedures. With experience, physicians realized that mortality of invasively ventilated patients was high and it was not easy to extubate many of these patients. This raised the concern that HFNC and NIV were being underutilized to avoid intubation and to facilitate extubation. In this article, we attempt to separate fact from fiction and perception from reality pertaining to the aerosol dispersion with NIV, HFNC, and awake proning. We describe precautions that hospitals and health-care providers must take to mitigate risks with these devices. Finally, we take a practical approach in describing how we use the three techniques, including the common indications, contraindications, and practical aspects of application.",
+      "scholarly_citations_count": 153
+    },
+    {
+      "lens_id": "157-291-923-082-080",
+      "title": "Outcome in early vs late intubation among COVID-19 patients with acute respiratory distress syndrome: an updated systematic review and meta-analysis.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-12-14T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "openalex",
+          "value": "W4311493259"
+        },
+        {
+          "type": "pmid",
+          "value": "36517555"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc9748395"
+        },
+        {
+          "type": "doi",
+          "value": "10.1038/s41598-022-26234-7"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Denio A",
+          "last_name": "Ridjab",
+          "initials": "DA",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-8726-7693"
+            },
+            {
+              "type": "magid",
+              "value": "5026649288"
+            },
+            {
+              "type": "openalex",
+              "value": "A5026649288"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Medical Education Unit, School of Medicine and Health Sciences, Atma Jaya Catholic University of Indonesia, Jakarta, Indonesia. denio.ridjab@atmajaya.ac.id."
+            }
+          ]
+        },
+        {
+          "first_name": "Ignatius",
+          "last_name": "Ivan",
+          "initials": "I",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5064704581"
+            },
+            {
+              "type": "openalex",
+              "value": "A5064704581"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-6177-3793"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Fifth Year Medical Student, School of Medicine and Health Sciences, Atma Jaya Catholic University of Indonesia, Jakarta, Indonesia."
+            }
+          ]
+        },
+        {
+          "first_name": "Fanny",
+          "last_name": "Budiman",
+          "initials": "F",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-6716-9164"
+            },
+            {
+              "type": "magid",
+              "value": "5005547441"
+            },
+            {
+              "type": "openalex",
+              "value": "A5005547441"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Fifth Year Medical Student, School of Medicine and Health Sciences, Atma Jaya Catholic University of Indonesia, Jakarta, Indonesia."
+            }
+          ]
+        },
+        {
+          "first_name": "Dafsah A",
+          "last_name": "Juzar",
+          "initials": "DA",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0001-8392-4759"
+            },
+            {
+              "type": "magid",
+              "value": "5047731007"
+            },
+            {
+              "type": "openalex",
+              "value": "A5047731007"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Cardiology and Vascular Medicine, Faculty of Medicine, University of Indonesia, National Cardiovascular Center of Harapan Kita, Jakarta, Indonesia."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Scientific reports",
+        "type": "Journal",
+        "publisher": "Springer Science and Business Media LLC",
+        "issn": [
+          {
+            "type": "print",
+            "value": "20452322"
+          }
+        ],
+        "country": "United Kingdom",
+        "asjc_codes": [
+          "1000"
+        ],
+        "asjc_subjects": [
+          "Multidisciplinary"
+        ]
+      },
+      "abstract": "Timing of endotracheal intubation in COVID-19 patients with acute respiratory distress syndrome (ARDS) remains controversial regarding its risk and benefit in patient outcomes. Our study aims to elucidate early versus late intubation outcomes among COVID-19 patients with ARDS. A protocol of this study is registered at the international prospective register of systematic reviews (PROSPERO) (CRD42021230272). We report our systematic review based on PRISMA and MOOSE guidelines. We searched the Cochrane Library, EBSCOhost, EMBASE, Grey Literature Report, OpenGrey, ProQuest, PubMed, and ScienceDirect from inception until 4 December 2021. Titles and abstracts were reviewed for their relevance. The risk of bias in each study was evaluated using the risk of bias in non-randomised studies-of interventions (ROBINS-I) guideline. Trial sequential analysis is done to elucidate firm evidence. We retrieved 20 observational studies that assessed an intervention (early vs. late intubation). Meta-analysis for in-hospital mortality reduction showed 119 fewer deaths per 1000 patients in early intubation. Early intubation reduces 2.81\u00a0days of ICU length of stay (LOS) and 2.12\u00a0days of ventilation duration. Benefits for mortality and ICU LOS reduction were based on studies with low to moderate risk of bias while ventilation duration was based on low disease burden setting. According to the contextualized approach, the benefit of mortality reduction showed a trivial effect, while ICU LOS and ventilation duration showed a small effect. GRADE certainty of evidence for mortality reduction in early intubation is moderate. The certainty of evidence for ICU length of stay, ventilation duration, ventilator-free days, and continuous renal replacement therapy are very low. This updated systematic review provided new evidence that early intubation might provide benefits in treating COVID-19 patients with ARDS. The benefits of early intubation appear to have an important but small effect based on contextualized approach for ICU LOS and ventilation duration. In reducing in-hospital mortality, the early intubation effect was present but only trivial based on contextualized approach. TSA showed that more studies are needed to elucidate firmer evidence.",
+      "scholarly_citations_count": 10
+    },
+    {
+      "lens_id": "045-407-005-350-497",
+      "title": "Clinical Significance of Timing of Intubation in Critically Ill Patients with COVID-19: A Multi-Center Retrospective Study",
+      "publication_type": "journal article",
+      "year_published": 2020,
+      "date_published": "2020-09-02T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmcid",
+          "value": "pmc7564702"
+        },
+        {
+          "type": "doi",
+          "value": "10.3390/jcm9092847"
+        },
+        {
+          "type": "magid",
+          "value": "3082401284"
+        },
+        {
+          "type": "pmid",
+          "value": "32887462"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Yong Hoon",
+          "last_name": "Lee",
+          "initials": "YH",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2304539205"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Kyungpook National University",
+              "name_original": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, School of Medicine, Kyungpook National University, Daegu 41944, Korea.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "31419693"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.258803.4"
+                },
+                {
+                  "type": "ror",
+                  "value": "040c17130"
+                }
+              ],
+              "grid_id": "grid.258803.4",
+              "country_code": "KR"
+            }
+          ]
+        },
+        {
+          "first_name": "Keum-Ju",
+          "last_name": "Choi",
+          "initials": "K",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3177635941"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Internal Medicine, Daegu Veterans Hospital, Daegu 42835, Korea."
+            }
+          ]
+        },
+        {
+          "first_name": "Sun Ha",
+          "last_name": "Choi",
+          "initials": "SH",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2179608719"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Kyungpook National University",
+              "name_original": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, School of Medicine, Kyungpook National University, Daegu 41944, Korea.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "31419693"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.258803.4"
+                },
+                {
+                  "type": "ror",
+                  "value": "040c17130"
+                }
+              ],
+              "grid_id": "grid.258803.4",
+              "country_code": "KR"
+            }
+          ]
+        },
+        {
+          "first_name": "Shin Yup",
+          "last_name": "Lee",
+          "initials": "SY",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2434490619"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Kyungpook National University",
+              "name_original": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, School of Medicine, Kyungpook National University, Daegu 41944, Korea.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "31419693"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.258803.4"
+                },
+                {
+                  "type": "ror",
+                  "value": "040c17130"
+                }
+              ],
+              "grid_id": "grid.258803.4",
+              "country_code": "KR"
+            }
+          ]
+        },
+        {
+          "first_name": "Kyung Chan",
+          "last_name": "Kim",
+          "initials": "KC",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2239523603"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "The Catholic University of America",
+              "name_original": "Department of Internal Medicine, Daegu Catholic University School of Medicine, Daegu 42472, Korea.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "84470341"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.39936.36"
+                },
+                {
+                  "type": "ror",
+                  "value": "047yk3s18"
+                }
+              ],
+              "grid_id": "grid.39936.36",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Eun Jin",
+          "last_name": "Kim",
+          "initials": "EJ",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2940504686"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-9791-8077"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "The Catholic University of America",
+              "name_original": "Department of Internal Medicine, Daegu Catholic University School of Medicine, Daegu 42472, Korea.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "84470341"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.39936.36"
+                },
+                {
+                  "type": "ror",
+                  "value": "047yk3s18"
+                }
+              ],
+              "grid_id": "grid.39936.36",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Jaehee",
+          "last_name": "Lee",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2114343188"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-8111-7320"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Kyungpook National University",
+              "name_original": "Division of Pulmonary and Critical Care Medicine, Department of Internal Medicine, School of Medicine, Kyungpook National University, Daegu 41944, Korea.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "31419693"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.258803.4"
+                },
+                {
+                  "type": "ror",
+                  "value": "040c17130"
+                }
+              ],
+              "grid_id": "grid.258803.4",
+              "country_code": "KR"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Journal of clinical medicine",
+        "type": "Journal",
+        "publisher": "MDPI AG",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "20770383"
+          }
+        ],
+        "country": "Switzerland",
+        "asjc_codes": [
+          "2700"
+        ],
+        "asjc_subjects": [
+          "General Medicine"
+        ]
+      },
+      "abstract": "The effect of intubation timing on the prognosis of critically ill patients with coronavirus 2019 (COVID-19) is not yet well understood. We investigated whether early intubation is associated with the survival of COVID-19 patients with acute respiratory distress syndrome (ARDS). This multicenter, retrospective, observational study was done on 47 adult COVID-19 patients with ARDS who were admitted to the intensive care unit (ICU) in Daegu, Korea between February 17 and April 23, 2020. Clinical characteristics and in-hospital mortality were compared between the early intubation and initially non-intubated groups, and between the early and late intubation groups, respectively. Of the 47 patients studied, 23 (48.9%) were intubated on the day of meeting ARDS criteria (early intubation), while 24 (51.1%) were not initially intubated. Eight patients were never intubated during the in-hospital course. Median follow-up duration was 46 days, and 21 patients (44.7%) died in the hospital. No significant difference in in-hospital mortality rate was noted between the early group and initially non-intubated groups (56.5% vs. 33.3%, p = 0.110). Furthermore, the risk of in-hospital death in the early intubation group was not significantly different compared to the initially non-intubated group on multivariate adjusted analysis (p = 0.385). Results were similar between early and late intubation in the subgroup analysis of 39 patients treated with mechanical ventilation. In conclusion, in this study of critically ill COVID-19 patients with ARDS, early intubation was not associated with improved survival. This result may help in the efficient allocation of limited medical resources, such as ventilators.",
+      "scholarly_citations_count": 47
+    },
+    {
+      "lens_id": "035-206-358-105-637",
+      "title": "Effect of Intubation Timing on the Outcome of Patients With Severe Respiratory Distress Secondary to COVID-19 Pneumonia.",
+      "publication_type": "journal article",
+      "year_published": 2021,
+      "date_published": "2021-11-16T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmcid",
+          "value": "pmc8597669"
+        },
+        {
+          "type": "magid",
+          "value": "3213294221"
+        },
+        {
+          "type": "pmid",
+          "value": "34804753"
+        },
+        {
+          "type": "doi",
+          "value": "10.7759/cureus.19620"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Mohamed",
+          "last_name": "Fayed",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3116329395"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0003-1357-8277"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Anesthesiology, Pain Management and Perioperative Medicine, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Nimesh",
+          "last_name": "Patel",
+          "initials": "N",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3212212601"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Anesthesiology, Pain Management and Perioperative Medicine, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Nicholas S.",
+          "last_name": "Yeldo",
+          "initials": "NS",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2949259919"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Anesthesiology, Pain Management and Perioperative Medicine, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Katherine",
+          "last_name": "Nowak",
+          "initials": "K",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3128903299"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Research, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Donald H.",
+          "last_name": "Penning",
+          "initials": "DH",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2951063246"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Anesthesiology, Pain Management and Perioperative Medicine, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Felipe Vasconcelos",
+          "last_name": "Torres",
+          "initials": "FV",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3002639819"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Anesthesiology, Pain Management and Perioperative Medicine, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Abdul Kader",
+          "last_name": "Natour",
+          "initials": "AK",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3185216594"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Surgery, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Anoop",
+          "last_name": "Chhina",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3128765124"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Henry Ford Health System",
+              "name_original": "Anesthesiology, Pain Management and Perioperative Medicine, Henry Ford Health System, Detroit, USA.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "154057602"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.239864.2"
+                },
+                {
+                  "type": "ror",
+                  "value": "02kwnkm68"
+                }
+              ],
+              "grid_id": "grid.239864.2",
+              "country_code": "US"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Cureus",
+        "publisher": "Springer Science and Business Media LLC",
+        "issn": [
+          {
+            "type": "print",
+            "value": "21688184"
+          }
+        ],
+        "country": "United States"
+      },
+      "abstract": "Background The optimal timing of intubation for critically ill patients with severe respiratory illness remains controversial among healthcare providers. The coronavirus disease 2019 (COVID-19) pandemic has raised even more questions about when to implement this life-saving therapy. While one group of providers prefers early intubation for patients with respiratory distress because these patients may deteriorate rapidly without it, other providers believe that intubation should be delayed or avoided because of its associated risks including worse outcomes. Research question Our objective was to assess whether the timing of intubation in patients with severe COVID-19 pneumonia was associated with differences in mortality or other outcomes. Study design and methods This was a single-center retrospective observational cohort study. We analyzed outcomes of patients who were intubated secondary to COVID-19 pneumonia between March 13, 2020, and December 12, 2020, at Henry Ford Hospital in Detroit, Michigan. Patients were categorized into two groups: early intubated (intubated within 24 hours of the onset of severe respiratory distress) and late intubated (intubated after 24 hours of the onset of severe respiratory distress). Demographics, comorbidities, respiratory rate oxygenation (ROX) index, sequential organ failure assessment (SOFA) score, and treatment received were compared between groups. The primary outcome was mortality. Secondary outcomes were ventilation time, intensive care unit stay, hospital length of stay, and discharge disposition. Post hoc and Kaplan-Meier survival analyses were performed. Results A total of 110 patients were included: 55 early intubated and 55 late intubated. We did not observe a significant difference in overall mortality between the early intubated (43%) and the late intubated groups (53%) (p = 0.34). There was no statistically significant difference in patients' baseline characteristics including SOFA scores (the early intubation group had a mean score of 7.5 compared to 6.7 in the late intubation group). Based on the ROX index, the early intubation group had significantly more patients with a reduced risk of intubation (45%) than the late group (27%) (p = 0.029). The early intubation group was treated with a high-flow nasal cannula at a significantly lower rate (47%) than the late intubation group (83%) (p < 0.001). Significant differences in patient baseline characteristics, treatment received, and other outcomes were not observed. Post hoc analysis adjusting for SOFA score between 0 and 9 revealed significantly higher mortality in the late intubation group (49%) than in the early intubation group (26%) (p = 0.03). Patients in the 0 to 9 SOFA group who were intubated later had 2.7 times the odds of dying during hospital admission compared to patients who were intubated early (CI, 1.09-6.67). Interpretation The timing of intubation for patients with severe COVID-19 pneumonia was not significantly associated with overall mortality or other patient outcomes. However, within the subgroup of patients with SOFA scores of 9 or lower at the time of intubation, patients intubated after 24 hours of the onset of respiratory distress had a higher risk of death than those who were intubated within 24 hours of respiratory distress. Thus, patients with COVID-19 pneumonia who are not at a high level of organ dysfunction may benefit from early mechanical ventilation.",
+      "scholarly_citations_count": 24
+    },
+    {
+      "lens_id": "013-594-782-704-814",
+      "title": "Noninvasive Ventilation Reduces Rates of Intubation Compared With High Flow Oxygenation in Patients With Severe COVID-19.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-11-02T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "doi",
+          "value": "10.1016/j.annemergmed.2022.06.028"
+        },
+        {
+          "type": "pmid",
+          "value": "36334959"
+        },
+        {
+          "type": "openalex",
+          "value": "W4308160025"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc9627532"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "David H",
+          "last_name": "Gordon",
+          "initials": "DH",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5084945359"
+            },
+            {
+              "type": "magid",
+              "value": "5084945359"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, University of Florida Jacksonville, Jacksonville, FL."
+            },
+            {
+              "name": "University of Florida",
+              "name_original": "Department of Emergency Medicine, University of Florida Jacksonville, Jacksonville, FL.",
+              "ids": [
+                {
+                  "type": "fundref",
+                  "value": "100007698"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.15276.37"
+                },
+                {
+                  "type": "ror",
+                  "value": "02y3ad647"
+                }
+              ],
+              "grid_id": "grid.15276.37",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Bracey",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5050358138"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0003-0731-9527"
+            },
+            {
+              "type": "magid",
+              "value": "5050358138"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, Albany Medical Center, Albany, NY."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Annals of emergency medicine",
+        "type": "Journal",
+        "publisher": "Elsevier BV",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "10976760"
+          },
+          {
+            "type": "print",
+            "value": "01960644"
+          },
+          {
+            "type": "unknown",
+            "value": "10858717"
+          }
+        ],
+        "country": "United States",
+        "asjc_codes": [
+          "2711"
+        ],
+        "asjc_subjects": [
+          "Emergency Medicine"
+        ]
+      },
+      "abstract": "Since January 2020 Elsevier has created a COVID-19 resource centre with free information in English and Mandarin on the novel coronavirus COVID-19. The COVID-19 resource centre is hosted on Elsevier Connect, the company's public news and information website. Elsevier hereby grants permission to make all its COVID-19-related research that is available on the COVID-19 resource centre -including this research content -immediately available in PubMed Central and other publicly funded repositories, such as the WHO COVID database with rights for unrestricted research re-use and analyses in any form or by any means with acknowledgement of the original source. These permissions are granted for free by Elsevier for as long as the COVID-19 resource centre remains active. Role of Noninvasive Ventilation in COVID-19 Respiratory Failure Opposing authors provide succinct, authoritative discussions of controversial issues in emergency medicine. Authors are provided the opportunity to review and comment on opposing presentations. Each topic is accompanied by an Editor's Note that summarizes important concepts. Participation as an authoritative discussant is by invitation only, but suggestions for topics and potential authors can be submitted to the section editors. Editor's Note: Determining optimal strategies for respiratory support in patients with COVID-19 can be challenging. In particular, our understanding of the role of noninvasive ventilation for COVID-19 pneumonia is evolving, and the overall benefits remain unclear. In this installment of Clinical Controversies, our discussants present opposing views on the use of noninvasive ventilation by comparing strategies that embrace noninvasive ventilation as opposed to strategies that restrict the use of noninvasive ventilation."
+    },
+    {
+      "lens_id": "154-077-423-652-722",
+      "title": "Comparison of Early and Late Intubation in COVID-19 and Its Effect on Mortality.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-03-05T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "openalex",
+          "value": "W4221135669"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc8910588"
+        },
+        {
+          "type": "pmid",
+          "value": "35270767"
+        },
+        {
+          "type": "doi",
+          "value": "10.3390/ijerph19053075"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Benjamin",
+          "last_name": "McKay",
+          "initials": "B",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5079306816"
+            },
+            {
+              "type": "magid",
+              "value": "5079306816"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Temple/St. Luke's Medical School, St. Luke's University Hospital, 801 Ostrum Street, Bethlehem, PA 18015, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Matthew",
+          "last_name": "Meyers",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5026241339"
+            },
+            {
+              "type": "magid",
+              "value": "5026241339"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, St. Luke's University Health Network, 801 Ostrum Street, Bethlehem, PA 18015, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Leah",
+          "last_name": "Rivard",
+          "initials": "L",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5011555571"
+            },
+            {
+              "type": "openalex",
+              "value": "A5011555571"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, St. Luke's University Health Network, 801 Ostrum Street, Bethlehem, PA 18015, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Holly",
+          "last_name": "Stankewicz",
+          "initials": "H",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5035893101"
+            },
+            {
+              "type": "magid",
+              "value": "5035893101"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, St. Luke's University Health Network, 801 Ostrum Street, Bethlehem, PA 18015, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Jill C",
+          "last_name": "Stoltzfus",
+          "initials": "JC",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5111993529"
+            },
+            {
+              "type": "magid",
+              "value": "5111993529"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, St. Luke's University Health Network, 801 Ostrum Street, Bethlehem, PA 18015, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Guhan",
+          "last_name": "Rammohan",
+          "initials": "G",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5014173079"
+            },
+            {
+              "type": "magid",
+              "value": "5014173079"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Emergency Medicine, St. Luke's University Health Network, 801 Ostrum Street, Bethlehem, PA 18015, USA."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "International journal of environmental research and public health",
+        "type": "Journal",
+        "publisher": "MDPI AG",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "16604601"
+          },
+          {
+            "type": "print",
+            "value": "16617827"
+          }
+        ],
+        "country": "Switzerland",
+        "asjc_codes": [
+          "2307",
+          "2739"
+        ],
+        "asjc_subjects": [
+          "Health, Toxicology and Mutagenesis",
+          "Public Health, Environmental and Occupational Health"
+        ]
+      },
+      "abstract": "<AbstractText Label=\"BACKGROUND\" NlmCategory=\"BACKGROUND\">Best practices for management of COVID-19 patients with acute respiratory failure continue to evolve. Initial debate existed over whether patients should be intubated in the emergency department or trialed on noninvasive methods prior to intubation outside the emergency department.</AbstractText>\n          <AbstractText Label=\"OBJECTIVES\" NlmCategory=\"OBJECTIVE\">To determine whether emergency department intubations in COVID-19 affect mortality.</AbstractText>\n          <AbstractText Label=\"METHODS\" NlmCategory=\"METHODS\">We conducted a retrospective observational chart review of patients who had a confirmed positive COVID-19 test and required endotracheal intubation during their hospital course between 1 March 2020 and 1 June 2020. Patients were divided into two groups based on location of intubation: early intubation in the emergency department or late intubation performed outside the emergency department. Clinical and demographic information was collected including comorbid medical conditions, qSOFA score, and patient mortality.</AbstractText>\n          <AbstractText Label=\"RESULTS\" NlmCategory=\"RESULTS\">Of the 131 COVID-19-positive patients requiring intubation, 30 (22.9%) patients were intubated in the emergency department. No statistically significant difference existed in age, gender, ethnicity, or smoking status between the two groups at baseline. Patients in the early intubation cohort had a greater number of existing comorbidities (2.5, <i>p</i> = 0.06) and a higher median qSOFA score (3, <i>p</i> \u2264 0.001). Patients managed with early intubation had a statistically significant higher mortality rate (19/30, 63.3%) compared to the late intubation group (42/101, 41.6%).</AbstractText>\n          <AbstractText Label=\"CONCLUSION\" NlmCategory=\"CONCLUSIONS\">COVID-19 patients intubated in the emergency department had a higher qSOFA score and a greater number of pre-existing comorbidities. All-cause mortality in COVID-19 was greater in patients intubated in the emergency department compared to patients intubated outside the emergency department.</AbstractText>",
+      "scholarly_citations_count": 10
+    },
+    {
+      "lens_id": "126-048-782-495-011",
+      "title": "Non-invasive respiratory support paths in hospitalized patients with COVID-19: proposal of an algorithm.",
+      "publication_type": "journal article",
+      "year_published": 2021,
+      "date_published": "2021-07-30T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmid",
+          "value": "33516668"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.pulmoe.2020.12.005"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc7816939"
+        },
+        {
+          "type": "magid",
+          "value": "3124208674"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Jo\u00e3o Carlos",
+          "last_name": "Winck",
+          "initials": "JC",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-2444-8710"
+            },
+            {
+              "type": "magid",
+              "value": "1999424434"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Facultyof Medicine-Porto University, Portugal"
+            }
+          ]
+        },
+        {
+          "first_name": "Raffaele",
+          "last_name": "Scala",
+          "initials": "R",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2482551535"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-6448-8437"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Pulmonology and Respiratory Intensive Care Unit, S Donato Hospital, Arezzo, Italy."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Pulmonology",
+        "publisher": "Informa UK Limited",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "25310437"
+          },
+          {
+            "type": "print",
+            "value": "25310429"
+          }
+        ],
+        "country": "United States"
+      },
+      "abstract": "COVID-19 related Acute Respiratory Failure, may be successfully treated with Conventional Oxygen therapy, High Flow Nasal Cannula, Continuous Positive Airway Pressure or Bi-level Positive-Pressure ventilation. Despite the accumulated data in favor of the use of different Non-invasive Respiratory therapies in COVID-19 related Acute Respiratory Failure, it is not fully understood when start, escalate and de-escalate the best respiratory supportive option for the different timing of the disease. Based on the current published experience with Non-invasive Respiratory therapies in COVID-19 related Acute Respiratory Failure, we propose an algorithm in deciding when to start, when to stop and when to wean different NIRT. This strategy may help clinicians in better choosing NIRT during this second COVID-19 wave and beyond.",
+      "scholarly_citations_count": 43
+    },
+    {
+      "lens_id": "141-392-498-354-832",
+      "title": "Comparison of clinical characteristics and outcomes of COVID-19 patients undergoing early versus late intubation from initial hospital admission: A systematic review and meta-analysis.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-03-31T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmid",
+          "value": "35367154"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc8968211"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.resinv.2022.02.007"
+        },
+        {
+          "type": "openalex",
+          "value": "W4221118225"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Woon Hean",
+          "last_name": "Chong",
+          "initials": "WH",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5049112419"
+            },
+            {
+              "type": "openalex",
+              "value": "A5049112419"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-2070-3585"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Pulmonary and Critical Care Medicine, Albany Medical Center, 43 New Scotland Avenue, Albany, New York, 12208, USA. Electronic address: Keenan_chong_woon_hean@nuhs.edu.sg."
+            }
+          ]
+        },
+        {
+          "first_name": "Biplab K",
+          "last_name": "Saha",
+          "initials": "BK",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5045064403"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-3595-8804"
+            },
+            {
+              "type": "openalex",
+              "value": "A5045064403"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Pulmonary and Critical Care, Ozarks Medical Center, 1100 Kentucky Ave, West Plains, Missouri, 65775, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Dermot J",
+          "last_name": "Murphy",
+          "initials": "DJ",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5044703472"
+            },
+            {
+              "type": "openalex",
+              "value": "A5044703472"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Medicine, Mercy Medical Center, 271 Carew Street, Springfield, MA, 01104, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Amit",
+          "last_name": "Chopra",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5015752354"
+            },
+            {
+              "type": "openalex",
+              "value": "A5015752354"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Pulmonary and Critical Care Medicine, Albany Medical Center, 43 New Scotland Avenue, Albany, New York, 12208, USA."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Respiratory investigation",
+        "type": "Journal",
+        "publisher": "Elsevier BV",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "22125353"
+          },
+          {
+            "type": "print",
+            "value": "22125345"
+          }
+        ],
+        "country": "Netherlands",
+        "asjc_codes": [
+          "2740"
+        ],
+        "asjc_subjects": [
+          "Pulmonary and Respiratory Medicine"
+        ]
+      },
+      "abstract": "<AbstractText Label=\"BACKGROUND\" NlmCategory=\"BACKGROUND\">The true impact of intubation and mechanical ventilation in coronavirus disease 2019 (COVID-19) patients remains controversial.</AbstractText>\n          <AbstractText Label=\"METHODS\" NlmCategory=\"METHODS\">We searched Pubmed, Cochrane Library, Embase, and Web of Science databases from inception to October 30th, 2021 for studies containing comparative data of COVID-19 patients undergoing early versus late intubation from initial hospital admission. Early intubation was defined as intubation within 48\u00a0h of hospital admission. The primary outcomes assessed were all-cause in-hospital mortality, renal replacement therapy (RRT), and invasive mechanical ventilation (IMV) duration.</AbstractText>\n          <AbstractText Label=\"RESULTS\" NlmCategory=\"RESULTS\">Four cohort studies with 498 COVID-19 patients were included between February to August 2020, in which 28.6% had early intubation, and 36.0% underwent late intubation. Although the pooled hospital mortality rate was 32.1%, no significant difference in mortality rate was observed (odds ratio [OR] 0.81; 95% confidence interval 0.32-2.00; P\u00a0=\u00a00.64) among those undergoing early and late intubation. IMV duration (mean 9.62 vs. 11.77 days; P\u00a0=\u00a00.25) and RRT requirement (18.3% vs. 14.6%; OR 1.19; P\u00a0=\u00a00.59) were similar regardless of intubation timing. While age, sex, diabetes, and body mass index were comparable, patients undergoing early intubation had higher sequential organ failure assessment (SOFA) scores (mean 7.00 vs. 5.17; P\u00a0&lt;\u00a00.001).</AbstractText>\n          <AbstractText Label=\"CONCLUSIONS\" NlmCategory=\"CONCLUSIONS\">The timing of intubation from initial hospital admission did not significantly alter clinical outcomes during the early phase of the COVID-19 pandemic. Higher SOFA scores could explain early intubation. With the advancements in COVID-19 therapies, more research is required to determine optimal intubation time beyond the first wave of the pandemic.</AbstractText>\n          <CopyrightInformation>Copyright \u00a9 2022 The Japanese Respiratory Society. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>",
+      "scholarly_citations_count": 5
+    },
+    {
+      "lens_id": "176-914-635-758-821",
+      "title": "Noninvasive Ventilation in Treatment of Respiratory Failure-Related COVID-19 Infection: Review of the Literature.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-08-31T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "doi",
+          "value": "10.1155/2022/9914081"
+        },
+        {
+          "type": "pmid",
+          "value": "36091330"
+        },
+        {
+          "type": "openalex",
+          "value": "W4294351391"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc9453089"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Bushra",
+          "last_name": "Mina",
+          "initials": "B",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5035450802"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-8796-9591"
+            },
+            {
+              "type": "openalex",
+              "value": "A5035450802"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Division, Pulmonary Critical Care Medicine, Lenox Hill Hospital, New York, NY, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Newton",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5018743731"
+            },
+            {
+              "type": "openalex",
+              "value": "A5018743731"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Internal Medicine, Lenox Hill Hospital, New York, NY, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Vijay",
+          "last_name": "Hadda",
+          "initials": "V",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5070797967"
+            },
+            {
+              "type": "openalex",
+              "value": "A5070797967"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Pulmonary, Critical Care & Sleep Medicine, All India Institute of Medical Sciences, New Delhi, India."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Canadian respiratory journal",
+        "type": "Journal",
+        "publisher": "Wiley",
+        "issn": [
+          {
+            "type": "unknown",
+            "value": "19167245"
+          },
+          {
+            "type": "print",
+            "value": "11982241"
+          }
+        ],
+        "country": "Egypt",
+        "asjc_codes": [
+          "2740"
+        ],
+        "asjc_subjects": [
+          "Pulmonary and Respiratory Medicine"
+        ]
+      },
+      "abstract": "The recently diagnosed coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), in December 2019 commonly affects the respiratory system. The incidence of acute hypoxic respiratory failure varied among epidemiological studies with high percentage of patients requiring mechanical ventilation with a high mortality. Noninvasive ventilation is an alternative tool for ventilatory support instead of invasive mechanical ventilation, especially with scarce resources and intensive care beds. Initially, there were concerns by the national societies regarding utilization of noninvasive ventilation in acute respiratory failure. Recent publications reflect the gained experience with the safe utilization of noninvasive mechanical ventilation. Noninvasive ventilation has beneficiary role in treatment of acute hypoxic respiratory failure with proper indications, setting, monitoring, and timely escalation of therapy. Patients should be monitored frequently for signs of improvement or deterioration in the clinical status. Awareness of indications, contraindications, and parameters reflecting either success or failure of noninvasive ventilation in the management of acute respiratory failure secondary to COVID-19 is essential for improvement of outcomes.",
+      "scholarly_citations_count": 14
+    },
+    {
+      "lens_id": "034-073-127-362-166",
+      "title": "Effect of timing of intubation on clinical outcomes of critically ill patients with COVID-19: a systematic review and meta-analysis of non-randomized cohort studies.",
+      "publication_type": "journal article",
+      "year_published": 2021,
+      "date_published": "2021-03-25T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "doi",
+          "value": "10.1186/s13054-021-03540-6"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc7993905"
+        },
+        {
+          "type": "pmid",
+          "value": "33766109"
+        },
+        {
+          "type": "magid",
+          "value": "3135970003"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Eleni",
+          "last_name": "Papoutsi",
+          "initials": "E",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2971894997"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "National and Kapodistrian University of Athens",
+              "name_original": "First Department of Critical Care Medicine and Pulmonary Services, Evangelismos Hospital, National and Kapodistrian University of Athens Medical School, Athens, Greece",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "200777214"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5216.0"
+                },
+                {
+                  "type": "ror",
+                  "value": "04gnjpq42"
+                }
+              ],
+              "grid_id": "grid.5216.0",
+              "country_code": "GR"
+            }
+          ]
+        },
+        {
+          "first_name": "Vassilis G.",
+          "last_name": "Giannakoulis",
+          "initials": "VG",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2990704794"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "National and Kapodistrian University of Athens",
+              "name_original": "First Department of Critical Care Medicine and Pulmonary Services, Evangelismos Hospital, National and Kapodistrian University of Athens Medical School, Athens, Greece",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "200777214"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5216.0"
+                },
+                {
+                  "type": "ror",
+                  "value": "04gnjpq42"
+                }
+              ],
+              "grid_id": "grid.5216.0",
+              "country_code": "GR"
+            }
+          ]
+        },
+        {
+          "first_name": "Eleni",
+          "last_name": "Xourgia",
+          "initials": "E",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2892055627"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "National and Kapodistrian University of Athens",
+              "name_original": "First Department of Critical Care Medicine and Pulmonary Services, Evangelismos Hospital, National and Kapodistrian University of Athens Medical School, Athens, Greece",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "200777214"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5216.0"
+                },
+                {
+                  "type": "ror",
+                  "value": "04gnjpq42"
+                }
+              ],
+              "grid_id": "grid.5216.0",
+              "country_code": "GR"
+            }
+          ]
+        },
+        {
+          "first_name": "Christina",
+          "last_name": "Routsi",
+          "initials": "C",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2068081381"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "National and Kapodistrian University of Athens",
+              "name_original": "First Department of Critical Care Medicine and Pulmonary Services, Evangelismos Hospital, National and Kapodistrian University of Athens Medical School, Athens, Greece",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "200777214"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5216.0"
+                },
+                {
+                  "type": "ror",
+                  "value": "04gnjpq42"
+                }
+              ],
+              "grid_id": "grid.5216.0",
+              "country_code": "GR"
+            }
+          ]
+        },
+        {
+          "first_name": "Anastasia",
+          "last_name": "Kotanidou",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "1240316635"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "National and Kapodistrian University of Athens",
+              "name_original": "First Department of Critical Care Medicine and Pulmonary Services, Evangelismos Hospital, National and Kapodistrian University of Athens Medical School, Athens, Greece",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "200777214"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5216.0"
+                },
+                {
+                  "type": "ror",
+                  "value": "04gnjpq42"
+                }
+              ],
+              "grid_id": "grid.5216.0",
+              "country_code": "GR"
+            }
+          ]
+        },
+        {
+          "first_name": "Ilias I.",
+          "last_name": "Siempos",
+          "initials": "II",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "24706373"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0003-0036-3322"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "NewYork\u2013Presbyterian Hospital",
+              "name_original": "Division of Pulmonary and Critical Care Medicine, Department of Medicine, Weill Cornell Medicine, New York-Presbyterian Hospital-Weill Cornell Medical Center, New York, USA",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "1340179700"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.413734.6"
+                },
+                {
+                  "type": "ror",
+                  "value": "03gzbrs57"
+                }
+              ],
+              "grid_id": "grid.413734.6",
+              "country_code": "US"
+            },
+            {
+              "name": "National and Kapodistrian University of Athens",
+              "name_original": "First Department of Critical Care Medicine and Pulmonary Services, Evangelismos Hospital, National and Kapodistrian University of Athens Medical School, Athens, Greece",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "200777214"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5216.0"
+                },
+                {
+                  "type": "ror",
+                  "value": "04gnjpq42"
+                }
+              ],
+              "grid_id": "grid.5216.0",
+              "country_code": "GR"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Critical care (London, England)",
+        "type": "Journal",
+        "publisher": "Springer Science and Business Media LLC",
+        "issn": [
+          {
+            "type": "print",
+            "value": "1466609x"
+          },
+          {
+            "type": "electronic",
+            "value": "13648535"
+          }
+        ],
+        "country": "United Kingdom",
+        "asjc_codes": [
+          "2706",
+          "2700"
+        ],
+        "asjc_subjects": [
+          "General Medicine",
+          "Critical Care and Intensive Care Medicine"
+        ]
+      },
+      "abstract": "Although several international guidelines recommend early over late intubation of patients with severe coronavirus disease 2019 (COVID-19), this issue is still controversial. We aimed to investigate the effect (if any) of timing of intubation on clinical outcomes of critically ill patients with COVID-19 by carrying out a systematic review and meta-analysis. PubMed and Scopus were systematically searched, while references and preprint servers were explored, for relevant articles up to December 26, 2020, to identify studies which reported on mortality and/or morbidity of patients with COVID-19 undergoing early versus late intubation. \u201cEarly\u201d was defined as intubation within 24\u00a0h from intensive care unit (ICU) admission, while \u201clate\u201d as intubation at any time after 24\u00a0h of ICU admission. All-cause mortality and duration of mechanical ventilation (MV) were the primary outcomes of the meta-analysis. Pooled risk ratio (RR), pooled mean difference (MD) and 95% confidence intervals (CI) were calculated using a random effects model. The meta-analysis was registered with PROSPERO (CRD42020222147). A total of 12 studies, involving 8944 critically ill patients with COVID-19, were included. There was no statistically detectable difference on all-cause mortality between patients undergoing early versus late intubation (3981 deaths; 45.4% versus 39.1%; RR 1.07, 95% CI 0.99\u20131.15, p\u2009=\u20090.08). This was also the case for duration of MV (1892 patients; MD \u2212\u20090.58\u00a0days, 95% CI \u2212\u20093.06 to 1.89\u00a0days, p\u2009=\u20090.65). In a sensitivity analysis using an alternate definition of early/late intubation, intubation without versus with a prior trial of high-flow nasal cannula or noninvasive mechanical ventilation was still not associated with a statistically detectable difference on all-cause mortality (1128 deaths; 48.9% versus 42.5%; RR 1.11, 95% CI 0.99\u20131.25, p\u2009=\u20090.08). The synthesized evidence suggests that timing of intubation may have no effect on mortality and morbidity of critically ill patients with COVID-19. These results might justify a wait-and-see approach, which may lead to fewer intubations. Relevant guidelines may therefore need to be updated.",
+      "scholarly_citations_count": 205
+    },
+    {
+      "lens_id": "141-468-607-717-670",
+      "title": "Clinical Outcomes of Early Versus Late Intubation in COVID-19 Patients.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-01-27T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "openalex",
+          "value": "W4210296607"
+        },
+        {
+          "type": "doi",
+          "value": "10.7759/cureus.21669"
+        },
+        {
+          "type": "pmcid",
+          "value": "pmc8882044"
+        },
+        {
+          "type": "pmid",
+          "value": "35237472"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Ali",
+          "last_name": "Al-Tarbsheh",
+          "initials": "A",
+          "ids": [],
+          "affiliations": [
+            {
+              "name": "Internal Medicine, Albany Medical Center, Albany, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Woon",
+          "last_name": "Chong",
+          "initials": "W",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5049112419"
+            },
+            {
+              "type": "openalex",
+              "value": "A5049112419"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-2070-3585"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Pulmonary and Critical Care Medicine, Albany Medical Center, Albany, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Jozef",
+          "last_name": "Oweis",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5043450370"
+            },
+            {
+              "type": "openalex",
+              "value": "A5043450370"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Internal Medicine, Albany Medical Center, Albany, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Biplab",
+          "last_name": "Saha",
+          "initials": "B",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5045064403"
+            },
+            {
+              "type": "openalex",
+              "value": "A5045064403"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Pulmonary and Critical Care, Ozark Medical Center, West Plan, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Paul",
+          "last_name": "Feustel",
+          "initials": "P",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-6963-4349"
+            },
+            {
+              "type": "openalex",
+              "value": "A5000360560"
+            },
+            {
+              "type": "magid",
+              "value": "5000360560"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Neuroscience and Experimental Therapeutics, Albany Medical College, Albany, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Annie",
+          "last_name": "Leamon",
+          "initials": "A",
+          "ids": [],
+          "affiliations": [
+            {
+              "name": "Internal Medicine, Albany Medical College, Albany, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Amit",
+          "last_name": "Chopra",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5015752354"
+            },
+            {
+              "type": "openalex",
+              "value": "A5015752354"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Pulmonary and Critical Care Medicine, Albany Medical Center, Albany, USA."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Cureus",
+        "publisher": "Springer Science and Business Media LLC",
+        "issn": [
+          {
+            "type": "unknown",
+            "value": "21688184"
+          }
+        ],
+        "country": "United States",
+        "asjc_subjects": [
+          "General Engineering"
+        ]
+      },
+      "abstract": "Background The implications of intubation timing in COVID-19 patients remain highly debatable due to the scarcity of available evidence. Objectives Our study aims to assess the clinical characteristics and outcomes of COVID-19 patients undergoing early intubation compared to those undergoing late intubation. Methods This is a single-center retrospective study of adult COVID-19 patients admitted between March 1, 2020 and January 10, 2021. Early intubation was defined as intubation within 24 hours of a) hospital admission; b) respiratory status deterioration requiring FiO<sub>2</sub> 60% and higher; or c) moderate/severe acute respiratory distress syndrome (ARDS) diagnosis. Results Among the 128 COVID-19 patients included, 66.4% required early intubation, and 33.6% required late intubation. The 28-day all-cause mortality and other outcomes of mechanical ventilation duration, hospital and ICU length of stay were equal regardless of intubation timing. Clinical characteristics, inflammatory markers, COVID-19 therapies, PaO<sub>2</sub>/FiO<sub>2</sub> ratio, and pH were comparable for both groups. Better lung compliance was observed during early intubation than late intubation based on plateau (mean 21.3 vs. 25.5 cmH<sub>2</sub>O; P < 0.01) and peak pressure (mean 24.1 vs. 27.4 cmH<sub>2</sub>O; P = 0.04). Conclusions In critically ill COVID-19 patients, the timing of intubation was not significantly associated with poor clinical outcomes in the setting of matching clinical characteristics. More research is needed to determine which subset of patients may benefit from intubation and the predictors for optimal intubation timing.",
+      "scholarly_citations_count": 6
+    },
+    {
+      "lens_id": "087-179-559-403-054",
+      "title": "High-flow nasal cannula for acute hypoxemic respiratory failure in patients with COVID-19: systematic reviews of effectiveness and its risks of aerosolization, dispersion, and infection transmission.",
+      "publication_type": "journal article",
+      "year_published": 2020,
+      "date_published": "2020-06-15T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmcid",
+          "value": "pmc7294988"
+        },
+        {
+          "type": "pmid",
+          "value": "32542464"
+        },
+        {
+          "type": "doi",
+          "value": "10.1007/s12630-020-01740-2"
+        },
+        {
+          "type": "magid",
+          "value": "3035761977"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Arnav",
+          "last_name": "Agarwal",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2139676466"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-0931-7851"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Toronto",
+              "name_original": " Department of Medicine, University of Toronto, Toronto, ON, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "185261750"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.17063.33"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100003579"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q180865"
+                },
+                {
+                  "type": "ror",
+                  "value": "03dbr7087"
+                }
+              ],
+              "grid_id": "grid.17063.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "John",
+          "last_name": "Basmaji",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2033017880"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-9749-1747"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Western Ontario",
+              "name_original": "Division of Critical Care, Department of Medicine, Schulich School of Medicine and Dentistry, Western University, London, ON, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "125749732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.39381.30"
+                },
+                {
+                  "type": "ror",
+                  "value": "02grkyz14"
+                }
+              ],
+              "grid_id": "grid.39381.30",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Fiona",
+          "last_name": "Muttalib",
+          "initials": "F",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0001-5730-4142"
+            },
+            {
+              "type": "magid",
+              "value": "2957573550"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Centre for Global Child Health, Hospital for Sick Children, Toronto, ON, Canada."
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Granton",
+          "initials": "D",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2923006499"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Michael G. Degroote School of Medicine, McMaster University, Hamilton, ON, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Dipayan",
+          "last_name": "Chaudhuri",
+          "initials": "D",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2553865463"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Dept. of Medicine, McMaster University, Hamilton, ON, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Devin",
+          "last_name": "Chetan",
+          "initials": "D",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2060141061"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-2446-6636"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Toronto",
+              "name_original": "Division of Cardiology, Labatt Family Heart Centre, The Hospital for Sick Children, Toronto, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "185261750"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.17063.33"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100003579"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q180865"
+                },
+                {
+                  "type": "ror",
+                  "value": "03dbr7087"
+                }
+              ],
+              "grid_id": "grid.17063.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Malini",
+          "last_name": "Hu",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3034377919"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Michael G. Degroote School of Medicine, McMaster University, Hamilton, ON, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Shannon M.",
+          "last_name": "Fernando",
+          "initials": "SM",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2096851024"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Ottawa",
+              "name_original": "Division of Critical Care, Department of Medicine, University of Ottawa, Ottawa, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "153718931"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.28046.38"
+                },
+                {
+                  "type": "ror",
+                  "value": "03c4mmv16"
+                }
+              ],
+              "grid_id": "grid.28046.38",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Kimia",
+          "last_name": "Honarmand",
+          "initials": "K",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2670119869"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Western Ontario",
+              "name_original": "Schulich School of Medicine and Dentistry, Department of Medicine, Western University, London, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "125749732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.39381.30"
+                },
+                {
+                  "type": "ror",
+                  "value": "02grkyz14"
+                }
+              ],
+              "grid_id": "grid.39381.30",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Layla",
+          "last_name": "Bakaa",
+          "initials": "L",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3035159614"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Honours Life Sciences Program, Faculty of Science, McMaster University, Hamilton, ON, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sonia",
+          "last_name": "Brar",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3034338028"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University at Buffalo",
+              "name_original": "School of Medicine & Biomedical Sciences, University of Buffalo, Buffalo, NY, USA,",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "63190737"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.273335.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "100008209"
+                },
+                {
+                  "type": "ror",
+                  "value": "01y64my43"
+                }
+              ],
+              "grid_id": "grid.273335.3",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Bram",
+          "last_name": "Rochwerg",
+          "initials": "B",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2093827124"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Michael G. DeGroote School of Medicine, McMaster University, Hamilton, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Neill K. J.",
+          "last_name": "Adhikari",
+          "initials": "NKJ",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2139282896"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Sunnybrook Health Sciences Centre",
+              "name_original": "Department of Critical Care Medicine, Sunnybrook Health Sciences Centre, Toronto, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "1323843004"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.413104.3"
+                },
+                {
+                  "type": "ror",
+                  "value": "03wefcv03"
+                }
+              ],
+              "grid_id": "grid.413104.3",
+              "country_code": "CA"
+            },
+            {
+              "name": "University of Toronto",
+              "name_original": "Interdepartmental Division of Critical Care Medicine, University of Toronto, Toronto, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "185261750"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.17063.33"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100003579"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q180865"
+                },
+                {
+                  "type": "ror",
+                  "value": "03dbr7087"
+                }
+              ],
+              "grid_id": "grid.17063.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Francois",
+          "last_name": "Lamontagne",
+          "initials": "F",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "28006494"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-0360-3427"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Universit\u00e9 de Sherbrooke",
+              "name_original": "Universit\u00e9 de Sherbrooke, Sherbrooke, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "135117807"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.86715.3d"
+                },
+                {
+                  "type": "isni",
+                  "value": "0000000121610033"
+                },
+                {
+                  "type": "ror",
+                  "value": "00kybxq39"
+                }
+              ],
+              "grid_id": "grid.86715.3d",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Srinivas",
+          "last_name": "Murthy",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2293504460"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-9476-839X"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of British Columbia",
+              "name_original": "BC Children's Hospital/University of British Columbia, Vancouver, BC, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "141945490"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.17091.3e"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100005247"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q391028"
+                },
+                {
+                  "type": "ror",
+                  "value": "03rmrcq20"
+                }
+              ],
+              "grid_id": "grid.17091.3e",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "David S.C.",
+          "last_name": "Hui",
+          "initials": "DSC",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2250735925"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "The Chinese University of Hong Kong",
+              "name_original": "Stanley Ho, Center for Emerging Infectious Diseases, The Chinese University of Hong Kong, Hong Kong, China",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "177725633"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.10784.3a"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100004853"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q15570"
+                },
+                {
+                  "type": "ror",
+                  "value": "00t33hh48"
+                }
+              ],
+              "grid_id": "grid.10784.3a",
+              "country_code": "HK"
+            }
+          ]
+        },
+        {
+          "first_name": "Charles D.",
+          "last_name": "Gomersall",
+          "initials": "CD",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2128714270"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "The Chinese University of Hong Kong",
+              "name_original": "Department of Anaesthesia & Intensive Care, The Chinese University of Hong Kong, Hong Kong, China",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "177725633"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.10784.3a"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100004853"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q15570"
+                },
+                {
+                  "type": "ror",
+                  "value": "00t33hh48"
+                }
+              ],
+              "grid_id": "grid.10784.3a",
+              "country_code": "HK"
+            }
+          ]
+        },
+        {
+          "first_name": "Samira",
+          "last_name": "Mubareka",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3089333441"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Sunnybrook Health Sciences Centre",
+              "name_original": "Division of Infectious Diseases, Sunnybrook Health Sciences Centre, Toronto, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "1323843004"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.413104.3"
+                },
+                {
+                  "type": "ror",
+                  "value": "03wefcv03"
+                }
+              ],
+              "grid_id": "grid.413104.3",
+              "country_code": "CA"
+            },
+            {
+              "name": "University of Toronto",
+              "name_original": "Department of Laboratory Medicine and Pathobiology, University of Toronto, Toronto, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "185261750"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.17063.33"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100003579"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q180865"
+                },
+                {
+                  "type": "ror",
+                  "value": "03dbr7087"
+                }
+              ],
+              "grid_id": "grid.17063.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Janet V.",
+          "last_name": "Diaz",
+          "initials": "JV",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2430373033"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "World Health Organization",
+              "name_original": "World Health Organization, Geneva, Switzerland",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "1290603121"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.475671.6"
+                },
+                {
+                  "type": "ror",
+                  "value": "047bn1w15"
+                }
+              ],
+              "grid_id": "grid.475671.6",
+              "country_code": "PK"
+            }
+          ]
+        },
+        {
+          "first_name": "Karen E. A.",
+          "last_name": "Burns",
+          "initials": "KEA",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2170175315"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "St. Michael's Hospital",
+              "name_original": "Unity Health Toronto \u2013 St. Michael\u2019s Hospital, Toronto, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "1297363086"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.415502.7"
+                },
+                {
+                  "type": "ror",
+                  "value": "04skqfp25"
+                }
+              ],
+              "grid_id": "grid.415502.7",
+              "country_code": "CA"
+            },
+            {
+              "name": "University of Toronto",
+              "name_original": "University of Toronto, Toronto, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "185261750"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.17063.33"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100003579"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q180865"
+                },
+                {
+                  "type": "ror",
+                  "value": "03dbr7087"
+                }
+              ],
+              "grid_id": "grid.17063.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Rachel",
+          "last_name": "Couban",
+          "initials": "R",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "1987456110"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-8672-2845"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Michael G. DeGroote Institute for Pain Research and Care, McMaster University, Hamilton, Canada",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Quazi",
+          "last_name": "Ibrahim",
+          "initials": "Q",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2111213202"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Department of Health Research, Methods, Evidence and Impact, McMaster University, Hamilton, ON, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Gordon H.",
+          "last_name": "Guyatt",
+          "initials": "GH",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "706057080"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "McMaster University",
+              "name_original": "Department of Health Research, Methods, Evidence and Impact, McMaster University, Hamilton, ON, Canada.",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "98251732"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.25073.33"
+                },
+                {
+                  "type": "ror",
+                  "value": "02fa3aq29"
+                }
+              ],
+              "grid_id": "grid.25073.33",
+              "country_code": "CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Per Olav",
+          "last_name": "Vandvik",
+          "initials": "PO",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0001-8958-2710"
+            },
+            {
+              "type": "magid",
+              "value": "1979975941"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "MAGIC Evidence Ecosystem Foundation, Oslo, Norway"
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+        "type": "Journal",
+        "publisher": "Springer New York",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "14968975"
+          },
+          {
+            "type": "print",
+            "value": "0832610x"
+          }
+        ],
+        "country": "Canada",
+        "asjc_codes": [
+          "2703",
+          "2700"
+        ],
+        "asjc_subjects": [
+          "General Medicine",
+          "Anesthesiology and Pain Medicine"
+        ]
+      },
+      "abstract": "We conducted two World Health Organization-commissioned reviews to inform use of high-flow nasal cannula (HFNC) in patients with coronavirus disease (COVID-19). We synthesized the evidence regarding efficacy and safety (review 1), as well as risks of droplet dispersion, aerosol generation, and associated transmission (review 2) of viral products. Literature searches were performed in Ovid MEDLINE, Embase, Web of Science, Chinese databases, and medRxiv. Review 1: we synthesized results from randomized-controlled trials (RCTs) comparing HFNC to conventional oxygen therapy (COT) in critically ill patients with acute hypoxemic respiratory failure. Review 2: we narratively summarized findings from studies evaluating droplet dispersion, aerosol generation, or infection transmission associated with HFNC. For both reviews, paired reviewers independently conducted screening, data extraction, and risk of bias assessment. We evaluated certainty of evidence using GRADE methodology. No eligible studies included COVID-19 patients. Review 1: 12 RCTs (n = 1,989 patients) provided low-certainty evidence that HFNC may reduce invasive ventilation (relative risk [RR], 0.85; 95% confidence interval [CI], 0.74 to 0.99) and escalation of oxygen therapy (RR, 0.71; 95% CI, 0.51 to 0.98) in patients with respiratory failure. Results provided no support for differences in mortality (moderate certainty), or in-hospital or intensive care length of stay (moderate and low certainty, respectively). Review 2: four studies evaluating droplet dispersion and three evaluating aerosol generation and dispersion provided very low certainty evidence. Two simulation studies and a crossover study showed mixed findings regarding the effect of HFNC on droplet dispersion. Although two simulation studies reported no associated increase in aerosol dispersion, one reported that higher flow rates were associated with increased regions of aerosol density. High-flow nasal cannula may reduce the need for invasive ventilation and escalation of therapy compared with COT in COVID-19 patients with acute hypoxemic respiratory failure. This benefit must be balanced against the unknown risk of airborne transmission.",
+      "scholarly_citations_count": 162
+    },
+    {
+      "lens_id": "035-522-497-972-575",
+      "title": "Implications of early respiratory support strategies on disease progression in critical COVID-19: a matched subanalysis of the prospective RISC-19-ICU cohort.",
+      "publication_type": "journal article",
+      "year_published": 2021,
+      "date_published": "2021-05-25T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmcid",
+          "value": "pmc8146172"
+        },
+        {
+          "type": "magid",
+          "value": "3165065075"
+        },
+        {
+          "type": "pmid",
+          "value": "34034782"
+        },
+        {
+          "type": "doi",
+          "value": "10.1186/s13054-021-03580-y"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Pedro David Wendel",
+          "last_name": "Garcia",
+          "initials": "PDW",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3021550370"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-7775-3279"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Zurich",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "202697423"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.7400.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100006447"
+                },
+                {
+                  "type": "ror",
+                  "value": "02crff812"
+                }
+              ],
+              "grid_id": "grid.7400.3",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Hern\u00e1n",
+          "last_name": "Aguirre-Bermeo",
+          "initials": "H",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0001-7205-7020"
+            },
+            {
+              "type": "magid",
+              "value": "3165434457"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Unidad de Cuidados Intensivos, Hospital Vicente Corral Moscoso, Cuenca, Ecuador."
+            }
+          ]
+        },
+        {
+          "first_name": "Philipp K.",
+          "last_name": "Buehler",
+          "initials": "PK",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0003-4690-9896"
+            },
+            {
+              "type": "magid",
+              "value": "2526927747"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institute of Intensive Care Medicine, University Hospital of Zurich, Zurich, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Mario",
+          "last_name": "Alfaro-Farias",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165174181"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Unidad de Cuidados Intensivos, Hospital Nostra Senyora de Meritxell, Escaldes-Engordany, Andorra."
+            }
+          ]
+        },
+        {
+          "first_name": "Bernd",
+          "last_name": "Yuen",
+          "initials": "B",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165181821"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Interdisziplinaere Intensivstation, Spital Buelach, Buelach, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Sascha",
+          "last_name": "David",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2159332189"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-8231-0461"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Hannover Medical School",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "34809795"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.10423.34"
+                },
+                {
+                  "type": "isni",
+                  "value": "0000000123428921"
+                },
+                {
+                  "type": "ror",
+                  "value": "00f2yqf98"
+                }
+              ],
+              "grid_id": "grid.10423.34",
+              "country_code": "DE"
+            }
+          ]
+        },
+        {
+          "first_name": "Thomas",
+          "last_name": "Tschoellitsch",
+          "initials": "T",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3037234590"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Johannes Kepler University of Linz",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "121883995"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.9970.7"
+                },
+                {
+                  "type": "ror",
+                  "value": "052r2xn60"
+                }
+              ],
+              "grid_id": "grid.9970.7",
+              "country_code": "AT"
+            }
+          ]
+        },
+        {
+          "first_name": "Tobias",
+          "last_name": "Wengenmayer",
+          "initials": "T",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2020600983"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Freiburg",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "161046081"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.5963.9"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100002714"
+                },
+                {
+                  "type": "isni",
+                  "value": "0000000404917203"
+                },
+                {
+                  "type": "ror",
+                  "value": "0245cg223"
+                }
+              ],
+              "grid_id": "grid.5963.9",
+              "country_code": "DE"
+            }
+          ]
+        },
+        {
+          "first_name": "Anita",
+          "last_name": "Kors\u00f3s",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "1974011049"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Szeged",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "227486990"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.9008.1"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100015763"
+                },
+                {
+                  "type": "ror",
+                  "value": "01pnej532"
+                }
+              ],
+              "grid_id": "grid.9008.1",
+              "country_code": "HU"
+            }
+          ]
+        },
+        {
+          "first_name": "Alberto",
+          "last_name": "Fogagnolo",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2689498597"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Anesthesia and Intensive Care, Azienda Ospedaliero-Universitaria di Ferrara, Cona, Italy."
+            }
+          ]
+        },
+        {
+          "first_name": "Gian-Reto",
+          "last_name": "Kleger",
+          "initials": "G",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2799435196"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Kantonsspital St. Gallen",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "2799884508"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.413349.8"
+                },
+                {
+                  "type": "ror",
+                  "value": "00gpmb873"
+                }
+              ],
+              "grid_id": "grid.413349.8",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Maddalena Alessandra",
+          "last_name": "Wu",
+          "initials": "MA",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2119428648"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0003-1078-1632"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Milan",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "189158943"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.4708.b"
+                },
+                {
+                  "type": "fundref",
+                  "value": "100012352"
+                },
+                {
+                  "type": "ror",
+                  "value": "00wjc7c48"
+                }
+              ],
+              "grid_id": "grid.4708.b",
+              "country_code": "IT"
+            }
+          ]
+        },
+        {
+          "first_name": "Riccardo",
+          "last_name": "Colombo",
+          "initials": "R",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3181987448"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-4476-4630"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Division of Anesthesia and Intensive Care, ASST Fatebenefratelli Sacco - \"Luigi Sacco\" Hospital, Milan, Italy."
+            }
+          ]
+        },
+        {
+          "first_name": "Fabrizio",
+          "last_name": "Turrini",
+          "initials": "F",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-4782-6980"
+            },
+            {
+              "type": "magid",
+              "value": "3164692021"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Internal Medicine, Azienda Ospedaliera Universitaria di Modena, Modena, Italy."
+            }
+          ]
+        },
+        {
+          "first_name": "Antonella",
+          "last_name": "Potalivo",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2068034638"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "UOC Anestesia e Rianimazione, Ospedale Infermi, Rimini, Italy."
+            }
+          ]
+        },
+        {
+          "first_name": "Emanuele",
+          "last_name": "Rezoagli",
+          "initials": "E",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2892388896"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-4506-7212"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Anesthesia and Intensive Care Medicine, Policlinico San Marco, Gruppo Ospedaliero San Donato, Bergamo, Italy."
+            }
+          ]
+        },
+        {
+          "first_name": "Raquel",
+          "last_name": "Rodr\u00edguez-Garc\u00eda",
+          "initials": "R",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165527528"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University Hospital Complex Of Vigo",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "2802353815"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.411855.c"
+                },
+                {
+                  "type": "ror",
+                  "value": "01ybfxd46"
+                }
+              ],
+              "grid_id": "grid.411855.c",
+              "country_code": "ES"
+            }
+          ]
+        },
+        {
+          "first_name": "Pedro",
+          "last_name": "Castro",
+          "initials": "P",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2156160171"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0002-6118-8970"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Medical Intensive Care Unit, Hospital Cl\u00ednic de Barcelona, Barcelona, Spain."
+            }
+          ]
+        },
+        {
+          "first_name": "Arantxa",
+          "last_name": "Lander-Azcona",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165739639"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Servicio de Medicina Intensiva, Hospital General San Jorge, Huesca, Spain."
+            }
+          ]
+        },
+        {
+          "first_name": "Maria C.",
+          "last_name": "Mart\u00edn-Delgado",
+          "initials": "MC",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164337582"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Servicio de Medicina Intensiva, Hospital Universitario de Torrej\u00f3n, Madrid, Spain."
+            }
+          ]
+        },
+        {
+          "first_name": "Herminia",
+          "last_name": "Lozano-G\u00f3mez",
+          "initials": "H",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164215206"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Unidad de Cuidados Intensivos, Hospital Cl\u00ednico Universitario Lozano Blesa, Zaragoza, Spain."
+            }
+          ]
+        },
+        {
+          "first_name": "Rolf",
+          "last_name": "Ensner",
+          "initials": "R",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164038365"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Klinik f\u00fcr Operative Intensivmedizin, Kantonsspital Aarau, Aarau, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Marc P.",
+          "last_name": "Michot",
+          "initials": "MP",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164159657"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Medizinische Intensivstation, Kantonsspital Aarau, Aarau, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Nadine",
+          "last_name": "Gehring",
+          "initials": "N",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164226135"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivstation, Kantonsspital Schaffhausen, Schaffhausen, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Peter",
+          "last_name": "Schott",
+          "initials": "P",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164759233"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institut fuer Anesthaesie und Intensivmedizin, Zuger Kantonsspital AG, Baar, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Martin",
+          "last_name": "Siegemund",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2095948467"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department Intensivmedizin, Universitaetsspital Basel, Basel, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Lukas",
+          "last_name": "Merki",
+          "initials": "L",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164932553"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivmedizin, St. Claraspital, Basel, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Jan",
+          "last_name": "Wiegand",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2332452831"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Interdisziplinaere Intensivmedizin, Lindenhofspital, Bern, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Marie M.",
+          "last_name": "Jeitziner",
+          "initials": "MM",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-0275-4602"
+            },
+            {
+              "type": "magid",
+              "value": "3165560959"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department of Intensive Care Medicine, University Hospital Bern, Inselspital, Bern, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Marcus",
+          "last_name": "Laube",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165713786"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Department Intensive Care Medicine, Spitalzentrum Biel, Biel, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Petra",
+          "last_name": "Salomon",
+          "initials": "P",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165358509"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivstation, Regionalspital Emmental AG, Burgdorf, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Frank",
+          "last_name": "Hillgaertner",
+          "initials": "F",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164748041"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivmedizin, Kantonsspital Graubuenden, Chur, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Alexander",
+          "last_name": "Dullenkopf",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165747390"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institut fuer Anaesthesie und Intensivmedizin, Spital Thurgau, Frauenfeld, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Hatem",
+          "last_name": "Ksouri",
+          "initials": "H",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2312116699"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Soins Intensifs, Hopital cantonal de Fribourg, Fribourg, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Sara",
+          "last_name": "Cereghetti",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164376023"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Division of Intensive Care, University Hospitals of Geneva, Geneva, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Serge",
+          "last_name": "Grazioli",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2095023701"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Division of Neonatal and Pediatric Intensive Care, University Hospitals of Geneva, Geneva, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Christian",
+          "last_name": "B\u00fcrkle",
+          "initials": "C",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165540962"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivstation, Spital Grabs, Grabs, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Julien",
+          "last_name": "Marrel",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164428359"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Anaesthesiologie Intensivmedizin & Rettungsmedizin, See-Spital Horgen & Kilchberg, Horgen, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Isabelle",
+          "last_name": "Fleisch",
+          "initials": "I",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164290115"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Soins Intensifs, Hirslanden Clinique Cecil, Lausanne, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Marie-H\u00e9l\u00e8ne",
+          "last_name": "Perez",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0001-6173-3396"
+            },
+            {
+              "type": "magid",
+              "value": "2119971167"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Pediatric Intensive Care Unit, University Hospital Lausanne, Lausanne, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Anja Baltussen",
+          "last_name": "Weber",
+          "initials": "AB",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164975360"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Anaesthesie und Intensivmedizin, Kantonsspital Baselland, Liestal, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Samuele",
+          "last_name": "Ceruti",
+          "initials": "S",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0003-4146-3434"
+            },
+            {
+              "type": "magid",
+              "value": "2630063421"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Dipartimento Area Critica, Clinica Luganese Moncucco, Lugano, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Katharina",
+          "last_name": "Marquardt",
+          "initials": "K",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-5924-3061"
+            },
+            {
+              "type": "magid",
+              "value": "3165063867"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Interdisziplinaere Intensivstation, Spital Maennedorf AG, Maennedorf, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Tobias",
+          "last_name": "H\u00fcbner",
+          "initials": "T",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164304700"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institut fuer Anaesthesie und Intensivmedizin, Spital Thurgau, Muensterlingen, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Hermann",
+          "last_name": "Redecker",
+          "initials": "H",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164073203"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivmedizin, Schweizer Paraplegikerzentrum Nottwil, Nottwil, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Studhalter",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165267917"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivmedizin & Intermediate Care, Kantonsspital Olten, Olten, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Stephan",
+          "initials": "M",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164163054"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivmedizin, Spital Oberengadin, Samedan, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Daniela",
+          "last_name": "Selz",
+          "initials": "D",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164788757"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Anaesthesie Intensivmedizin Schmerzmedizin, Spital Schwyz, Schwyz, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Urs",
+          "last_name": "Pietsch",
+          "initials": "U",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0001-6957-2638"
+            },
+            {
+              "type": "magid",
+              "value": "2063715408"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Kantonsspital St. Gallen",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "2799884508"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.413349.8"
+                },
+                {
+                  "type": "ror",
+                  "value": "00gpmb873"
+                }
+              ],
+              "grid_id": "grid.413349.8",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Anette",
+          "last_name": "Ristic",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165032466"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Departement for Intensive Care Medicine, Kantonsspital Nidwalden, Stans, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Antje",
+          "last_name": "Heise",
+          "initials": "A",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2147538094"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Intensivstation, Spital Simmental-Thun-Saanenland AG, Thun, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Friederike Meyer zu",
+          "last_name": "Bentrup",
+          "initials": "FMZ",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165043954"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Klinik f\u00fcr Anaesthesie und Intensivmedizin, Spitalzentrum Oberwallis, Visp, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Marilene Franchitti",
+          "last_name": "Laurent",
+          "initials": "MF",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164456222"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Service d'Anesthesiologie, EHNV, Yverdon-les-Bains, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Patricia",
+          "last_name": "Fodor",
+          "initials": "P",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164472509"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Interdisziplinaere Intensivstation, Stadtspital Triemli, Zurich, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Tomislav",
+          "last_name": "Gaspert",
+          "initials": "T",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3165793169"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Abteilung f\u00fcr Anaesthesiologie und Intensivmedizin, Hirslanden Klinik Im Park, Zurich, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Christoph",
+          "last_name": "Haberthuer",
+          "initials": "C",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "3164309370"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institut f\u00fcr Anaesthesiologie und Intensivmedizin, Klinik Hirslanden, Zurich, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Elif",
+          "last_name": "Colak",
+          "initials": "E",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-1893-6427"
+            },
+            {
+              "type": "magid",
+              "value": "3164281440"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "General Surgery, Samsun Training and Research Hospital, Samsun, Turkey."
+            }
+          ]
+        },
+        {
+          "first_name": "Dorothea M.",
+          "last_name": "Heuberger",
+          "initials": "DM",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-8513-3528"
+            },
+            {
+              "type": "magid",
+              "value": "2918671484"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Institute of Intensive Care Medicine, University Hospital of Zurich, Zurich, Switzerland."
+            }
+          ]
+        },
+        {
+          "first_name": "Thierry",
+          "last_name": "Fumeaux",
+          "initials": "T",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2650844167"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Zurich",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "202697423"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.7400.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100006447"
+                },
+                {
+                  "type": "ror",
+                  "value": "02crff812"
+                }
+              ],
+              "grid_id": "grid.7400.3",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Jonathan",
+          "last_name": "Montomoli",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-4028-9588"
+            },
+            {
+              "type": "magid",
+              "value": "3040685875"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Zurich",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "202697423"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.7400.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100006447"
+                },
+                {
+                  "type": "ror",
+                  "value": "02crff812"
+                }
+              ],
+              "grid_id": "grid.7400.3",
+              "country_code": "CH"
+            },
+            {
+              "name": "Erasmus University Rotterdam",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "913958620"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.6906.9"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100001828"
+                },
+                {
+                  "type": "ror",
+                  "value": "057w15z03"
+                }
+              ],
+              "grid_id": "grid.6906.9",
+              "country_code": "NL"
+            }
+          ]
+        },
+        {
+          "first_name": "Philippe",
+          "last_name": "Guerci",
+          "initials": "P",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "1021947532"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Zurich",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "202697423"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.7400.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100006447"
+                },
+                {
+                  "type": "ror",
+                  "value": "02crff812"
+                }
+              ],
+              "grid_id": "grid.7400.3",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Reto A.",
+          "last_name": "Schuepbach",
+          "initials": "RA",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-7058-4377"
+            },
+            {
+              "type": "magid",
+              "value": "2303293083"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Zurich",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "202697423"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.7400.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100006447"
+                },
+                {
+                  "type": "ror",
+                  "value": "02crff812"
+                }
+              ],
+              "grid_id": "grid.7400.3",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Matthias P.",
+          "last_name": "Hilty",
+          "initials": "MP",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "2059080601"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "University of Zurich",
+              "ids": [
+                {
+                  "type": "magid",
+                  "value": "202697423"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.7400.3"
+                },
+                {
+                  "type": "fundref",
+                  "value": "501100006447"
+                },
+                {
+                  "type": "ror",
+                  "value": "02crff812"
+                }
+              ],
+              "grid_id": "grid.7400.3",
+              "country_code": "CH"
+            }
+          ]
+        },
+        {
+          "first_name": "Ferran",
+          "last_name": "Roche-Campo",
+          "initials": "F",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-4330-1706"
+            },
+            {
+              "type": "orcid",
+              "value": "0009-0004-9106-4874"
+            },
+            {
+              "type": "magid",
+              "value": "1769761848"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Servicio de Medicina intensiva, Hospital Verge de la Cinta, Carrer de les Esplanetes 44, 43500, Tortosa, Tarragona, Spain. ferranroche@gmail.com."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Critical care (London, England)",
+        "type": "Journal",
+        "publisher": "Springer Science and Business Media LLC",
+        "issn": [
+          {
+            "type": "print",
+            "value": "1466609x"
+          },
+          {
+            "type": "electronic",
+            "value": "13648535"
+          }
+        ],
+        "country": "United Kingdom",
+        "asjc_codes": [
+          "2706",
+          "2700"
+        ],
+        "asjc_subjects": [
+          "General Medicine",
+          "Critical Care and Intensive Care Medicine"
+        ]
+      },
+      "abstract": "Uncertainty about the optimal respiratory support strategies in critically ill COVID-19 patients is widespread. While the risks and benefits of noninvasive techniques versus early invasive mechanical ventilation (IMV) are intensely debated, actual evidence is lacking. We sought to assess the risks and benefits of different respiratory support strategies, employed in intensive care units during the first months of the COVID-19 pandemic on intubation and intensive care unit (ICU) mortality rates. Subanalysis of a prospective, multinational registry of critically ill COVID-19 patients. Patients were subclassified into standard oxygen therapy \u226510 L/min (SOT), high-flow oxygen therapy (HFNC), noninvasive positive-pressure ventilation (NIV), and early IMV, according to the respiratory support strategy employed at the day of admission to ICU. Propensity score matching was performed to ensure comparability between groups. Initially, 1421 patients were assessed for possible study inclusion. Of these, 351 patients (85 SOT, 87 HFNC, 87 NIV, and 92 IMV) remained eligible for full analysis after propensity score matching. 55% of patients initially receiving noninvasive respiratory support required IMV. The intubation rate was lower in patients initially ventilated with HFNC and NIV compared to those who received SOT (SOT: 64%, HFNC: 52%, NIV: 49%, p\u00a0=\u00a00.025). Compared to the other respiratory support strategies, NIV was associated with a higher overall ICU mortality (SOT: 18%, HFNC: 20%, NIV: 37%, IMV: 25%, p\u00a0=\u00a00.016). In this cohort of critically ill patients with COVID-19, a trial of HFNC appeared to be the most balanced initial respiratory support strategy, given the reduced intubation rate and comparable ICU mortality rate. Nonetheless, considering the uncertainty and stress associated with the COVID-19 pandemic, SOT and early IMV represented safe initial respiratory support strategies. The presented findings, in agreement with classic ARDS literature, suggest that NIV should be avoided whenever possible due to the elevated ICU mortality risk.",
+      "scholarly_citations_count": 54
+    },
+    {
+      "lens_id": "062-509-148-892-22X",
+      "title": "High-Flow Nasal Oxygen and Noninvasive Ventilation for COVID-19.",
+      "publication_type": "journal article",
+      "year_published": 2022,
+      "date_published": "2022-01-10T00:00:00.000000+00:00",
+      "external_ids": [
+        {
+          "type": "pmcid",
+          "value": "pmc8743492"
+        },
+        {
+          "type": "openalex",
+          "value": "W4205965891"
+        },
+        {
+          "type": "doi",
+          "value": "10.1016/j.ccc.2022.01.006"
+        },
+        {
+          "type": "pmid",
+          "value": "35667746"
+        }
+      ],
+      "authors": [
+        {
+          "first_name": "Hasan M",
+          "last_name": "Al-Dorzi",
+          "initials": "HM",
+          "ids": [
+            {
+              "type": "orcid",
+              "value": "0000-0002-3772-8949"
+            },
+            {
+              "type": "magid",
+              "value": "5020488720"
+            },
+            {
+              "type": "openalex",
+              "value": "A5020488720"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "College of Medicine, King Saud bin Abdulaziz University for Health Sciences, King Abdullah International Medical Research Center and Intensive Care Department, King Abdulaziz Medical City, Ministry of National Guard Health Affairs, ICU2, Mail Code 1425, PO Box 22490, Riyadh 11426, Saudi Arabia."
+            }
+          ]
+        },
+        {
+          "first_name": "John",
+          "last_name": "Kress",
+          "initials": "J",
+          "ids": [
+            {
+              "type": "magid",
+              "value": "5086561714"
+            },
+            {
+              "type": "openalex",
+              "value": "A5086561714"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "Section of Pulmonary and Critical Care, Medical ICU, University of Chicago, 5841 South Maryland Avenue, MC 6026, Chicago, IL 60637, USA."
+            },
+            {
+              "name": "University of Chicago",
+              "name_original": "Section of Pulmonary and Critical Care, Medical ICU, University of Chicago, 5841 South Maryland Avenue, MC 6026, Chicago, IL 60637, USA.",
+              "ids": [
+                {
+                  "type": "fundref",
+                  "value": "100007234"
+                },
+                {
+                  "type": "grid",
+                  "value": "grid.170205.1"
+                },
+                {
+                  "type": "wikidata",
+                  "value": "Q131252"
+                },
+                {
+                  "type": "ror",
+                  "value": "024mw5h28"
+                }
+              ],
+              "grid_id": "grid.170205.1",
+              "country_code": "US"
+            }
+          ]
+        },
+        {
+          "first_name": "Yaseen M",
+          "last_name": "Arabi",
+          "initials": "YM",
+          "ids": [
+            {
+              "type": "openalex",
+              "value": "A5021200051"
+            },
+            {
+              "type": "orcid",
+              "value": "0000-0001-5735-6241"
+            },
+            {
+              "type": "magid",
+              "value": "5021200051"
+            }
+          ],
+          "affiliations": [
+            {
+              "name": "College of Medicine, King Saud bin Abdulaziz University for Health Sciences, King Abdullah International Medical Research Center and Intensive Care Department, King Abdulaziz Medical City, Ministry of National Guard Health Affairs, ICU2, Mail Code 1425, PO Box 22490, Riyadh 11426, Saudi Arabia. Electronic address: arabi@ngha.med.sa."
+            }
+          ]
+        }
+      ],
+      "source": {
+        "title": "Critical care clinics",
+        "type": "Journal",
+        "publisher": "Elsevier BV",
+        "issn": [
+          {
+            "type": "electronic",
+            "value": "15578232"
+          },
+          {
+            "type": "print",
+            "value": "07490704"
+          }
+        ],
+        "country": "United Kingdom",
+        "asjc_codes": [
+          "2706",
+          "2700"
+        ],
+        "asjc_subjects": [
+          "General Medicine",
+          "Critical Care and Intensive Care Medicine"
+        ]
+      },
+      "abstract": "High-flow nasal oxygen (HFNO) and noninvasive ventilation (NIV) via facemask or helmet have been increasingly used in managing acute hypoxemic respiratory failure (AHRF) owing to COVID-19 with the premise of reducing the need for invasive mechanical ventilation and possibly mortality. Their use carries the risk of delaying intubation and nosocomial infection transmission. To date, most studies on the effectiveness of these modalities are observational and suggest that HFNO and NIV have a role in the management of AHRF owing to COVID-19. Trials are ongoing and are evaluating different aspects of noninvasive respiratory support in patients with AHRF owing to COVID-19.",
+      "scholarly_citations_count": 9
+    }
+  ],
+  "results": 14
+}

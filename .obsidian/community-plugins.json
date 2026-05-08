@@ -5,5 +5,7 @@
   "obsidian-icon-folder",
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "marker-api"
+  "marker-api",
+  "html-server",
+  "obsidian-folder-index"
 ]

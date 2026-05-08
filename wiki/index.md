@@ -1,19 +1,25 @@
 # Index — Scientism
 
-_Auto-generated 2026-05-05 • 97 pages_
+
+
+_Auto-generated 2026-05-06 • 103 pages_
 
 > Content-oriented catalog of every page in `wiki/`. Updated by
 > `scripts/update_index.py` or during `/wiki-ingest`. Answer queries
 > by reading this file first, then drilling into relevant pages.
 
-## Synthesis (6)
+## Synthesis (10)
 
 - [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children. _(13 sources · upd 2026-05-05)_
-- [[synthesis/gutknecht-letter-evidence-check|Gutknecht Letter Evidence Check]] — Research-worklist version of the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with questions 7-9 now backed by a larger direct-study register. _(1 sources · upd 2026-05-05)_
+- [[synthesis/failed-virus-causation-attempts-register|Failed Virus-Causation Attempt Register]] — Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set. _(6 sources · upd 2026-05-06)_
+- [[synthesis/gutknecht-letter-evidence-check|Gutknecht Letter Evidence Check]] — Current evidence-standard answer to the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest for questions 7-9. _(43 sources · upd 2026-05-05)_
 - [[synthesis/gutknecht-letter-questions-7-9|Gutknecht Letter Questions 7-9]] — Direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT. _(42 sources · upd 2026-05-05)_
+- [[synthesis/sars-cov-2-covid-causation-audit|SARS-CoV-2 COVID-19 Causation Audit]] — Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers, separating virus characterization, animal-model pathogenicity, and controlled human clinical causation. _(8 sources · upd 2026-05-06)_
 - [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(34 sources · upd 2026-05-05)_
 - [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(34 sources · upd 2026-05-05)_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
+- [[synthesis/virus-causation-inferential-leaps|Virus Causation Inferential Leaps]] — Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer. _(39 sources · upd 2026-05-06)_
+- [[synthesis/virus-disease-attribution-audit-worklist|Virus-Disease Attribution Audit Worklist]] — Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support. _(37 sources · upd 2026-05-06)_
 
 ## Concept (10)
 
@@ -21,7 +27,7 @@ _Auto-generated 2026-05-05 • 97 pages_
 - [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(4 sources · upd 2026-05-05)_
 - [[concepts/empirical-evidence|Empirical Evidence]] — Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility. _(5 sources · upd 2026-05-04)_
 - [[concepts/germ-theory|Germ Theory]] — A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved. _(11 sources · upd 2026-05-04)_
-- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(14 sources · upd 2026-05-05)_
+- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(15 sources · upd 2026-05-06)_
 - [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(4 sources · upd 2026-05-05)_
 - [[concepts/replication-crisis|Replication Crisis]] — Exploratory concept page for reported reproducibility problems; this vault still needs direct replication-study anchors. _(2 sources · upd 2026-05-04)_
 - [[concepts/scientism|Scientism]] — In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports. _(7 sources · upd 2026-05-05)_
@@ -38,7 +44,7 @@ _Auto-generated 2026-05-05 • 97 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(3 sources · upd 2026-05-04)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(8 sources · upd 2026-05-04)_
 
-## Source (73)
+## Source (75)
 
 - [[sources/cardo-1997-occupational-hiv-seroconversion-after-percutaneous-exposure|A case-control study of HIV seroconversion in health care workers after percutaneous exposure]] — Occupational HIV seroconversion case-control study relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
 - [[sources/goedert-1989-hiv-1-infection-and-aids-in-hemophilia|A prospective study of human immunodeficiency virus type 1 infection and the development of AIDS in subjects with hemophilia]] — Prospective hemophilia HIV natural-history cohort relevant to Gutknecht letter Q7. _(upd 2026-05-05)_
@@ -51,7 +57,7 @@ _Auto-generated 2026-05-05 • 97 pages_
 - [[sources/abrams-1998-hiv-load-early-in-life-and-infant-disease-progression|Association of human immunodeficiency virus load early in life with disease progression among HIV-infected infants]] — Pediatric HIV viral-load progression cohort relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
 - [[sources/cell-culture-viroliegy|Cell Culture - ViroLIEgy]] — Category-style landing page from ViroLIEgy that signals a critical stance toward virology cell-culture methods but contains little standalone evidentiary detail. _(1 sources · upd 2026-05-04)_
 - [[sources/chorba-1994-longevity-and-causes-of-death-in-hemophilia-a|Changes in longevity and causes of death among persons with hemophilia A]] — U.S. death-certificate mortality analysis relevant to Gutknecht letter Q7. _(upd 2026-05-05)_
-- [[sources/european-collaborative-study-1991-children-born-to-women-with-hiv-1-infection|Children born to women with HIV-1 infection: natural history and risk of transmission]] — Prospective perinatal HIV cohort relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
+- [[sources/european-collaborative-study-1991-children-born-to-women-with-hiv-1-infection|Children born to women with HIV-1 infection: natural history and risk of transmission]] — Prospective perinatal HIV cohort relevant to Gutknecht letter Q8. _(upd 2026-05-06)_
 - [[sources/schinaia-1994-progression-to-aids-in-italian-hiv-positive-hemophiliacs|Clinical factors associated with progression to AIDS in the Italian cohort of HIV-positive hemophiliacs]] — Italian national hemophilia cohort relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
 - [[sources/concorde-1994-immediate-versus-deferred-zidovudine|Concorde: MRC/ANRS randomised double-blind controlled trial of immediate and deferred zidovudine in symptom-free HIV infection]] — Immediate versus deferred zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/congressman-questions-aids-in-letter|Congressman Questions AIDS in Letter]] — A 1995 congressional letter to Anthony Fauci that packages HIV/AIDS dissent claims as political and scientific challenge questions rather than experimental proof. _(upd 2026-05-04)_
@@ -63,6 +69,8 @@ _Auto-generated 2026-05-05 • 97 pages_
 - [[sources/chorba-2001-hiv-effects-on-age-and-cause-of-death-in-hemophilia-a|Effects of HIV infection on age and cause of death for persons with hemophilia A in the United States]] — Extended U.S. death-record analysis relevant to Gutknecht letter Q7. _(upd 2026-05-05)_
 - [[sources/empirical-evidence|Empirical Evidence]] — Short tertiary note that defines empirical evidence in broad terms but does not itself provide source-grade methodological analysis. _(1 sources · upd 2026-05-04)_
 - [[sources/experimental-inhalation-anthrax-in-the-chimpanzee|Experimental Inhalation Anthrax in the Chimpanzee]] — A primary research paper on aerosol anthrax challenge in chimpanzees, currently represented in the raw vault by a minimal pointer note rather than a substantive summary. _(1 sources · upd 2026-05-04)_
+- [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza|Experiments to Determine Mode of Spread of Influenza]] — Primary 1919 JAMA report describing repeated negative human influenza transmission attempts under several exposure methods. _(1 sources · upd 2026-05-06)_
+- [[sources/sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus|Fate of Nasally Instilled Poliomyelitis Virus in Normal and Convalescent Monkeys with Special Reference to the Problem of Host to Host Transmission]] — 1938 rhesus-monkey intranasal instillation study tracking early tissue recovery of poliomyelitis virus and its limits for host-to-host transmission claims. _(1 sources · upd 2026-05-06)_
 - [[sources/fda-1987-zidovudine-retrovir-approval-record|FDA Orphan Drug Designation and Approval Record for Zidovudine/Retrovir]] — Primary regulatory chronology record for zidovudine/Retrovir orphan designation and 1987 marketing approval. _(upd 2026-05-05)_
 - [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth|From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth]] — A Tier 3 interview-style commentary that consolidates Mike Stone's revisionist criticisms of Pasteur, virology, and modern infectious-disease narratives. _(1 sources · upd 2026-05-04)_
 - [[sources/h5n1|H5N1]] — Raw note excerpting a 2024 H5N1 dairy-cattle sequencing paper and its sample-processing methods. _(upd 2026-05-04)_

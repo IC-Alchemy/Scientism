@@ -2,7 +2,11 @@
 title: Virus Isolation
 category: concept
 summary: Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation.
-tags: [virology, methodology, isolation, disputed]
+tags:
+  - virology
+  - methodology
+  - isolation
+  - disputed
 sources: 5
 updated: 2026-05-04
 claim_status: unresolved

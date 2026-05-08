@@ -90,3 +90,43 @@ Updated the Bridges et al. source page, scientism concept page, inferential-leap
 ## [2026-05-05] update | Gutknecht questions 7-9 direct-study expansion
 
 Ran one PMID/DOI API lookup per candidate paper for the Gutknecht questions 7-9 audit, saved PubMed JSON/CSV and Lens JSON lookup dumps under `wiki/synthesis/`, added linked source pages for the direct studies and chronology records, rebuilt the direct-study registers, and preserved full-text-needed flags where abstracts were insufficient.
+
+## [2026-05-05] update | Answered Gutknecht evidence-check page
+
+Converted the Gutknecht evidence-check synthesis from a pure worklist into a current answer page under the vault evidence standard. Marked questions 1-3 and 7-9 as partial answers where direct studies now exist, kept questions 4-6 and 10-12 unresolved, and repaired the Q7-9 chronology table formatting.
+
+## [2026-05-06] query | Clarified European Collaborative Study 1991 mortality denominator
+
+Updated the 1991 perinatal HIV source page to clarify that the 17% by-12-month mortality estimate applies to infected children, not all 600 enrolled children; that the transmission estimate used the mature follow-up subset; and that the 1991 abstract does not itself report treatment exposure or mortality among presumed-uninfected exposed children.
+
+## [2026-05-06] query | Added denominator and drug-toxicity boundary
+
+Added a further boundary to the European Collaborative Study 1991 source page: the abstract does not support re-denominating the infected-child death endpoint over all 600 enrolled children, and it does not support attributing deaths to drug toxicity without treatment-stratified mortality data.
+
+## [2026-05-06] query | Virus-disease attribution audit worklist
+
+Created `wiki/synthesis/virus-disease-attribution-audit-worklist.md`, listed a practical starter set of disease-virus attribution claims, and used parallel Lens searches to log candidate foundational papers for AIDS/HIV, poliomyelitis/poliovirus, rabies, smallpox, measles, influenza, COVID-19, and cervical cancer/HPV.
+
+## [2026-05-06] query | Virus causation inferential-leap analysis
+
+Added `wiki/synthesis/virus-causation-inferential-leaps.md` to separate what foundational virus-attribution experiments directly tested from the broader causation narratives later built on them, with a specific provisional warning about polio-style artificial-route challenge experiments versus natural-route causation claims.
+
+## [2026-05-06] query | Failed virus-causation attempt register
+
+Added `wiki/synthesis/failed-virus-causation-attempts-register.md` to track failed, negative, or non-confirmatory experimental leads alongside the foundation-paper shortlist, including a direct primary lead for poliomyelitis transmission problems and a commentary-led influenza failure track that still needs primary reconstruction.
+
+## [2026-05-06] ingest | Sabin 1938 and Rosenau 1919 negative-result source pages
+
+Added direct source pages for Sabin and Olitsky's 1938 poliomyelitis intranasal tissue-recovery paper and Rosenau's 1919 JAMA influenza transmission report, then expanded `wiki/synthesis/failed-virus-causation-attempts-register.md` and the inferential-leap synthesis so the polio and influenza failed-attempt entries now rest on primary papers with explicit endpoint boundaries.
+
+## [2026-05-06] query | SARS-CoV-2 COVID-19 causation endpoint audit
+
+Added `wiki/synthesis/sars-cov-2-covid-causation-audit.md` to downgrade the Killingley human challenge paper from causation proof to uncontrolled challenge-model evidence, separate PCR endpoints from infectious-virus or disease-causation endpoints, and distinguish virus characterization, animal-model pathogenicity, and unresolved controlled human clinical causation.
+
+## [2026-05-07] query | COVID early intubation and noninvasive ventilation Lens summary
+
+Created `wiki/synthesis/covid-early-intubation-noninvasive-ventilation-lens-summary.md` from Lens DOI lookups covering 14 early-intubation, HFNC, and NIV papers. Saved abstract-derived summaries, DOI/Lens IDs, study type, protocol issue, and endpoint signals without reproducing full copyrighted abstracts.
+
+## [2026-05-08] query | Shingles VZV causation and vaccine trial audit
+
+Used Lens-assisted parallel searches to log endpoint-level candidate papers for shingles etiology, foundational varicella-zoster culture/serology/latency evidence, and modern zoster vaccine randomized trials. Added `wiki/synthesis/shingles-vzv-causation-and-vaccine-trial-audit.md` and linked it from the virus-disease attribution worklist.

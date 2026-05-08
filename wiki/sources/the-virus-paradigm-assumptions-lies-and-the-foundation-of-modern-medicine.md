@@ -2,7 +2,11 @@
 title: The Virus Paradigm - Assumptions, Lies, and the Foundation of Modern Medicine
 category: source
 summary: Long-form no-virus commentary built around arguments about isolation, controls, FOI responses, and the difference between observed effects and broader doctrine.
-tags: [virology, virus-isolation, methodology, commentary]
+tags:
+  - virology
+  - virus-isolation
+  - methodology
+  - commentary
 sources: 1
 updated: 2026-05-04
 claim_status: disputed

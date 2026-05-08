@@ -2,7 +2,11 @@
 title: Scientism Conversation (May 1, 2026)
 category: source
 summary: Voice-transcript seed source that frames the vault's initial questions about scientism, replication, endpoints, and inferential overreach.
-tags: [scientism, transcript, methodology, research-lead]
+tags:
+  - scientism
+  - transcript
+  - methodology
+  - research-lead
 sources: 1
 updated: 2026-05-04
 claim_status: exploratory

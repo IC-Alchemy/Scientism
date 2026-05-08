@@ -2,7 +2,10 @@
 title: Scientism
 category: concept
 summary: In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports.
-tags: [philosophy-of-science, methodology, evidence]
+tags:
+  - philosophy-of-science
+  - methodology
+  - evidence
 sources: 7
 updated: 2026-05-05
 claim_status: exploratory

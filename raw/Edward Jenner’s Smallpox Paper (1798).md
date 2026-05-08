@@ -2,13 +2,8 @@
 url: https://viroliegy.com/2022/02/03/edward-jenners-smallpox-paper-1798/
 title: Edward Jenner’s Smallpox Paper (1798)
 author:
-  - '[[ViroLIEgy]]'
-description: >-
-  In science credit goes to the man who convinces the world, not the man to whom
-  the idea first occurs. -Francis Galton Edward Jenner is considered the "Father
-  of Immunology" for his work with both cowpox and smallpox. While inoculations
-  were known and used before him, Jenner made the case that he could create
-  immunity…
+  - "[[ViroLIEgy]]"
+description: In science credit goes to the man who convinces the world, not the man to whom the idea first occurs. -Francis Galton Edward Jenner is considered the "Father of Immunology" for his work with both cowpox and smallpox. While inoculations were known and used before him, Jenner made the case that he could create immunity…
 tags:
   - 1798-paper
   - cowpox
