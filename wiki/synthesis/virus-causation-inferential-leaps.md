@@ -7,8 +7,8 @@ tags:
   - inferential-leap
   - causation
   - methodology
-sources: 39
-updated: 2026-05-06
+sources: 84
+updated: 2026-05-14
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -21,6 +21,8 @@ claim_type: methodological
 The current [[synthesis/virus-disease-attribution-audit-worklist]] identifies candidate foundational papers for several disease-virus attribution claims. The next question is not only whether those papers exist, but what they actually establish and how later narratives may overextend them.
 
 In this vault, scientism often appears when a narrower laboratory or animal result is treated as if it directly settled a broader causal, natural-history, or policy question without reconstructing the missing bridge.
+
+The method page [[synthesis/viral-disease-causation-evidence-ladder]] now makes that bridge explicit by separating detection, culture, serology, animal challenge, human challenge, transmission-chain, intervention, and replicated convergence evidence.
 
 ## Core analytic rule
 For each candidate paper, ask two separate questions:
@@ -102,6 +104,29 @@ For this vault, PCR and RT-qPCR should be recorded as nucleic-acid detection end
 ### Cervical cancer -> HPV
 The HPV shortlist is strong on repeated detection, subtype focus, and integration findings. The inferential danger is translating strong association and near-ubiquity findings directly into a simple one-factor causal story without clearly separating necessity, sufficiency, cofactors, and time course.
 
+### Mumps, rubella, and chickenpox
+The newly logged mumps, rubella, and chickenpox rows show a different pattern from the polio example. Several candidate papers are stronger than pure detection because they include animal inoculation, human experimental exposure, culture, serology, or fatal-case pathology. The leap risk is not simply "detection equals causation"; it is more specific:
+
+- mumps papers need route and control boundaries preserved, especially where parotid-gland inoculation or induced infection is treated as if it fully reconstructs ordinary transmission
+- rubella papers need acute-rubella, experimental-rubella, and congenital-rubella-syndrome endpoints kept separate
+- varicella papers need chickenpox lesion/isolation evidence separated from later zoster recurrence and latency claims
+
+For this vault, these rows should be source-ingested as endpoint bundles rather than as one broad "virus causes disease" conclusion.
+
+### Hepatitis A, B, and C
+The hepatitis rows make the endpoint ladder unusually visible:
+
+- hepatitis A starts with virus-like stool antigen detection, nonhuman-primate infectivity, particle characterization, and later culture propagation
+- hepatitis B moves from clinical/immunologic syndrome separation and Australia-antigen particle detection into chimpanzee transmission and molecular-clone challenge
+- hepatitis C moves from non-A/non-B transfusion and chimpanzee transmission into molecular identification, antibody assays, and infectious molecular-clone work
+
+The inferential leap to watch is compression of that ladder. Detection, serology, animal infectivity, and molecular-clone challenge are not interchangeable endpoints. A paper showing antibody association or particle detection does not answer the same question as a paper showing cloned viral RNA can initiate infection in a chimpanzee.
+
+### EBV, Burkitt lymphoma, infectious mononucleosis, and HHV-8 Kaposi sarcoma
+The EBV and HHV-8 rows are association-heavy in a way that needs special handling. Prospective EBV seroconversion evidence for infectious mononucleosis is not the same endpoint as EBV DNA or particles in Burkitt lymphoma tissue or cultured cells. Likewise, HHV-8 lesion-specific DNA and serology in Kaposi sarcoma are stronger than commentary, but they still need careful separation from claims about necessity, sufficiency, cofactors, immune status, and tumor initiation.
+
+The scientism risk here is treating repeated molecular presence as causal closure. The more precise vault formulation is: molecular detection and prospective serology can strengthen an attribution chain, but they must still be tied to the exact disease endpoint being claimed.
+
 ## Scientism relevance
 This is a scientism problem when the prestige of the experiment, the field, or the established narrative hides the gap between what the experiment actually established and what later culture says has been proven.
 
@@ -122,10 +147,20 @@ That would let the vault convert the current provisional inferential-leap warnin
 
 The companion negative-result register is now [[synthesis/failed-virus-causation-attempts-register]]. It tracks where the vault already has failed-attempt leads and where the literature still has to be reconstructed directly.
 
+After the 2026-05-10 Lens batch, the next high-value source-ingest candidates are:
+
+- Johnson and Goodpasture 1934 on mumps etiology, because it has a clear artificial-route and control-boundary issue
+- Parkman 1962 and Weller/Neva 1962 on rubella, because they can anchor acute rubella virus-isolation endpoints
+- Weller 1953/1958 on varicella-zoster, because they separate chickenpox and zoster lesion-derived culture evidence
+- the 1970-1973 hepatitis B sequence from Australia-antigen particles to chimpanzee transmission, because it makes detection-versus-challenge endpoints explicit
+- the 1989-1999 hepatitis C sequence from molecular identification to infectious clone, because it shows how molecular evidence becomes experimental infectivity evidence
+- the EBV infectious-mononucleosis prospective cohort and HHV-8 Kaposi lesion papers, because they are good cases for association-versus-causal-closure analysis
+
 ## Related pages
 - [[synthesis/virus-disease-attribution-audit-worklist]]
 - [[synthesis/sars-cov-2-covid-causation-audit]]
 - [[synthesis/failed-virus-causation-attempts-register]]
+- [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[concepts/inferential-leap]]
 - [[concepts/virus-isolation]]
 - [[sources/polio]]

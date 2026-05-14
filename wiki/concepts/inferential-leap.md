@@ -3,8 +3,8 @@ title: Inferential Leap
 category: concept
 summary: An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify.
 tags: [interpretation, external-validity, methodology]
-sources: 15
-updated: 2026-05-06
+sources: 18
+updated: 2026-05-14
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -31,6 +31,7 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] is a useful counterexample: it makes narrower claims that are closely tied to the experiment actually performed.
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] is another useful counterexample. It reports season-specific trial endpoints and keeps a visible boundary between worse ILI-related utilization outcomes in the mismatched 1997-1998 season, reduced ILI/work-loss outcomes in the matched 1998-1999 season, and broader claims about economic benefit or general population health.
 - [[synthesis/virus-causation-inferential-leaps]] extends this method to foundational virus-disease attribution papers, including the specific risk that artificial-route inoculation or isolation results are later treated as if they fully proved ordinary natural causation.
+- [[synthesis/viral-disease-causation-evidence-ladder]] turns the virus-causation audit into an explicit ladder so detection, culture, serology, challenge, transmission, and intervention evidence are not collapsed into one causal claim.
 
 ## Questions to ask
 - What was directly observed?
@@ -47,6 +48,7 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - Direct trial reports can reduce inferential ambiguity when they preserve the intervention, comparator, endpoint, result, and limitation in one place.
 - This concept also applies in reverse: a source can understate the force of its own unfavorable endpoints by drawing a conclusion that foregrounds benefit while leaving a harm signal less visible.
 - Consent-relevant medical messaging should preserve the endpoint boundary. A claim that a vaccine reduced a target disease is not the same claim as saying the childhood vaccination program improves overall child health.
+- Viral disease causation claims should preserve the same endpoint boundary. A paper showing viral RNA, antibody response, animal-model disease, or culture growth does not answer the same question as a controlled human clinical causation study or an intervention study.
 
 ## Related pages
 - [[concepts/scientism]]
@@ -55,3 +57,4 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - [[concepts/cell-culture]]
 - [[concepts/germ-theory]]
 - [[synthesis/virus-causation-inferential-leaps]]
+- [[synthesis/viral-disease-causation-evidence-ladder]]

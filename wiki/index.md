@@ -1,38 +1,39 @@
 # Index — Scientism
 
-
-
-_Auto-generated 2026-05-06 • 103 pages_
+_Auto-generated 2026-05-14 • 113 pages_
 
 > Content-oriented catalog of every page in `wiki/`. Updated by
 > `scripts/update_index.py` or during `/wiki-ingest`. Answer queries
 > by reading this file first, then drilling into relevant pages.
 
-## Synthesis (10)
+## Synthesis (13)
 
 - [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children. _(13 sources · upd 2026-05-05)_
-- [[synthesis/failed-virus-causation-attempts-register|Failed Virus-Causation Attempt Register]] — Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set. _(6 sources · upd 2026-05-06)_
+- [[synthesis/covid-early-intubation-noninvasive-ventilation-lens-summary|COVID Early Intubation and Noninvasive Ventilation Lens Summary]] — Lens-derived summary of COVID-19 early-intubation and noninvasive respiratory-support studies. _(14 sources · upd 2026-05-07)_
+- [[synthesis/failed-virus-causation-attempts-register|Failed Virus-Causation Attempt Register]] — Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set. _(9 sources · upd 2026-05-14)_
 - [[synthesis/gutknecht-letter-evidence-check|Gutknecht Letter Evidence Check]] — Current evidence-standard answer to the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest for questions 7-9. _(43 sources · upd 2026-05-05)_
 - [[synthesis/gutknecht-letter-questions-7-9|Gutknecht Letter Questions 7-9]] — Direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT. _(42 sources · upd 2026-05-05)_
 - [[synthesis/sars-cov-2-covid-causation-audit|SARS-CoV-2 COVID-19 Causation Audit]] — Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers, separating virus characterization, animal-model pathogenicity, and controlled human clinical causation. _(8 sources · upd 2026-05-06)_
 - [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(34 sources · upd 2026-05-05)_
+- [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit|Shingles, VZV Causation, and Vaccine Trial Audit]] — Endpoint-level shortlist for shingles etiology, foundational varicella-zoster experiments, and modern zoster vaccine clinical trials. _(18 sources · upd 2026-05-08)_
 - [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(34 sources · upd 2026-05-05)_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
-- [[synthesis/virus-causation-inferential-leaps|Virus Causation Inferential Leaps]] — Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer. _(39 sources · upd 2026-05-06)_
-- [[synthesis/virus-disease-attribution-audit-worklist|Virus-Disease Attribution Audit Worklist]] — Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support. _(37 sources · upd 2026-05-06)_
+- [[synthesis/viral-disease-causation-evidence-ladder|Viral Disease Causation Evidence Ladder]] — Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims. _(7 sources · upd 2026-05-14)_
+- [[synthesis/virus-causation-inferential-leaps|Virus Causation Inferential Leaps]] — Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer. _(84 sources · upd 2026-05-14)_
+- [[synthesis/virus-disease-attribution-audit-worklist|Virus-Disease Attribution Audit Worklist]] — Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support. _(84 sources · upd 2026-05-14)_
 
 ## Concept (10)
 
 - [[concepts/cell-culture|Cell Culture]] — Cell culture is a laboratory method whose evidentiary meaning depends on controls, media conditions, and the specific endpoint being claimed. _(4 sources · upd 2026-05-04)_
 - [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(4 sources · upd 2026-05-05)_
 - [[concepts/empirical-evidence|Empirical Evidence]] — Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility. _(5 sources · upd 2026-05-04)_
-- [[concepts/germ-theory|Germ Theory]] — A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved. _(11 sources · upd 2026-05-04)_
-- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(15 sources · upd 2026-05-06)_
+- [[concepts/germ-theory|Germ Theory]] — A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved. _(12 sources · upd 2026-05-14)_
+- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(18 sources · upd 2026-05-14)_
 - [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(4 sources · upd 2026-05-05)_
 - [[concepts/replication-crisis|Replication Crisis]] — Exploratory concept page for reported reproducibility problems; this vault still needs direct replication-study anchors. _(2 sources · upd 2026-05-04)_
 - [[concepts/scientism|Scientism]] — In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports. _(7 sources · upd 2026-05-05)_
 - [[concepts/surrogate-endpoints|Surrogate Endpoints]] — Trial outcomes that stand in for broader clinical benefit, such as infection counts, biomarkers, or immune response measures rather than overall health outcomes. _(2 sources · upd 2026-05-04)_
-- [[concepts/virus-isolation|Virus Isolation]] — Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation. _(5 sources · upd 2026-05-04)_
+- [[concepts/virus-isolation|Virus Isolation]] — Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation. _(8 sources · upd 2026-05-14)_
 
 ## Entity (7)
 
@@ -44,9 +45,10 @@ _Auto-generated 2026-05-06 • 103 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(3 sources · upd 2026-05-04)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(8 sources · upd 2026-05-04)_
 
-## Source (75)
+## Source (78)
 
 - [[sources/cardo-1997-occupational-hiv-seroconversion-after-percutaneous-exposure|A case-control study of HIV seroconversion in health care workers after percutaneous exposure]] — Occupational HIV seroconversion case-control study relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
+- [[sources/jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses|A Hierarchical Framework for Assessing Transmission Causality of Respiratory Viruses]] — A 2022 methodological framework arguing that respiratory-virus transmission causality should be graded by evidence quality rather than assumed from isolated detection events. _(1 sources · upd 2026-05-14)_
 - [[sources/goedert-1989-hiv-1-infection-and-aids-in-hemophilia|A prospective study of human immunodeficiency virus type 1 infection and the development of AIDS in subjects with hemophilia]] — Prospective hemophilia HIV natural-history cohort relevant to Gutknecht letter Q7. _(upd 2026-05-05)_
 - [[sources/lamivudine-1996-lamivudine-plus-zidovudine-versus-zidovudine-alone|A randomized trial of lamivudine plus zidovudine versus zidovudine alone in previously untreated patients with HIV infection]] — Lamivudine plus zidovudine versus zidovudine monotherapy trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/actg-175-1996-zidovudine-monotherapy-versus-combination-nucleosides|A trial comparing nucleoside monotherapy with combination therapy in HIV-infected adults with CD4 cell counts from 200 to 500 per cubic millimeter]] — Monotherapy versus combination nucleoside trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
@@ -104,6 +106,7 @@ _Auto-generated 2026-05-06 • 103 pages_
 - [[sources/fischl-1992-safety-and-toxicity-of-zidovudine-in-actg-019|Safety and toxicity of zidovudine in asymptomatic HIV-infected individuals]] — Asymptomatic zidovudine toxicity analysis relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/scientism-conversation-may-1-2026|Scientism Conversation (May 1, 2026)]] — Voice-transcript seed source that frames the vault's initial questions about scientism, replication, endpoints, and inferential overreach. _(1 sources · upd 2026-05-04)_
 - [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis|Scobey - Poisoning as the Cause of Poliomyelitis]] — A 1950 historical medical article arguing that toxic exposures and diet-related poisoning explain poliomyelitis better than the dominant virus theory. _(upd 2026-05-04)_
+- [[sources/fredericks-relman-1996-sequence-based-identification-microbial-pathogens|Sequence-Based Identification of Microbial Pathogens: A Reconsideration of Koch's Postulates]] — Fredericks and Relman's 1996 methodological review proposes sequence-based criteria for linking microbial nucleic-acid evidence to disease while warning that sequence detection alone is not causal proof. _(1 sources · upd 2026-05-14)_
 - [[sources/volberding-1994-duration-of-zidovudine-benefit-in-actg-019|The duration of zidovudine benefit in persons with asymptomatic HIV infection]] — Extended ACTG 019 follow-up relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/fischl-1987-efficacy-of-azidothymidine-in-aids-and-arc|The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex: a double-blind, placebo-controlled trial]] — Pivotal AZT efficacy trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/fischl-1990-actg-016-zidovudine-in-mildly-symptomatic-hiv|The efficacy of azidothymidine (AZT) in the treatment of patients with mildly symptomatic human immunodeficiency virus infection]] — Mildly symptomatic HIV zidovudine trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
@@ -118,6 +121,7 @@ _Auto-generated 2026-05-06 • 103 pages_
 - [[sources/cdc-1982-aids-among-patients-with-hemophilia-a|Update on acquired immune deficiency syndrome (AIDS) among patients with hemophilia A]] — Primary surveillance case update relevant to Gutknecht letter Q8 chronology. _(upd 2026-05-05)_
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids|Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids]] — Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos. _(upd 2026-05-05)_
 - [[sources/viroliegy-101-the-scientific-method|ViroLIEgy 101: The Scientific Method]] — Tier 3 commentary arguing that a fixed scientific method is the boundary between science and pseudoscience, with virology presented as a failing case. _(1 sources · upd 2026-05-04)_
+- [[sources/rivers-1937-viruses-and-kochs-postulates|Viruses and Koch's Postulates]] — Thomas Rivers' 1937 methodological paper arguing that viral causation can be investigated without literal fulfillment of Koch's bacteriological postulates, but still requires proof beyond association. _(1 sources · upd 2026-05-14)_
 - [[sources/actg-116b-117-1995-zidovudine-versus-didanosine|Zidovudine compared with didanosine in patients with advanced HIV disease and little or no previous experience with zidovudine]] — Advanced HIV comparator antiretroviral trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv|Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter]] — Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv|Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study]] — Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_

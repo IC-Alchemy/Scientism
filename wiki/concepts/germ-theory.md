@@ -3,8 +3,8 @@ title: Germ Theory
 category: concept
 summary: A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved.
 tags: [history-of-science, medicine, causation]
-sources: 11
-updated: 2026-05-04
+sources: 12
+updated: 2026-05-14
 claim_status: unresolved
 claim_type: historical
 ---
@@ -16,6 +16,7 @@ Germ theory is the framework that specific microorganisms can cause specific dis
 
 ## Historical anchors in this vault
 - [[sources/kochs-famous-paper]] is a core methodological anchor because it shows Koch distinguishing pathogenicity, infectiousness, host choice, and laboratory identification.
+- [[sources/rivers-1937-viruses-and-kochs-postulates]] extends the causation-standard question into viral diseases by arguing that literal Koch postulates are not always required, but causal relevance still has to be shown rather than assumed from association.
 - Anthrax-related claims need named experiment fields before they can be used as support: exposure or material, subject, comparator or control, endpoint, result, and limitation.
 - [[sources/edward-jenners-smallpox-paper-1798]] and [[sources/diagnosis-smallpox-viroliegy]] matter because they raise questions about historical diagnosis and about how later vaccination narratives compress more complex source material.
 - [[sources/pasteurs-researches-on-rabies]] identifies a near-contemporary reporting node for Pasteur's rabies work, while [[sources/louis-pasteurs-unethical-rabies-fraud]] and [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] present strong modern revisionist criticism.
@@ -35,6 +36,7 @@ Germ theory is the framework that specific microorganisms can cause specific dis
 ## Current unresolved assessment
 - The vault has direct historical and commentary leads indicating that major figures such as Jenner, Koch, and Pasteur worked through experiments and observational programs that should be examined separately from later doctrine.
 - The current pages identify methodological variables worth extracting from primary sources: experiment design, route of exposure, host choice, endpoint definition, and diagnostic confidence.
+- For viral diseases, the vault now treats Rivers-style causation as a methodological bridge: detection, propagation, antibodies, animal inoculation, and clinical disease are distinct evidence questions.
 - The new commentary sources raise a narrower historiographic question: whether critics are challenging a specific experiment, a proof standard, or the whole theory category at once.
 - The vault does not yet have enough balanced source work to conclude either that classical germ theory is straightforwardly established in all disputed cases or that it was globally refuted.
 
@@ -47,6 +49,7 @@ Germ theory is the framework that specific microorganisms can cause specific dis
 ## Contrasts with
 - [[concepts/inferential-leap]] - this is the pattern the source wants to inspect within germ-theory history
 - [[concepts/scientism]] - the broader vault theme concerns how settled authority forms around scientific claims
+- [[synthesis/viral-disease-causation-evidence-ladder]] - current framework for separating viral causation endpoints
 
 ## Related entities
 - [[entities/edward-jenner]]

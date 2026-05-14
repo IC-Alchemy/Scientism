@@ -130,3 +130,11 @@ Created `wiki/synthesis/covid-early-intubation-noninvasive-ventilation-lens-summ
 ## [2026-05-08] query | Shingles VZV causation and vaccine trial audit
 
 Used Lens-assisted parallel searches to log endpoint-level candidate papers for shingles etiology, foundational varicella-zoster culture/serology/latency evidence, and modern zoster vaccine randomized trials. Added `wiki/synthesis/shingles-vzv-causation-and-vaccine-trial-audit.md` and linked it from the virus-disease attribution worklist.
+
+## [2026-05-10] query | Continued virus-disease attribution audit worklist
+
+Used Lens-assisted parallel searches to expand the attribution worklist for mumps, rubella, chickenpox, hepatitis A/B/C, infectious mononucleosis, Burkitt lymphoma, and Kaposi sarcoma. Updated the inferential-leap synthesis to preserve detection, serology, animal challenge, molecular-clone, prospective cohort, tumor-association, and lesion-specific endpoints as separate evidence questions.
+
+## [2026-05-14] query | Viral disease causation evidence ladder
+
+Used Lens lookups and source checks to add Rivers 1937, Fredericks and Relman 1996, and Jefferson et al. 2022 as methodological source pages. Added `wiki/synthesis/viral-disease-causation-evidence-ladder.md` to separate detection, isolation, serology, challenge, transmission, intervention, and replicated-convergence endpoints, then linked it from the virus-disease worklist, inferential-leap synthesis, failed-attempt register, and core concept pages.
