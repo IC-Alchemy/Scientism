@@ -138,3 +138,78 @@ Used Lens-assisted parallel searches to expand the attribution worklist for mump
 ## [2026-05-14] query | Viral disease causation evidence ladder
 
 Used Lens lookups and source checks to add Rivers 1937, Fredericks and Relman 1996, and Jefferson et al. 2022 as methodological source pages. Added `wiki/synthesis/viral-disease-causation-evidence-ladder.md` to separate detection, isolation, serology, challenge, transmission, intervention, and replicated-convergence endpoints, then linked it from the virus-disease worklist, inferential-leap synthesis, failed-attempt register, and core concept pages.
+
+## [2026-05-14] query | Failed virus-causation attempt follow-up candidates
+
+Used Lens-assisted parallel searches to replace the "no clear failed-attempt paper in hand yet" rows for measles, smallpox, rabies, AIDS/HIV, and cervical cancer/HPV with candidate failed-attempt, route-boundary, host-range, nonprogression, exclusivity-boundary, HPV-negative, assay-failure, and insufficiency papers. Kept the entries provisional where full-text primary extraction is still needed.
+
+## [2026-05-21] query | Specific vaccine overall health outcome evidence
+
+Added `wiki/sources/cutts-2005-pcv9-gambia-rct.md` and `wiki/synthesis/specific-vaccine-overall-health-outcome-evidence.md` to preserve the clearest favorable direct evidence found so far: a randomized, double-blind, placebo-controlled PCV9 trial in Gambian children reporting lower all-cause admissions and all-cause mortality in the vaccine group. Updated the broader vaccinated-children synthesis to keep this narrow evidence separate from the unresolved whole-schedule question.
+
+## [2026-05-31] create | Scientism methodological overreach manuscript
+
+Added `wiki/synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence.md` as a long-form research manuscript summarizing the vault's current evidence grammar, endpoint discipline, germ-theory and virology causation audits, negative-result handling, AIDS/AZT evidence checks, vaccine health-outcome distinctions, and open research agenda. Linked it from `wiki/synthesis/scientism-research-program-overview.md`.
+
+## [2026-05-31] update | Polio evidence ladder pass
+
+Added `wiki/synthesis/poliomyelitis-poliovirus-evidence-ladder.md`, created a full-text-backed source page for Enders, Weller, and Robbins 1949 tissue-culture cultivation of the Lansing strain, and expanded the manuscript's polio section to separate monkey challenge, route/tissue recovery, tissue culture, direct-isolation gaps, and ordinary natural-route causation.
+
+## [2026-05-31] update | Influenza evidence ladder pass
+
+Added `wiki/synthesis/influenza-influenza-virus-evidence-ladder.md`, created full-text-backed source pages for Smith, Andrewes, and Laidlaw 1933 and Shope and Francis 1936, and expanded the manuscript's influenza section to separate Rosenau's pre-virus human challenge failures from ferret passage, swine susceptibility, contact-boundary, serology, and ordinary human natural-route causation.
+
+## [2026-05-31] update | Mumps evidence ladder pass
+
+Added `wiki/synthesis/mumps-mumps-virus-evidence-ladder.md`, created full-text-backed source pages for Johnson and Goodpasture 1934, Leymaster and Ward 1947, and Henle et al. 1948, and expanded the manuscript and cross-cutting virology pages to separate monkey parotid-duct inoculation, chick-embryo isolation, induced human exposure, serology, saliva shedding, and ordinary community transmission.
+
+## [2026-05-31] update | Rubella evidence ladder pass
+
+Added `wiki/synthesis/rubella-rubella-virus-evidence-ladder.md`, created full-text-backed source pages for Parkman, Buescher, and Artenstein 1962, Weller and Neva 1962, and Sigurdardottir et al. 1963, and expanded the manuscript and cross-cutting virology pages to separate acute-case recovery, tissue-culture propagation, paired-serology, monkey inoculation, congenital-rubella acquisition gaps, and ordinary transmission.
+
+## [2026-05-31] update | Chickenpox VZV evidence ladder pass
+
+Added `wiki/synthesis/chickenpox-varicella-zoster-virus-evidence-ladder.md`, created full-text-backed source pages for Weller 1953, Cheatham et al. 1956, and Weller, Witton, and Bell 1958, and expanded the manuscript and cross-cutting virology pages to separate lesion-fluid culture, fatal-case blood/tissue recovery, varicella-zoster culture similarity, zoster latency/reactivation, and ordinary chickenpox transmission.
+
+## [2026-05-31] update | Hepatitis B evidence ladder pass
+Added a hepatitis B/HBV ladder page and source pages for Krugman, Giles, and Hammond 1967 and Acs et al. 1987, separating pre-HAV/HBV syndrome-split evidence from molecular-clone/cell-produced virion infectivity in intravenously inoculated chimpanzees and from unresolved Australia-antigen, early chimpanzee-passage, and ordinary human transmission rungs.
+
+## [2026-05-31] update | Hepatitis C evidence ladder pass
+Added a hepatitis C/HCV ladder page and source pages for Choo et al. 1989, Kuo et al. 1989, Alter et al. 1989, and Yanagi et al. 1997, separating molecular identification, recombinant-antigen antibody assay validation, prospective transfusion serology, donor linkage, molecular-clone infectivity, noninfectious-clone boundaries, and unresolved 1984 chimpanzee passage, 1999 transmissible-virion clone, ordinary transmission, and chronic-disease mechanism rungs.
+
+## [2026-05-31] update | Cervical cancer HPV evidence ladder pass
+Added a cervical cancer/HPV ladder page and source pages for Durst et al. 1983, Boshart et al. 1984, Durst et al. 1985, Matsukura et al. 1986, and Cullen et al. 1991, separating HPV16/18 tumor-DNA detection, type specificity, physical-state analysis, integration, viral-cell junction structure, integration-boundary evidence, and unresolved prospective progression, necessity, sufficiency, cofactor, and intervention rungs.
+
+## [2026-05-31] update | Kaposi sarcoma HHV-8 evidence ladder pass
+Added a Kaposi sarcoma/HHV-8 ladder page and source pages for Chang et al. 1994, Moore and Chang 1995, O'Neill et al. 1996, and Moore et al. 1996, separating KSHV molecular discovery, lesion PCR, cross-status detection, lesion-versus-normal tissue boundaries, viral characterization, infected-cell-line evidence, limited serology, and unresolved transmission, prospective timing, necessity, sufficiency, cofactor, and tumor-initiation rungs.
+
+## [2026-05-31] update | Infectious mononucleosis EBV evidence ladder pass
+Added an infectious mononucleosis/EBV ladder page and source pages for Klein et al. 1968, Nye and Lambert 1973, and Hallee et al. 1974, separating EBV-linked immunofluorescence, EBV antibody, case/contact serology, prospective seroconversion, EBV-specific IgM, clinical IM, inapparent EBV infection, mono-like illness boundaries, and unresolved purified-virus sufficiency and route-specific transmission rungs.
+
+## [2026-05-31] update | Burkitt lymphoma EBV evidence ladder pass
+Added a Burkitt lymphoma/EBV ladder page and source pages for Henle and Henle 1965, Epstein et al. 1965, and Nonoyama et al. 1973, separating derived-cell viral-interference behavior, cultured-cell virus-like particles, negative biological recovery attempts, tumor-tissue EBV DNA detection, comparison-tumor boundaries, and unresolved necessity, sufficiency, tumor-initiation, ordinary-transmission, and cofactor rungs.
+
+## [2026-05-31] update | Rabies evidence ladder pass
+Added a rabies/rabies-virus ladder page and source pages for Goodpasture 1925, Dawson 1941, Matsumoto 1963, Hummeler et al. 1967, Miyamoto and Matsumoto 1967, Charlton and Casey 1979, and Shirakawa et al. 2007, separating artificial masseter inoculation, neural-spread pathology, chick-embryo propagation, infected-brain morphology, tissue-culture replication, street/fixed strain differences, oral/nasal route boundaries, and unresolved ordinary bite-transmission, human clinical-causation, and post-exposure-prophylaxis rungs.
+
+## [2026-05-31] update | Measles evidence ladder pass
+Created full-text source pages and a synthesis ladder for failed blood inoculation, respiratory-material monkey challenge, pathology endpoints, tissue-culture isolation, serology, plaque assay, and ordinary-transmission limits.
+
+## [2026-05-31] update | Smallpox evidence ladder pass
+Created full-text source pages and a synthesis ladder for nonhuman-primate variolation, mouse nasal-route and lung-recovery boundaries, egg propagation and stability, monkey contact/aerosol transmission, simian-reservoir limits, and ordinary-human-transmission gaps.
+
+## [2026-05-31] update | Hepatitis A evidence ladder pass
+Created full-text source pages and a synthesis ladder for CR326 marmoset propagation, human-serology neutralization, particle characterization, infected-liver localization, noncytopathic cell-culture propagation, and full-text acquisition gaps for acute-stool IEM and chimpanzee challenge/tissue-shedding papers.
+
+## [2026-05-31] update | SARS evidence ladder pass
+Created full-text source pages and a synthesis ladder for SARS-CoV patient association, culture/isolation, EM, RT-PCR, serology, multicentre comparison, cynomolgus macaque challenge, lung pathology, viral localization, partial re-isolation, and artificial combined-route animal-model limits.
+## [2026-05-31] update | MERS -> MERS-CoV evidence ladder
+Created source pages for Zaki et al. 2012, de Wit et al. 2013, and Adney et al. 2014; added [[synthesis/mers-mers-cov-evidence-ladder]]; updated the virus attribution worklist, evidence-ladder synthesis, inferential-leap page, failed-attempt register, and manuscript to keep index-case isolation, macaque challenge, and camel shedding endpoints separate.
+## [2026-05-31] update | HFMD -> enteroviruses evidence ladder
+Created source pages for Alsop et al. 1960, Brown and O'Leary 1974, Ishimaru et al. 1980, and Li et al. 2014; added [[synthesis/hand-foot-mouth-disease-enteroviruses-evidence-ladder]]; updated the attribution worklist, evidence-ladder synthesis, inferential-leap page, failed-attempt register, and manuscript to separate Coxsackie A16 lesion isolation, Coxsackie A16 serology, EV71 outbreak/CNS association, and tree-shrew model endpoints.
+## [2026-05-31] update | Rotavirus and norovirus gastroenteritis evidence ladders
+Created source pages for four rotavirus papers and four norovirus papers; added [[synthesis/rotavirus-gastroenteritis-evidence-ladder]] and [[synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder]]; updated the worklist, cross-cutting ladder, inferential-leap page, failed-attempt register, and manuscript to keep tissue antigen, clinical association, human challenge, culture, outbreak, PCR-shedding, and enteroid-replication endpoints separate.
+## [2026-05-31] update | RSV bronchiolitis evidence ladder
+Created source pages for Chanock et al. 1957, Chanock and Finberg 1957, Cradock-Watson et al. 1971, Prince et al. 1978, and Hall et al. 1981; added [[synthesis/bronchiolitis-rsv-evidence-ladder]]; updated the worklist, cross-cutting ladder, inferential-leap page, failed-attempt register, and manuscript to separate early isolation, serology/epidemiology, diagnostic bronchiolitis association, cotton-rat pathology, and adult route-inoculation endpoints.
+## [2026-05-31] update | HSV and VZV evidence ladders
+Created started ladder pages for cold sores/HSV-1, genital herpes/HSV, and shingles/VZV reactivation; added source pages for HSV-1 oral shedding, HSV-1 UV-reactivation, HSV-1 intensive shedding, genital HSV lesion culture, genital HSV asymptomatic reactivation and shedding, genital HSV-1 shedding, asymptomatic genital transmission, and VZV ganglionic latency/reactivation papers; linked the pages into the worklist, evidence-ladder synthesis, inferential-leap page, failed-attempt register, and manuscript.

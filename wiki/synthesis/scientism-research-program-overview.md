@@ -4,7 +4,7 @@ category: synthesis
 summary: First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki.
 tags: [overview, research-program]
 sources: 34
-updated: 2026-05-05
+updated: 2026-05-31
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -13,6 +13,9 @@ claim_type: methodological
 
 ## Thesis
 The raw corpus is now broad enough to map the research program in detail, but not broad enough to settle most of its central disputes. The current wiki conclusion is therefore procedural rather than doctrinal: separate source claims from experimental capability, separate primary evidence from commentary, and track exactly where a narrow observation is being extended into a larger worldview, medical, or historical claim.
+
+## Long-form manuscript
+[[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] is the current long-form research manuscript for this notebook. It summarizes the vault's method, evidence grammar, endpoint discipline, germ-theory and virology causation audits, vaccine health-outcome distinctions, AIDS/AZT evidence checks, and open research agenda while preserving the rule that no broad claim outruns its named experiment.
 
 ## The landscape
 - Philosophy-of-science critique - tracked through [[concepts/scientism]] and leads like [[entities/paul-feyerabend]]
@@ -78,4 +81,5 @@ The raw corpus is now broad enough to map the research program in detail, but no
 ## Related
 - [[comparisons/disease-prevention-vs-health-outcomes]]
 - [[synthesis/source-corpus-triage]]
+- [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]]
 - [[sources/scientism-conversation-may-1-2026]]

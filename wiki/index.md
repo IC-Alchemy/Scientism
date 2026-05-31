@@ -1,22 +1,24 @@
 # Index — Scientism
 
-_Auto-generated 2026-05-14 • 113 pages_
+_Auto-generated 2026-05-31 • 117 pages_
 
 > Content-oriented catalog of every page in `wiki/`. Updated by
 > `scripts/update_index.py` or during `/wiki-ingest`. Answer queries
 > by reading this file first, then drilling into relevant pages.
 
-## Synthesis (13)
+## Synthesis (15)
 
-- [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children. _(13 sources · upd 2026-05-05)_
+- [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children. _(14 sources · upd 2026-05-21)_
 - [[synthesis/covid-early-intubation-noninvasive-ventilation-lens-summary|COVID Early Intubation and Noninvasive Ventilation Lens Summary]] — Lens-derived summary of COVID-19 early-intubation and noninvasive respiratory-support studies. _(14 sources · upd 2026-05-07)_
-- [[synthesis/failed-virus-causation-attempts-register|Failed Virus-Causation Attempt Register]] — Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set. _(9 sources · upd 2026-05-14)_
+- [[synthesis/failed-virus-causation-attempts-register|Failed Virus-Causation Attempt Register]] — Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set. _(31 sources · upd 2026-05-14)_
 - [[synthesis/gutknecht-letter-evidence-check|Gutknecht Letter Evidence Check]] — Current evidence-standard answer to the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest for questions 7-9. _(43 sources · upd 2026-05-05)_
 - [[synthesis/gutknecht-letter-questions-7-9|Gutknecht Letter Questions 7-9]] — Direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT. _(42 sources · upd 2026-05-05)_
 - [[synthesis/sars-cov-2-covid-causation-audit|SARS-CoV-2 COVID-19 Causation Audit]] — Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers, separating virus characterization, animal-model pathogenicity, and controlled human clinical causation. _(8 sources · upd 2026-05-06)_
-- [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(34 sources · upd 2026-05-05)_
+- [[synthesis/scientism-research-program-overview|Scientism Research Program Overview]] — First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki. _(34 sources · upd 2026-05-31)_
+- [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence|Scientism, Methodological Overreach, and the Discipline of Evidence]] — Long-form research manuscript summarizing the Scientism vault's current work on evidence standards, inferential overreach, endpoint discipline, and disputed biomedical case studies. _(47 sources · upd 2026-05-31)_
 - [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit|Shingles, VZV Causation, and Vaccine Trial Audit]] — Endpoint-level shortlist for shingles etiology, foundational varicella-zoster experiments, and modern zoster vaccine clinical trials. _(18 sources · upd 2026-05-08)_
 - [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(34 sources · upd 2026-05-05)_
+- [[synthesis/specific-vaccine-overall-health-outcome-evidence|Specific Vaccine Overall Health Outcome Evidence]] — Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial. _(6 sources · upd 2026-05-21)_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
 - [[synthesis/viral-disease-causation-evidence-ladder|Viral Disease Causation Evidence Ladder]] — Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims. _(7 sources · upd 2026-05-14)_
 - [[synthesis/virus-causation-inferential-leaps|Virus Causation Inferential Leaps]] — Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer. _(84 sources · upd 2026-05-14)_
@@ -45,7 +47,7 @@ _Auto-generated 2026-05-14 • 113 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(3 sources · upd 2026-05-04)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(8 sources · upd 2026-05-04)_
 
-## Source (78)
+## Source (79)
 
 - [[sources/cardo-1997-occupational-hiv-seroconversion-after-percutaneous-exposure|A case-control study of HIV seroconversion in health care workers after percutaneous exposure]] — Occupational HIV seroconversion case-control study relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
 - [[sources/jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses|A Hierarchical Framework for Assessing Transmission Causality of Respiratory Viruses]] — A 2022 methodological framework arguing that respiratory-virus transmission causality should be graded by evidence quality rather than assumed from isolated detection events. _(1 sources · upd 2026-05-14)_
@@ -63,6 +65,7 @@ _Auto-generated 2026-05-14 • 113 pages_
 - [[sources/schinaia-1994-progression-to-aids-in-italian-hiv-positive-hemophiliacs|Clinical factors associated with progression to AIDS in the Italian cohort of HIV-positive hemophiliacs]] — Italian national hemophilia cohort relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
 - [[sources/concorde-1994-immediate-versus-deferred-zidovudine|Concorde: MRC/ANRS randomised double-blind controlled trial of immediate and deferred zidovudine in symptom-free HIV infection]] — Immediate versus deferred zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/congressman-questions-aids-in-letter|Congressman Questions AIDS in Letter]] — A 1995 congressional letter to Anthony Fauci that packages HIV/AIDS dissent claims as political and scientific challenge questions rather than experimental proof. _(upd 2026-05-04)_
+- [[sources/cutts-2005-pcv9-gambia-rct|Cutts 2005 PCV9 Gambia RCT]] — Randomized double-blind placebo-controlled trial of nine-valent pneumococcal conjugate vaccine in Gambian children, with all-cause admissions and mortality endpoints. _(1 sources · upd 2026-05-21)_
 - [[sources/delta-1996-zidovudine-combinations-versus-zidovudine-alone|Delta: a randomised double-blind controlled trial comparing combinations of zidovudine plus didanosine or zalcitabine with zidovudine alone in HIV-infected individuals]] — Combination therapy versus zidovudine monotherapy trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/simmonds-1991-determinants-of-hiv-disease-progression-in-edinburgh-haemophilia-cohort|Determinants of HIV disease progression: six-year longitudinal study in the Edinburgh haemophilia/HIV cohort]] — Edinburgh hemophilia HIV longitudinal cohort relevant to Gutknecht letter Q8. _(upd 2026-05-05)_
 - [[sources/diagnosis-smallpox-viroliegy|Diagnosis: Smallpox? - ViroLIEgy]] — A Tier 3 commentary page arguing that historical smallpox diagnosis was clinically unstable and that differential diagnosis problems complicate retrospective certainty. _(1 sources · upd 2026-05-04)_
@@ -128,4 +131,4 @@ _Auto-generated 2026-05-14 • 113 pages_
 
 ## Comparison (1)
 
-- [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(5 sources · upd 2026-05-05)_
+- [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(6 sources · upd 2026-05-21)_

@@ -3,8 +3,8 @@ title: Are Vaccinated Children More Healthy Than Not Vaccinated Children?
 category: synthesis
 summary: Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children.
 tags: [vaccines, clinical-trials, health-outcomes, endpoints]
-sources: 13
-updated: 2026-05-05
+sources: 14
+updated: 2026-05-21
 claim_status: unresolved
 claim_type: medical
 ---
@@ -13,6 +13,11 @@ claim_type: medical
 
 ## Short answer
 No. The vaccine trial records currently audited in this vault do not answer that broad question.
+
+## 2026-05-21 narrower exception
+[[sources/cutts-2005-pcv9-gambia-rct]] now provides a strong narrow counterexample to the claim that no specific vaccine has direct evidence for broader health benefit. In that trial, young Gambian children randomized to nine-valent pneumococcal conjugate vaccine had fewer all-cause admissions and fewer all-cause deaths than children randomized to placebo.
+
+That does not change the answer to the broader page question. A specific PCV9 result in one high-burden setting is not the same as proof that vaccinated children as a class, or the full childhood vaccination schedule, produces better overall health than being unvaccinated.
 
 ## Why not
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] shows that the cited trials mostly measured narrower outcomes such as antibody response, targeted disease episodes, short-term reactogenicity, or limited safety events.
@@ -66,6 +71,7 @@ Searches run on 2026-05-05 used Lens scholarly search with journal-article, abst
 
 | Study | Design and population | Endpoint fit | Result reported | Why it belongs on the shortlist | Main limitation |
 |---|---|---|---|---|---|
+| [[sources/cutts-2005-pcv9-gambia-rct]] (Cutts et al., 2005; PMID `15794968`; DOI `10.1016/S0140-6736(05)71876-6`) | Randomized, double-blind, placebo-controlled trial of nine-valent pneumococcal conjugate vaccine in 17,437 children in eastern Gambia | Radiological pneumonia, invasive pneumococcal disease, all-cause admissions, all-cause mortality | Per-protocol all-cause admissions were reduced by 15% (95% CI 7 to 21), and all-cause mortality by 16% (95% CI 3 to 28); intention-to-treat mortality was reduced by 14% (95% CI 2 to 24) | Strong direct evidence that one specific vaccine improved broader health outcomes in the tested setting | Specific to PCV9, young Gambian children, high disease burden, and routine-vaccine context; not whole-schedule versus unvaccinated evidence |
 | [Association of BCG, DTP, and measles containing vaccines with childhood mortality](https://pubmed.ncbi.nlm.nih.gov/27737834/) (Higgins et al., 2016; Lens `043-510-677-865-699`; DOI `10.1136/bmj.i5170`) | Systematic review of trials, cohort studies, and case-control studies in children under 5 | Non-specific and all-cause mortality | BCG and measles-containing vaccines were associated with lower all-cause mortality. DTP was associated with a possible increase in all-cause mortality, but the DTP evidence came from high-risk-of-bias observational studies. | Directly reviews vaccine exposure and all-cause mortality, which is a real broader health endpoint | Review-level source; underlying study designs and bias ratings must be inspected separately |
 | [Early BCG-Denmark and neonatal mortality among infants weighing <2500 g](https://pubmed.ncbi.nlm.nih.gov/29579158/) (Biering-Sorensen et al., 2017; Lens `096-702-335-523-698`; DOI `10.1093/cid/cix525`) | Randomized controlled trial of early BCG in low-weight neonates in Guinea-Bissau | Neonatal mortality | Early BCG-Denmark was associated with a nonsignificant neonatal mortality reduction (MRR 0.70) and lower infectious-disease mortality (MRR 0.57). Meta-analysis of three BCG-Denmark trials reported neonatal mortality MRR 0.62. | Experimental design with all-cause mortality relevance | Narrow population and vaccine; does not answer routine childhood vaccination as a whole |
 | [Non-specific effects of standard measles vaccine at 4.5 and 9 months](https://pubmed.ncbi.nlm.nih.gov/21118875/) (Aaby et al., 2010; Lens `091-351-275-531-552`; DOI `10.1136/bmj.c6495`) | Randomized trial of early plus routine measles vaccine versus routine measles vaccine timing | Mortality from 4.5 months to 3 years | Two-dose measles vaccination had mortality rate ratio 0.78 versus one dose, which did not reach statistical significance overall. The abstract reports significant lower mortality among girls and among children who had not received neonatal vitamin A. | Experimental mortality endpoint beyond disease-specific efficacy | Timing/dose comparison, not fully vaccinated versus unvaccinated |
@@ -85,5 +91,7 @@ Searches run on 2026-05-05 used Lens scholarly search with journal-article, abst
 
 ## Related
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit]]
+- [[sources/cutts-2005-pcv9-gambia-rct]]
+- [[synthesis/specific-vaccine-overall-health-outcome-evidence]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
 - [[concepts/clinical-endpoints]]
