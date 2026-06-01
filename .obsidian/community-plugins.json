@@ -1,11 +1,10 @@
 [
   "homepage",
   "ai-tagger-universe",
-  "dataview",
-  "obsidian-icon-folder",
   "obsidian-git",
   "obsidian-tasks-plugin",
   "marker-api",
   "html-server",
-  "obsidian-folder-index"
+  "obsidian-folder-index",
+  "webpage-html-export"
 ]

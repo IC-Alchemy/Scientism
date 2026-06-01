@@ -1,4 +1,15 @@
 ---
+tags:
+  - rash-illnesses
+  - orthopox-differentiation
+  - historical-diagnosis-ambiguity
+  - retrospective-diagnostic-uncertainty
+  - smallpox
+  - differential-diagnosis
+  - diagnosis
+---
+
+---
 title: Diagnosis: Smallpox? - ViroLIEgy
 category: source
 summary: A Tier 3 commentary page arguing that historical smallpox diagnosis was clinically unstable and that differential diagnosis problems complicate retrospective certainty.

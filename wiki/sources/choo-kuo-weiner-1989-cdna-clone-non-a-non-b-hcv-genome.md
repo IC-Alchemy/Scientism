@@ -1,10 +1,25 @@
 ---
-title: Isolation of a cDNA Clone Derived from a Blood-Borne Non-A Non-B Viral Hepatitis Genome
+title: >-
+  Isolation of a cDNA Clone Derived from a Blood-Borne Non-A Non-B Viral
+  Hepatitis Genome
 category: source
-summary: 1989 Science molecular-cloning paper identifying cDNA clones associated with blood-borne non-A non-B hepatitis and naming hepatitis C virus.
-tags: [hepatitis-c, hcv, non-a-non-b-hepatitis, molecular-clone, serology, endpoints]
+summary: >-
+  1989 Science molecular-cloning paper identifying cDNA clones associated with
+  blood-borne non-A non-B hepatitis and naming hepatitis C virus.
+tags:
+  - cdna-library
+  - chimpanzee-plasma
+  - endpoints
+  - hcv
+  - hcv-genome
+  - hepatitis-c
+  - immunoscreening
+  - molecular-clone
+  - non-a-non-b-hepatitis
+  - pcr
+  - serology
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

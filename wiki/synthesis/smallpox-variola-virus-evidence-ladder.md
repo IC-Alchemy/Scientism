@@ -1,10 +1,24 @@
 ---
 title: Smallpox to Variola Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source smallpox research pass separating variola animal inoculation, route boundaries, egg propagation, mouse lung recovery, contact/aerosol monkey transmission, and simian-reservoir limits.
-tags: [smallpox, variola, animal-challenge, transmission, embryonated-eggs, route-boundary, evidence-standard]
+summary: >-
+  Source-by-source smallpox research pass separating variola animal inoculation,
+  route boundaries, egg propagation, mouse lung recovery, contact/aerosol monkey
+  transmission, and simian-reservoir limits.
+tags:
+  - animal-challenge
+  - embryonated-egg-propagation
+  - embryonated-eggs
+  - evidence-ladder
+  - evidence-standard
+  - nonhuman-primates
+  - route-boundaries
+  - route-boundary
+  - smallpox
+  - transmission
+  - variola
 sources: 7
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

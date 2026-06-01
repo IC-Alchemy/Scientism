@@ -1,10 +1,24 @@
 ---
-title: Etiologic Relationship of Marmoset-Propagated CR326 Hepatitis A Virus to Hepatitis in Man
+title: >-
+  Etiologic Relationship of Marmoset-Propagated CR326 Hepatitis A Virus to
+  Hepatitis in Man
 category: source
-summary: 1973 Proceedings paper testing whether marmoset-propagated CR326 hepatitis virus was serologically and experimentally related to human hepatitis A.
-tags: [hepatitis-a, hav, marmosets, neutralization, serology, animal-challenge]
+summary: >-
+  1973 Proceedings paper testing whether marmoset-propagated CR326 hepatitis
+  virus was serologically and experimentally related to human hepatitis A.
+tags:
+  - animal-challenge
+  - filtration-size
+  - hav
+  - heat-ether-acid-stability
+  - hepatitis-a
+  - marmoset-propagation
+  - marmosets
+  - neutralization
+  - serology
+  - serum-neutralization
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

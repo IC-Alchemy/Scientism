@@ -1,10 +1,23 @@
 ---
 title: Infectious Mononucleosis to Epstein-Barr Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source EBV/infectious mononucleosis research pass separating immunofluorescence, EBV antibody, seroconversion, EBV-specific IgM, clinical IM, contacts, and transmission-route claims.
-tags: [ebv, infectious-mononucleosis, serology, prospective-cohort, causation, evidence-standard]
+summary: >-
+  Source-by-source EBV/infectious mononucleosis research pass separating
+  immunofluorescence, EBV antibody, seroconversion, EBV-specific IgM, clinical
+  IM, contacts, and transmission-route claims.
+tags:
+  - causation
+  - ebv
+  - ebv-specific-igm
+  - evidence-standard
+  - family-contacts
+  - immunofluorescence
+  - infectious-mononucleosis
+  - prospective-cohort
+  - seroconversion
+  - serology
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

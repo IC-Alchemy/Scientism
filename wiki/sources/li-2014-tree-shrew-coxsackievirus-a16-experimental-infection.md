@@ -1,10 +1,21 @@
 ---
 title: Experimental Infection of Tree Shrews with Coxsackievirus A16
 category: source
-summary: 2014 animal-model paper testing Coxsackievirus A16 infection in tree shrews by nasal-spray inoculation with mock controls.
-tags: [hand-foot-mouth-disease, coxsackievirus-a16, animal-challenge, tree-shrew, tissue-localization]
+summary: >-
+  2014 animal-model paper testing Coxsackievirus A16 infection in tree shrews by
+  nasal-spray inoculation with mock controls.
+tags:
+  - animal-challenge
+  - coxsackievirus-a16
+  - fecal-shedding
+  - hand-foot-mouth-disease
+  - nasal-inoculation
+  - tissue-antigen-detection
+  - tissue-localization
+  - tree-shrew
+  - viral-tissue-distribution
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

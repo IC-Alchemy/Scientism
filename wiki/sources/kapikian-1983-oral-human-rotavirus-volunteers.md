@@ -1,10 +1,21 @@
 ---
 title: Oral Administration of Human Rotavirus to Volunteers
 category: source
-summary: 1983 human volunteer challenge paper reporting diarrhea, shedding, and serologic response after oral administration of human rotavirus strain D.
-tags: [rotavirus, gastroenteritis, human-challenge, shedding, serology]
+summary: >-
+  1983 human volunteer challenge paper reporting diarrhea, shedding, and
+  serologic response after oral administration of human rotavirus strain D.
+tags:
+  - diarrheal-illness
+  - gastroenteritis
+  - human-challenge
+  - oral-administration
+  - rotavirus
+  - serology
+  - shedding
+  - virus-shedding
+  - volunteer-challenge
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

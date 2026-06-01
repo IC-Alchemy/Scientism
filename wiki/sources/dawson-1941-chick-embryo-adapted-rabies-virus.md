@@ -1,10 +1,24 @@
 ---
 title: A Study of Chick-Embryo-Adapted Rabies Virus
 category: source
-summary: 1941 American Journal of Pathology study establishing rabies-virus strains in chick embryos and tracking pathology, host virulence, and survivor immunity.
-tags: [rabies, chick-embryo, propagation, negri-bodies, attenuation, endpoints]
+summary: >-
+  1941 American Journal of Pathology study establishing rabies-virus strains in
+  chick embryos and tracking pathology, host virulence, and survivor immunity.
+tags:
+  - attenuation
+  - chick-embryo
+  - chick-embryo-isolation
+  - cns-pathology
+  - endpoints
+  - intracerebral-inoculation
+  - negri-bodies
+  - propagation
+  - rabies
+  - rabies-paper
+  - serial-passage
+  - survivor-immunity
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,15 +1,21 @@
 ---
-title: "Pneumocystis pneumonia - Los Angeles"
+title: Pneumocystis pneumonia - Los Angeles
 category: source
-summary: "Primary surveillance case report relevant to Gutknecht letter Q8 chronology."
-tags: [aids, hiv, azt, chronology]
-updated: 2026-05-05
+summary: Primary surveillance case report relevant to Gutknecht letter Q8 chronology.
+tags:
+  - aids
+  - azt
+  - chronology
+  - hiv
+  - mmwr-case-report
+  - pneumocystis-pneumonia
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary surveillance case report
 pmid: 6265753
-doi: 
+doi: null
 ---
 
 # Pneumocystis pneumonia - Los Angeles

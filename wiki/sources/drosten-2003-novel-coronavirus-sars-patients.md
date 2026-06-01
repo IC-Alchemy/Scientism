@@ -1,10 +1,25 @@
 ---
-title: Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome
+title: >-
+  Identification of a Novel Coronavirus in Patients with Severe Acute
+  Respiratory Syndrome
 category: source
-summary: 2003 NEJM paper identifying a novel coronavirus in SARS patients by cell culture, random RT-PCR sequencing, specific PCR assays, and serology.
-tags: [sars, sars-cov, coronavirus, cell-culture, rt-pcr, serology, virus-identification]
+summary: >-
+  2003 NEJM paper identifying a novel coronavirus in SARS patients by cell
+  culture, random RT-PCR sequencing, specific PCR assays, and serology.
+tags:
+  - cell-culture
+  - coronavirus
+  - novel-coronavirus
+  - phylogenetic-comparison
+  - random-rt-pcr
+  - rt-pcr
+  - sars
+  - sars-cov
+  - serology
+  - virus-identification
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

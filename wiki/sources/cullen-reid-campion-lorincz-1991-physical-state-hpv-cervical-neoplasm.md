@@ -1,10 +1,24 @@
 ---
-title: Analysis of the Physical State of Different Human Papillomavirus DNAs in Cervical Neoplasm
+title: >-
+  Analysis of the Physical State of Different Human Papillomavirus DNAs in
+  Cervical Neoplasm
 category: source
-summary: 1991 Journal of Virology paper comparing episomal and integrated HPV DNA across latent infection, CIN, and invasive cervical cancer biopsies.
-tags: [hpv, cervical-cancer, integration, cin, tumor-dna, endpoints]
+summary: >-
+  1991 Journal of Virology paper comparing episomal and integrated HPV DNA
+  across latent infection, CIN, and invasive cervical cancer biopsies.
+tags:
+  - cervical-cancer
+  - cin
+  - cin-categories
+  - cross-sectional-study
+  - endpoints
+  - episomal-integration
+  - hpv
+  - integration
+  - southern-blotting
+  - tumor-dna
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

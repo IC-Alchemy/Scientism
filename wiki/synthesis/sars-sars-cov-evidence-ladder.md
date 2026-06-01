@@ -1,10 +1,23 @@
 ---
 title: SARS to SARS-CoV Evidence Ladder
 category: synthesis
-summary: Source-by-source SARS research pass separating patient association, virus isolation, RT-PCR, serology, macaque challenge, pathology, re-isolation, and natural-route limits.
-tags: [sars, sars-cov, coronavirus, animal-challenge, serology, rt-pcr, evidence-standard]
+summary: >-
+  Source-by-source SARS research pass separating patient association, virus
+  isolation, RT-PCR, serology, macaque challenge, pathology, re-isolation, and
+  natural-route limits.
+tags:
+  - animal-challenge
+  - coronavirus
+  - evidence-ladder
+  - evidence-standard
+  - macaque-challenge
+  - rt-pcr
+  - sars
+  - sars-cov
+  - serology
+  - virus-isolation
 sources: 3
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

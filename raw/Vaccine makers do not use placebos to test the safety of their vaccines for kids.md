@@ -10,8 +10,12 @@ description: >-
   What is a Placebo? A placebo is defined as a substance or treatment which is
   designed to have no therapeutic value. Common placebos include inert tablets
 tags:
+  - child-safety-testing
   - clinical-trials
+  - hepatitis-b-vaccines
+  - hib-vaccine
   - inert-placebo
+  - no-placebo-controls
   - pediatric-vaccine-safety
   - placebo-control
   - public-health
@@ -19,6 +23,7 @@ tags:
   - science
   - vaccination
   - vaccination-controversy
+  - vaccine-comparators
   - vaccine-testing-methods
   - vaccines
 published: 2021-01-26T00:00:00.000Z

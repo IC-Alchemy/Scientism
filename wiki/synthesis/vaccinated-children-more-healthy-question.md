@@ -1,10 +1,22 @@
 ---
 title: Are Vaccinated Children More Healthy Than Not Vaccinated Children?
 category: synthesis
-summary: Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children.
-tags: [vaccines, clinical-trials, health-outcomes, endpoints]
+summary: >-
+  Direct answer and Lens shortlist for whether the current evidence found in
+  this vault establishes broader overall-health superiority for vaccinated
+  children.
+tags:
+  - all-cause-outcomes
+  - clinical-trial
+  - clinical-trials
+  - endpoints
+  - evidence-capability
+  - health-outcomes
+  - pediatric-vaccine-evidence
+  - unvaccinated-vs-vaccinated
+  - vaccines
 sources: 14
-updated: 2026-05-21
+updated: 2026-05-21T00:00:00.000Z
 claim_status: unresolved
 claim_type: medical
 ---

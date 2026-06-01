@@ -1,5 +1,12 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+  - document-structure
+  - evidence-standards
+  - index
+  - mocs
+  - scientism
+  - vault-initialization
 ---
 ```folder-index-content
 ```

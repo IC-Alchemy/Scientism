@@ -1,15 +1,30 @@
 ---
-title: "Concorde: MRC/ANRS randomised double-blind controlled trial of immediate and deferred zidovudine in symptom-free HIV infection"
+title: >-
+  Concorde: MRC/ANRS randomised double-blind controlled trial of immediate and
+  deferred zidovudine in symptom-free HIV infection
 category: source
-summary: "Immediate versus deferred zidovudine timing trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: >-
+  Immediate versus deferred zidovudine timing trial relevant to Gutknecht letter
+  Q9.
+tags:
+  - aids
+  - asymptomatic-hiv-treatment
+  - azt
+  - cd4-thresholds
+  - clinical-trial
+  - concorde-trial
+  - hiv
+  - immediate-vs-deferred
+  - randomized-controlled-trial
+  - symptom-free-hiv
+  - zidovudine-treatment
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: immediate versus deferred zidovudine timing trial
 pmid: 7908356
-doi: 
+doi: null
 ---
 
 # Concorde: MRC/ANRS randomised double-blind controlled trial of immediate and deferred zidovudine in symptom-free HIV infection

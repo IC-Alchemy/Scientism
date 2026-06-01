@@ -1,10 +1,25 @@
 ---
-title: Detection of Herpesvirus-Like DNA Sequences in Kaposi's Sarcoma in Patients with and Those without HIV Infection
+title: >-
+  Detection of Herpesvirus-Like DNA Sequences in Kaposi's Sarcoma in Patients
+  with and Those without HIV Infection
 category: source
-summary: 1995 NEJM blinded PCR study detecting KSHV-like DNA in AIDS-associated, classic, and HIV-seronegative homosexual Kaposi sarcoma lesions.
-tags: [hhv8, kshv, kaposi-sarcoma, hiv, tumor-dna, molecular-detection, endpoints]
+summary: >-
+  1995 NEJM blinded PCR study detecting KSHV-like DNA in AIDS-associated,
+  classic, and HIV-seronegative homosexual Kaposi sarcoma lesions.
+tags:
+  - blinded-pcr
+  - endpoints
+  - hhv8
+  - hhv8-dna-detection
+  - hiv
+  - kaposi-sarcoma
+  - kshv
+  - molecular-detection
+  - sequence-similarity
+  - southern-hybridization
+  - tumor-dna
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

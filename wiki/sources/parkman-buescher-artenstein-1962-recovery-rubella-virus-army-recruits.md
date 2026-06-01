@@ -1,10 +1,24 @@
 ---
 title: Recovery of Rubella Virus from Army Recruits
 category: source
-summary: 1962 paper reporting recovery of a rubella-associated interfering agent from throat washings of army recruits with rubella, with scarlet-fever comparison cases and neutralizing-antibody follow-up.
-tags: [rubella, rubella-virus, culture, interference, serology, endpoints]
+summary: >-
+  1962 paper reporting recovery of a rubella-associated interfering agent from
+  throat washings of army recruits with rubella, with scarlet-fever comparison
+  cases and neutralizing-antibody follow-up.
+tags:
+  - culture
+  - endpoints
+  - grivet-monkey-kidney
+  - interference
+  - interference-assay
+  - paired-sera
+  - rubella
+  - rubella-virus
+  - serology
+  - throat-washings
+  - virus-isolation-claims
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

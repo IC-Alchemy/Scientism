@@ -9,13 +9,19 @@ description: Koch's Crisis
 tags:
   - anthrax-experiments
   - germ-theory-challenge
+  - germ-theory-evidence
   - germ-theory-history
   - historical-diagnosis
+  - koch-crisis
   - koch-postulates
+  - kochs-postulates
   - microbiology-research
+  - pasteur-plagiarism
   - pasteur-vs-koch
   - rabies-vaccine
+  - rabies-vaccine-history
   - vaccination-controversy
+  - vaccine-efficacy
   - vaccines
 ---
 ## The Germ Hypothesis Part 2

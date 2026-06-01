@@ -23,12 +23,15 @@ description: >-
   low sequencing costs Illumina's MiSeq is becoming one of the most utilized s
 tags:
   - amplicon-sequencing
+  - bayeshammer
   - datasheets
   - document-analysis
   - error-correction
   - genomics
   - illumina
+  - illumina-error-profiles
   - illumina-miseq
+  - metagenomic-amplicons
   - metagenomics
   - pandasaseq
   - primer-bias

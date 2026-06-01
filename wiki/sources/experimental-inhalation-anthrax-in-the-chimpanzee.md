@@ -1,14 +1,26 @@
 ---
 title: Experimental Inhalation Anthrax in the Chimpanzee
 category: source
-summary: A primary research paper on aerosol anthrax challenge in chimpanzees, currently represented in the raw vault by a minimal pointer note rather than a substantive summary.
-tags: [source, anthrax, animal-experiment, robert-koch, disease-model]
+summary: >-
+  A primary research paper on aerosol anthrax challenge in chimpanzees,
+  currently represented in the raw vault by a minimal pointer note rather than a
+  substantive summary.
+tags:
+  - aerosol-inhalation
+  - animal-experiment
+  - anthrax
+  - chimpanzee-model
+  - disease-model
+  - robert-koch
+  - source
 source_path: raw/EXPERIMENTAL INHALATION ANTHRAX IN THE CHIMPANZEE.md
 source_date: 1959
-authors: [Wilhelm S. Albrink, Robert J. Goodlow]
+authors:
+  - Wilhelm S. Albrink
+  - Robert J. Goodlow
 sources: 1
-ingested: 2026-05-04
-updated: 2026-05-04
+ingested: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: empirical
 source_tier: tier-1

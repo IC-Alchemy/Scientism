@@ -5,15 +5,19 @@ author:
   - '[[Unbekoming]]'
 description: On Virus™ Isolation
 tags:
+  - disease-causation
   - no-virus-theory
   - oligarchy-health
+  - oligarchy-medicine
   - pandemic-myths
   - pseudoscience
   - quarantine-critique
   - science
   - vaccination-controversy
+  - vaccine-necessity
   - virology
   - virus
+  - virus-isolation
   - virus-paradigm
 published: 2024-10-16T00:00:00.000Z
 created: 2025-03-30T00:00:00.000Z

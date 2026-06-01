@@ -1,9 +1,20 @@
 ---
-title: "Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter"
+title: >-
+  Zidovudine in asymptomatic human immunodeficiency virus infection: a
+  controlled trial in persons with fewer than 500 CD4-positive cells per cubic
+  millimeter
 category: source
-summary: "Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - asymptomatic-hiv-treatment
+  - azt
+  - cd4-threshold
+  - clinical-trial
+  - hiv
+  - randomized-controlled-trial
+  - zidovudine-toxicity
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,10 +1,22 @@
 ---
 title: Shingles to VZV Reactivation Evidence Ladder
 category: synthesis
-summary: Source-by-source shingles research pass separating varicella-zoster cultural similarity, ganglionic latency, neuronal localization, latent transcription, active ganglionitis, and reactivation-trigger limits.
-tags: [shingles, varicella-zoster-virus, latency, reactivation, evidence-standard]
+summary: >-
+  Source-by-source shingles research pass separating varicella-zoster cultural
+  similarity, ganglionic latency, neuronal localization, latent transcription,
+  active ganglionitis, and reactivation-trigger limits.
+tags:
+  - evidence-ladder
+  - evidence-standard
+  - ganglia-inflammation
+  - latency
+  - latent-transcription
+  - neuronal-localization
+  - reactivation
+  - shingles
+  - varicella-zoster-virus
 sources: 5
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

@@ -1,9 +1,19 @@
 ---
-title: "Changes in longevity and causes of death among persons with hemophilia A"
+title: Changes in longevity and causes of death among persons with hemophilia A
 category: source
-summary: "U.S. death-certificate mortality analysis relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, mortality]
-updated: 2026-05-05
+summary: U.S. death-certificate mortality analysis relevant to Gutknecht letter Q7.
+tags:
+  - aids
+  - cause-of-death
+  - death-certificates
+  - death-record-analysis
+  - hemophilia
+  - hemophilia-a
+  - hiv
+  - hiv-era-mortality
+  - longevity-change
+  - mortality
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

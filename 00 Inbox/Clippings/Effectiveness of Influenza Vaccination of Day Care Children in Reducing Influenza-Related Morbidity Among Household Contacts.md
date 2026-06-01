@@ -1,22 +1,36 @@
 ---
 url: https://jamanetwork.com/journals/jama/fullarticle/193137
-title: Effectiveness of Influenza Vaccination of Day Care Children in Reducing Influenza-Related Morbidity Among Household Contacts
+title: >-
+  Effectiveness of Influenza Vaccination of Day Care Children in Reducing
+  Influenza-Related Morbidity Among Household Contacts
 author:
-  - "[[Eugene S. Hurwitz]]"
-  - "[[Michael Haber]]"
-  - "[[Albert Chang]]"
-  - "[[Timothy Shope]]"
-  - "[[Siew Teo]]"
-  - "[[Michele Ginsberg]]"
-  - "[[Norman Waecker]]"
-  - "[[Nancy J. Cox]]"
-description: ContextA growing proportion of young children in the United States participatein day care, and these children are considered to be at high risk for
+  - '[[Eugene S. Hurwitz]]'
+  - '[[Michael Haber]]'
+  - '[[Albert Chang]]'
+  - '[[Timothy Shope]]'
+  - '[[Siew Teo]]'
+  - '[[Michele Ginsberg]]'
+  - '[[Norman Waecker]]'
+  - '[[Nancy J. Cox]]'
+description: >-
+  ContextA growing proportion of young children in the United States
+  participatein day care, and these children are considered to be at high risk
+  for
 tags:
+  - clinical-trial
   - clippings
-  - vaccine
+  - day-care
+  - household-transmission
+  - inactivated-vaccine
   - influenza
-published: 2000-10-04
-created: 2026-05-05
+  - placebo-saline
+  - randomized-controlled-trial
+  - respiratory-morbidity
+  - telephone-surveillance
+  - vaccination
+  - vaccine
+published: 2000-10-04T00:00:00.000Z
+created: 2026-05-05T00:00:00.000Z
 ---
 Abstract
 

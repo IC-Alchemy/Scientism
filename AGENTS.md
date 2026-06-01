@@ -1,3 +1,17 @@
+---
+tags:
+  - replication
+  - reproducibility
+  - inferential-overreach
+  - epistemology
+  - evidence-standards
+  - scientism
+  - scientism-critique
+  - methodological-critique
+  - methodological-overreach
+  - science-communication
+---
+
 # Scientism — Research Wiki
 
 > **Topic:** Scientism, methodological overreach, and disputed claims in the history and practice of science

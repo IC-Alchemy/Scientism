@@ -1,14 +1,30 @@
 ---
-title: "Sequence-Based Identification of Microbial Pathogens: A Reconsideration of Koch's Postulates"
+title: >-
+  Sequence-Based Identification of Microbial Pathogens: A Reconsideration of
+  Koch's Postulates
 category: source
-summary: Fredericks and Relman's 1996 methodological review proposes sequence-based criteria for linking microbial nucleic-acid evidence to disease while warning that sequence detection alone is not causal proof.
-tags: [source, molecular-methods, kochs-postulates, causation, methodology]
+summary: >-
+  Fredericks and Relman's 1996 methodological review proposes sequence-based
+  criteria for linking microbial nucleic-acid evidence to disease while warning
+  that sequence detection alone is not causal proof.
+tags:
+  - causation
+  - evidence-criteria
+  - kochs-postulates
+  - methodology
+  - molecular-methods
+  - pathogen-identification
+  - pcr-interpretation
+  - sequence-evidence
+  - source
 source_path: doi:10.1128/cmr.9.1.18-33.1996
 source_date: 1996
-authors: [D. N. Fredericks, David A. Relman]
+authors:
+  - D. N. Fredericks
+  - David A. Relman
 sources: 1
-ingested: 2026-05-14
-updated: 2026-05-14
+ingested: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-2

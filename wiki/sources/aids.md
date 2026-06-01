@@ -1,10 +1,23 @@
 ---
 title: AIDS
 category: source
-summary: Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation arguments, especially drug-toxicity and AZT-toxicity claims.
-tags: [aids, hiv, causation, azt, virology]
+summary: >-
+  Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation
+  arguments, especially drug-toxicity and AZT-toxicity claims.
+tags:
+  - aids
+  - aids-associated-death
+  - azt
+  - azt-toxicity
+  - causation
+  - drug-toxicity
+  - duesberg-argument
+  - hiv
+  - hiv-aids-dispute
+  - inferential-dispute
+  - virology
 source_path: raw/AIDS.md
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3

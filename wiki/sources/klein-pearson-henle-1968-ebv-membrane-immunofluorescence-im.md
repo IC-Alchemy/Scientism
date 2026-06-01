@@ -1,14 +1,32 @@
 ---
-title: Relation Between Epstein-Barr Viral and Cell Membrane Immunofluorescence in Burkitt Tumor Cells II
+title: >-
+  Relation Between Epstein-Barr Viral and Cell Membrane Immunofluorescence in
+  Burkitt Tumor Cells II
 category: source
-summary: 1968 Journal of Experimental Medicine paper comparing EBV-linked membrane immunofluorescence in Burkitt tumor cells and infectious-mononucleosis-derived blastoid cell cultures.
-tags: [ebv, infectious-mononucleosis, burkitt-lymphoma, immunofluorescence, serology, cell-culture, endpoints]
+summary: >-
+  1968 Journal of Experimental Medicine paper comparing EBV-linked membrane
+  immunofluorescence in Burkitt tumor cells and infectious-mononucleosis-derived
+  blastoid cell cultures.
+tags:
+  - blastoid-cultures
+  - burkitt-lymphoma
+  - cell-culture
+  - cell-membrane-antigen
+  - ebv
+  - endpoints
+  - immunofluorescence
+  - infectious-mononucleosis
+  - membrane-immunofluorescence
+  - serial-sera
+  - serology
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
-evidence_role: primary EBV immunofluorescence and infectious-mononucleosis cell-culture comparison paper
+evidence_role: >-
+  primary EBV immunofluorescence and infectious-mononucleosis cell-culture
+  comparison paper
 pmid: 4878907
 pmcid: PMC2138569
 doi: 10.1084/jem.128.5.1021

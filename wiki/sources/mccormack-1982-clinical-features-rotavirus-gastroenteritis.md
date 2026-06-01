@@ -1,10 +1,19 @@
 ---
 title: Clinical Features of Rotavirus Gastroenteritis
 category: source
-summary: 1982 prospective hospital study associating stool rotavirus detection with gastroenteritis clinical features in young children.
-tags: [rotavirus, gastroenteritis, pediatric, electron-microscopy, clinical-features]
+summary: >-
+  1982 prospective hospital study associating stool rotavirus detection with
+  gastroenteritis clinical features in young children.
+tags:
+  - clinical-features
+  - electron-microscopy
+  - gastroenteritis
+  - pediatric
+  - prospective-study
+  - rotavirus
+  - stool-detection
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

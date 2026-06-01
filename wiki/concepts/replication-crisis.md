@@ -1,10 +1,22 @@
 ---
 title: Replication Crisis
 category: concept
-summary: Exploratory concept page for reported reproducibility problems; this vault still needs direct replication-study anchors.
-tags: [replication, reproducibility, methodology]
+summary: >-
+  Exploratory concept page for reported reproducibility problems; this vault
+  still needs direct replication-study anchors.
+tags:
+  - empirical-evidence
+  - evidence-standard
+  - failed-replication
+  - method-transparency
+  - methodological-overview
+  - methodology
+  - replicability
+  - replication
+  - replication-crisis
+  - reproducibility
 sources: 2
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: empirical
 ---

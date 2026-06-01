@@ -1,10 +1,19 @@
 ---
 title: Empirical Evidence
 category: source
-summary: Short tertiary note that defines empirical evidence in broad terms but does not itself provide source-grade methodological analysis.
-tags: [empirical-evidence, terminology, tertiary-source]
+summary: >-
+  Short tertiary note that defines empirical evidence in broad terms but does
+  not itself provide source-grade methodological analysis.
+tags:
+  - data-quality
+  - empirical-evidence
+  - evidence-definition
+  - methodological-overview
+  - replication
+  - terminology
+  - tertiary-source
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3

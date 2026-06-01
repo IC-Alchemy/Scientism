@@ -1,10 +1,23 @@
 ---
 title: Association of Virus with Cases of Rubella Studied in Toronto
 category: source
-summary: 1963 CMAJ paper reporting rubella-virus isolation from typical rubella throat washings, convalescent-serum neutralization, and mild illness after inoculation of grivet monkeys.
-tags: [rubella, rubella-virus, culture, animal-challenge, serology, endpoints]
+summary: >-
+  1963 CMAJ paper reporting rubella-virus isolation from typical rubella throat
+  washings, convalescent-serum neutralization, and mild illness after
+  inoculation of grivet monkeys.
+tags:
+  - animal-challenge
+  - culture
+  - endpoints
+  - monkey-inoculation
+  - neutralization-assay
+  - rubella
+  - rubella-virus
+  - serology
+  - throat-washings
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

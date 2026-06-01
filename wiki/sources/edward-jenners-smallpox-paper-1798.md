@@ -1,14 +1,27 @@
 ---
 title: Edward Jenner's Smallpox Paper (1798)
 category: source
-summary: A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and argues that the original record is more ambiguous than later triumphal retellings suggest.
-tags: [source, smallpox, vaccination, edward-jenner, history-of-medicine]
+summary: >-
+  A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and
+  argues that the original record is more ambiguous than later triumphal
+  retellings suggest.
+tags:
+  - 1798-inquiry
+  - case-ambiguity
+  - edward-jenner
+  - history-of-medicine
+  - horse-grease-theory
+  - smallpox
+  - source
+  - vaccination
+  - variolation-challenge
 source_path: raw/Edward Jenner’s Smallpox Paper (1798).md
-source_date: 2022-02-03
-authors: [ViroLIEgy]
+source_date: 2022-02-03T00:00:00.000Z
+authors:
+  - ViroLIEgy
 sources: 1
-ingested: 2026-05-04
-updated: 2026-05-04
+ingested: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3

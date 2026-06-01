@@ -1,10 +1,22 @@
 ---
-title: Recovery from Infants with Respiratory Illness of a Virus Related to Chimpanzee Coryza Agent I
+title: >-
+  Recovery from Infants with Respiratory Illness of a Virus Related to
+  Chimpanzee Coryza Agent I
 category: source
-summary: 1957 American Journal of Hygiene paper reporting recovery and characterization of CCA-related syncytial viruses from infants with respiratory illness.
-tags: [rsv, bronchiolitis, respiratory-illness, virus-isolation, tissue-culture]
+summary: >-
+  1957 American Journal of Hygiene paper reporting recovery and characterization
+  of CCA-related syncytial viruses from infants with respiratory illness.
+tags:
+  - bronchiolitis
+  - chimpanzee-coryza-agent-related
+  - respiratory-illness
+  - rsv
+  - syncytial-cytopathic-effect
+  - throat-swab-specimens
+  - tissue-culture
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

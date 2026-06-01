@@ -1,10 +1,18 @@
 ---
 title: Polio
 category: source
-summary: Sparse note linking Scobey's poisoning-based interpretation of poliomyelitis and a set of historical vaccine advertisements.
-tags: [polio, propaganda, vaccination, history]
+summary: >-
+  Sparse note linking Scobey's poisoning-based interpretation of poliomyelitis
+  and a set of historical vaccine advertisements.
+tags:
+  - history
+  - polio
+  - propaganda
+  - scobey-poisoning
+  - vaccination
+  - vaccine-advertisements
 source_path: raw/Polio.md
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-3

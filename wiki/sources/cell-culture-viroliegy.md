@@ -1,10 +1,22 @@
 ---
 title: Cell Culture - ViroLIEgy
 category: source
-summary: Category-style landing page from ViroLIEgy that signals a critical stance toward virology cell-culture methods but contains little standalone evidentiary detail.
-tags: [cell-culture, virology, commentary, category-page]
+summary: >-
+  Category-style landing page from ViroLIEgy that signals a critical stance
+  toward virology cell-culture methods but contains little standalone
+  evidentiary detail.
+tags:
+  - category-page
+  - cell-culture
+  - cell-culture-methods
+  - commentary
+  - evidence-thin
+  - methodological-critique
+  - source-landing-page
+  - virology
+  - virology-methodology
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3

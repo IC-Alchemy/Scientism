@@ -1,3 +1,17 @@
+---
+tags:
+  - evolutionary-inference
+  - speciation-evidence
+  - indirect-evidence
+  - mutation-rates
+  - chromosome-fusion
+  - evidence
+  - evidence-gap
+  - inferential-leap
+  - in-silico-genomics
+  - whole-genome-sequencing
+---
+
 I understand your concern about distinguishing between empirical observation and interpretation. You're right to be critical about the strength of different types of evidence. Let me clarify what would constitute truly empirical evidence versus interpretation:
 
 **Direct empirical observations** include:

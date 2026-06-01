@@ -9,10 +9,13 @@ tags:
   - polio
   - polio-vaccination
   - propaganda
+  - public-messaging
   - vaccine
   - vaccine-advertisements
+  - vaccine-history
   - vaccine-propaganda
   - vaccines
+  - vintage-advertising
   - virus
 modified: 2025-03-02T02:22:11.000Z
 ---

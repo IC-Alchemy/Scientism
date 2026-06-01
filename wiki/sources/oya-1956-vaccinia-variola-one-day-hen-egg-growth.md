@@ -1,10 +1,22 @@
 ---
 title: Growth of Vaccinia and Variola Viruses in the One-Day-Old Fertile Hen's Egg
 category: source
-summary: 1956 Japanese Journal of Medical Science and Biology paper comparing vaccinia and variola growth in one-day-old fertile hen's eggs.
-tags: [smallpox, variola, vaccinia, embryonated-eggs, propagation, culture]
+summary: >-
+  1956 Japanese Journal of Medical Science and Biology paper comparing vaccinia
+  and variola growth in one-day-old fertile hen's eggs.
+tags:
+  - culture
+  - embryonated-eggs
+  - in-ovo-propagation
+  - pock-forming-unit
+  - propagation
+  - smallpox
+  - vaccinia
+  - vaccinia-variola-comparison
+  - variola
+  - variola-growth
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

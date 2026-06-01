@@ -1,9 +1,19 @@
 ---
-title: "Pneumocystis carinii pneumonia and mucosal candidiasis in previously healthy homosexual men"
+title: >-
+  Pneumocystis carinii pneumonia and mucosal candidiasis in previously healthy
+  homosexual men
 category: source
-summary: "Peer-reviewed clinical case series relevant to Gutknecht letter Q8 chronology."
-tags: [aids, hiv, azt, chronology]
-updated: 2026-05-05
+summary: Peer-reviewed clinical case series relevant to Gutknecht letter Q8 chronology.
+tags:
+  - aids
+  - azt
+  - chronology
+  - cytomegalovirus
+  - hiv
+  - opportunistic-infections
+  - pneumocystis-pneumonia
+  - t-cell-subsets
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1

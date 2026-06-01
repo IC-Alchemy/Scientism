@@ -1,10 +1,23 @@
 ---
 title: Pediatric Vaccine Trial Records Placebo-Control Audit
 category: source
-summary: Abstract-level audit of vaccine clinical-trial records cited by the CHD placebo-control article, focused on comparator type and endpoint scope.
-tags: [vaccines, clinical-trials, placebo-controls, pediatric-trials, safety]
+summary: >-
+  Abstract-level audit of vaccine clinical-trial records cited by the CHD
+  placebo-control article, focused on comparator type and endpoint scope.
+tags:
+  - abstract-metadata
+  - clinical-trials
+  - comparator-choice
+  - pediatric-trials
+  - pediatric-vaccines
+  - placebo-controls
+  - safety
+  - trial-record-audit
+  - vaccine-safety
+  - vaccine-trials
+  - vaccines
 sources: 20
-updated: 2026-05-05
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-1

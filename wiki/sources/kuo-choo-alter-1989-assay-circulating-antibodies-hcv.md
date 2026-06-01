@@ -1,10 +1,26 @@
 ---
-title: An Assay for Circulating Antibodies to a Major Etiologic Virus of Human Non-A Non-B Hepatitis
+title: >-
+  An Assay for Circulating Antibodies to a Major Etiologic Virus of Human Non-A
+  Non-B Hepatitis
 category: source
-summary: 1989 Science paper developing a recombinant C100-3 anti-HCV antibody assay and testing it against infectious NANBH sera, linked transfusion cases, and clinical cohorts.
-tags: [hepatitis-c, hcv, non-a-non-b-hepatitis, serology, antibody-assay, endpoints]
+summary: >-
+  1989 Science paper developing a recombinant C100-3 anti-HCV antibody assay and
+  testing it against infectious NANBH sera, linked transfusion cases, and
+  clinical cohorts.
+tags:
+  - antibodies
+  - antibody-assay
+  - endpoints
+  - hcv
+  - hepatitis-c
+  - microtiter-assay
+  - non-a-non-b-hepatitis
+  - recombinant-antigen
+  - seroconversion
+  - serology
+  - transfusion-linked
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

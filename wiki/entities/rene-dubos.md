@@ -1,10 +1,17 @@
 ---
 title: Rene Dubos
 category: entity
-summary: Microbiologist referenced in the seed source as a lead for later criticism or qualification of germ-theory thinking.
-tags: [history-of-science, microbiology]
+summary: >-
+  Microbiologist referenced in the seed source as a lead for later criticism or
+  qualification of germ-theory thinking.
+tags:
+  - germ-theory
+  - history-of-science
+  - microbiology
+  - rene-dubos
+  - scientism-critique
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 ---

@@ -1,10 +1,24 @@
 ---
-title: Herpes Simplex Virus Type 1 Shedding in Tears and Nasal and Oral Mucosa of Healthy Adults
+title: >-
+  Herpes Simplex Virus Type 1 Shedding in Tears and Nasal and Oral Mucosa of
+  Healthy Adults
 category: source
-summary: 2016 prospective intensive sampling study detecting frequent HSV-1 DNA shedding across orofacial sites in healthy adults with cold-sore history.
-tags: [hsv-1, cold-sores, oral-shedding, asymptomatic-shedding, pcr]
+summary: >-
+  2016 prospective intensive sampling study detecting frequent HSV-1 DNA
+  shedding across orofacial sites in healthy adults with cold-sore history.
+tags:
+  - asymptomatic-shedding
+  - cold-sores
+  - hsv
+  - hsv-1
+  - oral-shedding
+  - orofacial-sampling
+  - pcr
+  - pcr-detection
+  - reactivation-frequency
+  - tear-shedding
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

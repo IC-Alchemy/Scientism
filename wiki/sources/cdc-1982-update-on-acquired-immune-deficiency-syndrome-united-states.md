@@ -1,15 +1,26 @@
 ---
-title: "Update on acquired immune deficiency syndrome (AIDS) - United States"
+title: Update on acquired immune deficiency syndrome (AIDS) - United States
 category: source
-summary: "Primary national surveillance report relevant to Gutknecht letter Q8 chronology."
-tags: [aids, hiv, azt, chronology]
-updated: 2026-05-05
+summary: >-
+  Primary national surveillance report relevant to Gutknecht letter Q8
+  chronology.
+tags:
+  - aids
+  - aids-case-definition
+  - azt
+  - cdc-surveillance
+  - chronology
+  - diagnosis-timing
+  - hiv
+  - mmwr-report
+  - pre-azt-chronology
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary national surveillance report
 pmid: 6815471
-doi: 
+doi: null
 ---
 
 # Update on acquired immune deficiency syndrome (AIDS) - United States

@@ -12,13 +12,18 @@ tags:
   - fear-propaganda
   - germ-theory-debate
   - hydrophobia
+  - media-fear
   - media-influence
+  - pasteur-germ-theory
   - propaganda
   - pseudoscience
+  - rabies-myths
   - rabies-research
+  - vaccine-misinformation
   - vaccine-myths
   - virology
   - virus
+  - zoonotic-fear
 published: 2022-08-08T00:00:00.000Z
 created: 2025-03-19T00:00:00.000Z
 modified: 2025-03-20T00:07:44.000Z

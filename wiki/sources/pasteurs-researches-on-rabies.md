@@ -1,14 +1,27 @@
 ---
 title: Pasteur's Researches on Rabies
 category: source
-summary: A pointer to an 1886 BMJ report on Pasteur's rabies work, currently represented in the raw vault as a short bibliographic note rather than a developed summary.
-tags: [source, louis-pasteur, rabies, hydrophobia, history-of-medicine]
+summary: >-
+  A pointer to an 1886 BMJ report on Pasteur's rabies work, currently
+  represented in the raw vault as a short bibliographic note rather than a
+  developed summary.
+tags:
+  - 1886-bmj-report
+  - british-medical-journal
+  - history-of-medicine
+  - hydrophobia
+  - louis-pasteur
+  - pasteur-rabies-treatment
+  - preventive-inoculation
+  - rabies
+  - source
 source_path: raw/Pasteur’s Researches on Rabies.md
-source_date: 1886-04-17
-authors: [British Medical Journal]
+source_date: 1886-04-17T00:00:00.000Z
+authors:
+  - British Medical Journal
 sources: 1
-ingested: 2026-05-04
-updated: 2026-05-04
+ingested: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-2

@@ -7,8 +7,13 @@ longitude: -104.8319195
 altitude: 0
 tags:
   - covid-19-origins
+  - evidence-gap
+  - health-benefit-evidence
   - jenner
+  - logical-inference
+  - long-term-outcomes
   - measles
+  - methodological-critique
   - polio
   - propaganda
   - risk-assessment

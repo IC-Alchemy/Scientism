@@ -1,10 +1,23 @@
 ---
-title: Recovery from Infants with Respiratory Illness of a Virus Related to Chimpanzee Coryza Agent II
+title: >-
+  Recovery from Infants with Respiratory Illness of a Virus Related to
+  Chimpanzee Coryza Agent II
 category: source
-summary: 1957 American Journal of Hygiene epidemiologic companion paper reporting virus isolation and antibody evidence in infants and young children.
-tags: [rsv, bronchiolitis, respiratory-illness, serology, epidemiology]
+summary: >-
+  1957 American Journal of Hygiene epidemiologic companion paper reporting virus
+  isolation and antibody evidence in infants and young children.
+tags:
+  - bronchiolitis
+  - complement-fixation
+  - epidemiology
+  - infant-cohort
+  - nosocomial-infection
+  - respiratory-illness
+  - rsv
+  - serology
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,4 +1,16 @@
 ---
+tags:
+  - historical-infectiousness
+  - human-challenge
+  - negative-results
+  - case-definition
+  - influenza
+  - spanish-flu
+  - transmission
+  - methodology
+---
+
+---
 title: The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)
 category: source
 summary: Tier 3 commentary arguing that Rosenau's 1918 influenza transmission experiments undermine claims of influenza infectiousness.

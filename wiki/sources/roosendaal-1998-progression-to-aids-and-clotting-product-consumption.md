@@ -1,15 +1,25 @@
 ---
-title: "Progression to AIDS in relation to clinical factors and clotting product consumption"
+title: >-
+  Progression to AIDS in relation to clinical factors and clotting product
+  consumption
 category: source
-summary: "Dutch hemophilia progression cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, hemophilia, blood-products]
-updated: 2026-05-05
+summary: Dutch hemophilia progression cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - blood-products
+  - cmv-cofactor
+  - factor-viii-inhibitors
+  - hemophilia
+  - hiv
+  - longitudinal-cohort
+  - seroconversion-risk
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: Dutch hemophilia progression cohort
 pmid: 9873260
-doi: 
+doi: null
 ---
 
 # Progression to AIDS in relation to clinical factors and clotting product consumption

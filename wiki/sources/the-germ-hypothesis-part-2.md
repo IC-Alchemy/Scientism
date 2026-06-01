@@ -1,14 +1,28 @@
 ---
 title: The Germ Hypothesis Part 2
 category: source
-summary: A Tier 3 revisionist essay arguing that Koch's work and later germ-theory claims overstate what the historical experiments actually proved.
-tags: [source, mike-stone, robert-koch, germ-theory, critique]
+summary: >-
+  A Tier 3 revisionist essay arguing that Koch's work and later germ-theory
+  claims overstate what the historical experiments actually proved.
+tags:
+  - anthrax-history
+  - cholera-etiology
+  - critique
+  - germ-theory
+  - germ-theory-challenge
+  - historical-analysis
+  - koch-postulates
+  - mike-stone
+  - robert-koch
+  - source
+  - tuberculosis-standards
 source_path: raw/The Germ Hypothesis Part 2.md
-source_date: 2024-05-31
-authors: [Mike Stone]
+source_date: 2024-05-31T00:00:00.000Z
+authors:
+  - Mike Stone
 sources: 1
-ingested: 2026-05-04
-updated: 2026-05-04
+ingested: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3

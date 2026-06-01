@@ -1,5 +1,7 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+  - mocs
 ---
 ```folder-index-content
 ```

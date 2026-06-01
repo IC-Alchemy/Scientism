@@ -1,10 +1,22 @@
 ---
 title: Viral Disease Causation Evidence Ladder
 category: synthesis
-summary: Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims.
-tags: [virology, causation, methodology, evidence-standard]
+summary: >-
+  Cross-cutting framework for separating detection, isolation, transmission,
+  animal challenge, molecular, clinical, and intervention evidence in viral
+  disease causation claims.
+tags:
+  - causation
+  - endpoint-compression
+  - evidence-ladder
+  - evidence-standard
+  - methodology
+  - risk-of-overclaim
+  - transmission-causality
+  - virology
+  - virology-critique
 sources: 120
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

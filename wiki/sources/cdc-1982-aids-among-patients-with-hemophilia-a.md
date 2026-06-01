@@ -1,15 +1,24 @@
 ---
-title: "Update on acquired immune deficiency syndrome (AIDS) among patients with hemophilia A"
+title: >-
+  Update on acquired immune deficiency syndrome (AIDS) among patients with
+  hemophilia A
 category: source
-summary: "Primary surveillance case update relevant to Gutknecht letter Q8 chronology."
-tags: [aids, hiv, hemophilia, chronology]
-updated: 2026-05-05
+summary: Primary surveillance case update relevant to Gutknecht letter Q8 chronology.
+tags:
+  - aids
+  - chronology
+  - hemophilia
+  - hemophilia-a
+  - hiv
+  - mmwr
+  - pre-azt-era
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary surveillance case update
 pmid: 6819439
-doi: 
+doi: null
 ---
 
 # Update on acquired immune deficiency syndrome (AIDS) among patients with hemophilia A

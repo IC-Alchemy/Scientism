@@ -1,13 +1,18 @@
 ---
 tags:
+  - culture-conditions
   - disinfection-methods
   - document-analysis
   - historical-analysis
+  - hygiene-bacteriology
   - hygiene-microbiology
+  - infectiousness-proof
   - infectiousness-testing
   - microbiology-research
   - pathogenic-organisms
   - pathogenic-properties
+  - pathogenicity-testing
+  - pure-culture-methods
   - pure-cultures
   - science
 ---

@@ -1,10 +1,23 @@
 ---
 title: Influenza to Influenza Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, and ordinary human causation.
-tags: [influenza, influenza-virus, causation, evidence-standard, inferential-leap]
+summary: >-
+  Source-by-source influenza research pass separating pre-virus human
+  transmission failure, human-case filtrate, ferret passage, serology, swine
+  susceptibility, contact transfer, and ordinary human causation.
+tags:
+  - causation
+  - contact-transfer
+  - evidence-ladder
+  - evidence-standard
+  - ferret-passage
+  - inferential-leap
+  - influenza
+  - influenza-virus
+  - pre-virus-transmission-failure
+  - swine-susceptibility
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

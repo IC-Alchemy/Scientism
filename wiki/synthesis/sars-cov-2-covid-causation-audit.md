@@ -1,15 +1,23 @@
 ---
 title: SARS-CoV-2 COVID-19 Causation Audit
 category: synthesis
-summary: Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers, separating virus characterization, animal-model pathogenicity, and controlled human clinical causation.
+summary: >-
+  Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers,
+  separating virus characterization, animal-model pathogenicity, and controlled
+  human clinical causation.
 tags:
+  - animal-challenge
+  - causation
+  - causation-audit
   - covid-19
+  - endpoint-audit
+  - epidemiology
+  - human-challenge-model
+  - methodology
   - sars-cov-2
   - virology
-  - causation
-  - methodology
 sources: 8
-updated: 2026-05-06
+updated: 2026-05-06T00:00:00.000Z
 claim_status: unresolved
 claim_type: medical
 ---

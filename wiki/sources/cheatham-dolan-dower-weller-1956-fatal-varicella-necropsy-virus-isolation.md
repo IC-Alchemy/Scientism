@@ -1,4 +1,16 @@
 ---
+tags:
+  - zoster-exclusion
+  - fatal-case-report
+  - type-a-intranuclear-inclusions
+  - complement-fixation
+  - varicella
+  - necropsy
+  - virus-isolation
+  - serologic-studies
+---
+
+---
 title: Varicella: Report of Two Fatal Cases with Necropsy, Virus Isolation, and Serologic Studies
 category: source
 summary: 1956 fatal-varicella case report with necropsy pathology, virus isolation from vesicle fluid, blood, and lung, and serologic findings.

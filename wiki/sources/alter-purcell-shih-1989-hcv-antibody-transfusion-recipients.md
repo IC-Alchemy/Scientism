@@ -1,10 +1,26 @@
 ---
-title: Detection of Antibody to Hepatitis C Virus in Prospectively Followed Transfusion Recipients
+title: >-
+  Detection of Antibody to Hepatitis C Virus in Prospectively Followed
+  Transfusion Recipients
 category: source
-summary: 1989 NEJM prospective transfusion-recipient study linking anti-HCV seroconversion with acute and chronic transfusion-associated non-A non-B hepatitis.
-tags: [hepatitis-c, hcv, transfusion, serology, cohort, endpoints]
+summary: >-
+  1989 NEJM prospective transfusion-recipient study linking anti-HCV
+  seroconversion with acute and chronic transfusion-associated non-A non-B
+  hepatitis.
+tags:
+  - anti-hcv
+  - cohort
+  - donor-linkage
+  - endpoints
+  - hcv
+  - hepatitis-c
+  - radioimmunoassay
+  - seroconversion-timing
+  - serology
+  - transfusion
+  - transfusion-recipients
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

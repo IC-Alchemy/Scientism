@@ -1,3 +1,17 @@
+---
+tags:
+  - replication-failure
+  - p-hacking
+  - research-transparency
+  - selective-reporting
+  - methodological-shortcomings
+  - scientism
+  - scientism-critique
+  - methodological-critique
+  - replication-crisis
+  - falsifiability
+---
+
   
 
 [Scientism](https://claude.ai/project/019de54f-6ed0-73de-9b3f-77960a5196e5)/

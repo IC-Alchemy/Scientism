@@ -1,10 +1,26 @@
 ---
-title: Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids
+title: >-
+  Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for
+  Kids
 category: source
-summary: Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos.
-tags: [vaccines, placebo-controls, pediatric-trials, safety]
-source_path: raw/Vaccine makers do not use placebos to test the safety of their vaccines for kids.md
-updated: 2026-05-05
+summary: >-
+  Children's Health Defense article arguing that many pediatric vaccine trials
+  use active comparators or non-inert controls rather than inert placebos.
+tags:
+  - clinical-trials
+  - inert-placebo
+  - pediatric-trials
+  - placebo-control
+  - placebo-controls
+  - reactogenicity-endpoints
+  - safety
+  - trial-comparator
+  - vaccine-safety
+  - vaccines
+source_path: >-
+  raw/Vaccine makers do not use placebos to test the safety of their vaccines
+  for kids.md
+updated: 2026-05-05T00:00:00.000Z
 claim_status: disputed
 claim_type: methodological
 source_tier: tier-3

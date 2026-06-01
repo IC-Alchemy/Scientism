@@ -1,10 +1,24 @@
 ---
 title: Structure and Development of Rabies Virus in Tissue Culture
 category: source
-summary: 1967 Journal of Virology study correlating fixed rabies-virus development in BHK/21 cells with electron microscopy, fluorescent-antibody staining, and infectivity titration.
-tags: [rabies, tissue-culture, electron-microscopy, bhk21, infectivity, endpoints]
+summary: >-
+  1967 Journal of Virology study correlating fixed rabies-virus development in
+  BHK/21 cells with electron microscopy, fluorescent-antibody staining, and
+  infectivity titration.
+tags:
+  - bhk21
+  - electron-microscopy
+  - endpoints
+  - fixed-virus
+  - fluorescent-antibody
+  - infectivity
+  - infectivity-titration
+  - rabies
+  - tissue-culture
+  - tissue-culture-growth
+  - virus-isolation-claims
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

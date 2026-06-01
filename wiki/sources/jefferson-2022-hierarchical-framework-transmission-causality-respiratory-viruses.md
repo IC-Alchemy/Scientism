@@ -1,14 +1,36 @@
 ---
-title: "A Hierarchical Framework for Assessing Transmission Causality of Respiratory Viruses"
+title: >-
+  A Hierarchical Framework for Assessing Transmission Causality of Respiratory
+  Viruses
 category: source
-summary: A 2022 methodological framework arguing that respiratory-virus transmission causality should be graded by evidence quality rather than assumed from isolated detection events.
-tags: [source, respiratory-viruses, transmission, causation, methodology]
+summary: >-
+  A 2022 methodological framework arguing that respiratory-virus transmission
+  causality should be graded by evidence quality rather than assumed from
+  isolated detection events.
+tags:
+  - causality-ranking
+  - causation
+  - evidence-hierarchy
+  - methodology
+  - respiratory-virus-attribution
+  - respiratory-viruses
+  - source
+  - transmission
+  - transmission-evidence
 source_path: doi:10.3390/v14081605
 source_date: 2022
-authors: [Tom Jefferson, Carl J. Heneghan, Elizabeth Spencer, Jon Brassey, Annette Pluddemann, Igho Onakpoya, David Evans, John Conly]
+authors:
+  - Tom Jefferson
+  - Carl J. Heneghan
+  - Elizabeth Spencer
+  - Jon Brassey
+  - Annette Pluddemann
+  - Igho Onakpoya
+  - David Evans
+  - John Conly
 sources: 1
-ingested: 2026-05-14
-updated: 2026-05-14
+ingested: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-2

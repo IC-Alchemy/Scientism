@@ -1,10 +1,23 @@
 ---
 title: Hepatitis C to Hepatitis C Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source HCV research pass separating non-A non-B hepatitis, molecular identification, prospective transfusion serology, infectious molecular clone, and ordinary transmission.
-tags: [hepatitis-c, hcv, non-a-non-b-hepatitis, causation, molecular-clone, evidence-standard]
+summary: >-
+  Source-by-source HCV research pass separating non-A non-B hepatitis, molecular
+  identification, prospective transfusion serology, infectious molecular clone,
+  and ordinary transmission.
+tags:
+  - causation
+  - chimpanzee-passage
+  - evidence-ladder
+  - evidence-standard
+  - hcv
+  - hepatitis-c
+  - infectious-cdna
+  - molecular-clone
+  - non-a-non-b-hepatitis
+  - transfusion-serology
 sources: 5
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

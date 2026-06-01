@@ -1,10 +1,18 @@
 ---
 title: Paul Feyerabend
 category: entity
-summary: Philosopher of science referenced in the seed source as a lead for critiques of fixed scientific method and authority.
-tags: [philosophy-of-science, critique]
+summary: >-
+  Philosopher of science referenced in the seed source as a lead for critiques
+  of fixed scientific method and authority.
+tags:
+  - authority-critique
+  - critique
+  - feyerabend
+  - methodology-criticism
+  - philosophy-of-science
+  - scientism
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 ---

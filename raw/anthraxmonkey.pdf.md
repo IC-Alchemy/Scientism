@@ -1,16 +1,20 @@
 ---
 ai: image2text
 tags:
-  - experimental-inhalation
-  - chimpanzee-model
-  - bacillus-anthracis
+  - aerosol-generator
   - aerosol-infection
-  - respiratory-infection
+  - animal-experimentation
   - anthrax
   - anthrax-experiments
+  - bacillus-anthracis
+  - chimpanzee-model
+  - experimental-inhalation
   - pathogenic-organisms
+  - primates
+  - respiratory-infection
+  - respiratory-inoculation
+  - tracheal-route
   - wet-lab
-  - animal-experimentation
 ---
 
 

@@ -1,10 +1,23 @@
 ---
-title: Asymptomatic Reactivation of Herpes Simplex Virus in Women after the First Episode of Genital Herpes
+title: >-
+  Asymptomatic Reactivation of Herpes Simplex Virus in Women after the First
+  Episode of Genital Herpes
 category: source
-summary: 1992 cohort study documenting asymptomatic genital HSV isolation after first-episode genital herpes in women.
-tags: [genital-herpes, hsv-2, hsv-1, asymptomatic-shedding, reactivation]
+summary: >-
+  1992 cohort study documenting asymptomatic genital HSV isolation after
+  first-episode genital herpes in women.
+tags:
+  - asymptomatic-shedding
+  - culture-detection
+  - first-episode-genital-herpes
+  - genital-herpes
+  - genital-viral-isolation
+  - hsv-1
+  - hsv-2
+  - reactivation
+  - routine-follow-up-cohort
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

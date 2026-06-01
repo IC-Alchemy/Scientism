@@ -1,10 +1,21 @@
 ---
 title: Specific Vaccine Overall Health Outcome Evidence
 category: synthesis
-summary: Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial.
-tags: [vaccines, health-outcomes, mortality, randomized-trials, endpoints]
+summary: >-
+  Current best direct evidence that a specific vaccine improved broader health
+  outcomes, centered on the PCV9 Gambia randomized trial.
+tags:
+  - all-cause-mortality
+  - endpoints
+  - health-outcomes
+  - mortality
+  - pcv9-gambia
+  - placebo-controlled
+  - pneumococcal-conjugate-vaccine
+  - randomized-trials
+  - vaccines
 sources: 6
-updated: 2026-05-21
+updated: 2026-05-21T00:00:00.000Z
 claim_status: supported
 claim_type: medical
 ---

@@ -6,15 +6,21 @@ latitude: 39.7294319
 longitude: -104.8319195
 altitude: 0
 tags:
+  - a-z-t-toxicity
   - aids
+  - azt
   - azt-toxicity
+  - causation-debate
   - controversial-theories
   - drug-induced-immunodeficiency
+  - drug-toxicity
   - duesberg-aids
+  - epidemiology
   - epidemiology-inconsistencies
   - hiv-aids-dissent
   - science
   - vaccination-controversy
+  - vaccine-controversy
   - virology
   - virus-hiv
   - virus/hiv

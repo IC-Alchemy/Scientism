@@ -1,9 +1,23 @@
 ---
-title: "A trial comparing nucleoside monotherapy with combination therapy in HIV-infected adults with CD4 cell counts from 200 to 500 per cubic millimeter"
+title: >-
+  A trial comparing nucleoside monotherapy with combination therapy in
+  HIV-infected adults with CD4 cell counts from 200 to 500 per cubic millimeter
 category: source
-summary: "Monotherapy versus combination nucleoside trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, combination-therapy]
-updated: 2026-05-05
+summary: >-
+  Monotherapy versus combination nucleoside trial relevant to Gutknecht letter
+  Q9.
+tags:
+  - aids
+  - azt
+  - cd4-progression
+  - combination-therapy
+  - didanosine
+  - hiv
+  - hiv-treatment-comparison
+  - randomized-controlled-trial
+  - zalcitabine
+  - zidovudine-monotherapy
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

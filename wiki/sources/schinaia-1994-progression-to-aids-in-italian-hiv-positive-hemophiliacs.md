@@ -1,15 +1,25 @@
 ---
-title: "Clinical factors associated with progression to AIDS in the Italian cohort of HIV-positive hemophiliacs"
+title: >-
+  Clinical factors associated with progression to AIDS in the Italian cohort of
+  HIV-positive hemophiliacs
 category: source
-summary: "Italian national hemophilia cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, hemophilia, cohort]
-updated: 2026-05-05
+summary: Italian national hemophilia cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - cohort
+  - hemophilia
+  - hiv
+  - italian-registry
+  - kaplan-meier
+  - plasma-derived-factors
+  - progression-to-aids
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: Italian national hemophilia cohort
 pmid: 7974372
-doi: 
+doi: null
 ---
 
 # Clinical factors associated with progression to AIDS in the Italian cohort of HIV-positive hemophiliacs

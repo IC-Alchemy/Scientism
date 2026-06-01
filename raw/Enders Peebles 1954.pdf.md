@@ -1,15 +1,20 @@
 ---
 ai: image2text
 tags:
-  - cytopathogenic-agents
-  - tissue-culture
-  - virus-propagation
   - cell-culture
+  - chick-embryo
+  - complement-fixation
+  - cytopathogenic-agents
+  - egg-passage
   - infectious-disease-lab
   - measles
+  - measles-diagnosis
+  - measles-etiology
   - measles-research
   - measles-virus
-  - measles-diagnosis
+  - serial-passage
+  - tissue-culture
+  - virus-propagation
   - virus/flu
 ---
 # Enders Peebles 1954.pdf

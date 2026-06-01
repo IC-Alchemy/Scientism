@@ -1,14 +1,28 @@
 ---
-title: "Viruses and Koch's Postulates"
+title: Viruses and Koch's Postulates
 category: source
-summary: Thomas Rivers' 1937 methodological paper arguing that viral causation can be investigated without literal fulfillment of Koch's bacteriological postulates, but still requires proof beyond association.
-tags: [source, virology, kochs-postulates, causation, methodology]
+summary: >-
+  Thomas Rivers' 1937 methodological paper arguing that viral causation can be
+  investigated without literal fulfillment of Koch's bacteriological postulates,
+  but still requires proof beyond association.
+tags:
+  - causation
+  - endpoint-audit
+  - etiological-proof
+  - evidence-ladder
+  - kochs-postulates
+  - methodology
+  - source
+  - viral-causation
+  - viral-disease-standards
+  - virology
 source_path: doi:10.1128/jb.33.1.1-12.1937
 source_date: 1937
-authors: [Thomas M. Rivers]
+authors:
+  - Thomas M. Rivers
 sources: 1
-ingested: 2026-05-14
-updated: 2026-05-14
+ingested: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-1

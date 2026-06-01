@@ -1,10 +1,25 @@
 ---
 title: Rabies to Rabies Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source rabies research pass separating artificial inoculation, neural-spread pathology, chick-embryo propagation, particle morphology, tissue-culture replication, street/fixed strain differences, and route-boundary evidence.
-tags: [rabies, lyssavirus, neural-transmission, tissue-culture, route-boundary, causation, evidence-standard]
+summary: >-
+  Source-by-source rabies research pass separating artificial inoculation,
+  neural-spread pathology, chick-embryo propagation, particle morphology,
+  tissue-culture replication, street/fixed strain differences, and
+  route-boundary evidence.
+tags:
+  - causation
+  - electron-microscopy
+  - evidence-ladder
+  - evidence-standard
+  - experimental-rabies
+  - lyssavirus
+  - neural-transmission
+  - rabies
+  - route-boundary
+  - street-vs-fixed
+  - tissue-culture
 sources: 8
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

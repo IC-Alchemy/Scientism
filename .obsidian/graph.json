@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#causation  ",
+      "color": {
+        "a": 1,
+        "rgb": 3735538
+      }
+    },
+    {
+      "query": "tag:#aids",
+      "color": {
+        "a": 1,
+        "rgb": 16718549
+      }
+    },
+    {
+      "query": "tag:#cell-culture  ",
+      "color": {
+        "a": 1,
+        "rgb": 16508942
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "textFadeMultiplier": 2.1,
+  "nodeSizeMultiplier": 1.17074074074074,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 13.4962962962963,
+  "linkStrength": 0.686666666666667,
+  "linkDistance": 500,
+  "scale": 0.05932617187500007,
+  "close": false
 }

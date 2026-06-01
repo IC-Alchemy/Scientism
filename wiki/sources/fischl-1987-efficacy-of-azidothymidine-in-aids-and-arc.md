@@ -1,9 +1,19 @@
 ---
-title: "The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex: a double-blind, placebo-controlled trial"
+title: >-
+  The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS
+  and AIDS-related complex: a double-blind, placebo-controlled trial
 category: source
-summary: "Pivotal AZT efficacy trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: Pivotal AZT efficacy trial relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - azt
+  - cd4-cells
+  - clinical-trial
+  - double-blind
+  - hiv
+  - mortality-endpoints
+  - placebo-controlled
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

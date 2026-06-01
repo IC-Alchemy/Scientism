@@ -1,10 +1,25 @@
 ---
-title: Cloning of Monomeric Human Papillomavirus Type 16 DNA Integrated within Cell DNA from a Cervical Carcinoma
+title: >-
+  Cloning of Monomeric Human Papillomavirus Type 16 DNA Integrated within Cell
+  DNA from a Cervical Carcinoma
 category: source
-summary: 1986 Journal of Virology paper cloning HPV16 DNA with flanking cellular DNA from a cervical carcinoma and sequencing viral-cell junction regions.
-tags: [hpv, hpv16, cervical-cancer, integration, viral-cell-junction, endpoints]
+summary: >-
+  1986 Journal of Virology paper cloning HPV16 DNA with flanking cellular DNA
+  from a cervical carcinoma and sequencing viral-cell junction regions.
+tags:
+  - cervical-cancer
+  - dna-integration
+  - endpoints
+  - hpv
+  - hpv16
+  - integration
+  - junction-sequencing
+  - molecular-cloning
+  - viral-cell-junction
+  - viral-cell-junctions
+  - viral-dna-deletion
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

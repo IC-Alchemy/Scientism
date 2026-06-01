@@ -1,10 +1,21 @@
 ---
-title: Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth Disease
+title: >-
+  Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth
+  Disease
 category: source
-summary: 1974 Infection and Immunity serology paper reporting Coxsackie A16 fluorescent-antibody responses in HFMD cases and contacts.
-tags: [hand-foot-mouth-disease, coxsackievirus-a16, serology, antibodies, contacts]
+summary: >-
+  1974 Infection and Immunity serology paper reporting Coxsackie A16
+  fluorescent-antibody responses in HFMD cases and contacts.
+tags:
+  - antibodies
+  - contacts
+  - coxsackievirus-a16
+  - fluorescent-antibody
+  - hand-foot-mouth-disease
+  - hfmd-serology
+  - serology
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

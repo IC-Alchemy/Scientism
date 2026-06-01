@@ -1,10 +1,24 @@
 ---
 title: MERS to MERS-CoV Evidence Ladder
 category: synthesis
-summary: Source-by-source MERS research pass separating index-case isolation, sequencing, serology, rhesus-macaque challenge, camel shedding ecology, and natural-route limits.
-tags: [mers, mers-cov, coronavirus, animal-challenge, virus-isolation, shedding, evidence-standard]
+summary: >-
+  Source-by-source MERS research pass separating index-case isolation,
+  sequencing, serology, rhesus-macaque challenge, camel shedding ecology, and
+  natural-route limits.
+tags:
+  - animal-challenge
+  - camel-shedding
+  - coronavirus
+  - evidence-ladder
+  - evidence-standard
+  - mers
+  - mers-cov
+  - rhesus-macaque-model
+  - serum-serology
+  - shedding
+  - virus-isolation
 sources: 3
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

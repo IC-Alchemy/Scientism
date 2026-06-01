@@ -1,13 +1,24 @@
 ---
 title: Empirical Evidence
 category: concept
-summary: Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility.
+summary: >-
+  Empirical evidence consists of observed or measured data, but the evidentiary
+  force of that data depends on method quality, endpoint clarity, and
+  reproducibility.
 tags:
+  - control-requirements
+  - empirical-claims
+  - endpoint-clarity
   - evidence
-  - observation
+  - experiment-interpretation
+  - inferential-leap
+  - interpretation
   - methodology
+  - observation
+  - observation-data
+  - reproducibility
 sources: 5
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

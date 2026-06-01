@@ -1,9 +1,23 @@
 ---
-title: "Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study"
+title: >-
+  Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high
+  risk of progression to AIDS: a randomized, double-blind placebo-controlled
+  study
 category: source
-summary: "Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - asymptomatic-hiv
+  - azt
+  - cd4-threshold
+  - clinical-trial
+  - disease-progression
+  - hiv
+  - p24-antigen
+  - placebo-controlled
+  - randomized-controlled-trial
+  - zidovudine-trial
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

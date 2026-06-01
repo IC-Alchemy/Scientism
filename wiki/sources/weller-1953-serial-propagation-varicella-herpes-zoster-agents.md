@@ -1,10 +1,25 @@
 ---
-title: Serial Propagation in Vitro of Agents Producing Inclusion Bodies Derived from Varicella and Herpes Zoster
+title: >-
+  Serial Propagation in Vitro of Agents Producing Inclusion Bodies Derived from
+  Varicella and Herpes Zoster
 category: source
-summary: 1953 paper reporting serial propagation of cytopathogenic agents from varicella and herpes zoster vesicle fluids in human tissue cultures.
-tags: [varicella, herpes-zoster, vzv, tissue-culture, inclusion-bodies, endpoints]
+summary: >-
+  1953 paper reporting serial propagation of cytopathogenic agents from
+  varicella and herpes zoster vesicle fluids in human tissue cultures.
+tags:
+  - endpoints
+  - herpes-zoster
+  - inclusion-bodies
+  - roller-tube-cultures
+  - serial-passage
+  - tissue-culture
+  - varicella
+  - varicella-zoster-virus
+  - vesicle-fluid
+  - virus-propagation
+  - vzv
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

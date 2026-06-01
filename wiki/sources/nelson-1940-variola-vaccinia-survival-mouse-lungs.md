@@ -1,10 +1,25 @@
 ---
-title: The Survival of Variola and Vaccinia Viruses in the Lungs of Mice Previously Infected with Variola
+title: >-
+  The Survival of Variola and Vaccinia Viruses in the Lungs of Mice Previously
+  Infected with Variola
 category: source
-summary: 1940 Journal of Experimental Medicine paper comparing variola and vaccinia recovery from mouse lungs after prior variola exposure.
-tags: [smallpox, variola, vaccinia, mice, respiratory-route, immunity, host-range]
+summary: >-
+  1940 Journal of Experimental Medicine paper comparing variola and vaccinia
+  recovery from mouse lungs after prior variola exposure.
+tags:
+  - cross-protection
+  - host-range
+  - immunity
+  - intranasal-challenge
+  - lung-viral-recovery
+  - mice
+  - mouse-lung
+  - respiratory-route
+  - smallpox
+  - vaccinia
+  - variola
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,26 @@
 ---
-title: Replication and Shedding of MERS-CoV in Upper Respiratory Tract of Inoculated Dromedary Camels
+title: >-
+  Replication and Shedding of MERS-CoV in Upper Respiratory Tract of Inoculated
+  Dromedary Camels
 category: source
-summary: 2014 experimental dromedary-camel inoculation paper reporting mild disease, upper-respiratory replication, nasal shedding, tissue antigen, and seroconversion after high-dose combined-route MERS-CoV exposure.
-tags: [mers, mers-cov, dromedary-camel, shedding, transmission-ecology, animal-challenge]
+summary: >-
+  2014 experimental dromedary-camel inoculation paper reporting mild disease,
+  upper-respiratory replication, nasal shedding, tissue antigen, and
+  seroconversion after high-dose combined-route MERS-CoV exposure.
+tags:
+  - animal-challenge
+  - dromedary-camel
+  - infectious-virus-titration
+  - mers
+  - mers-cov
+  - nasal-shedding
+  - seroconversion
+  - shedding
+  - transmission-ecology
+  - upper-respiratory-replication
+  - viral-antigen-localization
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

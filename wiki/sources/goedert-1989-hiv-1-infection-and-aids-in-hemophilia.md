@@ -1,9 +1,22 @@
 ---
-title: "A prospective study of human immunodeficiency virus type 1 infection and the development of AIDS in subjects with hemophilia"
+title: >-
+  A prospective study of human immunodeficiency virus type 1 infection and the
+  development of AIDS in subjects with hemophilia
 category: source
-summary: "Prospective hemophilia HIV natural-history cohort relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, cohort]
-updated: 2026-05-05
+summary: >-
+  Prospective hemophilia HIV natural-history cohort relevant to Gutknecht letter
+  Q7.
+tags:
+  - aids
+  - aids-progression
+  - cd4-endpoints
+  - cohort
+  - hemophilia
+  - hiv
+  - hiv-natural-history
+  - prospective-cohort
+  - seroconversion-timing
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

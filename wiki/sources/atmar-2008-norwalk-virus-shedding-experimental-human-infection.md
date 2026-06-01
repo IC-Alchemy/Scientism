@@ -1,10 +1,23 @@
 ---
 title: Norwalk Virus Shedding after Experimental Human Infection
 category: source
-summary: 2008 Emerging Infectious Diseases human challenge paper reporting infection, viral gastroenteritis, shedding, and antibody response after oral Norwalk virus exposure.
-tags: [norovirus, norwalk-virus, gastroenteritis, human-challenge, shedding]
+summary: >-
+  2008 Emerging Infectious Diseases human challenge paper reporting infection,
+  viral gastroenteritis, shedding, and antibody response after oral Norwalk
+  virus exposure.
+tags:
+  - antibody-response
+  - dose-response
+  - gastroenteritis
+  - human-challenge
+  - norovirus
+  - norwalk-virus
+  - rt-pcr
+  - secretor-status
+  - shedding
+  - viral-gastroenteritis
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

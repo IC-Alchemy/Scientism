@@ -1,15 +1,27 @@
 ---
-title: "A randomized trial of lamivudine plus zidovudine versus zidovudine alone in previously untreated patients with HIV infection"
+title: >-
+  A randomized trial of lamivudine plus zidovudine versus zidovudine alone in
+  previously untreated patients with HIV infection
 category: source
-summary: "Lamivudine plus zidovudine versus zidovudine monotherapy trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, combination-therapy]
-updated: 2026-05-05
+summary: >-
+  Lamivudine plus zidovudine versus zidovudine monotherapy trial relevant to
+  Gutknecht letter Q9.
+tags:
+  - aids
+  - azt
+  - cd4-endpoints
+  - combination-therapy
+  - hiv
+  - lamivudine
+  - randomized-trial
+  - zidovudine-monotherapy
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: lamivudine plus zidovudine versus zidovudine monotherapy trial
 pmid: 8656503
-doi: 
+doi: null
 ---
 
 # A randomized trial of lamivudine plus zidovudine versus zidovudine alone in previously untreated patients with HIV infection

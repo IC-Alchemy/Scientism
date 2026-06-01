@@ -1,9 +1,20 @@
 ---
-title: "Mortality in patients with hemophilia. Changes in a Dutch population from 1986 to 1992 and 1973 to 1986"
+title: >-
+  Mortality in patients with hemophilia. Changes in a Dutch population from 1986
+  to 1992 and 1973 to 1986
 category: source
-summary: "Dutch hemophilia cohort mortality analysis relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, mortality]
-updated: 2026-05-05
+summary: Dutch hemophilia cohort mortality analysis relevant to Gutknecht letter Q7.
+tags:
+  - aids
+  - cause-of-death
+  - cohort
+  - hemophilia
+  - hemophilia-cohort
+  - hiv
+  - mortality
+  - standardized-mortality-ratio
+  - viral-infection-deaths
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

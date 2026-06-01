@@ -1,13 +1,29 @@
 ---
-url: "https://cms.viroliegy.com/2025/07/17/an-inquiry-into-the-logical-basis-of-the-germ-theory/"
-title: "An Inquiry into the Logical Basis of the Germ Theory"
+url: >-
+  https://cms.viroliegy.com/2025/07/17/an-inquiry-into-the-logical-basis-of-the-germ-theory/
+title: An Inquiry into the Logical Basis of the Germ Theory
 author:
-  - "[[Mike Stone]]"
-description: "The germ “theory:\" a scientific foundation or a logical fallacy? To those familiar with my work, it comes as no surprise that I take great interest in highlighting the forgotten voices from the formative years of germ “theory” and virology—those who examined the rise of these pseudoscientific fields with critical eyes. These individuals had front-row…"
+  - '[[Mike Stone]]'
+description: >-
+  The germ “theory:" a scientific foundation or a logical fallacy? To those
+  familiar with my work, it comes as no surprise that I take great interest in
+  highlighting the forgotten voices from the formative years of germ “theory”
+  and virology—those who examined the rise of these pseudoscientific fields with
+  critical eyes. These individuals had front-row…
 tags:
-  - "clippings"
-published: 2025-07-17
-created: 2026-05-04
+  - affirming-the-consequent
+  - causation-proof
+  - clippings
+  - germ-theory-challenge
+  - germ-theory-debate
+  - historical-critique
+  - logical-fallacy
+  - logical-inference
+  - pseudoscience
+  - pseudoscience-criteria
+  - terrain-theory
+published: 2025-07-17T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 ---
 The germ “theory:” a scientific foundation or a logical fallacy?
 

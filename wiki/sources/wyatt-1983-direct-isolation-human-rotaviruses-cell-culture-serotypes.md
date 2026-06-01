@@ -1,10 +1,23 @@
 ---
-title: Direct Isolation in Cell Culture of Human Rotaviruses and Their Characterization into Four Serotypes
+title: >-
+  Direct Isolation in Cell Culture of Human Rotaviruses and Their
+  Characterization into Four Serotypes
 category: source
-summary: 1983 J Clin Microbiol paper reporting partial direct cultivation of human rotavirus-positive fecal specimens and serotype classification.
-tags: [rotavirus, cell-culture, virus-isolation, serotyping, gastroenteritis]
+summary: >-
+  1983 J Clin Microbiol paper reporting partial direct cultivation of human
+  rotavirus-positive fecal specimens and serotype classification.
+tags:
+  - cell-culture
+  - cell-culture-isolation
+  - direct-culture
+  - gastroenteritis
+  - ma104-cells
+  - neutralization-assay
+  - rotavirus
+  - serotyping
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

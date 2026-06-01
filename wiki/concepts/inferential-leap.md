@@ -1,10 +1,24 @@
 ---
 title: Inferential Leap
 category: concept
-summary: An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify.
-tags: [interpretation, external-validity, methodology]
+summary: >-
+  An inferential leap is the move from a narrower observation or experiment to a
+  broader claim that the evidence may not strictly justify.
+tags:
+  - association-vs-causation
+  - boundary-conditions
+  - causal-bridge
+  - causation-evidence
+  - endpoint-framing
+  - evidence-gap
+  - external-validity
+  - inferential-dispute
+  - interpretation
+  - methodological-critique
+  - methodology
+  - overgeneralization
 sources: 18
-updated: 2026-05-14
+updated: 2026-05-14T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

@@ -1,10 +1,22 @@
 ---
 title: Cold Sores to HSV-1 Evidence Ladder
 category: synthesis
-summary: Source-by-source cold-sore research pass separating oral HSV-1 recovery, recurrent labialis, UV-reactivation PCR/culture, asymptomatic shedding, and transmission limits.
-tags: [hsv-1, cold-sores, herpes-labialis, shedding, evidence-standard]
+summary: >-
+  Source-by-source cold-sore research pass separating oral HSV-1 recovery,
+  recurrent labialis, UV-reactivation PCR/culture, asymptomatic shedding, and
+  transmission limits.
+tags:
+  - cold-sores
+  - evidence-ladder
+  - evidence-standard
+  - herpes-labialis
+  - hsv
+  - hsv-1
+  - oral-shedding
+  - shedding
+  - uv-reactivation
 sources: 3
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

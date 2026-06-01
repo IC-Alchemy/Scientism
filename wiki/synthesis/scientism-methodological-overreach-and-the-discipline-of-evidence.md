@@ -1,10 +1,23 @@
 ---
 title: Scientism, Methodological Overreach, and the Discipline of Evidence
 category: synthesis
-summary: Long-form research manuscript summarizing the Scientism vault's current work on evidence standards, inferential overreach, endpoint discipline, and disputed biomedical case studies.
-tags: [scientism, research-paper, methodology, evidence-standard, inferential-leap]
+summary: >-
+  Long-form research manuscript summarizing the Scientism vault's current work
+  on evidence standards, inferential overreach, endpoint discipline, and
+  disputed biomedical case studies.
+tags:
+  - endpoint-discipline
+  - evidence-ladder
+  - evidence-standard
+  - inferential-leap
+  - methodological-overreach
+  - methodology
+  - research-paper
+  - scientism
+  - surrogate-endpoints
+  - virus-disease-attribution
 sources: 161
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

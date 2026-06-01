@@ -1,5 +1,16 @@
 ---
-tags: MOCs
+tags:
+  - MOCs
+  - aids
+  - anthrax-history
+  - case-definition
+  - clinical-differentiation
+  - germ-theory
+  - logical-basis
+  - mocs
+  - monkeypox-confusion
+  - smallpox-diagnosis
+  - virology-overview
 ---
 ```folder-index-content
 ```

@@ -1,10 +1,26 @@
 ---
-title: Primary Characterization of a Herpesvirus Agent Associated with Kaposi's Sarcoma
+title: >-
+  Primary Characterization of a Herpesvirus Agent Associated with Kaposi's
+  Sarcoma
 category: source
-summary: 1996 Journal of Virology paper characterizing KSHV as a gamma-2 herpesvirus using infected lymphoma cell lines, KS genomic-library sequence, transmission attempts, and serology.
-tags: [hhv8, kshv, kaposi-sarcoma, viral-characterization, serology, cell-line, endpoints]
+summary: >-
+  1996 Journal of Virology paper characterizing KSHV as a gamma-2 herpesvirus
+  using infected lymphoma cell lines, KS genomic-library sequence, transmission
+  attempts, and serology.
+tags:
+  - cell-line
+  - chefs-gel
+  - endpoints
+  - gammaherpesvirus
+  - hhv8
+  - infected-cell-lines
+  - kaposi-sarcoma
+  - kshv
+  - serology
+  - viral-characterization
+  - viral-serology
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

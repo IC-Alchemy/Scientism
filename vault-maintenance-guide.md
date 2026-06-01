@@ -1,10 +1,22 @@
 ---
 title: Vault Maintenance Guide
 category: synthesis
-summary: Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions.
-tags: [meta, maintenance, workflow, obsidian]
+summary: >-
+  Operating guide for maintaining this Obsidian research vault without blurring
+  source quality, experimental scope, or wiki conclusions.
+tags:
+  - document-analysis
+  - knowledge-management
+  - maintenance
+  - meta
+  - obsidian
+  - obsidian-vault
+  - out-of-scope
+  - source-triage
+  - wiki-maintenance
+  - workflow
 sources: 3
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: supported
 claim_type: methodological
 ---

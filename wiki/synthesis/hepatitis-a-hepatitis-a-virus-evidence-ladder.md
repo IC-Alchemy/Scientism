@@ -1,10 +1,25 @@
 ---
 title: Hepatitis A to Hepatitis A Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source hepatitis A research pass separating marmoset propagation, human-serology neutralization, particle characterization, tissue localization, cell-culture propagation, and acquisition gaps.
-tags: [hepatitis-a, hav, marmosets, serology, cell-culture, viral-particles, evidence-standard]
+summary: >-
+  Source-by-source hepatitis A research pass separating marmoset propagation,
+  human-serology neutralization, particle characterization, tissue localization,
+  cell-culture propagation, and acquisition gaps.
+tags:
+  - cell-culture
+  - evidence-ladder
+  - evidence-standard
+  - hav
+  - hepatitis-a
+  - immune-electron-microscopy
+  - marmoset-propagation
+  - marmosets
+  - particle-characterization
+  - serology
+  - serum-neutralization
+  - viral-particles
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

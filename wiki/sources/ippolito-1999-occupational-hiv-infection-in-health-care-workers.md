@@ -1,9 +1,21 @@
 ---
-title: "Occupational human immunodeficiency virus infection in health care workers: worldwide cases through September 1997"
+title: >-
+  Occupational human immunodeficiency virus infection in health care workers:
+  worldwide cases through September 1997
 category: source
-summary: "Case-series review and surveillance compilation relevant to Gutknecht letter Q8."
-tags: [aids, hiv, occupational-exposure, review]
-updated: 2026-05-05
+summary: >-
+  Case-series review and surveillance compilation relevant to Gutknecht letter
+  Q8.
+tags:
+  - aids
+  - bloodborne-exposure
+  - case-series-review
+  - healthcare-workers
+  - hiv
+  - occupational-exposure
+  - postexposure-prophylaxis
+  - review
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-2

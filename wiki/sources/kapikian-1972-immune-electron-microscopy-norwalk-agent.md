@@ -1,10 +1,22 @@
 ---
-title: Visualization by Immune Electron Microscopy of a 27-nm Particle Associated with Acute Infectious Nonbacterial Gastroenteritis
+title: >-
+  Visualization by Immune Electron Microscopy of a 27-nm Particle Associated
+  with Acute Infectious Nonbacterial Gastroenteritis
 category: source
-summary: 1972 J Virol paper visualizing a 27-nm particle associated with the Norwalk acute infectious nonbacterial gastroenteritis agent by immune electron microscopy.
-tags: [norovirus, norwalk-agent, gastroenteritis, immune-electron-microscopy, outbreak]
+summary: >-
+  1972 J Virol paper visualizing a 27-nm particle associated with the Norwalk
+  acute infectious nonbacterial gastroenteritis agent by immune electron
+  microscopy.
+tags:
+  - gastroenteritis
+  - immune-electron-microscopy
+  - norovirus
+  - norwalk-agent
+  - norwalk-outbreak
+  - outbreak
+  - particle-visualization
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

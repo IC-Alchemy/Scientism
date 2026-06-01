@@ -1,9 +1,21 @@
 ---
-title: "Mortality before and after HIV infection in the complete UK population of haemophiliacs"
+title: >-
+  Mortality before and after HIV infection in the complete UK population of
+  haemophiliacs
 category: source
-summary: "Complete-population hemophilia mortality cohort relevant to Gutknecht letter Q7/Q8."
-tags: [aids, hiv, hemophilia, mortality]
-updated: 2026-05-05
+summary: >-
+  Complete-population hemophilia mortality cohort relevant to Gutknecht letter
+  Q7/Q8.
+tags:
+  - aids
+  - aids-associated-death
+  - complete-population-cohort
+  - hemophilia
+  - hiv
+  - mortality
+  - seroconversion-timing
+  - transfusion-acquired-hiv
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

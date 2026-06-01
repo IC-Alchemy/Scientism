@@ -1,10 +1,22 @@
 ---
 title: Herpes Virus-Like Sequences Are Specifically Found in Kaposi Sarcoma Lesions
 category: source
-summary: 1996 Journal of Clinical Pathology paper testing KSHV-like PCR sequences in Kaposi sarcoma lesions and matched normal tissue.
-tags: [hhv8, kshv, kaposi-sarcoma, lesion-specificity, pcr, endpoints]
+summary: >-
+  1996 Journal of Clinical Pathology paper testing KSHV-like PCR sequences in
+  Kaposi sarcoma lesions and matched normal tissue.
+tags:
+  - endpoints
+  - hhv8
+  - kaposi-sarcoma
+  - kshv
+  - lesion-localization
+  - lesion-specificity
+  - matched-normal-control
+  - pcr
+  - pcr-sequencing
+  - primer-sets
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

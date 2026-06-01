@@ -1,15 +1,27 @@
 ---
 title: Congressman Questions AIDS in Letter
 category: source
-summary: A 1995 congressional letter to Anthony Fauci that packages HIV/AIDS dissent claims as political and scientific challenge questions rather than experimental proof.
-tags: [aids, hiv, politics, fauci, historical-document]
-updated: 2026-05-04
+summary: >-
+  A 1995 congressional letter to Anthony Fauci that packages HIV/AIDS dissent
+  claims as political and scientific challenge questions rather than
+  experimental proof.
+tags:
+  - aids
+  - azt-toxicity
+  - challenge-questions
+  - congressional-letter
+  - fauci
+  - historical-document
+  - hiv
+  - hiv-aids-dissent
+  - politics
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: historical
 source_tier: tier-1
 evidence_role: historical-document
 source_path: raw/Congressman Questions AIDS in Letter.md
-source_date: 1995-03-24
+source_date: 1995-03-24T00:00:00.000Z
 ---
 
 # Congressman Questions AIDS in Letter

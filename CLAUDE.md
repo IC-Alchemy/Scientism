@@ -1,3 +1,17 @@
+---
+tags:
+  - epistemic-stance
+  - inferential-overreach
+  - evidence-standards
+  - replication-failures
+  - history-philosophy
+  - scientism
+  - scientism-critique
+  - methodological-overreach
+  - methodological-critique
+  - replication-crisis
+---
+
 # Scientism — Research Wiki
 
 > **Topic:** Scientism, methodological overreach, and disputed claims in the history and practice of science

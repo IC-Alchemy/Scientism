@@ -1,10 +1,22 @@
 ---
 title: Gutknecht Letter Questions 7-9
 category: synthesis
-summary: Direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT.
-tags: [aids, hiv, azt, hemophilia, gutknecht]
+summary: >-
+  Direct-study audit of the Gutknecht letter's questions about hemophiliac
+  survival, recreational drugs or AZT as causes of AIDS, and the ethics of
+  prescribing AZT.
+tags:
+  - aids
+  - azt
+  - gutknecht
+  - hemophilia
+  - hemophilia-aids-epidemiology
+  - hiv
+  - mortality-trends
+  - survival-analysis
+  - treatment-center
 sources: 42
-updated: 2026-05-05
+updated: 2026-05-05T00:00:00.000Z
 claim_status: unresolved
 claim_type: medical
 ---

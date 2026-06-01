@@ -1,15 +1,27 @@
 ---
-title: "Natural history of vertically acquired human immunodeficiency virus-1 infection"
+title: >-
+  Natural history of vertically acquired human immunodeficiency virus-1
+  infection
 category: source
-summary: "Prospective vertically acquired HIV natural-history cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, perinatal, cohort]
-updated: 2026-05-05
+summary: >-
+  Prospective vertically acquired HIV natural-history cohort relevant to
+  Gutknecht letter Q8.
+tags:
+  - aids
+  - cohort
+  - disease-progression
+  - hiv
+  - natural-history
+  - pediatric-cohort
+  - perinatal
+  - vertical-transmission
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: prospective vertically acquired HIV natural-history cohort
 pmid: 7970995
-doi: 
+doi: null
 ---
 
 # Natural history of vertically acquired human immunodeficiency virus-1 infection

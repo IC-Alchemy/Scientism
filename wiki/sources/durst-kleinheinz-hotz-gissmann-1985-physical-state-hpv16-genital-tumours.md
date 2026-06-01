@@ -1,10 +1,24 @@
 ---
-title: The Physical State of Human Papillomavirus Type 16 DNA in Benign and Malignant Genital Tumours
+title: >-
+  The Physical State of Human Papillomavirus Type 16 DNA in Benign and Malignant
+  Genital Tumours
 category: source
-summary: 1985 Journal of General Virology paper comparing episomal and integrated HPV16 DNA patterns in selected benign and malignant genital tumors.
-tags: [hpv, hpv16, cervical-cancer, integration, episomal-dna, endpoints]
+summary: >-
+  1985 Journal of General Virology paper comparing episomal and integrated HPV16
+  DNA patterns in selected benign and malignant genital tumors.
+tags:
+  - cervical-cancer
+  - endpoints
+  - episomal-dna
+  - hpv
+  - hpv16
+  - integration
+  - physical-state
+  - restriction-mapping
+  - southern-blot
+  - virus-cell-junction
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

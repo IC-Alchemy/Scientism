@@ -1,10 +1,23 @@
 ---
 title: Bronchiolitis to Respiratory Syncytial Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source RSV research pass separating early CCA-related virus isolation, serology/epidemiology, diagnostic bronchiolitis association, cotton-rat pathology, adult route inoculation, and infant-causation limits.
-tags: [rsv, bronchiolitis, respiratory-illness, human-challenge, animal-challenge, evidence-standard]
+summary: >-
+  Source-by-source RSV research pass separating early CCA-related virus
+  isolation, serology/epidemiology, diagnostic bronchiolitis association,
+  cotton-rat pathology, adult route inoculation, and infant-causation limits.
+tags:
+  - animal-challenge
+  - bronchiolitis
+  - cotton-rat-model
+  - diagnostic-association
+  - evidence-ladder
+  - evidence-standard
+  - human-challenge
+  - respiratory-illness
+  - route-of-infection
+  - rsv
 sources: 5
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

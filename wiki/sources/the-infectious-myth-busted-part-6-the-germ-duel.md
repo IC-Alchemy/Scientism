@@ -1,4 +1,15 @@
 ---
+tags:
+  - negative-results
+  - transmission-attempts
+  - polemical-essay
+  - germ-theory-challenge
+  - self-experimentation
+  - methodological-boundary
+  - burden-of-proof
+---
+
+---
 title: The Infectious Myth Busted Part 6: The Germ Duel
 category: source
 summary: A Tier 3 polemical essay that argues failed self-experiments and challenge anecdotes undermine germ-theory claims, while also shifting across very different diseases and study designs.

@@ -1,24 +1,38 @@
 ---
-url: "https://jamanetwork.com/journals/jama/fullarticle/193139"
-title: "Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults"
+url: https://jamanetwork.com/journals/jama/fullarticle/193139
+title: >-
+  Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working
+  Adults
 author:
-  - "[[Carolyn Buxton Bridges]]"
-  - "[[William W. Thompson]]"
-  - "[[Martin I. Meltzer]]"
-  - "[[Gordon R. Reeve]]"
-  - "[[Walter J. Talamonti]]"
-  - "[[Nancy J. Cox]]"
-  - "[[Heather A. Lilac]]"
-  - "[[Henrietta Hall]]"
-  - "[[Alexander Klimov]]"
-  - "[[Keiji Fukuda]]"
-description: "ContextAlthough the cost-effectiveness and cost-benefit of influenza vaccinationare well established for persons aged 65 years or older, the benefits"
+  - '[[Carolyn Buxton Bridges]]'
+  - '[[William W. Thompson]]'
+  - '[[Martin I. Meltzer]]'
+  - '[[Gordon R. Reeve]]'
+  - '[[Walter J. Talamonti]]'
+  - '[[Nancy J. Cox]]'
+  - '[[Heather A. Lilac]]'
+  - '[[Henrietta Hall]]'
+  - '[[Alexander Klimov]]'
+  - '[[Keiji Fukuda]]'
+description: >-
+  ContextAlthough the cost-effectiveness and cost-benefit of influenza
+  vaccinationare well established for persons aged 65 years or older, the
+  benefits
 tags:
-  - "clippings"
-  - "vaccine"
-  - "flu"
-published: 2000-10-04
-created: 2026-05-05
+  - clippings
+  - cost-benefit
+  - double-blind
+  - flu
+  - healthy-working-adults
+  - inactivated-influenza-vaccine
+  - influenza
+  - influenza-vaccine-efficacy
+  - placebo-saline
+  - randomized-controlled-trial
+  - societal-costs
+  - vaccine
+published: 2000-10-04T00:00:00.000Z
+created: 2026-05-05T00:00:00.000Z
 ---
 Abstract
 

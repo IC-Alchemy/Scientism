@@ -1,10 +1,24 @@
 ---
-title: Evidence for a Persistent Viral Infection in a Cell Line Derived from Burkitt's Lymphoma
+title: >-
+  Evidence for a Persistent Viral Infection in a Cell Line Derived from
+  Burkitt's Lymphoma
 category: source
-summary: 1965 Journal of Bacteriology paper reporting indirect viral-interference evidence in the EB2 Burkitt-lymphoma-derived cell line.
-tags: [ebv, burkitt-lymphoma, cell-culture, viral-interference, interferon, endpoints]
+summary: >-
+  1965 Journal of Bacteriology paper reporting indirect viral-interference
+  evidence in the EB2 Burkitt-lymphoma-derived cell line.
+tags:
+  - burkitt-cell-line
+  - burkitt-lymphoma
+  - cell-culture
+  - ebv
+  - endpoints
+  - immunofluorescence
+  - interferon
+  - vesicular-stomatitis-virus
+  - viral-interference
+  - viral-persistence
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

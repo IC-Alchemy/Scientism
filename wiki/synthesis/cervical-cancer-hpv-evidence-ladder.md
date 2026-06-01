@@ -1,10 +1,23 @@
 ---
 title: Cervical Cancer to Human Papillomavirus Evidence Ladder
 category: synthesis
-summary: Source-by-source HPV/cervical-cancer research pass separating tumor DNA detection, HPV type specificity, integration, physical state, progression, necessity, sufficiency, and cofactor claims.
-tags: [hpv, cervical-cancer, causation, tumor-dna, integration, evidence-standard]
+summary: >-
+  Source-by-source HPV/cervical-cancer research pass separating tumor DNA
+  detection, HPV type specificity, integration, physical state, progression,
+  necessity, sufficiency, and cofactor claims.
+tags:
+  - causation
+  - cervical-cancer
+  - cin-progression
+  - evidence-standard
+  - hpv
+  - integration
+  - physical-state
+  - tumor-dna
+  - tumor-dna-detection
+  - viral-cell-junctions
 sources: 6
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

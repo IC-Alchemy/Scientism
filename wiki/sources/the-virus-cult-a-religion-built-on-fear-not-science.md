@@ -1,10 +1,23 @@
 ---
 title: The Virus Cult - A Religion Built on Fear, Not Science
 category: source
-summary: Polemical essay that packages multiple methodological criticisms of virology, public-health policy, and no-virus arguments into a single Tier 3 commentary source.
-tags: [virology, virus-isolation, commentary, polemic]
+summary: >-
+  Polemical essay that packages multiple methodological criticisms of virology,
+  public-health policy, and no-virus arguments into a single Tier 3 commentary
+  source.
+tags:
+  - commentary
+  - electron-microscopy
+  - foi-requests
+  - inferential-leap
+  - no-virus-argument
+  - polemic
+  - policy-critique
+  - virology
+  - virology-critique
+  - virus-isolation
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3

@@ -1,10 +1,22 @@
 ---
 title: Viral Gastroenteritis to Rotavirus Evidence Ladder
 category: synthesis
-summary: Source-by-source rotavirus research pass separating pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, and natural-transmission limits.
-tags: [rotavirus, gastroenteritis, human-challenge, pediatric, evidence-standard]
+summary: >-
+  Source-by-source rotavirus research pass separating pediatric mucosal antigen,
+  hospitalized-child association, adult oral challenge, cell-culture isolation,
+  and natural-transmission limits.
+tags:
+  - cell-culture-isolation
+  - evidence-ladder
+  - evidence-standard
+  - gastroenteritis
+  - human-challenge
+  - intestinal-antigen
+  - pediatric
+  - rotavirus
+  - stool-detection
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

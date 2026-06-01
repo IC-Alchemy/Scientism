@@ -1,13 +1,29 @@
 ---
 title: Cutts 2005 PCV9 Gambia RCT
 category: source
-summary: Randomized double-blind placebo-controlled trial of nine-valent pneumococcal conjugate vaccine in Gambian children, with all-cause admissions and mortality endpoints.
-tags: [vaccines, pneumococcal, randomized-trial, mortality, health-outcomes]
+summary: >-
+  Randomized double-blind placebo-controlled trial of nine-valent pneumococcal
+  conjugate vaccine in Gambian children, with all-cause admissions and mortality
+  endpoints.
+tags:
+  - all-cause-mortality
+  - double-blind
+  - gambia-rct
+  - health-outcomes
+  - mortality
+  - pcv9
+  - placebo-controlled
+  - pneumococcal
+  - pneumococcal-conjugate
+  - randomized-controlled-trial
+  - randomized-trial
+  - vaccine
+  - vaccines
 sources: 1
 source_url: https://doi.org/10.1016/S0140-6736(05)71876-6
 pmid: 15794968
 doi: 10.1016/S0140-6736(05)71876-6
-updated: 2026-05-21
+updated: 2026-05-21T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

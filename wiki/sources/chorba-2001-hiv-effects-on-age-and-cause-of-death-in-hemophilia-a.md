@@ -1,9 +1,20 @@
 ---
-title: "Effects of HIV infection on age and cause of death for persons with hemophilia A in the United States"
+title: >-
+  Effects of HIV infection on age and cause of death for persons with hemophilia
+  A in the United States
 category: source
-summary: "Extended U.S. death-record analysis relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, mortality]
-updated: 2026-05-05
+summary: Extended U.S. death-record analysis relevant to Gutknecht letter Q7.
+tags:
+  - age-at-death
+  - aids
+  - all-cause-mortality
+  - cause-of-death
+  - death-record-analysis
+  - hemophilia
+  - hemophilia-a
+  - hiv
+  - mortality
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

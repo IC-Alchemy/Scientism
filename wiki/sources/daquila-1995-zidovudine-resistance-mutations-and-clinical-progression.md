@@ -1,9 +1,21 @@
 ---
-title: "Human immunodeficiency virus type 1 zidovudine resistance mutations and disease progression during antiretroviral therapy"
+title: >-
+  Human immunodeficiency virus type 1 zidovudine resistance mutations and
+  disease progression during antiretroviral therapy
 category: source
-summary: "Zidovudine resistance and prognosis analysis relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, resistance]
-updated: 2026-05-05
+summary: Zidovudine resistance and prognosis analysis relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - azt
+  - didanosine-comparison
+  - hiv
+  - progression-risk
+  - resistance
+  - rt-mutations
+  - zidovudine-resistance
+  - zidovudine-toxicity
+  - zidovudine-trial
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,15 +1,22 @@
 ---
-title: "The duration of zidovudine benefit in persons with asymptomatic HIV infection"
+title: The duration of zidovudine benefit in persons with asymptomatic HIV infection
 category: source
-summary: "Extended ACTG 019 follow-up relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: Extended ACTG 019 follow-up relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - asymptomatic-hiv
+  - azt
+  - clinical-trial
+  - hiv
+  - randomized-trial
+  - zidovudine-benefit-duration
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: extended ACTG 019 follow-up
 pmid: 7913730
-doi: 
+doi: null
 ---
 
 # The duration of zidovudine benefit in persons with asymptomatic HIV infection

@@ -1,10 +1,23 @@
 ---
 title: Burkitt Lymphoma to Epstein-Barr Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source EBV/Burkitt lymphoma research pass separating cultured-cell particles, viral-interference behavior, tumor-tissue DNA, association, and tumor-causation claims.
-tags: [ebv, burkitt-lymphoma, tumor-dna, electron-microscopy, causation, evidence-standard]
+summary: >-
+  Source-by-source EBV/Burkitt lymphoma research pass separating cultured-cell
+  particles, viral-interference behavior, tumor-tissue DNA, association, and
+  tumor-causation claims.
+tags:
+  - burkitt-lymphoma
+  - cancer-association
+  - cancer-evidence-ladder
+  - causation
+  - ebv
+  - electron-microscopy
+  - evidence-standard
+  - tumor-dna
+  - tumor-virology
+  - viral-interference
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

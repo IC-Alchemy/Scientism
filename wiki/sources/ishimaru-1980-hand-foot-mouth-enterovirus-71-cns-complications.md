@@ -1,10 +1,21 @@
 ---
 title: Outbreaks of Hand, Foot, and Mouth Disease by Enterovirus 71
 category: source
-summary: 1980 Archives of Disease in Childhood outbreak report associating enterovirus 71 with hand-foot-and-mouth disease outbreaks and frequent CNS complications in Japan.
-tags: [hand-foot-mouth-disease, enterovirus-71, cns-complications, outbreak, virus-isolation]
+summary: >-
+  1980 Archives of Disease in Childhood outbreak report associating enterovirus
+  71 with hand-foot-and-mouth disease outbreaks and frequent CNS complications
+  in Japan.
+tags:
+  - cns-complications
+  - cross-neutralization
+  - enterovirus-71
+  - hand-foot-mouth-disease
+  - japan-ev71-outbreaks
+  - neurologic-complications
+  - outbreak
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

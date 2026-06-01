@@ -1,15 +1,28 @@
 ---
-title: "Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men - New York City and California"
+title: >-
+  Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men - New York
+  City and California
 category: source
-summary: "Primary surveillance case report relevant to Gutknecht letter Q8 chronology."
-tags: [aids, hiv, azt, chronology]
-updated: 2026-05-05
+summary: Primary surveillance case report relevant to Gutknecht letter Q8 chronology.
+tags:
+  - aids
+  - azt
+  - cdc-surveillance-case
+  - chronology
+  - hiv
+  - homosexual-men
+  - kaposi-sarcoma
+  - mmwr-case-report
+  - mortality
+  - pneumocystis-pneumonia
+  - pre-azt-era
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary surveillance case report
 pmid: 6789108
-doi: 
+doi: null
 ---
 
 # Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men - New York City and California

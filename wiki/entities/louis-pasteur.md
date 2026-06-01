@@ -1,10 +1,24 @@
 ---
 title: Louis Pasteur
 category: entity
-summary: Historical scientist whose work in this vault is treated as a disputed case study in the gap between experiment, treatment claims, and later historical narrative.
-tags: [history-of-science, biology]
+summary: >-
+  Historical scientist whose work in this vault is treated as a disputed case
+  study in the gap between experiment, treatment claims, and later historical
+  narrative.
+tags:
+  - biology
+  - ethical-evidence
+  - historical-dispute
+  - historical-document
+  - history-of-science
+  - methodological-critique
+  - pasteur-rabies
+  - prestige-narrative
+  - rabies-controversy
+  - rabies-paper
+  - treatment-claims
 sources: 4
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: unresolved
 claim_type: historical
 ---

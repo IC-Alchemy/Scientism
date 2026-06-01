@@ -1,10 +1,23 @@
 ---
-title: Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to a New Virus
+title: >-
+  Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to
+  a New Virus
 category: source
-summary: 1975 J Clin Pathol paper localizing a new gastroenteritis-associated viral antigen in duodenal villus epithelium of children with acute enteritis.
-tags: [rotavirus, gastroenteritis, immunofluorescence, duodenal-mucosa, pediatric]
+summary: >-
+  1975 J Clin Pathol paper localizing a new gastroenteritis-associated viral
+  antigen in duodenal villus epithelium of children with acute enteritis.
+tags:
+  - acute-enteritis
+  - duodenal-mucosa
+  - gastroenteritis
+  - immunofluorescence
+  - pediatric
+  - rotavirus
+  - rotavirus-antigen
+  - tissue-localization
+  - villus-epithelium
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

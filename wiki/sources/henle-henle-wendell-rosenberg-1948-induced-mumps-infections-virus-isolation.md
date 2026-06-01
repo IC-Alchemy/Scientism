@@ -1,14 +1,31 @@
 ---
-title: Isolation of Mumps Virus from Human Beings with Induced Apparent or Inapparent Infections
+title: >-
+  Isolation of Mumps Virus from Human Beings with Induced Apparent or Inapparent
+  Infections
 category: source
-summary: 1948 JEM human induced-exposure study reporting clinical mumps, inapparent serologic infection, and saliva virus isolation after exposure to chick-embryo-passaged mumps virus.
-tags: [mumps, mumps-virus, human-challenge, serology, virus-isolation, endpoints]
+summary: >-
+  1948 JEM human induced-exposure study reporting clinical mumps, inapparent
+  serologic infection, and saliva virus isolation after exposure to
+  chick-embryo-passaged mumps virus.
+tags:
+  - chick-embryo-isolation
+  - complement-fixation
+  - endpoints
+  - human-challenge
+  - inapparent-infection
+  - mumps
+  - mumps-virus
+  - saliva-shedding
+  - serology
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
-evidence_role: primary induced human exposure with clinical, serologic, and saliva-isolation endpoints
+evidence_role: >-
+  primary induced human exposure with clinical, serologic, and saliva-isolation
+  endpoints
 doi: 10.1084/jem.88.2.223
 pmid: 18873870
 pmcid: PMC2135813

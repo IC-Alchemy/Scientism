@@ -1,9 +1,20 @@
 ---
-title: "Incidence of symptoms and AIDS in 146 Swedish haemophiliacs and blood transfusion recipients infected with human immunodeficiency virus"
+title: >-
+  Incidence of symptoms and AIDS in 146 Swedish haemophiliacs and blood
+  transfusion recipients infected with human immunodeficiency virus
 category: source
-summary: "Swedish non-recreational exposure cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, hemophilia, transfusion]
-updated: 2026-05-05
+summary: Swedish non-recreational exposure cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - blood-transmission
+  - disease-progression
+  - hemophilia
+  - hiv
+  - incidence-symptoms
+  - prospective-cohort
+  - transfusion
+  - transfusion-associated-hiv
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

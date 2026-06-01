@@ -1,10 +1,23 @@
 ---
 title: Infectious Gastroenteritis Outbreaks to Norovirus Evidence Ladder
 category: synthesis
-summary: Source-by-source norovirus research pass separating Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, and PCR-versus-infectiousness limits.
-tags: [norovirus, norwalk-virus, gastroenteritis, outbreak, human-challenge, evidence-standard]
+summary: >-
+  Source-by-source norovirus research pass separating Norwalk particle
+  visualization, human challenge, outbreak investigation, enteroid replication,
+  and PCR-versus-infectiousness limits.
+tags:
+  - enterovirus-enteroid
+  - evidence-ladder
+  - evidence-standard
+  - gastroenteritis
+  - human-challenge
+  - norovirus
+  - norwalk-particle
+  - norwalk-virus
+  - outbreak
+  - pcr-infectiousness-limits
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

@@ -1,10 +1,21 @@
 ---
-title: Analysis of T Cell Responses during Active Varicella-Zoster Virus Reactivation in Human Ganglia
+title: >-
+  Analysis of T Cell Responses during Active Varicella-Zoster Virus Reactivation
+  in Human Ganglia
 category: source
-summary: 2014 J Virol postmortem human ganglia study reporting VZV DNA and immune infiltrates during active herpes zoster.
-tags: [shingles, varicella-zoster-virus, reactivation, ganglionitis, t-cells]
+summary: >-
+  2014 J Virol postmortem human ganglia study reporting VZV DNA and immune
+  infiltrates during active herpes zoster.
+tags:
+  - ganglionitis
+  - postmortem-ganglia
+  - reactivation
+  - shingles
+  - t-cells
+  - varicella-zoster-dna
+  - varicella-zoster-virus
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,21 @@
 ---
-title: Correlation between Detection of Herpes Simplex Virus in Oral Secretions by PCR and Susceptibility to Experimental UV Radiation-Induced Herpes Labialis
+title: >-
+  Correlation between Detection of Herpes Simplex Virus in Oral Secretions by
+  PCR and Susceptibility to Experimental UV Radiation-Induced Herpes Labialis
 category: source
-summary: 1994 J Clin Microbiol UV-reactivation study comparing PCR and culture detection of HSV in oral secretions before UV-induced labialis.
-tags: [hsv-1, cold-sores, herpes-labialis, pcr, uv-reactivation]
+summary: >-
+  1994 J Clin Microbiol UV-reactivation study comparing PCR and culture
+  detection of HSV in oral secretions before UV-induced labialis.
+tags:
+  - cold-sores
+  - culture-vs-pcr
+  - herpes-labialis
+  - hsv-1
+  - oral-secretions
+  - pcr
+  - uv-reactivation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

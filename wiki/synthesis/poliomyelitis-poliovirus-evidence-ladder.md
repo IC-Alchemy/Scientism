@@ -1,10 +1,23 @@
 ---
 title: Poliomyelitis to Poliovirus Evidence Ladder
 category: synthesis
-summary: Source-by-source polio research pass separating monkey challenge, exposure route, tissue recovery, tissue culture, direct isolation, and ordinary natural-route causation.
-tags: [polio, poliomyelitis, poliovirus, causation, evidence-standard, inferential-leap]
+summary: >-
+  Source-by-source polio research pass separating monkey challenge, exposure
+  route, tissue recovery, tissue culture, direct isolation, and ordinary
+  natural-route causation.
+tags:
+  - causation
+  - evidence-ladder
+  - evidence-standard
+  - inferential-leap
+  - monkey-challenge
+  - polio
+  - poliomyelitis
+  - poliovirus
+  - route-of-infection
+  - tissue-culture
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

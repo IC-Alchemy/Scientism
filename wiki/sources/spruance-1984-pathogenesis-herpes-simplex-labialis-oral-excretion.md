@@ -1,10 +1,19 @@
 ---
 title: Pathogenesis of Herpes Simplex Labialis
 category: source
-summary: 1984 J Clin Microbiol serial observational study recovering HSV from oral-cavity specimens in subjects with recurrent herpes labialis.
-tags: [hsv-1, cold-sores, herpes-labialis, oral-shedding, virus-isolation]
+summary: >-
+  1984 J Clin Microbiol serial observational study recovering HSV from
+  oral-cavity specimens in subjects with recurrent herpes labialis.
+tags:
+  - amnion-cell-culture
+  - cold-sores
+  - herpes-labialis
+  - hsv-1
+  - oral-shedding
+  - serial-observational
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

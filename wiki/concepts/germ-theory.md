@@ -1,10 +1,24 @@
 ---
 title: Germ Theory
 category: concept
-summary: A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved.
-tags: [history-of-science, medicine, causation]
+summary: >-
+  A disease framework centered on microorganisms, treated in this vault as both
+  a historical research program and a site of disputed interpretation about what
+  classic experiments actually proved.
+tags:
+  - causation
+  - causation-evidence
+  - diagnostic-historiography
+  - experiment-interpretation
+  - germ-theory
+  - historical-critique
+  - history-of-science
+  - kochs-postulates
+  - medicine
+  - microbial-causation
+  - pathogen-isolation
 sources: 12
-updated: 2026-05-14
+updated: 2026-05-14T00:00:00.000Z
 claim_status: unresolved
 claim_type: historical
 ---

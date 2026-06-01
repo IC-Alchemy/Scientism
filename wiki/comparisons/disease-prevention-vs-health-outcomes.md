@@ -1,10 +1,22 @@
 ---
-title: "Disease Prevention vs Health Outcomes"
+title: Disease Prevention vs Health Outcomes
 category: comparison
-summary: A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit.
-tags: [comparison, trials, endpoints]
+summary: >-
+  A starter comparison between narrower disease-prevention claims and broader
+  claims about overall health benefit.
+tags:
+  - comparison
+  - control-interpretation
+  - disease-prevention
+  - endpoint-bridging
+  - endpoint-choice
+  - endpoints
+  - health-benefit
+  - outcomes
+  - trials
+  - utilization-endpoints
 sources: 6
-updated: 2026-05-21
+updated: 2026-05-21T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 ---

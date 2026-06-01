@@ -1,15 +1,29 @@
 ---
-title: "Delta: a randomised double-blind controlled trial comparing combinations of zidovudine plus didanosine or zalcitabine with zidovudine alone in HIV-infected individuals"
+title: >-
+  Delta: a randomised double-blind controlled trial comparing combinations of
+  zidovudine plus didanosine or zalcitabine with zidovudine alone in
+  HIV-infected individuals
 category: source
-summary: "Combination therapy versus zidovudine monotherapy trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, combination-therapy]
-updated: 2026-05-05
+summary: >-
+  Combination therapy versus zidovudine monotherapy trial relevant to Gutknecht
+  letter Q9.
+tags:
+  - aids
+  - azt
+  - combination-therapy
+  - didanosine
+  - disease-progression
+  - hiv
+  - randomized-controlled-trial
+  - zalcitabine
+  - zidovudine-monotherapy
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: combination therapy versus zidovudine monotherapy trial
 pmid: 8709686
-doi: 
+doi: null
 ---
 
 # Delta: a randomised double-blind controlled trial comparing combinations of zidovudine plus didanosine or zalcitabine with zidovudine alone in HIV-infected individuals

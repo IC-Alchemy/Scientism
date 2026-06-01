@@ -12,12 +12,14 @@ tags:
   - biography-critique
   - history-of-science
   - pasteur
+  - pasteur-misconduct
   - pseudoscience
   - rabies
   - rabies-fraud
   - rabies-research
   - scientific-method-critique
   - scientific-misconduct
+  - scientific-prestige
   - vaccine-controversy
   - virus
 published: 2022-02-25T00:00:00.000Z

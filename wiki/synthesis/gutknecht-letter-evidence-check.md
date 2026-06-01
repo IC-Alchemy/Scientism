@@ -1,10 +1,22 @@
 ---
 title: Gutknecht Letter Evidence Check
 category: synthesis
-summary: Current evidence-standard answer to the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest for questions 7-9.
-tags: [aids, hiv, fauci, gutknecht, evidence-check]
+summary: >-
+  Current evidence-standard answer to the 12 questions in Representative Gil
+  Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest
+  for questions 7-9.
+tags:
+  - aids
+  - evidence-check
+  - fauci
+  - gutknecht
+  - hiv
+  - occupational-exposure
+  - perinatal-transmission
+  - transfusion-associated-hiv
+  - zidovudine-toxicity
 sources: 43
-updated: 2026-05-05
+updated: 2026-05-05T00:00:00.000Z
 claim_status: unresolved
 claim_type: medical
 ---

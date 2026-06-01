@@ -1,10 +1,20 @@
 ---
 title: Has the Virus Been Isolated? No. - ViroLIEgy
 category: source
-summary: HTML-only ViroLIEgy source whose title and outlet framing indicate a strong no-virus claim, but whose evidentiary details were not stably extracted during this first pass.
-tags: [virology, virus-isolation, commentary, html-source]
+summary: >-
+  HTML-only ViroLIEgy source whose title and outlet framing indicate a strong
+  no-virus claim, but whose evidentiary details were not stably extracted during
+  this first pass.
+tags:
+  - cell-culture
+  - commentary
+  - html-source
+  - isolation-standards
+  - no-virus-claim
+  - virology
+  - virus-isolation
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3

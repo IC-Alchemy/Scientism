@@ -1,15 +1,27 @@
 ---
-title: "HIV-1 infection incidence among persons with hemophilia in the United States and western Europe, 1978-1990"
+title: >-
+  HIV-1 infection incidence among persons with hemophilia in the United States
+  and western Europe, 1978-1990
 category: source
-summary: "Multicenter hemophilia HIV-incidence reconstruction relevant to Gutknecht letter Q7/Q8."
-tags: [aids, hiv, hemophilia, blood-products]
-updated: 2026-05-05
+summary: >-
+  Multicenter hemophilia HIV-incidence reconstruction relevant to Gutknecht
+  letter Q7/Q8.
+tags:
+  - aids
+  - blood-product-interventions
+  - blood-products
+  - hemophilia
+  - hiv
+  - incidence-trends
+  - multicenter-cohort
+  - seroconversion
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: multicenter hemophilia HIV-incidence reconstruction
 pmid: 8106967
-doi: 
+doi: null
 ---
 
 # HIV-1 infection incidence among persons with hemophilia in the United States and western Europe, 1978-1990

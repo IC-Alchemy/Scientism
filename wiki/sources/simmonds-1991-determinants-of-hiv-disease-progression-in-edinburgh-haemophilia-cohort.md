@@ -1,9 +1,20 @@
 ---
-title: "Determinants of HIV disease progression: six-year longitudinal study in the Edinburgh haemophilia/HIV cohort"
+title: >-
+  Determinants of HIV disease progression: six-year longitudinal study in the
+  Edinburgh haemophilia/HIV cohort
 category: source
-summary: "Edinburgh hemophilia HIV longitudinal cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, hemophilia, cohort]
-updated: 2026-05-05
+summary: Edinburgh hemophilia HIV longitudinal cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - cohort
+  - factor-viii-contamination
+  - hemophilia
+  - hemophilia-cohort
+  - hiv
+  - immune-activation-markers
+  - longitudinal-study
+  - seroconversion
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,10 +1,18 @@
 ---
 title: Cell Culture
 category: concept
-summary: Cell culture is a laboratory method whose evidentiary meaning depends on controls, media conditions, and the specific endpoint being claimed.
-tags: [cell-culture, methodology, virology]
+summary: >-
+  Cell culture is a laboratory method whose evidentiary meaning depends on
+  controls, media conditions, and the specific endpoint being claimed.
+tags:
+  - cell-culture
+  - culture-conditions
+  - endpoint-claims
+  - methodology
+  - virology
+  - virology-methodology
 sources: 4
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: unresolved
 claim_type: medical
 ---

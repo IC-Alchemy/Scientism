@@ -1,14 +1,20 @@
 ---
 title: Virus Causation Inferential Leaps
 category: synthesis
-summary: Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer.
+summary: >-
+  Analysis of how foundational virus-disease attribution papers can be extended
+  beyond the question their experiments directly answer.
 tags:
-  - virology
-  - inferential-leap
   - causation
+  - detection-vs-causation
+  - evidence-ladder
+  - inferential-leap
   - methodology
+  - natural-route-causation
+  - virology
+  - virus-disease-attribution
 sources: 197
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

@@ -1,10 +1,22 @@
 ---
 title: Replication of Human Noroviruses in Stem Cell-Derived Human Enteroids
 category: source
-summary: 2016 Science paper reporting replication of multiple human norovirus strains in stem-cell-derived human intestinal enteroids under strain-dependent conditions.
-tags: [norovirus, cell-culture, enteroids, replication, gastroenteritis]
+summary: >-
+  2016 Science paper reporting replication of multiple human norovirus strains
+  in stem-cell-derived human intestinal enteroids under strain-dependent
+  conditions.
+tags:
+  - bile-requirement
+  - cell-culture
+  - enteroids
+  - gastroenteritis
+  - in-vitro-infection
+  - intestinal-epithelium
+  - norovirus
+  - replication
+  - strain-dependent-replication
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

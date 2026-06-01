@@ -1,10 +1,22 @@
 ---
 title: A Virus Obtained from Influenza Patients
 category: source
-summary: 1933 Lancet paper reporting that filtered throat washings from human influenza cases produced a transmissible ferret disease.
-tags: [influenza, influenza-virus, ferrets, animal-challenge, transmission, endpoints]
+summary: >-
+  1933 Lancet paper reporting that filtered throat washings from human influenza
+  cases produced a transmissible ferret disease.
+tags:
+  - animal-challenge
+  - endpoints
+  - ferrets
+  - filtered-specimens
+  - influenza
+  - influenza-virus
+  - neutralization-assay
+  - serial-passage
+  - throat-washings
+  - transmission
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

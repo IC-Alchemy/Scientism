@@ -10,16 +10,21 @@ description: >-
   doing a written interview, and I was curious to see how the process would
   unfold. While I was quite busy at the time, the format allowed me…
 tags:
+  - fear-propaganda
   - germ-theory
   - historical-analysis
   - historical-deception
+  - historical-fraud
+  - koch-postulates
   - measles
   - medical-history
+  - pasteur-rabies
   - pseudoscience
   - rabies
   - science
   - vaccination-controversy
   - virology
+  - virus-debate
   - virus-isolation
 published: 2025-03-26T00:00:00.000Z
 created: 2025-03-30T00:00:00.000Z

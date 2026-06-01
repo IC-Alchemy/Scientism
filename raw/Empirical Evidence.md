@@ -1,3 +1,17 @@
+---
+tags:
+  - peer-review
+  - data-quality
+  - quantitative-evidence
+  - qualitative-evidence
+  - bias-mitigation
+  - evidence
+  - evidence-hierarchy
+  - replication
+  - replicability
+  - scientific-method
+---
+
 ## Empirical Evidence
 
 Empirical evidence is information obtained through direct observation, experimentation, or sense experience that researchers use to test hypotheses and validate theories. It forms the foundation of the scientific method across multiple disciplines, distinguishing itself from purely intellectual reasoning or anecdotal accounts by relying on measurable, verifiable data.[wikipedia+1](https://en.wikipedia.org/wiki/Empirical_evidence)

@@ -1,10 +1,23 @@
 ---
 title: Mumps to Mumps Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source mumps research pass separating monkey parotid inoculation, chick-embryo isolation, serology, induced human exposure, saliva shedding, and ordinary community transmission.
-tags: [mumps, mumps-virus, causation, evidence-standard, inferential-leap]
+summary: >-
+  Source-by-source mumps research pass separating monkey parotid inoculation,
+  chick-embryo isolation, serology, induced human exposure, saliva shedding, and
+  ordinary community transmission.
+tags:
+  - causation
+  - evidence-ladder
+  - evidence-standard
+  - evidence-synthesis
+  - induced-infection
+  - inferential-leap
+  - mumps
+  - mumps-virus
+  - nonhuman-primates
+  - saliva-shedding
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

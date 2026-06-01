@@ -1,10 +1,21 @@
 ---
 title: Insight into Biases and Sequencing Errors of the Illumina MiSeq Platform
 category: source
-summary: Primary paper showing that Illumina MiSeq amplicon error patterns depend strongly on library preparation and primer choice rather than occurring purely at random.
-tags: [sequencing, methodology, error-rates, primary-paper]
+summary: >-
+  Primary paper showing that Illumina MiSeq amplicon error patterns depend
+  strongly on library preparation and primer choice rather than occurring purely
+  at random.
+tags:
+  - amplicon-errors
+  - error-rates
+  - illumina-miseq
+  - library-prep-bias
+  - methodology
+  - primary-paper
+  - primer-choice
+  - sequencing
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

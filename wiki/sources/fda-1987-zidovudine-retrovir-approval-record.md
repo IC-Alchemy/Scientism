@@ -1,14 +1,25 @@
 ---
-title: "FDA Orphan Drug Designation and Approval Record for Zidovudine/Retrovir"
+title: FDA Orphan Drug Designation and Approval Record for Zidovudine/Retrovir
 category: source
-summary: "Primary regulatory chronology record for zidovudine/Retrovir orphan designation and 1987 marketing approval."
-tags: [aids, hiv, azt, chronology, regulatory-history]
-updated: 2026-05-05
+summary: >-
+  Primary regulatory chronology record for zidovudine/Retrovir orphan
+  designation and 1987 marketing approval.
+tags:
+  - aids
+  - azt
+  - chronology
+  - fda-approval-history
+  - hiv
+  - orphan-drug-designation
+  - regulatory-history
+  - retrovir-zidovudine
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary regulatory chronology record
-source_url: https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=8185
+source_url: >-
+  https://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=8185
 ---
 
 # FDA Orphan Drug Designation and Approval Record for Zidovudine/Retrovir

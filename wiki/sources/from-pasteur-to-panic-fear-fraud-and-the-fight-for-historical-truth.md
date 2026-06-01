@@ -1,4 +1,16 @@
 ---
+tags:
+  - revisionist-history
+  - pasteur-critique
+  - mike-stone
+  - historical-truth
+  - virology-critique
+  - virology-debate
+  - germ-theory
+  - historical-medical-debate
+---
+
+---
 title: From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth
 category: source
 summary: A Tier 3 interview-style commentary that consolidates Mike Stone's revisionist criticisms of Pasteur, virology, and modern infectious-disease narratives.

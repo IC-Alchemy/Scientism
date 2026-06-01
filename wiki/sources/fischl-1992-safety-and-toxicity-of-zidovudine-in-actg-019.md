@@ -1,15 +1,21 @@
 ---
-title: "Safety and toxicity of zidovudine in asymptomatic HIV-infected individuals"
+title: Safety and toxicity of zidovudine in asymptomatic HIV-infected individuals
 category: source
-summary: "Asymptomatic zidovudine toxicity analysis relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, toxicity]
-updated: 2026-05-05
+summary: Asymptomatic zidovudine toxicity analysis relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - azt
+  - hematologic-toxicity
+  - hiv
+  - toxicity
+  - zidovudine-trial
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: asymptomatic zidovudine toxicity analysis
 pmid: 1359846
-doi: 
+doi: null
 ---
 
 # Safety and toxicity of zidovudine in asymptomatic HIV-infected individuals

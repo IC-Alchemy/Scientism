@@ -1,15 +1,23 @@
 ---
-title: "Children born to women with HIV-1 infection: natural history and risk of transmission"
+title: >-
+  Children born to women with HIV-1 infection: natural history and risk of
+  transmission
 category: source
-summary: "Prospective perinatal HIV cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, perinatal, cohort]
-updated: 2026-05-06
+summary: Prospective perinatal HIV cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - cohort
+  - hiv
+  - mother-to-child
+  - perinatal
+  - vertical-transmission
+updated: 2026-05-06T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: prospective perinatal HIV cohort
 pmid: 1671109
-doi: 
+doi: null
 ---
 
 # Children born to women with HIV-1 infection: natural history and risk of transmission

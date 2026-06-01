@@ -1,10 +1,22 @@
 ---
-title: Latent Varicella-Zoster Virus Is Located Predominantly in Neurons in Human Trigeminal Ganglia
+title: >-
+  Latent Varicella-Zoster Virus Is Located Predominantly in Neurons in Human
+  Trigeminal Ganglia
 category: source
-summary: 1998 PNAS autopsy study localizing latent VZV DNA predominantly to neurons in human trigeminal ganglia.
-tags: [shingles, varicella-zoster-virus, latency, trigeminal-ganglia, neurons]
+summary: >-
+  1998 PNAS autopsy study localizing latent VZV DNA predominantly to neurons in
+  human trigeminal ganglia.
+tags:
+  - in-situ-hybridization
+  - latency
+  - neurons
+  - shingles
+  - trigeminal-ganglia
+  - trigeminal-ganglia-latency
+  - varicella-zoster-virus
+  - vzv
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,22 @@
 ---
 title: Surrogate Endpoints
 category: concept
-summary: Trial outcomes that stand in for broader clinical benefit, such as infection counts, biomarkers, or immune response measures rather than overall health outcomes.
-tags: [clinical-trials, endpoints, methodology]
+summary: >-
+  Trial outcomes that stand in for broader clinical benefit, such as infection
+  counts, biomarkers, or immune response measures rather than overall health
+  outcomes.
+tags:
+  - biomarkers
+  - clinical-benefit
+  - clinical-trials
+  - endpoints
+  - immunogenicity
+  - inferential-bridge
+  - methodology
+  - outcome-validity
+  - surrogate-endpoints
 sources: 2
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 ---

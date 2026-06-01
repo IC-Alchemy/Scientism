@@ -1,10 +1,20 @@
 ---
 title: Source Corpus Triage
 category: synthesis
-summary: First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value.
-tags: [triage, evidence-quality, source-map]
+summary: >-
+  First-pass inventory of the raw corpus by evidence level, dispute cluster, and
+  next-step research value.
+tags:
+  - corpus-inventory
+  - dispute-cluster
+  - document-analysis
+  - evidence-leveling
+  - evidence-quality
+  - next-step-research
+  - source-map
+  - triage
 sources: 34
-updated: 2026-05-05
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

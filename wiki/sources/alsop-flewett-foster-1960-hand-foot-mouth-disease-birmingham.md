@@ -1,10 +1,21 @@
 ---
 title: Hand-Foot-and-Mouth Disease in Birmingham in 1959
 category: source
-summary: 1960 BMJ outbreak report describing a Birmingham hand-foot-and-mouth disease outbreak and Coxsackie A16 isolation from one hand-vesicle sample.
-tags: [hand-foot-mouth-disease, coxsackievirus-a16, enterovirus, outbreak, virus-isolation]
+summary: >-
+  1960 BMJ outbreak report describing a Birmingham hand-foot-and-mouth disease
+  outbreak and Coxsackie A16 isolation from one hand-vesicle sample.
+tags:
+  - birmingham-1959
+  - coxackie-a16
+  - coxsackievirus-a16
+  - enterovirus
+  - hand-foot-mouth-disease
+  - lesion-isolation
+  - outbreak
+  - vesicle-fluid
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

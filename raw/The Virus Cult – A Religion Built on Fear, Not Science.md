@@ -7,13 +7,18 @@ description: 40 Q&As on Virology’s Fatal Flaws
 tags:
   - cell-culture-methods
   - electron-microscopy
+  - em-artifacts
   - foi-request-issues
+  - in-silico-genome
   - in-silico-genomics
   - pseudoscience
   - public-health
+  - public-health-policy
   - scientific-method-critique
   - virology
+  - virology-critique
   - virus
+  - virus-isolation
   - virus-isolation-claims
 published: 2024-10-16T00:00:00.000Z
 created: 2025-03-30T00:00:00.000Z

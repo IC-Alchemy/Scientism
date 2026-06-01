@@ -1,10 +1,24 @@
 ---
 title: Hepatitis B to Hepatitis B Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source HBV research pass separating syndrome classification, Australia-antigen particle detection, chimpanzee transmission, molecular-clone infectivity, and natural human transmission.
-tags: [hepatitis-b, hbv, causation, chimpanzee, molecular-clone, evidence-standard]
+summary: >-
+  Source-by-source HBV research pass separating syndrome classification,
+  Australia-antigen particle detection, chimpanzee transmission, molecular-clone
+  infectivity, and natural human transmission.
+tags:
+  - australia-antigen
+  - causation
+  - chimpanzee
+  - chimpanzee-challenge
+  - evidence-standard
+  - evidence-synthesis
+  - hbv
+  - hepatitis-b
+  - hepatitis-evidence-ladder
+  - molecular-clone
+  - molecular-clone-infectivity
 sources: 3
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

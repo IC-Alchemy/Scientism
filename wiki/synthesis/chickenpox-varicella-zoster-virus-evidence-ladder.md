@@ -1,10 +1,23 @@
 ---
 title: Chickenpox to Varicella-Zoster Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source chickenpox/VZV research pass separating lesion-fluid culture, fatal-case recovery, varicella-zoster culture similarity, zoster latency, and ordinary transmission.
-tags: [chickenpox, varicella, herpes-zoster, vzv, causation, evidence-standard]
+summary: >-
+  Source-by-source chickenpox/VZV research pass separating lesion-fluid culture,
+  fatal-case recovery, varicella-zoster culture similarity, zoster latency, and
+  ordinary transmission.
+tags:
+  - causation
+  - chickenpox
+  - evidence-ladder
+  - evidence-standard
+  - herpes-zoster
+  - lesion-fluid-culture
+  - serologic-studies
+  - varicella
+  - virus-isolation
+  - vzv
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

@@ -1,10 +1,25 @@
 ---
 title: An Inquiry into the Logical Basis of the Germ Theory
 category: source
-summary: Tier 3 commentary arguing that germ theory rests on invalid causal reasoning and institutional overreach.
-tags: [germ-theory, logic, causation, commentary, tier-3]
+summary: >-
+  Tier 3 commentary arguing that germ theory rests on invalid causal reasoning
+  and institutional overreach.
+tags:
+  - association-vs-causation
+  - causality-ranking
+  - causation
+  - commentary
+  - evidence-threshold
+  - germ-theory
+  - germ-theory-debate
+  - inferential-fallacy
+  - institutional-overreach
+  - logic
+  - logical-basis
+  - methodological-critique
+  - tier-3
 sources: 1
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: methodological
 source_tier: tier-3

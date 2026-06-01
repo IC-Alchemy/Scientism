@@ -1,10 +1,22 @@
 ---
 title: Clinical and Virologic Course of Herpes Simplex Genitalis
 category: source
-summary: 1979 West J Med clinical virology study measuring genital HSV lesion titers and excretion by initial/recurrent status and sex/site.
-tags: [genital-herpes, hsv-2, hsv-1, lesion-culture, virus-titer]
+summary: >-
+  1979 West J Med clinical virology study measuring genital HSV lesion titers
+  and excretion by initial/recurrent status and sex/site.
+tags:
+  - clinical-course
+  - genital-herpes
+  - genital-lesions
+  - hsv-1
+  - hsv-2
+  - initial-vs-recurrent
+  - lesion-culture
+  - plaque-assay
+  - viral-excretion
+  - virus-titer
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

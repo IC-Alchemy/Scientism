@@ -1,13 +1,29 @@
 ---
-url: "https://cms.viroliegy.com/2021/10/03/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918/"
-title: "The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)"
+url: >-
+  https://cms.viroliegy.com/2021/10/03/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918/
+title: 'The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)'
 author:
-  - "[[Mike Stone]]"
-description: "Here is something you will never see in the mainstream news. During the 1918 Spanish Flu, which is considered to be the most contagious \"virus\" of all time, researchers for the Public Health Service and the U.S. Navy tried to determine what caused the flu and how infectious it truly was. However, the results of…"
+  - '[[Mike Stone]]'
+description: >-
+  Here is something you will never see in the mainstream news. During the 1918
+  Spanish Flu, which is considered to be the most contagious "virus" of all
+  time, researchers for the Public Health Service and the U.S. Navy tried to
+  determine what caused the flu and how infectious it truly was. However, the
+  results of…
 tags:
-  - "clippings"
-published: 2021-10-03
-created: 2026-05-04
+  - 1918-pandemic
+  - angel-island
+  - clippings
+  - epidemiology
+  - gallops-island
+  - human-challenge
+  - human-challenge-model
+  - influenza
+  - negative-results
+  - pfeiffer-bacillus
+  - spanish-flu-experiments
+published: 2021-10-03T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 ---
 Here is something you will never see in the mainstream news. During the 1918 Spanish Flu, which is considered to be the most contagious “virus” of all time, researchers for the Public Health Service and the U.S. Navy tried to determine what caused the flu and how infectious it truly was. However, the results of their experiments proved that the flu is not infectious at all. Here is a brief overview of what took place during the studies:
 

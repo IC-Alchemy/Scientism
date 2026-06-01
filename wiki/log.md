@@ -1,3 +1,17 @@
+---
+tags:
+  - scientism
+  - evidence-standard
+  - authority-as-evidence
+  - experiment-first
+  - vault-maintenance
+  - science
+  - meta
+  - methodology
+  - methodological-critique
+  - replication-crisis
+---
+
 # Log — Scientism
 
 > Append-only timeline. Every LLM operation leaves an entry here.

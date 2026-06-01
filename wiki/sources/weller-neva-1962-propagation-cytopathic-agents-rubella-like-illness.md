@@ -1,14 +1,29 @@
 ---
-title: Propagation in Tissue Culture of Cytopathic Agents from Patients with Rubella-Like Illness
+title: >-
+  Propagation in Tissue Culture of Cytopathic Agents from Patients with
+  Rubella-Like Illness
 category: source
-summary: 1962 paper reporting cytopathic agents isolated from urine or blood of rubella-like cases and serially propagated in primary human amnion cultures.
-tags: [rubella, rubella-virus, tissue-culture, serology, cytopathic-effect, endpoints]
+summary: >-
+  1962 paper reporting cytopathic agents isolated from urine or blood of
+  rubella-like cases and serially propagated in primary human amnion cultures.
+tags:
+  - cytopathic-effect
+  - cytopathology
+  - endpoints
+  - patient-urine-inoculation
+  - primary-amnion-culture
+  - rubella
+  - rubella-virus
+  - serology
+  - tissue-culture
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
-evidence_role: primary rubella-like illness tissue-culture propagation and paired-serology paper
+evidence_role: >-
+  primary rubella-like illness tissue-culture propagation and paired-serology
+  paper
 doi: 10.3181/00379727-111-27749
 ---
 

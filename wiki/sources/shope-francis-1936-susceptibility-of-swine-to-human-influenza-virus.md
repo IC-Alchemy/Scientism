@@ -1,10 +1,24 @@
 ---
 title: The Susceptibility of Swine to the Virus of Human Influenza
 category: source
-summary: 1936 Journal of Experimental Medicine paper testing human influenza virus strains in swine by intranasal inoculation, serial passage, bacterial co-exposure, contact exposure, mouse infectivity, and serology.
-tags: [influenza, influenza-virus, swine, animal-challenge, transmission, serology, endpoints]
+summary: >-
+  1936 Journal of Experimental Medicine paper testing human influenza virus
+  strains in swine by intranasal inoculation, serial passage, bacterial
+  co-exposure, contact exposure, mouse infectivity, and serology.
+tags:
+  - animal-challenge
+  - contact-transfer
+  - endpoints
+  - human-to-swine
+  - influenza
+  - influenza-virus
+  - neutralizing-antibodies
+  - serial-passage
+  - serology
+  - swine
+  - transmission
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

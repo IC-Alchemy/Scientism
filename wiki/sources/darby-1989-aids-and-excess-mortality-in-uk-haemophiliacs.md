@@ -1,9 +1,19 @@
 ---
-title: "Incidence of AIDS and excess mortality associated with HIV in haemophiliacs in the United Kingdom"
+title: >-
+  Incidence of AIDS and excess mortality associated with HIV in haemophiliacs in
+  the United Kingdom
 category: source
-summary: "UK hemophilia AIDS and mortality registry analysis relevant to Gutknecht letter Q8."
-tags: [aids, hiv, hemophilia, blood-products]
-updated: 2026-05-05
+summary: >-
+  UK hemophilia AIDS and mortality registry analysis relevant to Gutknecht
+  letter Q8.
+tags:
+  - aids
+  - blood-products
+  - hemophilia
+  - hiv
+  - progression-to-aids
+  - registry-analysis
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,14 +1,20 @@
 ---
 title: Failed Virus-Causation Attempt Register
 category: synthesis
-summary: Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set.
+summary: >-
+  Register of failed, negative, or non-confirmatory experiments relevant to
+  virus-disease attribution claims in the current audit set.
 tags:
-  - virology
-  - negative-results
   - causation
+  - causation-audit
+  - evidence-register
+  - failed-evidence
   - methodology
+  - negative-results
+  - viral-attribution
+  - virology
 sources: 128
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: exploratory
 claim_type: methodological
 ---

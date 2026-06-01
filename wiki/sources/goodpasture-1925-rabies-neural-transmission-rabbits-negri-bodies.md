@@ -1,10 +1,25 @@
 ---
-title: A Study of Rabies with Reference to Neural Transmission in Rabbits and Negri Bodies
+title: >-
+  A Study of Rabies with Reference to Neural Transmission in Rabbits and Negri
+  Bodies
 category: source
-summary: 1925 American Journal of Pathology rabbit study using masseter-muscle inoculation of street rabies virus to study clinical signs, neural spread, and Negri-body pathology.
-tags: [rabies, rabbits, neural-transmission, negri-bodies, pathology, endpoints]
+summary: >-
+  1925 American Journal of Pathology rabbit study using masseter-muscle
+  inoculation of street rabies virus to study clinical signs, neural spread, and
+  Negri-body pathology.
+tags:
+  - animal-inoculation
+  - endpoints
+  - histopathology
+  - masseter-inoculation
+  - negri-bodies
+  - neural-transmission
+  - pathology
+  - rabbits
+  - rabies
+  - street-virus
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

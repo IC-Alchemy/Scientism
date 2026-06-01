@@ -1,14 +1,28 @@
 ---
 title: Louis Pasteur's Unethical Rabies Fraud
 category: source
-summary: A Tier 3 polemical critique that argues Pasteur's rabies work involved misconduct and should be read with strong caution.
-tags: [source, louis-pasteur, rabies, misconduct-claim, viroliegy]
+summary: >-
+  A Tier 3 polemical critique that argues Pasteur's rabies work involved
+  misconduct and should be read with strong caution.
+tags:
+  - historical-misconduct
+  - louis-pasteur
+  - misconduct-claim
+  - polemic
+  - rabies
+  - rabies-controversy
+  - rabies-paper
+  - revisionist-critique
+  - selective-quotation
+  - source
+  - viroliegy
 source_path: raw/Louis Pasteur’s Unethical Rabies Fraud.md
-source_date: 2022-02-25
-authors: [ViroLIEgy]
+source_date: 2022-02-25T00:00:00.000Z
+authors:
+  - ViroLIEgy
 sources: 1
-ingested: 2026-05-04
-updated: 2026-05-04
+ingested: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3

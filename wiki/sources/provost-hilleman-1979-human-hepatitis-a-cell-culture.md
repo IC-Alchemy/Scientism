@@ -1,10 +1,22 @@
 ---
 title: Propagation of Human Hepatitis A Virus in Cell Culture in Vitro
 category: source
-summary: 1979 Proceedings paper reporting serial propagation of human hepatitis A virus in marmoset liver explant cultures and FRhK6 fetal rhesus kidney cells.
-tags: [hepatitis-a, hav, cell-culture, propagation, marmosets, immunofluorescence]
+summary: >-
+  1979 Proceedings paper reporting serial propagation of human hepatitis A virus
+  in marmoset liver explant cultures and FRhK6 fetal rhesus kidney cells.
+tags:
+  - cell-culture
+  - hav
+  - hepatitis-a
+  - immune-adherence
+  - immune-electron-microscopy
+  - immunofluorescence
+  - in-vitro-passage
+  - marmoset-explants
+  - marmosets
+  - propagation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

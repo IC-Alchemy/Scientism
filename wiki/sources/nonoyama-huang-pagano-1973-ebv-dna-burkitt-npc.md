@@ -1,10 +1,24 @@
 ---
-title: DNA of Epstein-Barr Virus Detected in Tissue of Burkitt's Lymphoma and Nasopharyngeal Carcinoma
+title: >-
+  DNA of Epstein-Barr Virus Detected in Tissue of Burkitt's Lymphoma and
+  Nasopharyngeal Carcinoma
 category: source
-summary: 1973 PNAS paper using EBV-specific cRNA hybridization to detect EBV DNA in African Burkitt lymphoma and nasopharyngeal carcinoma biopsies.
-tags: [ebv, burkitt-lymphoma, nasopharyngeal-carcinoma, tumor-dna, hybridization, endpoints]
+summary: >-
+  1973 PNAS paper using EBV-specific cRNA hybridization to detect EBV DNA in
+  African Burkitt lymphoma and nasopharyngeal carcinoma biopsies.
+tags:
+  - burkitt-lymphoma
+  - burkitt-lymphoma-dna-detection
+  - crna-hybridization
+  - ebv
+  - endpoints
+  - hybridization
+  - molecular-detection
+  - nasopharyngeal-carcinoma
+  - tumor-biopsy
+  - tumor-dna
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,23 @@
 ---
 title: Measles to Measles Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source measles research pass separating failed blood inoculation, respiratory-material monkey challenge, pathology endpoints, tissue-culture isolation, serology, plaque assay, and ordinary transmission limits.
-tags: [measles, measles-virus, tissue-culture, animal-challenge, negative-results, causation, evidence-standard]
+summary: >-
+  Source-by-source measles research pass separating failed blood inoculation,
+  respiratory-material monkey challenge, pathology endpoints, tissue-culture
+  isolation, serology, plaque assay, and ordinary transmission limits.
+tags:
+  - animal-challenge
+  - causation
+  - evidence-ladder
+  - evidence-standard
+  - measles
+  - measles-virus
+  - negative-results
+  - plaque-assay
+  - serology
+  - tissue-culture
 sources: 7
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

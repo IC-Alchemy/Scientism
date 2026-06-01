@@ -1,10 +1,26 @@
 ---
-title: "Fate of Nasally Instilled Poliomyelitis Virus in Normal and Convalescent Monkeys with Special Reference to the Problem of Host to Host Transmission"
+title: >-
+  Fate of Nasally Instilled Poliomyelitis Virus in Normal and Convalescent
+  Monkeys with Special Reference to the Problem of Host to Host Transmission
 category: source
-summary: "1938 rhesus-monkey intranasal instillation study tracking early tissue recovery of poliomyelitis virus and its limits for host-to-host transmission claims."
-tags: [polio, poliomyelitis, poliovirus, transmission, monkey-study, endpoints]
+summary: >-
+  1938 rhesus-monkey intranasal instillation study tracking early tissue
+  recovery of poliomyelitis virus and its limits for host-to-host transmission
+  claims.
+tags:
+  - endpoints
+  - infective-virus-recovery
+  - intranasal
+  - monkey-study
+  - nasal-mucosa
+  - olfactory-bulb
+  - polio
+  - poliomyelitis
+  - poliovirus
+  - rhesus-macaque
+  - transmission
 sources: 1
-updated: 2026-05-06
+updated: 2026-05-06T00:00:00.000Z
 claim_status: exploratory
 claim_type: empirical
 source_tier: tier-1

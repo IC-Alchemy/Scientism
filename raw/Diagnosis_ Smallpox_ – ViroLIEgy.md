@@ -5,13 +5,17 @@ created: 2025-02-20T07:02:07.000Z
 source: https://viroliegy.com/2022/05/29/diagnosis-smallpox/
 tags:
   - clinical-differentiation
+  - contagious-rash
   - differential-diagnosis
   - disease-differentiation
   - historical-diagnosis
+  - historical-overview
   - historical-terminology
   - measles-diagnosis
+  - prodromal-rash
   - rash-differentiation
   - smallpox-diagnosis
+  - smallpox-measles-confusion
   - vaccination
   - virus
 ---

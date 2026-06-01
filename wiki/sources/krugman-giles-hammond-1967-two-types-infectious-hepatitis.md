@@ -1,10 +1,25 @@
 ---
-title: Infectious Hepatitis Evidence for Two Distinctive Clinical Epidemiological and Immunological Types of Infection
+title: >-
+  Infectious Hepatitis Evidence for Two Distinctive Clinical Epidemiological and
+  Immunological Types of Infection
 category: source
-summary: 1967 JAMA Willowbrook human infection series distinguishing MS-1/IH-like and MS-2/SH-like hepatitis patterns before modern HAV/HBV naming.
-tags: [hepatitis, hepatitis-b, willowbrook, human-challenge, serum-hepatitis, endpoints]
+summary: >-
+  1967 JAMA Willowbrook human infection series distinguishing MS-1/IH-like and
+  MS-2/SH-like hepatitis patterns before modern HAV/HBV naming.
+tags:
+  - endpoints
+  - hepatitis
+  - hepatitis-b
+  - human-challenge
+  - human-volunteers
+  - immunological-types
+  - serum-hepatitis
+  - sgot-thymol-endpoints
+  - transmission
+  - willowbrook
+  - willowbrook-series
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

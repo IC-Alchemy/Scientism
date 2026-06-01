@@ -1,10 +1,24 @@
 ---
 title: Comparative Studies Between Pathogenesis of Street and Fixed Rabies Infection
 category: source
-summary: 1967 Journal of Experimental Medicine paper comparing street and fixed rabies infection in mouse Ammon's horn by light and electron microscopy.
-tags: [rabies, street-virus, fixed-virus, pathology, negri-bodies, endpoints]
+summary: >-
+  1967 Journal of Experimental Medicine paper comparing street and fixed rabies
+  infection in mouse Ammon's horn by light and electron microscopy.
+tags:
+  - comparative-neuropathology
+  - endpoints
+  - fixed-virus
+  - intracerebral-inoculation
+  - mouse-infectivity-titration
+  - negri-bodies
+  - pathology
+  - rabies
+  - rabies-research
+  - street-virus
+  - street-vs-fixed-rabies
+  - virus-isolation-claims
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

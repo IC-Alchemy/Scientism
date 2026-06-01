@@ -1,13 +1,22 @@
 ---
-url: "https://cms.viroliegy.com/2024/02/29/viroliegy-101-the-scientific-method/"
-title: "ViroLIEgy 101: The Scientific Method"
+url: https://cms.viroliegy.com/2024/02/29/viroliegy-101-the-scientific-method/
+title: 'ViroLIEgy 101: The Scientific Method'
 author:
-  - "[[Mike Stone]]"
-description: "ViroLIEgy 101 is a series of articles meant to provide relatively short (by my standards) and concise explanations of key concepts regarding both germ “theory” and virology. I’m providing an overview on topics that are essential to the conversation that people may be confused with and have difficulty understanding, or areas that seem to be controversial…"
+  - '[[Mike Stone]]'
+description: "ViroLIEgy 101\_is a series of articles meant to provide relatively short (by my standards) and concise explanations of key concepts regarding both germ “theory” and virology. I’m providing an overview on topics that are essential to the conversation that people may be confused with and have difficulty understanding, or areas that seem to be controversial…"
 tags:
-  - "clippings"
-published: 2024-02-29
-created: 2026-05-04
+  - clippings
+  - dependent-variable
+  - experimental-controls
+  - independent-variable
+  - logic
+  - methodological-critique
+  - pseudoscience
+  - scientific-method
+  - scientific-method-critique
+  - variable-mis-specification
+published: 2024-02-29T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 ---
 ***ViroLIEgy 101*** *is a series of articles meant to provide relatively short (by my standards) and concise explanations of key concepts regarding both germ “theory” and virology. I’m providing an overview on topics that are essential to the conversation that people may be confused with and have difficulty understanding, or areas that seem to be controversial when engaging in discussions with those defending the germ “theory” of disease.*
 

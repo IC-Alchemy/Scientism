@@ -1,9 +1,24 @@
 ---
-title: "Physical condition, longevity, and social performance of Dutch haemophiliacs, 1972-85"
+title: >-
+  Physical condition, longevity, and social performance of Dutch haemophiliacs,
+  1972-85
 category: source
-summary: "Repeated Dutch hemophilia survey and longevity analysis relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, survival]
-updated: 2026-05-05
+summary: >-
+  Repeated Dutch hemophilia survey and longevity analysis relevant to Gutknecht
+  letter Q7.
+tags:
+  - aids
+  - health-outcomes
+  - hemophilia
+  - hemophilia-cohort
+  - hemophilia-prophylaxis
+  - hiv
+  - life-expectancy
+  - mortality
+  - social-performance
+  - substitution-therapy
+  - survival
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

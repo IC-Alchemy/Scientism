@@ -8,9 +8,11 @@ description: null
 tags:
   - animal-experimentation
   - anthrax
+  - chimpanzee-challenge
   - chimpanzee-model
   - document-structure
   - experimental-inhalation
+  - inhalation-route
   - scientific-research
   - virology
 ---

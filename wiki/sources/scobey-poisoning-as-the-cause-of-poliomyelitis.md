@@ -1,14 +1,22 @@
 ---
 title: Scobey - Poisoning as the Cause of Poliomyelitis
 category: source
-summary: A 1950 historical medical article arguing that toxic exposures and diet-related poisoning explain poliomyelitis better than the dominant virus theory.
+summary: >-
+  A 1950 historical medical article arguing that toxic exposures and
+  diet-related poisoning explain poliomyelitis better than the dominant virus
+  theory.
 tags:
+  - etiology
+  - food-poisoning
+  - historical-medical-debate
+  - medical-history
+  - poisoning-hypothesis
   - polio
   - poliomyelitis
+  - toxic-paralysis
+  - toxicity
   - toxicology
-  - medical-history
-  - etiology
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: medical
 source_tier: tier-1

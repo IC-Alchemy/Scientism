@@ -1,9 +1,20 @@
 ---
-title: "Reduction of maternal-infant transmission of human immunodeficiency virus type 1 with zidovudine treatment"
+title: >-
+  Reduction of maternal-infant transmission of human immunodeficiency virus type
+  1 with zidovudine treatment
 category: source
-summary: "Perinatal zidovudine transmission trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, perinatal]
-updated: 2026-05-05
+summary: Perinatal zidovudine transmission trial relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - azt
+  - hiv
+  - perinatal
+  - perinatal-transmission
+  - placebo-controlled
+  - randomized-controlled-trial
+  - zidovudine-toxicity
+  - zidovudine-treatment
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

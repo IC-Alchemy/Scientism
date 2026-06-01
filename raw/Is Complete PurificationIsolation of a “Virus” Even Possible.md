@@ -1,13 +1,26 @@
 ---
-url: "https://cms.viroliegy.com/2021/09/20/is-complete-purification-isolation-of-a-virus-even-possible/"
-title: "Is Complete Purification/Isolation of a “Virus” Even Possible?"
+url: >-
+  https://cms.viroliegy.com/2021/09/20/is-complete-purification-isolation-of-a-virus-even-possible/
+title: Is Complete Purification/Isolation of a “Virus” Even Possible?
 author:
-  - "[[Mike Stone]]"
-description: "When getting down to the size of nanoparticles and the expected billions of identical particles at that level, it would be logical to assume that completely separating the exact particle a virologist is looking for from everything else in the sample is downright impossible. Thus, asking virologists to completely purify and isolate the suspected \"viral\"…"
+  - '[[Mike Stone]]'
+description: >-
+  When getting down to the size of nanoparticles and the expected billions of
+  identical particles at that level, it would be logical to assume that
+  completely separating the exact particle a virologist is looking for from
+  everything else in the sample is downright impossible. Thus, asking
+  virologists to completely purify and isolate the suspected "viral"…
 tags:
-  - "clippings"
-published: 2021-09-20
-created: 2026-05-04
+  - clippings
+  - complete-purification
+  - exosome-isolation
+  - extracellular-vesicles
+  - purification-limitations
+  - ultracentrifugation
+  - viral-paradigm
+  - virus-isolation-claims
+published: 2021-09-20T00:00:00.000Z
+created: 2026-05-04T00:00:00.000Z
 ---
 When getting down to the size of nanoparticles and the expected billions of identical particles at that level, it would be logical to assume that completely separating the exact particle a virologist is looking for from everything else in the sample is downright impossible. Thus, asking virologists to completely purify and isolate the suspected “viral” particles from the unaltered sample from a sick patient may seem like a Herculean task and an unfair demand.
 

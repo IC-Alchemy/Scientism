@@ -1,10 +1,26 @@
 ---
-title: Hepatitis B Virus Produced by Transfected Hep G2 Cells Causes Hepatitis in Chimpanzees
+title: >-
+  Hepatitis B Virus Produced by Transfected Hep G2 Cells Causes Hepatitis in
+  Chimpanzees
 category: source
-summary: 1987 PNAS molecular-clone/cell-culture HBV paper testing whether virions produced by HBV-DNA-transfected Hep G2 cells could induce hepatitis in chimpanzees.
-tags: [hepatitis-b, hbv, chimpanzee, molecular-clone, tissue-culture, endpoints]
+summary: >-
+  1987 PNAS molecular-clone/cell-culture HBV paper testing whether virions
+  produced by HBV-DNA-transfected Hep G2 cells could induce hepatitis in
+  chimpanzees.
+tags:
+  - cell-culture
+  - chimpanzee
+  - endpoints
+  - hbv
+  - hbv-infectivity
+  - hepatitis-b
+  - hepg2-cells
+  - intravenous-inoculation
+  - molecular-clone
+  - restriction-analysis
+  - tissue-culture
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

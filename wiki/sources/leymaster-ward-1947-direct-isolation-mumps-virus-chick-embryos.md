@@ -1,10 +1,21 @@
 ---
 title: Direct Isolation of Mumps Virus in Chick Embryos
 category: source
-summary: 1947 experimental paper reporting mumps-virus isolation from acute mumps saliva by amniotic-sac inoculation of chick embryos.
-tags: [mumps, mumps-virus, chick-embryo, isolation, hemagglutination, endpoints]
+summary: >-
+  1947 experimental paper reporting mumps-virus isolation from acute mumps
+  saliva by amniotic-sac inoculation of chick embryos.
+tags:
+  - amniotic-sac-inoculation
+  - chick-embryo
+  - complement-fixation
+  - endpoints
+  - hemagglutination
+  - isolation
+  - mumps
+  - mumps-virus
+  - rhesus-monkey-confirmation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

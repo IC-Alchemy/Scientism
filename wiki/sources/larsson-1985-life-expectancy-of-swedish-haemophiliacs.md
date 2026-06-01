@@ -1,9 +1,21 @@
 ---
-title: "Life expectancy of Swedish haemophiliacs, 1831-1980"
+title: Life expectancy of Swedish haemophiliacs, 1831-1980
 category: source
-summary: "Historical survival analysis relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, survival]
-updated: 2026-05-05
+summary: Historical survival analysis relevant to Gutknecht letter Q7.
+tags:
+  - aids
+  - hemophilia
+  - hemophilia-cohort
+  - historical-survival
+  - history-of-medicine
+  - hiv
+  - life-expectancy
+  - mortality-trends
+  - pre-hiv-era
+  - replacement-therapy
+  - survival
+  - survival-analysis
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,10 +1,21 @@
 ---
 title: Isolation of a Novel Coronavirus from a Man with Pneumonia in Saudi Arabia
 category: source
-summary: 2012 NEJM case-isolation paper reporting recovery and characterization of HCoV-EMC, later MERS-CoV, from a fatal pneumonia case in Saudi Arabia.
-tags: [mers, mers-cov, coronavirus, virus-isolation, pneumonia, case-report]
+summary: >-
+  2012 NEJM case-isolation paper reporting recovery and characterization of
+  HCoV-EMC, later MERS-CoV, from a fatal pneumonia case in Saudi Arabia.
+tags:
+  - case-report
+  - coronavirus
+  - hcov-emc
+  - mers
+  - mers-cov
+  - pneumonia
+  - pneumonia-isolation
+  - viral-genome-sequencing
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

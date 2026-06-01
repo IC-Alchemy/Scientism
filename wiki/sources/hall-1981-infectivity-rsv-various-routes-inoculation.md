@@ -1,10 +1,20 @@
 ---
 title: Infectivity of Respiratory Syncytial Virus by Various Routes of Inoculation
 category: source
-summary: 1981 human adult inoculation-route study comparing nasal, ocular, and oral RSV exposure endpoints.
-tags: [rsv, human-challenge, inoculation-route, shedding, serology]
+summary: >-
+  1981 human adult inoculation-route study comparing nasal, ocular, and oral RSV
+  exposure endpoints.
+tags:
+  - human-challenge
+  - inoculation-route
+  - nasal-inoculation
+  - ocular-inoculation
+  - respiratory-virus
+  - rsv
+  - serology
+  - shedding
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

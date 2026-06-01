@@ -1,9 +1,19 @@
 ---
-title: "The efficacy of azidothymidine (AZT) in the treatment of patients with mildly symptomatic human immunodeficiency virus infection"
+title: >-
+  The efficacy of azidothymidine (AZT) in the treatment of patients with mildly
+  symptomatic human immunodeficiency virus infection
 category: source
-summary: "Mildly symptomatic HIV zidovudine trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: Mildly symptomatic HIV zidovudine trial relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - anemia-neutropenia
+  - azt
+  - cd4-subgroup
+  - clinical-trial
+  - hiv
+  - placebo-controlled-rct
+  - zidovudine-toxicity
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,10 +1,28 @@
 ---
-title: Identification of Herpesvirus-Like DNA Sequences in AIDS-Associated Kaposi's Sarcoma
+title: >-
+  Identification of Herpesvirus-Like DNA Sequences in AIDS-Associated Kaposi's
+  Sarcoma
 category: source
-summary: 1994 Science paper using representational difference analysis to identify herpesvirus-like DNA sequences associated with AIDS-related Kaposi sarcoma tissue.
-tags: [hhv8, kshv, kaposi-sarcoma, tumor-dna, molecular-detection, endpoints]
+summary: >-
+  1994 Science paper using representational difference analysis to identify
+  herpesvirus-like DNA sequences associated with AIDS-related Kaposi sarcoma
+  tissue.
+tags:
+  - aids-associated-tissue
+  - endpoints
+  - gammaherpesvirus-homology
+  - hhv8
+  - hhv8-dna-detection
+  - kaposi-sarcoma
+  - kshv
+  - molecular-detection
+  - representational-difference-analysis
+  - southern-blot
+  - tumor-dna
+  - viral-dna-deletion
+  - virus-isolation-claims
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

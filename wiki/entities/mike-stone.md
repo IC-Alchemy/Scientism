@@ -1,10 +1,23 @@
 ---
 title: Mike Stone
 category: entity
-summary: Contemporary revisionist commentator whose essays in this vault argue that canonical germ-theory history overstates what historical experiments proved.
-tags: [commentary, germ-theory, revisionist-history]
+summary: >-
+  Contemporary revisionist commentator whose essays in this vault argue that
+  canonical germ-theory history overstates what historical experiments proved.
+tags:
+  - authority-critique
+  - commentary
+  - germ-theory
+  - germ-theory-debate
+  - germ-theory-history
+  - historical-experiments
+  - historical-revisionism
+  - infectious-myths
+  - methodological-critique
+  - mikestone
+  - revisionist-history
 sources: 5
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: unresolved
 claim_type: rhetorical
 ---

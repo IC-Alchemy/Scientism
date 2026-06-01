@@ -1,10 +1,21 @@
 ---
 title: The Etiologic Agents of Varicella and Herpes Zoster
 category: source
-summary: 1958 JEM paper comparing isolation, propagation, and cultural characteristics of varicella- and herpes-zoster-derived strains in vitro.
-tags: [varicella, herpes-zoster, vzv, tissue-culture, culture-comparison, endpoints]
+summary: >-
+  1958 JEM paper comparing isolation, propagation, and cultural characteristics
+  of varicella- and herpes-zoster-derived strains in vitro.
+tags:
+  - culture-comparison
+  - cytopathology
+  - endpoints
+  - herpes-zoster
+  - serial-passage
+  - tissue-culture
+  - varicella
+  - varicella-virus
+  - vzv
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

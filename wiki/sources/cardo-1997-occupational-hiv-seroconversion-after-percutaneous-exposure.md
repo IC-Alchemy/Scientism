@@ -1,9 +1,22 @@
 ---
-title: "A case-control study of HIV seroconversion in health care workers after percutaneous exposure"
+title: >-
+  A case-control study of HIV seroconversion in health care workers after
+  percutaneous exposure
 category: source
-summary: "Occupational HIV seroconversion case-control study relevant to Gutknecht letter Q8."
-tags: [aids, hiv, occupational-exposure, case-control]
-updated: 2026-05-05
+summary: >-
+  Occupational HIV seroconversion case-control study relevant to Gutknecht
+  letter Q8.
+tags:
+  - aids
+  - case-control
+  - hiv
+  - needlestick-injury
+  - occupational-exposure
+  - percutaneous-exposure
+  - postexposure-prophylaxis
+  - seroconversion-endpoint
+  - zidovudine-prophylaxis
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

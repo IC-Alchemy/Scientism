@@ -1,16 +1,21 @@
 ---
 ai: image2text
 tags:
-  - poison-theory
-  - polio-etiology
-  - historical-medical-argument
-  - archives-of-pediatrics
   - 1950-journal-issue
+  - alcoholic-paralysis
+  - archives-of-pediatrics
+  - boerhaave-history
+  - hippocrates-paralysis
+  - historical-medical-argument
+  - paralysis-cause
+  - poison-theory
   - polio
+  - polio-etiology
   - polio-research
   - poliomyelitis
-  - vaccination
   - public-health
+  - scobey
+  - vaccination
 ---
 # Scobey part 1-Poisoning as the Cause of Poliomyelitis.pdf
 

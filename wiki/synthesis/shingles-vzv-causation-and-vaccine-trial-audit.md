@@ -1,15 +1,21 @@
 ---
 title: Shingles, VZV Causation, and Vaccine Trial Audit
 category: synthesis
-summary: Endpoint-level shortlist for shingles etiology, foundational varicella-zoster experiments, and modern zoster vaccine clinical trials.
+summary: >-
+  Endpoint-level shortlist for shingles etiology, foundational varicella-zoster
+  experiments, and modern zoster vaccine clinical trials.
 tags:
-  - shingles
-  - herpes-zoster
-  - varicella-zoster-virus
-  - vaccine-trials
   - causation
+  - herpes-zoster
+  - latency-evidence
+  - postherpetic-neuralgia
+  - sensory-ganglia
+  - shingles
+  - vaccine-audit
+  - vaccine-trials
+  - varicella-zoster-virus
 sources: 18
-updated: 2026-05-08
+updated: 2026-05-08T00:00:00.000Z
 claim_status: unresolved
 claim_type: medical
 ---

@@ -1,15 +1,27 @@
 ---
-title: "Zidovudine compared with didanosine in patients with advanced HIV disease and little or no previous experience with zidovudine"
+title: >-
+  Zidovudine compared with didanosine in patients with advanced HIV disease and
+  little or no previous experience with zidovudine
 category: source
-summary: "Advanced HIV comparator antiretroviral trial relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, clinical-trial]
-updated: 2026-05-05
+summary: Advanced HIV comparator antiretroviral trial relevant to Gutknecht letter Q9.
+tags:
+  - advanced-hiv
+  - aids
+  - azt
+  - clinical-trial
+  - cross-over-design
+  - didanosine-comparison
+  - hiv
+  - randomized-controlled-trial
+  - treatment-experience-stratified
+  - zidovudine-toxicity
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
 evidence_role: advanced HIV comparator antiretroviral trial
 pmid: 7726705
-doi: 
+doi: null
 ---
 
 # Zidovudine compared with didanosine in patients with advanced HIV disease and little or no previous experience with zidovudine

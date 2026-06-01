@@ -1,10 +1,13 @@
 ---
 tags:
+  - catalog-product
   - image-attachment
   - images
   - photo
   - photography
   - product-link
+  - product-url
+  - thermo-fisher
 ---
 
 

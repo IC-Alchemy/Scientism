@@ -1,3 +1,17 @@
+---
+tags:
+  - fauci-letter
+  - hiv-contagion-proof
+  - hiv-antibody-crossreactivity
+  - azt-ethics
+  - alternative-aids-hypotheses
+  - aids
+  - aids-case-definition
+  - aids-progression
+  - hiv-aids-dispute
+  - azt
+---
+
 March 24, 1995
 
 Congress of the United States

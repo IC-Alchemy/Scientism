@@ -1,10 +1,24 @@
 ---
 title: Edward Jenner
 category: entity
-summary: Historical physician associated with early smallpox vaccination claims, whose published case record in this vault is treated as important but not self-interpreting.
-tags: [history-of-science, medicine, vaccination]
+summary: >-
+  Historical physician associated with early smallpox vaccination claims, whose
+  published case record in this vault is treated as important but not
+  self-interpreting.
+tags:
+  - 1798-inquiry-1
+  - 1798-paper
+  - cowpox-vaccination
+  - edward-jenner
+  - historical-case-reading
+  - history-of-medicine
+  - history-of-science
+  - medicine
+  - rash-diagnosis-uncertainty
+  - smallpox
+  - vaccination
 sources: 2
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: unresolved
 claim_type: historical
 ---

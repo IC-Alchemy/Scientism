@@ -1,10 +1,26 @@
 ---
-title: Newly Discovered Coronavirus as the Primary Cause of Severe Acute Respiratory Syndrome
+title: >-
+  Newly Discovered Coronavirus as the Primary Cause of Severe Acute Respiratory
+  Syndrome
 category: source
-summary: 2003 Lancet paper combining multicentre SARS-CoV testing with cynomolgus macaque challenge, pathology, virus detection, and re-isolation endpoints.
-tags: [sars, sars-cov, coronavirus, macaques, animal-challenge, pathology, virus-isolation, rt-pcr]
+summary: >-
+  2003 Lancet paper combining multicentre SARS-CoV testing with cynomolgus
+  macaque challenge, pathology, virus detection, and re-isolation endpoints.
+tags:
+  - animal-challenge
+  - coronavirus
+  - coronavirus-isolation
+  - cynomolgus-macaque
+  - immunohistochemistry
+  - macaques
+  - multicentre-diagnosis
+  - pathology
+  - rt-pcr
+  - sars
+  - sars-cov
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,9 +1,22 @@
 ---
-title: "The natural history of transfusion-associated infection with human immunodeficiency virus. Factors influencing the rate of progression to disease"
+title: >-
+  The natural history of transfusion-associated infection with human
+  immunodeficiency virus. Factors influencing the rate of progression to disease
 category: source
-summary: "Transfusion-associated HIV natural-history study relevant to Gutknecht letter Q8."
-tags: [aids, hiv, transfusion, cohort]
-updated: 2026-05-05
+summary: >-
+  Transfusion-associated HIV natural-history study relevant to Gutknecht letter
+  Q8.
+tags:
+  - aids
+  - cohort
+  - disease-progression
+  - hiv
+  - life-table-analysis
+  - natural-history
+  - transfusion
+  - transfusion-associated-hiv
+  - transfusion-exposure
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

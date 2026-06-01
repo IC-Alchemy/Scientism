@@ -1,9 +1,21 @@
 ---
-title: "Association of human immunodeficiency virus load early in life with disease progression among HIV-infected infants"
+title: >-
+  Association of human immunodeficiency virus load early in life with disease
+  progression among HIV-infected infants
 category: source
-summary: "Pediatric HIV viral-load progression cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, perinatal, viral-load]
-updated: 2026-05-05
+summary: Pediatric HIV viral-load progression cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - cdc-progression
+  - disease-progression
+  - hiv
+  - infant-viral-load
+  - pediatric-hiv
+  - perinatal
+  - risk-ratio
+  - viral-load
+  - week-1-viral-load
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

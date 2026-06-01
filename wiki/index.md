@@ -1,3 +1,17 @@
+---
+tags:
+  - research-program
+  - vault-governance
+  - inferential-discipline
+  - dispute-cluster
+  - source-corpus-inventory
+  - evidence-ladder
+  - evidence-standards
+  - methodological-critique
+  - evidence-synthesis
+  - scientism
+---
+
 # Index — Scientism
 
 _Auto-generated 2026-05-31 • 117 pages_

@@ -1,9 +1,19 @@
 ---
-title: "The toxicity of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex: a double-blind, placebo-controlled trial"
+title: >-
+  The toxicity of azidothymidine (AZT) in the treatment of patients with AIDS
+  and AIDS-related complex: a double-blind, placebo-controlled trial
 category: source
-summary: "Companion AZT toxicity analysis relevant to Gutknecht letter Q9."
-tags: [aids, hiv, azt, toxicity]
-updated: 2026-05-05
+summary: Companion AZT toxicity analysis relevant to Gutknecht letter Q9.
+tags:
+  - aids
+  - azt
+  - bone-marrow-suppression
+  - double-blind-placebo-trial
+  - hematologic-toxicity
+  - hiv
+  - toxicity
+  - transfusion-requirement
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

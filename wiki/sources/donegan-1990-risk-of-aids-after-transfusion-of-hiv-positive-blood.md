@@ -1,9 +1,20 @@
 ---
-title: "Infection with human immunodeficiency virus type 1 after transfusion of blood from seropositive donors"
+title: >-
+  Infection with human immunodeficiency virus type 1 after transfusion of blood
+  from seropositive donors
 category: source
-summary: "Transfusion-recipient cohort relevant to Gutknecht letter Q8."
-tags: [aids, hiv, transfusion, cohort]
-updated: 2026-05-05
+summary: Transfusion-recipient cohort relevant to Gutknecht letter Q8.
+tags:
+  - aids
+  - cd4-progression
+  - cohort
+  - hiv
+  - hiv-transmission
+  - seropositive-donors
+  - transfusion
+  - transfusion-linked
+  - transfusion-recipients
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

@@ -1,10 +1,22 @@
 ---
 title: Coronavirus as a Possible Cause of Severe Acute Respiratory Syndrome
 category: source
-summary: 2003 Lancet paper reporting SARS-associated coronavirus isolation, electron microscopy, RT-PCR, and serology in a Hong Kong SARS patient series.
-tags: [sars, sars-cov, coronavirus, virus-isolation, serology, rt-pcr, electron-microscopy]
+summary: >-
+  2003 Lancet paper reporting SARS-associated coronavirus isolation, electron
+  microscopy, RT-PCR, and serology in a Hong Kong SARS patient series.
+tags:
+  - coronavirus
+  - electron-microscopy
+  - patient-series
+  - rt-pcr
+  - rt-pcr-detection
+  - sars
+  - sars-cov
+  - seroconversion
+  - serology
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

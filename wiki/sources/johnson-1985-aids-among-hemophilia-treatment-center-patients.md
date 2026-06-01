@@ -1,9 +1,22 @@
 ---
-title: "Acquired immunodeficiency syndrome among patients attending hemophilia treatment centers and mortality experience of hemophiliacs in the United States"
+title: >-
+  Acquired immunodeficiency syndrome among patients attending hemophilia
+  treatment centers and mortality experience of hemophiliacs in the United
+  States
 category: source
-summary: "U.S. hemophilia treatment-center survey and mortality analysis relevant to Gutknecht letter Q7."
-tags: [aids, hiv, hemophilia, mortality]
-updated: 2026-05-05
+summary: >-
+  U.S. hemophilia treatment-center survey and mortality analysis relevant to
+  Gutknecht letter Q7.
+tags:
+  - aids
+  - clotting-factor-concentrate
+  - hemophilia
+  - hiv
+  - incidence-trends
+  - mortality
+  - treatment-center-survey
+  - vital-statistics
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1

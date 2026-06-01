@@ -1,10 +1,21 @@
 ---
 title: COVID Early Intubation and Noninvasive Ventilation Lens Summary
 category: synthesis
-summary: Lens-derived summary of COVID-19 early-intubation and noninvasive respiratory-support studies.
-tags: [covid-19, intubation, noninvasive-ventilation, hospital-protocols, lens]
+summary: >-
+  Lens-derived summary of COVID-19 early-intubation and noninvasive
+  respiratory-support studies.
+tags:
+  - covid-19
+  - early-vs-late-intubation
+  - hfcn
+  - high-flow-nasal-cannula
+  - hospital-protocols
+  - intubation
+  - lens
+  - nicu-mortality
+  - noninvasive-ventilation
 sources: 14
-updated: 2026-05-07
+updated: 2026-05-07T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 ---

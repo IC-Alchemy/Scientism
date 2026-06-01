@@ -1,10 +1,24 @@
 ---
-title: Cultivation of the Lansing Strain of Poliomyelitis Virus in Cultures of Various Human Embryonic Tissues
+title: >-
+  Cultivation of the Lansing Strain of Poliomyelitis Virus in Cultures of
+  Various Human Embryonic Tissues
 category: source
-summary: 1949 Science tissue-culture paper reporting propagation of the Lansing poliomyelitis-virus strain in human embryonic arm-leg, intestinal, and brain tissue cultures.
-tags: [polio, poliomyelitis, poliovirus, tissue-culture, virus-isolation, endpoints]
+summary: >-
+  1949 Science tissue-culture paper reporting propagation of the Lansing
+  poliomyelitis-virus strain in human embryonic arm-leg, intestinal, and brain
+  tissue cultures.
+tags:
+  - endpoints
+  - human-embryonic-tissues
+  - in-vitro-propagation
+  - lansing-strain
+  - polio
+  - poliomyelitis
+  - poliovirus
+  - tissue-culture
+  - virus-isolation
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

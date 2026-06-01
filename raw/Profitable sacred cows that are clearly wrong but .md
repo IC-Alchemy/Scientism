@@ -12,13 +12,18 @@ tags:
   - covid-vaccine-rollout
   - criticism
   - data-quality
+  - data-verification
   - dose-count-discrepancy
+  - elderly-coverage
   - medical
   - pseudoscience
   - public-health
+  - regression-analysis
   - statistical-analysis
   - vaccination
   - vaccination-controversy
+  - vaccination-overcount
+  - vaccine-databases
 modified: 2025-03-07T06:58:09.000Z
 ---
 

@@ -1,14 +1,19 @@
 ---
 title: Virus-Disease Attribution Audit Worklist
 category: synthesis
-summary: Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support.
+summary: >-
+  Exploratory worklist of diseases commonly attributed to specific viruses, to
+  be checked against foundational experiment-grade support.
 tags:
-  - virology
-  - disease-causation
-  - methodology
   - audit
+  - disease-causation
+  - evidence-ladder
+  - methodology
+  - research-queue
+  - viral-disease-attribution
+  - virology
 sources: 197
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 ---

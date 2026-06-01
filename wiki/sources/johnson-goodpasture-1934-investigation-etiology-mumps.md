@@ -1,10 +1,19 @@
 ---
 title: An Investigation of the Etiology of Mumps
 category: source
-summary: 1934 JEM paper reporting that early-case mumps saliva produced acute non-suppurative parotitis in rhesus monkeys after parotid-duct inoculation.
-tags: [mumps, mumps-virus, animal-challenge, parotitis, endpoints]
+summary: >-
+  1934 JEM paper reporting that early-case mumps saliva produced acute
+  non-suppurative parotitis in rhesus monkeys after parotid-duct inoculation.
+tags:
+  - animal-challenge
+  - endpoints
+  - mumps
+  - mumps-virus
+  - parotid-duct-inoculation
+  - parotitis
+  - rhesus-monkey
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

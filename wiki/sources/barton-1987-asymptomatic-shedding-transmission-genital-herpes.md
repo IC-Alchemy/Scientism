@@ -1,10 +1,23 @@
 ---
-title: Asymptomatic Shedding and Subsequent Transmission of Genital Herpes Simplex Virus
+title: >-
+  Asymptomatic Shedding and Subsequent Transmission of Genital Herpes Simplex
+  Virus
 category: source
-summary: 1987 Genitourinary Medicine case investigation reporting asymptomatic cervical HSV shedding and subsequent transmission with restriction enzyme DNA analysis.
-tags: [genital-herpes, hsv, asymptomatic-shedding, transmission, molecular-typing]
+summary: >-
+  1987 Genitourinary Medicine case investigation reporting asymptomatic cervical
+  HSV shedding and subsequent transmission with restriction enzyme DNA analysis.
+tags:
+  - asymptomatic-shedding
+  - cervical-shedding
+  - genital-herpes
+  - genital-hsv
+  - hsv
+  - hsv-1
+  - molecular-typing
+  - restriction-dna-typing
+  - transmission
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

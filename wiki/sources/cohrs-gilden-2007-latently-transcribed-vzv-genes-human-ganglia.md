@@ -1,10 +1,25 @@
 ---
-title: Prevalence and Abundance of Latently Transcribed Varicella-Zoster Virus Genes in Human Ganglia
+title: >-
+  Prevalence and Abundance of Latently Transcribed Varicella-Zoster Virus Genes
+  in Human Ganglia
 category: source
-summary: 2007 J Virol molecular latency study measuring VZV transcripts in postmortem human trigeminal ganglia.
-tags: [shingles, varicella-zoster-virus, latency, transcription, trigeminal-ganglia]
+summary: >-
+  2007 J Virol molecular latency study measuring VZV transcripts in postmortem
+  human trigeminal ganglia.
+tags:
+  - gene-expression-prevalence
+  - latency
+  - latent-transcripts
+  - postmortem-tissue
+  - real-time-pcr
+  - shingles
+  - transcription
+  - trigeminal-ganglia
+  - varicella-zoster-virus
+  - viral-transcription
+  - vzv
 sources: 1
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

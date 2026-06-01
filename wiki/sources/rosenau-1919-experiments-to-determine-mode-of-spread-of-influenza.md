@@ -1,10 +1,21 @@
 ---
-title: "Experiments to Determine Mode of Spread of Influenza"
+title: Experiments to Determine Mode of Spread of Influenza
 category: source
-summary: "Primary 1919 JAMA report describing repeated negative human influenza transmission attempts under several exposure methods."
-tags: [influenza, transmission, human-challenge, negative-results, methodology]
+summary: >-
+  Primary 1919 JAMA report describing repeated negative human influenza
+  transmission attempts under several exposure methods.
+tags:
+  - 1919-jama
+  - human-challenge
+  - influenza
+  - methodology
+  - negative-results
+  - pfeiffer-bacillus
+  - respiratory-secretion-transfer
+  - subcutaneous-inoculation
+  - transmission
 sources: 1
-updated: 2026-05-06
+updated: 2026-05-06T00:00:00.000Z
 claim_status: exploratory
 claim_type: empirical
 source_tier: tier-1

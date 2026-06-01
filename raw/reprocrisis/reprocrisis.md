@@ -1,3 +1,17 @@
+---
+tags:
+  - reproducibility
+  - scientific-attitudes
+  - survey-methods
+  - published-results-trust
+  - researcher-experiences
+  - replication
+  - replication-crisis
+  - replication-failure
+  - replicability
+  - data-quality
+---
+
 NATURE | VOL 533 | 26 MAY 2016
 © 2016 Macmillan Publishers Limited. All rights reserved.
 

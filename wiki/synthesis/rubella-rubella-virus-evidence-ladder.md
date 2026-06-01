@@ -1,10 +1,23 @@
 ---
 title: Rubella to Rubella Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source rubella research pass separating acute-case recovery, tissue-culture propagation, serology, monkey inoculation, congenital-rubella leads, and ordinary transmission.
-tags: [rubella, rubella-virus, causation, evidence-standard, inferential-leap]
+summary: >-
+  Source-by-source rubella research pass separating acute-case recovery,
+  tissue-culture propagation, serology, monkey inoculation, congenital-rubella
+  leads, and ordinary transmission.
+tags:
+  - causation
+  - evidence-ladder
+  - evidence-standard
+  - evidence-synthesis
+  - inferential-leap
+  - monkey-inoculation
+  - rubella
+  - rubella-virus
+  - serology
+  - tissue-culture
 sources: 4
-updated: 2026-05-31
+updated: 2026-05-31T00:00:00.000Z
 claim_status: unresolved
 claim_type: empirical
 ---

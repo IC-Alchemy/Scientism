@@ -6,8 +6,10 @@ latitude: 39.7294319
 longitude: -104.8319195
 altitude: 0
 tags:
+  - 1886-bmj-report
   - historical-analysis
   - hydrophobia
+  - hydrophobia-inoculation
   - immunization
   - medical
   - pasteur

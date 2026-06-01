@@ -14,14 +14,19 @@ description: >-
   swallowed by the volunteers. However, not a single one of them ever…
 tags:
   - burden-of-proof
+  - challenge-experiments
   - disease-differentiation
   - germ-duel
   - germ-theory-challenge
   - infection-claims
+  - infectious-myths
+  - pathogen-inoculation
   - pathogenic-organisms
   - pseudoscience
   - rabies-exposure
   - self-experimentation
+  - self-risk
+  - tuberculosis-history
   - tuberculosis-research
 organized:
   - disorganized

@@ -1,10 +1,22 @@
 ---
-title: "Rabies: The Virus of Fear"
+title: 'Rabies: The Virus of Fear'
 category: source
-summary: ViroLIEgy essay arguing that rabies history, diagnosis, and vaccination are built on fear, weak attribution, and disputed laboratory methods.
-tags: [rabies, virology, diagnosis, pasteur, vaccine-history]
+summary: >-
+  ViroLIEgy essay arguing that rabies history, diagnosis, and vaccination are
+  built on fear, weak attribution, and disputed laboratory methods.
+tags:
+  - diagnosis
+  - diagnostic-methods
+  - history-of-diagnosis
+  - pasteur
+  - pasteur-critique
+  - rabies
+  - rabies-paper
+  - rabies-research
+  - vaccine-history
+  - virology
 source_path: raw/Rabies The “Virus” of Fear.md
-updated: 2026-05-04
+updated: 2026-05-04T00:00:00.000Z
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3

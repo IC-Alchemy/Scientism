@@ -1,9 +1,20 @@
 ---
-title: "Administration of 3'-azido-3'-deoxythymidine, an inhibitor of HTLV-III/LAV replication, to patients with AIDS or AIDS-related complex"
+title: >-
+  Administration of 3'-azido-3'-deoxythymidine, an inhibitor of HTLV-III/LAV
+  replication, to patients with AIDS or AIDS-related complex
 category: source
-summary: "Early human AZT clinical study relevant to Gutknecht letter Q8 chronology."
-tags: [aids, hiv, azt, chronology]
-updated: 2026-05-05
+summary: Early human AZT clinical study relevant to Gutknecht letter Q8 chronology.
+tags:
+  - aids
+  - azidothymidine
+  - azt
+  - blood-brain-barrier
+  - chronology
+  - clinical-trial
+  - dose-regimens
+  - hiv
+  - white-cell-depression
+updated: 2026-05-05T00:00:00.000Z
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
