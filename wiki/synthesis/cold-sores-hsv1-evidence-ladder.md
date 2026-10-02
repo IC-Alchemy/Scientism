@@ -1,10 +1,7 @@
 ---
 title: Cold Sores to HSV-1 Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source cold-sore research pass separating oral HSV-1 recovery,
-  recurrent labialis, UV-reactivation PCR/culture, asymptomatic shedding, and
-  transmission limits.
+summary: Source-by-source cold-sore research pass separating oral HSV-1 recovery, recurrent labialis, UV-reactivation PCR/culture, asymptomatic shedding, and transmission limits.
 tags:
   - cold-sores
   - evidence-ladder
@@ -16,14 +13,15 @@ tags:
   - shedding
   - uv-reactivation
 sources: 3
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Cold Sores to HSV-1 Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or sexual-health recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or sexual-health recommendations.
 
 ## Current answer
 The cold sores -> HSV-1 row can move from open status to a started evidence ladder:
@@ -51,4 +49,3 @@ HSV-1 should be presented as a recurrence and shedding ladder: infectious oral r
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

@@ -1,10 +1,7 @@
 ---
 title: Influenza to Influenza Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source influenza research pass separating pre-virus human
-  transmission failure, human-case filtrate, ferret passage, serology, swine
-  susceptibility, contact transfer, and ordinary human causation.
+summary: Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, and ordinary human causation.
 tags:
   - causation
   - contact-transfer
@@ -17,14 +14,15 @@ tags:
   - pre-virus-transmission-failure
   - swine-susceptibility
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Influenza to Influenza Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make treatment, vaccination, or exposure recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make treatment, vaccination, or exposure recommendations.
 
 ## Current answer
 The influenza row can now be upgraded from a Rosenau-only negative-result warning to a structured ladder, but only partly. The full-text primary set currently supports three different kinds of endpoint:

@@ -1,9 +1,7 @@
 ---
 title: COVID Early Intubation and Noninvasive Ventilation Lens Summary
 category: synthesis
-summary: >-
-  Lens-derived summary of COVID-19 early-intubation and noninvasive
-  respiratory-support studies.
+summary: Lens-derived summary of COVID-19 early-intubation and noninvasive respiratory-support studies.
 tags:
   - covid-19
   - early-vs-late-intubation
@@ -15,7 +13,7 @@ tags:
   - nicu-mortality
   - noninvasive-ventilation
 sources: 14
-updated: 2026-05-07T00:00:00.000Z
+updated: 2026-05-07
 claim_status: exploratory
 claim_type: medical
 ---
@@ -183,4 +181,3 @@ The early COVID-19 protocol dispute centered on whether hospitals should avoid a
 - Protocol issue: HFNO and NIV use to reduce invasive mechanical ventilation, weighed against delayed intubation and nosocomial transmission.
 - Abstract summary: The review says most evidence remained observational but suggested HFNO and NIV have a role in COVID-19 acute hypoxemic respiratory failure. It explicitly names delayed intubation and nosocomial infection as risks.
 - Endpoint signal: Need for invasive mechanical ventilation and possible mortality; mostly observational evidence.
-

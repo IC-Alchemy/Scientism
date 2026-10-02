@@ -1,9 +1,7 @@
 ---
 title: Scientism
 category: concept
-summary: >-
-  In this vault, scientism means extending scientific authority, methods, or
-  results beyond what the underlying evidence strictly supports.
+summary: In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports.
 tags:
   - authority-overreach
   - endpoint-framing
@@ -16,7 +14,7 @@ tags:
   - scientism-critique
   - scope-limitation
 sources: 7
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: methodological
 ---

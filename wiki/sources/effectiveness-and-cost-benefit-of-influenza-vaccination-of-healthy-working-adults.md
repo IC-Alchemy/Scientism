@@ -1,11 +1,7 @@
 ---
-title: >-
-  Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working
-  Adults
+title: Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults
 category: source
-summary: >-
-  Double-blind randomized saline-placebo trial testing inactivated influenza
-  vaccination in healthy working adults across two influenza seasons.
+summary: Double-blind randomized saline-placebo trial testing inactivated influenza vaccination in healthy working adults across two influenza seasons.
 tags:
   - cost-benefit
   - endpoints
@@ -18,26 +14,24 @@ tags:
   - vaccines
   - working-adults
 sources: 1
-source_path: >-
-  raw/Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working
-  Adults.md
-source_date: 2000-10-04T00:00:00.000Z
-authors:
-  - Carolyn Buxton Bridges
-  - William W. Thompson
-  - Martin I. Meltzer
-  - Gordon R. Reeve
-  - Walter J. Talamonti
-  - Nancy J. Cox
-  - Heather A. Lilac
-  - Henrietta Hall
-  - Alexander Klimov
-  - Keiji Fukuda
-ingested: 2026-05-05T00:00:00.000Z
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
+source_path: raw/Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults.md
+source_date: 2000-10-04
+authors:
+  - alexander klimov
+  - carolyn buxton bridges
+  - gordon r. reeve
+  - heather a. lilac
+  - henrietta hall
+  - keiji fukuda
+  - martin i. meltzer
+  - nancy j. cox
+  - walter j. talamonti
+  - william w. thompson
+ingested: 2026-05-05
 ---
 
 # Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults

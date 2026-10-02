@@ -1,11 +1,7 @@
 ---
-title: >-
-  Mortality before and after HIV infection in the complete UK population of
-  haemophiliacs
+title: Mortality before and after HIV infection in the complete UK population of haemophiliacs
 category: source
-summary: >-
-  Complete-population hemophilia mortality cohort relevant to Gutknecht letter
-  Q7/Q8.
+summary: Complete-population hemophilia mortality cohort relevant to Gutknecht letter Q7/Q8.
 tags:
   - aids
   - aids-associated-death
@@ -15,7 +11,7 @@ tags:
   - mortality
   - seroconversion-timing
   - transfusion-acquired-hiv
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
@@ -33,7 +29,8 @@ doi: 10.1038/377079a0
 - Publication types: Journal Article; Research Support, Non-U.S. Gov't
 - Authors in API output: S C Darby; D W Ewart; P L Giangrande; P J Dolin; R J Spooner; C R Rizza
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -46,7 +43,7 @@ doi: 10.1038/377079a0
 | Result | Mortality stayed near baseline among HIV-seronegative hemophiliacs but rose sharply after HIV infection. |
 | Main limitation | Observational national cohort and published after the March 1995 letter. |
 
-## What this source can answer
+## What the source can answer
 Directly compares mortality before and after HIV infection in a hemophilia population.
 
 ## What it cannot answer
@@ -55,7 +52,7 @@ Does not randomize HIV exposure or fully separate every cofactor.
 ## Abstract status
 Abstract is enough for the main mortality contrast; full text needed for exact annual rates.
 
-## API abstract
+## Indexed abstract
 During 1977-91, 6,278 males diagnosed with haemophilia were living in the UK. During 1979-86, 1,227 were infected with the human immunodeficiency virus (HIV-1) as a result of transfusion therapy (median estimated seroconversion date, October 1982). Among 2,448 with severe haemophilia, the annual death rate was stable at 8 per 1,000 during 1977-84; during 1985-92 death rates remained at 8 per 1,000 among HIV-seronegative patients but rose steeply in seropositive patients, reaching 81 per 1,000 in 1991-92. Among 3,830 with mild or moderate haemophilia, the pattern was similar, with an initial death rate of 4 per 1,000 in 1977-84, rising to 85 per 1,000 in 1991-92 in seropositive patients. During 1985-92, there were 403 deaths in HIV seropositive patients, whereas 60 would have been predicted from rates in seronegatives, suggesting that 85% of the deaths in seropositive patients were due to HIV infection. Most of the excess deaths were certified as due to AIDS or to conditions recognized as being associated with AIDS.
 
 ## Related

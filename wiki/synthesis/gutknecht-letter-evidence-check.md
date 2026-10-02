@@ -1,10 +1,7 @@
 ---
 title: Gutknecht Letter Evidence Check
 category: synthesis
-summary: >-
-  Current evidence-standard answer to the 12 questions in Representative Gil
-  Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest
-  for questions 7-9.
+summary: Current evidence-standard answer to the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest for questions 7-9.
 tags:
   - aids
   - evidence-check
@@ -16,7 +13,7 @@ tags:
   - transfusion-associated-hiv
   - zidovudine-toxicity
 sources: 43
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: unresolved
 claim_type: medical
 ---
@@ -25,9 +22,11 @@ claim_type: medical
 
 Scope: This page answers the 12 questions raised in the March 24, 1995 letter [[sources/congressman-questions-aids-in-letter]] under this vault's direct-evidence standard.
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
-> Note: The letter is dated March 24, 1995. Some questions ask what was knowable or asserted at that date. This page separates current direct-study evidence from 1995 historical framing.
+> [!note] Note
+> The letter is dated March 24, 1995. Some questions ask what was knowable or asserted at that date. This page separates current direct-study evidence from 1995 historical framing.
 
 ## Short answer
 

@@ -1,11 +1,7 @@
 ---
-title: >-
-  Genital Shedding of Herpes Simplex Virus among Symptomatic and Asymptomatic
-  Persons with HSV-2 Infection
+title: Genital Shedding of Herpes Simplex Virus among Symptomatic and Asymptomatic Persons with HSV-2 Infection
 category: source
-summary: >-
-  2011 JAMA prospective daily-swab study comparing HSV-2 genital DNA shedding in
-  symptomatic and asymptomatic HSV-2-seropositive persons.
+summary: 2011 JAMA prospective daily-swab study comparing HSV-2 genital DNA shedding in symptomatic and asymptomatic HSV-2-seropositive persons.
 tags:
   - asymptomatic-shedding
   - daily-swabbing
@@ -16,14 +12,14 @@ tags:
   - symptom-status
   - transmission-boundary
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary HSV-2 daily genital shedding paper
-doi: 10.1001/jama.2011.420
 pmid: 21486977
 pmcid: PMC3144252
+doi: 10.1001/jama.2011.420
 ---
 
 # Genital Shedding of Herpes Simplex Virus among Symptomatic and Asymptomatic Persons with HSV-2 Infection
@@ -56,4 +52,3 @@ The risk is equating DNA shedding with infectious transmission without infectiou
 
 ## Vault conclusion
 Tronstein et al. 2011 supports a strong HSV-2 genital shedding rung with a PCR-boundary limitation.
-

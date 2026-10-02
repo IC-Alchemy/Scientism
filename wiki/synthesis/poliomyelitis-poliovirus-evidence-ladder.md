@@ -1,10 +1,7 @@
 ---
 title: Poliomyelitis to Poliovirus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source polio research pass separating monkey challenge, exposure
-  route, tissue recovery, tissue culture, direct isolation, and ordinary
-  natural-route causation.
+summary: Source-by-source polio research pass separating monkey challenge, exposure route, tissue recovery, tissue culture, direct isolation, and ordinary natural-route causation.
 tags:
   - causation
   - evidence-ladder
@@ -17,14 +14,15 @@ tags:
   - route-of-infection
   - tissue-culture
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Poliomyelitis to Poliovirus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make treatment, vaccination, or exposure recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make treatment, vaccination, or exposure recommendations.
 
 ## Current answer
 The polio file can now be upgraded from a general inferential-leap warning to a structured evidence ladder, but only partly. Three core primary full texts have been located or are represented directly enough for endpoint-level handling: Flexner and Lewis 1910, Sabin and Olitsky 1938, and Enders, Weller, and Robbins 1949. The JAMA route/activity notes and the 1951 American Journal of Hygiene direct-isolation paper remain acquisition gaps for manuscript-strength claims.

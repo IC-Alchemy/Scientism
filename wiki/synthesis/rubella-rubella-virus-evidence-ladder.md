@@ -1,10 +1,7 @@
 ---
 title: Rubella to Rubella Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source rubella research pass separating acute-case recovery,
-  tissue-culture propagation, serology, monkey inoculation, congenital-rubella
-  leads, and ordinary transmission.
+summary: Source-by-source rubella research pass separating acute-case recovery, tissue-culture propagation, serology, monkey inoculation, congenital-rubella leads, and ordinary transmission.
 tags:
   - causation
   - evidence-ladder
@@ -17,14 +14,15 @@ tags:
   - serology
   - tissue-culture
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Rubella to Rubella Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make exposure, pregnancy, vaccination, diagnostic, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make exposure, pregnancy, vaccination, diagnostic, or treatment recommendations.
 
 ## Current answer
 The rubella row can now move from candidate status to a started evidence ladder for acute rubella. The full-text primary set in this pass supports three main rungs:
@@ -73,4 +71,3 @@ The manuscript may therefore upgrade rubella from a candidate row into an acute-
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

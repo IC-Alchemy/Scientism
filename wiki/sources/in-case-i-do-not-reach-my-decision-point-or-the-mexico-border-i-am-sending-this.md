@@ -1,22 +1,18 @@
 ---
-title: >-
-  In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending
-  This
+title: In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending This
 category: source
-summary: >-
-  UAP and national-security letter that is outside the clinical, vaccine, and
-  virology scope of this ingest slice.
+summary: UAP and national-security letter that is outside the clinical, vaccine, and virology scope of this ingest slice.
 tags:
   - national-security
   - out-of-scope
   - scope-triage
   - uap
   - unrelated
-source_path: raw/__In case I do not reach my decision point or the .md
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: unresolved
 claim_type: rhetorical
 source_tier: tier-3
+source_path: raw/__In case I do not reach my decision point or the .md
 ---
 
 # In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending This

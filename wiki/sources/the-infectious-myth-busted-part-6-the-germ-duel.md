@@ -1,28 +1,29 @@
 ---
-tags:
-  - negative-results
-  - transmission-attempts
-  - polemical-essay
-  - germ-theory-challenge
-  - self-experimentation
-  - methodological-boundary
-  - burden-of-proof
----
-
----
-title: The Infectious Myth Busted Part 6: The Germ Duel
+title: 'The Infectious Myth Busted Part 6: The Germ Duel'
 category: source
 summary: A Tier 3 polemical essay that argues failed self-experiments and challenge anecdotes undermine germ-theory claims, while also shifting across very different diseases and study designs.
-tags: [source, viroliegy, germ-theory, self-experimentation, infection]
-source_path: raw/The Infectious Myth Busted Part 6 The Germ Duel.md
-source_date: 2024-01-19
-authors: [ViroLIEgy]
+tags:
+  - burden-of-proof
+  - germ-theory
+  - germ-theory-challenge
+  - infection
+  - methodological-boundary
+  - negative-results
+  - polemical-essay
+  - self-experimentation
+  - source
+  - transmission-attempts
+  - viroliegy
 sources: 1
-ingested: 2026-05-04
 updated: 2026-05-04
 claim_status: disputed
 claim_type: rhetorical
 source_tier: tier-3
+source_path: raw/The Infectious Myth Busted Part 6 The Germ Duel.md
+source_date: 2024-01-19
+authors:
+  - viroliegy
+ingested: 2026-05-04
 ---
 
 # The Infectious Myth Busted Part 6: The Germ Duel
@@ -30,7 +31,7 @@ source_tier: tier-3
 ## TL;DR
 This raw source is a polemical essay that uses self-experimentation stories, challenge rhetoric, and selected failed transmission studies to argue against infectious-disease causation claims. It raises questions worth checking against the cited studies about study design and burden of proof, but it also jumps between diseases, routes of exposure, and evidentiary standards.
 
-## Source type and scope
+## Source type
 - Tier 3 argumentative essay.
 - Broad in scope, covering multiple diseases and historical episodes.
 - More focused on rhetorical burden-shifting and challenge narratives than on one tightly bounded historical experiment.

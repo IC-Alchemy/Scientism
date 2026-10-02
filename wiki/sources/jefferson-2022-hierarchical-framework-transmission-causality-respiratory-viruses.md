@@ -1,12 +1,7 @@
 ---
-title: >-
-  A Hierarchical Framework for Assessing Transmission Causality of Respiratory
-  Viruses
+title: A Hierarchical Framework for Assessing Transmission Causality of Respiratory Viruses
 category: source
-summary: >-
-  A 2022 methodological framework arguing that respiratory-virus transmission
-  causality should be graded by evidence quality rather than assumed from
-  isolated detection events.
+summary: A 2022 methodological framework arguing that respiratory-virus transmission causality should be graded by evidence quality rather than assumed from isolated detection events.
 tags:
   - causality-ranking
   - causation
@@ -17,27 +12,27 @@ tags:
   - source
   - transmission
   - transmission-evidence
-source_path: doi:10.3390/v14081605
-source_date: 2022
-authors:
-  - Tom Jefferson
-  - Carl J. Heneghan
-  - Elizabeth Spencer
-  - Jon Brassey
-  - Annette Pluddemann
-  - Igho Onakpoya
-  - David Evans
-  - John Conly
 sources: 1
-ingested: 2026-05-14T00:00:00.000Z
-updated: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-2
-lens_id: 025-661-670-628-717
-doi: 10.3390/v14081605
+source_path: doi:10.3390/v14081605
+source_date: 2022
+authors:
+  - annette pluddemann
+  - carl j. heneghan
+  - david evans
+  - elizabeth spencer
+  - igho onakpoya
+  - john conly
+  - jon brassey
+  - tom jefferson
+ingested: 2026-05-14
 pmid: 35893670
 pmcid: PMC9332164
+doi: 10.3390/v14081605
+lens_id: 025-661-670-628-717
 ---
 
 # A Hierarchical Framework for Assessing Transmission Causality of Respiratory Viruses
@@ -45,7 +40,7 @@ pmcid: PMC9332164
 ## TL;DR
 This paper is useful as a modern methodological prompt for respiratory-virus attribution. It argues that evidence for transmission causality should be graded and should not be inferred from isolated detection alone.
 
-## Source type and scope
+## Source type
 - Methodological framework article in *Viruses*.
 - Lens lookup: Lens `025-661-670-628-717`; DOI `10.3390/v14081605`; PMID `35893670`; PMCID `PMC9332164`.
 - It is not a primary transmission experiment; it is a framework for ranking the strength of transmission evidence.

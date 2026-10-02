@@ -1,20 +1,20 @@
 ---
-tags:
-  - zoster-exclusion
-  - fatal-case-report
-  - type-a-intranuclear-inclusions
-  - complement-fixation
-  - varicella
-  - necropsy
-  - virus-isolation
-  - serologic-studies
----
-
----
-title: Varicella: Report of Two Fatal Cases with Necropsy, Virus Isolation, and Serologic Studies
+title: 'Varicella: Report of Two Fatal Cases with Necropsy, Virus Isolation, and Serologic Studies'
 category: source
 summary: 1956 fatal-varicella case report with necropsy pathology, virus isolation from vesicle fluid, blood, and lung, and serologic findings.
-tags: [varicella, chickenpox, vzv, necropsy, virus-isolation, pathology, endpoints]
+tags:
+  - chickenpox
+  - complement-fixation
+  - endpoints
+  - fatal-case-report
+  - necropsy
+  - pathology
+  - serologic-studies
+  - type-a-intranuclear-inclusions
+  - varicella
+  - virus-isolation
+  - vzv
+  - zoster-exclusion
 sources: 1
 updated: 2026-05-31
 claim_status: supported
@@ -66,4 +66,3 @@ This source supports a narrow claim: in two fatal varicella cases, the authors d
 - [[sources/weller-1953-serial-propagation-varicella-herpes-zoster-agents]]
 - [[sources/weller-witton-bell-1958-varicella-zoster-isolation-propagation-culture]]
 - [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit]]
-

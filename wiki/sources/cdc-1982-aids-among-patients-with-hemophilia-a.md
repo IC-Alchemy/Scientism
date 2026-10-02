@@ -1,7 +1,5 @@
 ---
-title: >-
-  Update on acquired immune deficiency syndrome (AIDS) among patients with
-  hemophilia A
+title: Update on acquired immune deficiency syndrome (AIDS) among patients with hemophilia A
 category: source
 summary: Primary surveillance case update relevant to Gutknecht letter Q8 chronology.
 tags:
@@ -12,13 +10,12 @@ tags:
   - hiv
   - mmwr
   - pre-azt-era
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary surveillance case update
 pmid: 6819439
-doi: null
 ---
 
 # Update on acquired immune deficiency syndrome (AIDS) among patients with hemophilia A
@@ -30,7 +27,8 @@ doi: null
 - Publication types: Case Reports; Journal Article
 - Authors in API output: Centers for Disease Control (CDC)
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -43,7 +41,7 @@ doi: null
 | Result | Records hemophilia-associated AIDS cases before AZT approval. |
 | Main limitation | Case-series surveillance, not a controlled causation study. |
 
-## What this source can answer
+## What the source can answer
 Adds a pre-AZT chronology anchor outside recreational-drug-only framing.
 
 ## What it cannot answer
@@ -52,7 +50,7 @@ Does not itself identify the causal agent.
 ## Abstract status
 PubMed has no abstract; MMWR full text is needed for case details.
 
-## API abstract
+## Indexed abstract
 The PubMed lookup did not provide an abstract. Use the primary full text before relying on case details.
 
 ## Related

@@ -1,11 +1,7 @@
 ---
-title: >-
-  Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to
-  a New Virus
+title: Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to a New Virus
 category: source
-summary: >-
-  1975 J Clin Pathol paper localizing a new gastroenteritis-associated viral
-  antigen in duodenal villus epithelium of children with acute enteritis.
+summary: 1975 J Clin Pathol paper localizing a new gastroenteritis-associated viral antigen in duodenal villus epithelium of children with acute enteritis.
 tags:
   - acute-enteritis
   - duodenal-mucosa
@@ -17,14 +13,14 @@ tags:
   - tissue-localization
   - villus-epithelium
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary rotavirus tissue-antigen and pediatric enteritis paper
-doi: 10.1136/jcp.28.4.263
 pmid: 1092720
 pmcid: PMC475687
+doi: 10.1136/jcp.28.4.263
 ---
 
 # Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to a New Virus
@@ -59,4 +55,3 @@ The risk is turning early tissue association into broad disease-burden or policy
 
 ## Vault conclusion
 Davidson et al. 1975 supports a rotavirus tissue-antigen localization rung for pediatric acute enteritis. It should be used as mucosal association evidence, not standalone causal closure.
-

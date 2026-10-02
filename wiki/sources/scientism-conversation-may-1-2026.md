@@ -1,9 +1,7 @@
 ---
 title: Scientism Conversation (May 1, 2026)
 category: source
-summary: >-
-  Voice-transcript seed source that frames the vault's initial questions about
-  scientism, replication, endpoints, and inferential overreach.
+summary: Voice-transcript seed source that frames the vault's initial questions about scientism, replication, endpoints, and inferential overreach.
 tags:
   - empirical-evidence
   - endpoint-disputes
@@ -17,16 +15,15 @@ tags:
   - scientism
   - transcript
 sources: 1
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3
 source_path: raw/Scientism.md
-source_date: 2026-05-01T00:00:00.000Z
+source_date: 2026-05-01
 ---
 
 # Scientism Conversation (May 1, 2026)
-
 
 ## Source type
 Voice transcript and brainstorming exchange. This is commentary and research planning, not a stable bibliography or a primary study.
@@ -37,7 +34,7 @@ Voice transcript and brainstorming exchange. This is commentary and research pla
 - A recurring concern is the difference between narrow endpoints or observations and larger claims about health, causation, or doctrine.
 - The discussion proposes disputed biomedical history, germ-theory arguments, and vaccine-endpoint disputes as case-study candidates.
 
-## What question the source is capable of answering
+## What the source can answer
 This source can answer what research questions the user wanted to pursue on May 1, 2026, and which methodological distinctions were treated as important.
 
 It cannot answer whether the biomedical or historical claims mentioned in the conversation are true.
@@ -61,7 +58,7 @@ It cannot answer whether the biomedical or historical claims mentioned in the co
 - Which historical cases best separate laboratory demonstration from later doctrine?
 - When does a disease-specific endpoint justify a broader health claim, and when does it not?
 
-## Related pages
+## Related
 - [[concepts/scientism]]
 - [[concepts/replication-crisis]]
 - [[concepts/inferential-leap]]

@@ -1,9 +1,7 @@
 ---
 title: Louis Pasteur's Unethical Rabies Fraud
 category: source
-summary: >-
-  A Tier 3 polemical critique that argues Pasteur's rabies work involved
-  misconduct and should be read with strong caution.
+summary: A Tier 3 polemical critique that argues Pasteur's rabies work involved misconduct and should be read with strong caution.
 tags:
   - historical-misconduct
   - louis-pasteur
@@ -16,16 +14,16 @@ tags:
   - selective-quotation
   - source
   - viroliegy
-source_path: raw/Louis Pasteur’s Unethical Rabies Fraud.md
-source_date: 2022-02-25T00:00:00.000Z
-authors:
-  - ViroLIEgy
 sources: 1
-ingested: 2026-05-04T00:00:00.000Z
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3
+source_path: raw/Louis Pasteur’s Unethical Rabies Fraud.md
+source_date: 2022-02-25
+authors:
+  - viroliegy
+ingested: 2026-05-04
 ---
 
 # Louis Pasteur's Unethical Rabies Fraud
@@ -33,9 +31,10 @@ source_tier: tier-3
 ## TL;DR
 This raw source is a strongly polemical critique of Pasteur's character and rabies work. It may contain leads worth checking against primary and serious secondary history, but its framing is accusatory and it cannot by itself justify a conclusion of fraud.
 
-> Warning: The rhetoric here is substantially stronger than the evidence currently summarized in this vault. Treat it as a lead generator, not a conclusion.
+> [!warning] Warning
+> The rhetoric here is substantially stronger than the evidence currently summarized in this vault. Treat it as a lead generator, not a conclusion.
 
-## Source type and scope
+## Source type
 - Tier 3 commentary source.
 - Biographical and moral framing is central to the article.
 - The source appears to use historical quotations selectively in support of a misconduct thesis.
@@ -50,7 +49,7 @@ This raw source is a strongly polemical critique of Pasteur's character and rabi
 - It cites critical quotations about Pasteur as a person.
 - The article likely intends to connect those judgments to specific rabies episodes, but the vault should separate those claims from any direct evidence about inoculation outcomes.
 
-## What question the source is capable of answering
+## What the source can answer
 - It can help identify allegations that should be checked against stronger sources.
 - It can document the existence of a modern revisionist critique of Pasteur.
 - It cannot, on its own, answer whether Pasteur's rabies work was fraudulent in a historical or evidentiary sense.

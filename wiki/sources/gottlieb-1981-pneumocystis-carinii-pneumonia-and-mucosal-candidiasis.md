@@ -1,7 +1,5 @@
 ---
-title: >-
-  Pneumocystis carinii pneumonia and mucosal candidiasis in previously healthy
-  homosexual men
+title: Pneumocystis carinii pneumonia and mucosal candidiasis in previously healthy homosexual men
 category: source
 summary: Peer-reviewed clinical case series relevant to Gutknecht letter Q8 chronology.
 tags:
@@ -13,7 +11,7 @@ tags:
   - opportunistic-infections
   - pneumocystis-pneumonia
   - t-cell-subsets
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
@@ -31,7 +29,8 @@ doi: 10.1056/NEJM198112103052401
 - Publication types: Case Reports; Journal Article; Research Support, Non-U.S. Gov't; Research Support, U.S. Gov't, P.H.S.
 - Authors in API output: M S Gottlieb; R Schroff; H M Schanker; J D Weisman; P T Fan; R A Wolf; A Saxon
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -44,7 +43,7 @@ doi: 10.1056/NEJM198112103052401
 | Result | Documents acquired cellular immunodeficiency clinical cases before AZT use. |
 | Main limitation | Small case series and early pathogenesis uncertainty. |
 
-## What this source can answer
+## What the source can answer
 Provides a peer-reviewed pre-AZT clinical anchor.
 
 ## What it cannot answer
@@ -53,7 +52,7 @@ Does not establish all later AIDS mechanisms.
 ## Abstract status
 Abstract is enough for chronology; full text needed for case-level immunology details.
 
-## API abstract
+## Indexed abstract
 Four previously healthy homosexual men contracted Pneumocystis carinii pneumonia, extensive mucosal candidiasis, and multiple viral infections. In three of the patients these infections followed prolonged fevers of unknown origin. In all four cytomegalovirus was recovered from secretions. Kaposi's sarcoma developed in one patient eight months after he presented with esophageal candidiasis. All patients were anergic and lymphopenic; they had no lymphocyte proliferative responses to soluble antigens, and their responses to phytohemagglutinin were markedly reduced. Monoclonal-antibody analysis of peripheral-blood T-cell subpopulations revealed virtual elimination of the Leu-3 / helper/inducer subset, an increased percentage of the Leu-2 + suppressor/cytoxic subset, and an increased percentage of cells bearing the thymocyte-associated antigen T10. The inversion of the T/ helper to suppressor/cytotoxic ratio suggested that cytomegalovirus infection was an important factor in the pathogenesis of the immunodeficient state. A high level of exposure of male homosexuals to cytomegalovirus-infected secretions may account for the occurrence of this immune deficiency.
 
 ## Related

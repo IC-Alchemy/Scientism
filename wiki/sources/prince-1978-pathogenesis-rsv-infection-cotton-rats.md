@@ -1,10 +1,7 @@
 ---
 title: The Pathogenesis of Respiratory Syncytial Virus Infection in Cotton Rats
 category: source
-summary: >-
-  1978 American Journal of Pathology animal-model paper reporting RSV
-  replication, antigen localization, histopathology, and neutralizing antibody
-  in cotton rats.
+summary: 1978 American Journal of Pathology animal-model paper reporting RSV replication, antigen localization, histopathology, and neutralizing antibody in cotton rats.
 tags:
   - animal-challenge
   - antigen-localization
@@ -16,7 +13,7 @@ tags:
   - pathology
   - rsv
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -57,4 +54,3 @@ The risk is treating cotton-rat bronchiolitis-like pathology as direct proof of 
 
 ## Vault conclusion
 Prince et al. 1978 supports an RSV cotton-rat animal pathogenesis rung. It is useful model evidence, not direct human infant disease proof.
-

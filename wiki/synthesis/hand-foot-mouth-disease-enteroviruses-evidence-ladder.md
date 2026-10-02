@@ -1,10 +1,7 @@
 ---
 title: Hand, Foot, and Mouth Disease to Enteroviruses Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source HFMD research pass separating Coxsackie A16 lesion isolation,
-  serology, EV71 outbreak/CNS association, tree-shrew animal modeling, and
-  ordinary-transmission limits.
+summary: Source-by-source HFMD research pass separating Coxsackie A16 lesion isolation, serology, EV71 outbreak/CNS association, tree-shrew animal modeling, and ordinary-transmission limits.
 tags:
   - coxsackievirus-a16
   - enterovirus
@@ -16,14 +13,15 @@ tags:
   - tree-shrew-model
   - virus-isolation
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Hand, Foot, and Mouth Disease to Enteroviruses Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, exposure-management, infection-control, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, exposure-management, infection-control, or treatment recommendations.
 
 ## Current answer
 The HFMD -> Coxsackievirus A16 / enterovirus 71 row can move from open status to a started evidence ladder. The full-text set in this pass supports four distinct rungs:
@@ -71,4 +69,3 @@ The manuscript may say that the current full-text set supports Coxsackie A16 and
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

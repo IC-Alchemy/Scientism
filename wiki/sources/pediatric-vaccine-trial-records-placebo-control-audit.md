@@ -1,9 +1,7 @@
 ---
 title: Pediatric Vaccine Trial Records Placebo-Control Audit
 category: source
-summary: >-
-  Abstract-level audit of vaccine clinical-trial records cited by the CHD
-  placebo-control article, focused on comparator type and endpoint scope.
+summary: Abstract-level audit of vaccine clinical-trial records cited by the CHD placebo-control article, focused on comparator type and endpoint scope.
 tags:
   - abstract-metadata
   - clinical-trials
@@ -17,7 +15,7 @@ tags:
   - vaccine-trials
   - vaccines
 sources: 20
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-1
@@ -28,7 +26,8 @@ source_tier: tier-1
 ## TL;DR
 Lens found all 18 PubMed-indexed trial records cited by [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]]. At the abstract and metadata level, most cited trials are active-comparator vaccine trials, while several rotavirus and HPV records are placebo-labeled but do not identify the placebo composition in the abstract. This supports the narrower methodological point that comparator choice must be named before making safety claims; it does not by itself prove a general claim about all pediatric vaccine safety testing.
 
-> Warning: This page is a trial-design audit, not medical advice.
+> [!warning] Warning
+> This page is a trial-design audit, not medical advice.
 
 ## Search method
 - Tool: Lens scholarly search helper, exact PMID search against the 18 trial citations preserved in the raw CHD source.

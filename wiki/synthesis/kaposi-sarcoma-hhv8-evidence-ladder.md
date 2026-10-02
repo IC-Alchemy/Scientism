@@ -1,10 +1,7 @@
 ---
 title: Kaposi Sarcoma to Human Herpesvirus 8 Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source HHV-8/Kaposi sarcoma research pass separating lesion PCR,
-  cross-status detection, tissue specificity, viral characterization, serology,
-  transmission, and tumor-causation claims.
+summary: Source-by-source HHV-8/Kaposi sarcoma research pass separating lesion PCR, cross-status detection, tissue specificity, viral characterization, serology, transmission, and tumor-causation claims.
 tags:
   - causation
   - causation-audit
@@ -19,14 +16,15 @@ tags:
   - tumor-dna
   - viral-characterization
 sources: 5
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Kaposi Sarcoma to Human Herpesvirus 8 Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make treatment, prevention, screening, or antiviral-use recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make treatment, prevention, screening, or antiviral-use recommendations.
 
 ## Current answer
 The Kaposi sarcoma -> HHV-8/KSHV row can now move from candidate status to a started evidence ladder. The current full-text set supports molecular discovery, lesion association, cross-status detection, lesion-versus-normal tissue contrast, viral-genome characterization, infected-cell-line evidence, and serology:

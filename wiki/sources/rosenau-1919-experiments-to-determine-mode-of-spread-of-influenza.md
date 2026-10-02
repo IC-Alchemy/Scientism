@@ -1,9 +1,7 @@
 ---
 title: Experiments to Determine Mode of Spread of Influenza
 category: source
-summary: >-
-  Primary 1919 JAMA report describing repeated negative human influenza
-  transmission attempts under several exposure methods.
+summary: Primary 1919 JAMA report describing repeated negative human influenza transmission attempts under several exposure methods.
 tags:
   - 1919-jama
   - human-challenge
@@ -15,7 +13,7 @@ tags:
   - subcutaneous-inoculation
   - transmission
 sources: 1
-updated: 2026-05-06T00:00:00.000Z
+updated: 2026-05-06
 claim_status: exploratory
 claim_type: empirical
 source_tier: tier-1
@@ -32,7 +30,8 @@ doi: 10.1001/jama.1919.02610310005002
 - Citation details: volume 73, issue 5, page 311
 - Source basis in hand: extracted primary text from the 1919 JAMA report in `tmp/rosenau-1919-jama.txt`
 
-> Warning: This page is based on local extracted primary text from the 1919 report, not on a modern abstract. The extraction is sufficient for the main experiment descriptions and Rosenau's closing caution, but a full scanned-page check would still be useful for exact denominators and any wording outside the extracted text.
+> [!warning] Warning
+> This page is based on local extracted primary text from the 1919 report, not on a modern abstract. The extraction is sufficient for the main experiment descriptions and Rosenau's closing caution, but a full scanned-page check would still be useful for exact denominators and any wording outside the extracted text.
 
 ## Vault extraction
 | Field | Value |

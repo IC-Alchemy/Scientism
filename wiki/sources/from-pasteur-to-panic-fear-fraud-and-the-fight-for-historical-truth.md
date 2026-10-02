@@ -1,29 +1,29 @@
 ---
-tags:
-  - revisionist-history
-  - pasteur-critique
-  - mike-stone
-  - historical-truth
-  - virology-critique
-  - virology-debate
-  - germ-theory
-  - historical-medical-debate
----
-
----
-title: From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth
+title: 'From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth'
 category: source
 summary: A Tier 3 interview-style commentary that consolidates Mike Stone's revisionist criticisms of Pasteur, virology, and modern infectious-disease narratives.
-tags: [source, mike-stone, louis-pasteur, germ-theory, viroliegy]
-source_path: raw/From Pasteur to Panic Fear, Fraud, and the Fight for Historical Truth.md
-source_date: 2025-03-26
-authors: [ViroLIEgy]
+tags:
+  - germ-theory
+  - historical-medical-debate
+  - historical-truth
+  - louis-pasteur
+  - mike-stone
+  - pasteur-critique
+  - revisionist-history
+  - source
+  - viroliegy
+  - virology-critique
+  - virology-debate
 sources: 1
-ingested: 2026-05-04
 updated: 2026-05-04
 claim_status: disputed
 claim_type: rhetorical
 source_tier: tier-3
+source_path: raw/From Pasteur to Panic Fear, Fraud, and the Fight for Historical Truth.md
+source_date: 2025-03-26
+authors:
+  - viroliegy
+ingested: 2026-05-04
 ---
 
 # From Pasteur to Panic: Fear, Fraud, and the Fight for Historical Truth
@@ -31,9 +31,10 @@ source_tier: tier-3
 ## TL;DR
 This raw source is an interview-style commentary that presents Mike Stone as a critic of Pasteur, virology, and modern infectious-disease history. It is useful for mapping the revisionist claim set, but not for establishing those claims as wiki conclusions.
 
-> Warning: The piece is explicitly advocacy-oriented and uses charged language. It should be treated as a Tier 3 synthesis of arguments, not as a neutral historical source.
+> [!warning] Warning
+> The piece is explicitly advocacy-oriented and uses charged language. It should be treated as a Tier 3 synthesis of arguments, not as a neutral historical source.
 
-## Source type and scope
+## Source type
 - Modern interview/commentary.
 - Agenda-setting rather than evidentiary in its own right.
 - Consolidates several lines of criticism into one narrative frame.
@@ -48,7 +49,7 @@ This raw source is an interview-style commentary that presents Mike Stone as a c
 - Its evidentiary role is therefore indirect: it points to areas of dispute rather than resolving them.
 - The page is most useful for identifying which historical claims the revisionist literature considers central.
 
-## What question the source is capable of answering
+## What the source can answer
 - It can answer what this revisionist camp says its research program is trying to show.
 - It cannot by itself answer whether the underlying historical claims are correct.
 - It is not a substitute for primary papers, archival material, or careful secondary scholarship.

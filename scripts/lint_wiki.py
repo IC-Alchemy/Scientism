@@ -7,6 +7,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
 REQUIRED_FIELDS = {"title", "category", "summary", "tags", "updated"}
+# wiki/index.md and wiki/log.md exist but are excluded from the page map
+# (they are generated/append-only), so links to them are valid by definition.
+VALID_NONPAGE_TARGETS = {"index", "log"}
 WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 AUTHORITY_EVIDENCE_RE = re.compile(
     r"\b(?:CDC|NIH|WHO|NIAID|FDA)\s+(?:says|states|notes|reports|documents|guidance|guideline)\b"
@@ -75,11 +78,11 @@ def main() -> int:
             target = link.strip()
             if target.startswith(("http://", "https://")):
                 continue
-            normalized = target.removeprefix("wiki/").rstrip("/")
+            normalized = target.removeprefix("wiki/").rstrip("/").rstrip("\\")
             normalized = normalized[:-3] if normalized.endswith(".md") else normalized
             if normalized in pages:
                 inbound[normalized] += 1
-            else:
+            elif normalized not in VALID_NONPAGE_TARGETS:
                 broken.append(f"{key} -> {target}")
 
     for key, count in sorted(inbound.items()):

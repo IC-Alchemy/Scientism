@@ -1,12 +1,7 @@
 ---
-title: >-
-  Experiments on Intramuscular Inoculation and Feeding Domestic Cats with Rabid
-  Mouse Brains
+title: Experiments on Intramuscular Inoculation and Feeding Domestic Cats with Rabid Mouse Brains
 category: source
-summary: >-
-  2007 Brazilian Journal of Veterinary Research and Animal Science study
-  comparing rabid-brain feeding in cats with an intramuscular positive-standard
-  cat.
+summary: 2007 Brazilian Journal of Veterinary Research and Animal Science study comparing rabid-brain feeding in cats with an intramuscular positive-standard cat.
 tags:
   - cats
   - endpoints
@@ -18,7 +13,7 @@ tags:
   - route-boundary
   - rt-pcr
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

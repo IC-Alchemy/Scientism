@@ -1,10 +1,7 @@
 ---
 title: Association of Virus with Cases of Rubella Studied in Toronto
 category: source
-summary: >-
-  1963 CMAJ paper reporting rubella-virus isolation from typical rubella throat
-  washings, convalescent-serum neutralization, and mild illness after
-  inoculation of grivet monkeys.
+summary: 1963 CMAJ paper reporting rubella-virus isolation from typical rubella throat washings, convalescent-serum neutralization, and mild illness after inoculation of grivet monkeys.
 tags:
   - animal-challenge
   - culture
@@ -17,7 +14,7 @@ tags:
   - throat-washings
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -67,4 +64,3 @@ This source supports a narrow claim: in the 1963 Toronto study, a rubella-associ
 - [[sources/parkman-buescher-artenstein-1962-recovery-rubella-virus-army-recruits]]
 - [[sources/weller-neva-1962-propagation-cytopathic-agents-rubella-like-illness]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
-

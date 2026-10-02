@@ -1,10 +1,7 @@
 ---
 title: The Virus Paradigm - Assumptions, Lies, and the Foundation of Modern Medicine
 category: source
-summary: >-
-  Long-form no-virus commentary built around arguments about isolation,
-  controls, FOI responses, and the difference between observed effects and
-  broader doctrine.
+summary: Long-form no-virus commentary built around arguments about isolation, controls, FOI responses, and the difference between observed effects and broader doctrine.
 tags:
   - commentary
   - control-experiments
@@ -16,18 +13,17 @@ tags:
   - virology
   - virus-isolation
 sources: 1
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3
-source_path: >-
-  raw/The Virus™ Paradigm Assumptions, Lies, and the Foundation of Modern
-  Medicine.md
+source_path: raw/The Virus™ Paradigm Assumptions, Lies, and the Foundation of Modern Medicine.md
 ---
 
 # The Virus Paradigm - Assumptions, Lies, and the Foundation of Modern Medicine
 
-> Warning: This source is a long-form advocacy text. It contains many technical references, but the raw note itself is still commentary rather than a primary paper.
+> [!warning] Warning
+> This source is a long-form advocacy text. It contains many technical references, but the raw note itself is still commentary rather than a primary paper.
 
 ## Source type
 Essay or chapter-length summary presenting the no-virus position and reproducing parts of a book chapter.
@@ -38,7 +34,7 @@ Essay or chapter-length summary presenting the no-virus position and reproducing
 - FOI responses, court outcomes, and secondary summaries are presented as evidence of unresolved methodological defects.
 - The source argues that major public-health institutions and policies depend on these disputed assumptions.
 
-## What question the source is capable of answering
+## What the source can answer
 This source can answer how a detailed no-virus critique is constructed and which kinds of evidence its proponents regard as decisive.
 
 It cannot, on its own, adjudicate the truth of the biomedical claims it disputes.
@@ -57,7 +53,7 @@ It cannot, on its own, adjudicate the truth of the biomedical claims it disputes
 - Because those layers are combined, the page is a good fit for [[concepts/inferential-leap]].
 - The medical stakes are high, so this source requires stronger follow-up sourcing before any firm synthesis.
 
-## Related pages
+## Related
 - [[concepts/virus-isolation]]
 - [[concepts/cell-culture]]
 - [[concepts/inferential-leap]]

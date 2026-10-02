@@ -1,9 +1,7 @@
 ---
 title: Placebo Controls
 category: concept
-summary: >-
-  A concept page for distinguishing inert placebos from active comparators and
-  for tracking what a control group can and cannot show.
+summary: A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show.
 tags:
   - active-comparator
   - clinical-trials
@@ -16,7 +14,7 @@ tags:
   - placebo-controls
   - saline-placebo
 sources: 4
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: medical
 ---

@@ -1,12 +1,7 @@
 ---
-title: >-
-  Plaque Differentiation and Replication of Virulent and Attenuated Strains of
-  Measles Virus
+title: Plaque Differentiation and Replication of Virulent and Attenuated Strains of Measles Virus
 category: source
-summary: >-
-  1964 Journal of Bacteriology paper measuring plaque size, cytopathic effect,
-  antigen development, and replication kinetics of virulent and attenuated
-  measles-virus strains in BSC-1 cells.
+summary: 1964 Journal of Bacteriology paper measuring plaque size, cytopathic effect, antigen development, and replication kinetics of virulent and attenuated measles-virus strains in BSC-1 cells.
 tags:
   - attenuated-virus
   - cytopathology
@@ -19,7 +14,7 @@ tags:
   - replication
   - tissue-culture
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,7 @@
 ---
 title: Outbreaks of Hand, Foot, and Mouth Disease by Enterovirus 71
 category: source
-summary: >-
-  1980 Archives of Disease in Childhood outbreak report associating enterovirus
-  71 with hand-foot-and-mouth disease outbreaks and frequent CNS complications
-  in Japan.
+summary: 1980 Archives of Disease in Childhood outbreak report associating enterovirus 71 with hand-foot-and-mouth disease outbreaks and frequent CNS complications in Japan.
 tags:
   - cns-complications
   - cross-neutralization
@@ -15,14 +12,14 @@ tags:
   - outbreak
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary EV71 HFMD outbreak and neurologic-complication paper
-doi: 10.1136/adc.55.8.583
 pmid: 6254449
 pmcid: PMC1627055
+doi: 10.1136/adc.55.8.583
 ---
 
 # Outbreaks of Hand, Foot, and Mouth Disease by Enterovirus 71
@@ -58,4 +55,3 @@ The risk is equating EV71 detection in outbreaks with proof that all neurologic 
 
 ## Vault conclusion
 Ishimaru et al. 1980 supports an EV71 HFMD outbreak rung with CNS-complication endpoints. It should be used to distinguish EV71-associated HFMD from Coxsackie A16-associated HFMD, while keeping neurologic causation and mechanism separate.
-

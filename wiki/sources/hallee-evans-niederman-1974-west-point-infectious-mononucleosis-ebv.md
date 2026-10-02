@@ -1,10 +1,7 @@
 ---
 title: Infectious Mononucleosis at the United States Military Academy
 category: source
-summary: >-
-  1974 Yale Journal of Biology and Medicine prospective West Point cohort
-  linking EBV seroconversion, EBV-specific IgM, and clinical infectious
-  mononucleosis.
+summary: 1974 Yale Journal of Biology and Medicine prospective West Point cohort linking EBV seroconversion, EBV-specific IgM, and clinical infectious mononucleosis.
 tags:
   - cadet-cohort
   - ebv
@@ -17,13 +14,11 @@ tags:
   - serology-endpoints
   - yale-journal-biology-medicine
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
-evidence_role: >-
-  primary prospective EBV seroconversion and infectious-mononucleosis cohort
-  paper
+evidence_role: primary prospective EBV seroconversion and infectious-mononucleosis cohort paper
 pmid: 4374836
 pmcid: PMC2595096
 ---

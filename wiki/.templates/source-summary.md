@@ -8,44 +8,55 @@ source_date: <YYYY-MM>
 authors: [<author1>, <author2>]
 ingested: <YYYY-MM-DD>
 updated: <YYYY-MM-DD>
+claim_status: exploratory | disputed | supported | contradicted | unresolved
+claim_type: historical | methodological | empirical | medical | rhetorical
+source_tier: tier-1 | tier-2 | tier-3
+evidence_role: <one-line role of this source in the vault>
+pmid: <PMID when available>
+pmcid: <PMCID when available>
+doi: <DOI when available>
 ---
 
 # <Source Title>
 
-## TL;DR
-Two sentences max. State whether this is a direct study, historical experimental document, review, commentary, or research lead.
+## Source type
+- Role in this vault: <which rung or question this source serves, with [[synthesis/...]] link>
+- Journal/year: <journal>, <year>
+- Authors: <authors>
+- Source basis in hand: <full text / PubMed abstract / bibliographic record only>
 
-## What the source claims
-- Attributed claim with page/section pointer if applicable
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
-## Direct evidence present
-Use this section only for direct experiments, studies, systematic reviews of underlying studies, or historical experimental documents.
+## Evidence fields
+| Field | Extraction |
+|---|---|
+| Study type | |
+| Subject / sample | |
+| Intervention or exposure | |
+| Comparator / control | |
+| Endpoint | |
+| Result | |
+| Main limitation | |
 
-- Study type:
-- Sample or subject type:
-- Intervention or exposure:
-- Comparator or control:
-- Endpoint:
-- Result:
-- Main limitation:
+If these fields cannot be filled from the source in hand, write "Not verifiable without the text" and mark the page a pointer page with `claim_status: unresolved`.
 
-If these fields cannot be filled from the source, say: "No experiment-grade support is present in this source."
+## What the experiment can answer
+- The narrow claims the experiment or document directly supports.
 
-## What the source can answer
-Describe the narrow question the source can answer. Do not treat expert opinion, institutional guidance, or consensus language as scientific evidence.
+For abstract-level records use "## What the abstract can answer"; for pointer pages use "## What the record can answer".
 
-## What this wiki can conclude
-State only conclusions supported by direct evidence named above. Otherwise mark the claim exploratory, disputed, or unresolved.
+## What it cannot answer
+- The claims the design cannot support.
 
-## Surprises / contradictions
-- Where this source conflicts with [[sources/other]] or [[concepts/xxx]]
+For abstract-level records use "## What full text would still need to establish".
+
+## Later inferential-leap risk
+The specific broader conclusion this source's result is most at risk of being stretched toward.
+
+## Vault conclusion
+Only what the named evidence supports, at the rung it reaches. Otherwise state "We do not know" and keep `claim_status` unresolved or exploratory.
 
 ## Connections
-- Extends [[concepts/xxx]]
-- Builds on [[entities/yyy]]'s prior work
-- Related: [[sources/zzz]]
-
-## Where it's cited in this wiki
-- [[concepts/xxx]]
-- [[entities/yyy]]
-- [[synthesis/zzz]]
+- Fills <gap> in [[synthesis/xxx]]
+- Companions: [[sources/aaa]], [[sources/bbb]]

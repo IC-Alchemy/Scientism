@@ -1,10 +1,7 @@
 ---
 title: Norwalk Virus Shedding after Experimental Human Infection
 category: source
-summary: >-
-  2008 Emerging Infectious Diseases human challenge paper reporting infection,
-  viral gastroenteritis, shedding, and antibody response after oral Norwalk
-  virus exposure.
+summary: 2008 Emerging Infectious Diseases human challenge paper reporting infection, viral gastroenteritis, shedding, and antibody response after oral Norwalk virus exposure.
 tags:
   - antibody-response
   - dose-response
@@ -17,14 +14,14 @@ tags:
   - shedding
   - viral-gastroenteritis
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary norovirus human challenge and shedding paper
-doi: 10.3201/eid1410.080117
 pmid: 18826818
 pmcid: PMC2609865
+doi: 10.3201/eid1410.080117
 ---
 
 # Norwalk Virus Shedding after Experimental Human Infection
@@ -59,4 +56,3 @@ The risk is equating PCR positivity with transmissible virus or generalizing the
 
 ## Vault conclusion
 Atmar et al. 2008 supports a high-value norovirus human challenge and shedding rung, with a clear PCR-versus-infectiousness boundary.
-

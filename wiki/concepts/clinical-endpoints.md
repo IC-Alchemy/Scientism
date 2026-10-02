@@ -1,9 +1,7 @@
 ---
 title: Clinical Endpoints
 category: concept
-summary: >-
-  Outcomes such as mortality, hospitalization, symptom burden, or quality of
-  life that speak more directly to patient health than narrower proxy measures.
+summary: Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures.
 tags:
   - clinical-benefit
   - clinical-endpoints
@@ -15,7 +13,7 @@ tags:
   - quality-of-life
   - symptom-burden
 sources: 4
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: medical
 ---

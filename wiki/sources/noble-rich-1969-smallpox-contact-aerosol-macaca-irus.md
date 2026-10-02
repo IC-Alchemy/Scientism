@@ -1,10 +1,7 @@
 ---
 title: Transmission of Smallpox by Contact and by Aerosol Routes in Macaca irus
 category: source
-summary: >-
-  1969 Bulletin of the World Health Organization paper testing variola
-  transmission by contact and aerosol between experimentally infected Macaca
-  irus monkeys.
+summary: 1969 Bulletin of the World Health Organization paper testing variola transmission by contact and aerosol between experimentally infected Macaca irus monkeys.
 tags:
   - aerosol
   - aerosol-contact-comparison
@@ -17,7 +14,7 @@ tags:
   - variola
   - variola-transmission
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

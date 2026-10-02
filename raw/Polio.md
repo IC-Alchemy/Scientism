@@ -8,14 +8,7 @@ altitude: 0
 tags:
   - polio
   - polio-vaccination
-  - propaganda
-  - public-messaging
-  - vaccine
-  - vaccine-advertisements
   - vaccine-history
-  - vaccine-propaganda
-  - vaccines
-  - vintage-advertising
   - virus
 modified: 2025-03-02T02:22:11.000Z
 ---
@@ -27,13 +20,13 @@ tags: #polio #propaganda #vaccine #virus
 ## Polio Vaccination
 
 [[Scobey part 1-Poisoning as the Cause of Poliomyelitis.pdf]]
+### Why critics dispute that interpretation
 
-#### Old Advertisements
+There are several technical criticisms that have been raised over the years:
 
----
+- A cytopathic effect does not uniquely identify a virus. Cells can die for many reasons, including toxic components, culture conditions, contamination, or other stressors.
+- Tissue culture is an artificial system. If the culture conditions themselves can damage cells, then observing cell death is not, by itself, proof of viral replication.
+- The preparation is not chemically pure. Patient tissue contains proteins, nucleic acids, extracellular vesicles, metabolites, and many other components.
+- The experiment demonstrates an infectious phenomenon in culture, but critics argue it does not, by itself, establish that a purified viral particle is the causal agent in human paralytic disease.
 
-![030707bae4b27a12fc994871a8146ddf.png](030707bae4b27a12fc994871a8146ddf.png)
-
-![cb16a4d5b54727b240a90a75584eb9ff.png](cb16a4d5b54727b240a90a75584eb9ff.png)
-
-![b773f905feb79dfba5ca53540a39e952.png](b773f905feb79dfba5ca53540a39e952.png)
+Those are legitimate points to examine when evaluating the evidential strength of the experiment.

@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16508942
       }
+    },
+    {
+      "query": "tag:#polio",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": true,

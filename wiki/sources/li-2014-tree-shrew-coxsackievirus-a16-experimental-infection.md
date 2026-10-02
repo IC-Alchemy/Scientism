@@ -1,9 +1,7 @@
 ---
 title: Experimental Infection of Tree Shrews with Coxsackievirus A16
 category: source
-summary: >-
-  2014 animal-model paper testing Coxsackievirus A16 infection in tree shrews by
-  nasal-spray inoculation with mock controls.
+summary: 2014 animal-model paper testing Coxsackievirus A16 infection in tree shrews by nasal-spray inoculation with mock controls.
 tags:
   - animal-challenge
   - coxsackievirus-a16
@@ -15,14 +13,14 @@ tags:
   - tree-shrew
   - viral-tissue-distribution
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary Coxsackie A16 tree-shrew animal-model paper
-doi: 10.13918/j.issn.2095-8137.2014.6.485
 pmid: 25465084
 pmcid: PMC4790277
+doi: 10.13918/j.issn.2095-8137.2014.6.485
 ---
 
 # Experimental Infection of Tree Shrews with Coxsackievirus A16
@@ -58,4 +56,3 @@ The risk is treating tree-shrew systemic spread as direct proof of the same path
 
 ## Vault conclusion
 Li et al. 2014 supports a Coxsackie A16 animal-model rung with mock controls and tissue-distribution endpoints. It does not settle ordinary human HFMD causation or lesion pathogenesis.
-

@@ -1,9 +1,7 @@
 ---
 title: Empirical Evidence
 category: source
-summary: >-
-  Short tertiary note that defines empirical evidence in broad terms but does
-  not itself provide source-grade methodological analysis.
+summary: Short tertiary note that defines empirical evidence in broad terms but does not itself provide source-grade methodological analysis.
 tags:
   - data-quality
   - empirical-evidence
@@ -13,7 +11,7 @@ tags:
   - terminology
   - tertiary-source
 sources: 1
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3
@@ -22,7 +20,8 @@ source_path: raw/Empirical Evidence.md
 
 # Empirical Evidence
 
-> Warning: This raw note is a compiled overview drawing on popular reference material. It is useful for terminology, not for contested conclusions.
+> [!warning] Warning
+> This raw note is a compiled overview drawing on popular reference material. It is useful for terminology, not for contested conclusions.
 
 ## Source type
 Glossary-style explanatory note. The raw page cites tertiary or popular references rather than primary methodological literature.
@@ -33,7 +32,7 @@ Glossary-style explanatory note. The raw page cites tertiary or popular referenc
 - Quantitative and qualitative evidence are distinguished as different evidence forms.
 - Interpretation errors and data-collection problems can weaken otherwise empirical work.
 
-## What question the source is capable of answering
+## What the source can answer
 This source can help define the term "empirical evidence" at a high level.
 
 It cannot resolve contested methodological debates in biology, medicine, or philosophy of science.
@@ -48,7 +47,7 @@ It cannot resolve contested methodological debates in biology, medicine, or phil
 - No specific experiment is analyzed.
 - The note is strongest when used to distinguish observation from interpretation, which also matters for [[concepts/inferential-leap]].
 
-## Related pages
+## Related
 - [[concepts/empirical-evidence]]
 - [[concepts/inferential-leap]]
 - [[concepts/replication-crisis]]

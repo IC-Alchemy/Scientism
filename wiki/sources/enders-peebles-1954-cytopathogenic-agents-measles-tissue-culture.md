@@ -1,11 +1,7 @@
 ---
-title: >-
-  Propagation in Tissue Cultures of Cytopathogenic Agents from Patients with
-  Measles
+title: Propagation in Tissue Cultures of Cytopathogenic Agents from Patients with Measles
 category: source
-summary: >-
-  1954 Enders and Peebles paper isolating cytopathogenic agents from measles
-  patient blood or throat washings in human and simian renal cell cultures.
+summary: 1954 Enders and Peebles paper isolating cytopathogenic agents from measles patient blood or throat washings in human and simian renal cell cultures.
 tags:
   - complement-fixation
   - cytopathic-effect
@@ -19,7 +15,7 @@ tags:
   - tissue-culture
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

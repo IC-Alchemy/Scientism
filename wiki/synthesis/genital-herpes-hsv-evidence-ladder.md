@@ -1,10 +1,7 @@
 ---
 title: Genital Herpes to HSV Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source genital herpes research pass separating lesion culture,
-  asymptomatic reactivation, HSV-2 daily shedding, genital HSV-1 shedding,
-  documented transmission, and PCR-infectiousness limits.
+summary: Source-by-source genital herpes research pass separating lesion culture, asymptomatic reactivation, HSV-2 daily shedding, genital HSV-1 shedding, documented transmission, and PCR-infectiousness limits.
 tags:
   - asymptomatic-reactivation
   - evidence-ladder
@@ -18,14 +15,15 @@ tags:
   - transmission
   - viral-load
 sources: 5
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Genital Herpes to HSV Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, pregnancy, or sexual-health recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, pregnancy, or sexual-health recommendations.
 
 ## Current answer
 The genital herpes -> HSV-2 / HSV-1 row can move from open status to a started evidence ladder:
@@ -59,4 +57,3 @@ Genital herpes should be presented as a lesion, shedding, recurrence, and transm
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

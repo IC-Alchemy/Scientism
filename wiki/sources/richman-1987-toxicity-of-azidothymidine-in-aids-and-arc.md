@@ -1,7 +1,5 @@
 ---
-title: >-
-  The toxicity of azidothymidine (AZT) in the treatment of patients with AIDS
-  and AIDS-related complex: a double-blind, placebo-controlled trial
+title: 'The toxicity of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex: a double-blind, placebo-controlled trial'
 category: source
 summary: Companion AZT toxicity analysis relevant to Gutknecht letter Q9.
 tags:
@@ -13,7 +11,7 @@ tags:
   - hiv
   - toxicity
   - transfusion-requirement
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-1
@@ -31,7 +29,8 @@ doi: 10.1056/NEJM198707233170402
 - Publication types: Clinical Trial; Controlled Clinical Trial; Journal Article; Research Support, Non-U.S. Gov't
 - Authors in API output: D D Richman; M A Fischl; M H Grieco; M S Gottlieb; P A Volberding; O L Laskin; J M Leedom; J E Groopman
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -44,7 +43,7 @@ doi: 10.1056/NEJM198707233170402
 | Result | Bone-marrow toxicity and transfusion needs were higher in zidovudine recipients. |
 | Main limitation | Same early high-dose and advanced-disease setting as the efficacy trial. |
 
-## What this source can answer
+## What the source can answer
 Establishes that early AZT use carried measurable toxicity.
 
 ## What it cannot answer
@@ -53,7 +52,7 @@ Does not show whether later doses or combinations had the same risk profile.
 ## Abstract status
 Abstract is enough for toxicity direction; full text needed for full adverse-event table.
 
-## API abstract
+## Indexed abstract
 We conducted a double-blind, placebo-controlled trial of oral azidothymidine (AZT) in 282 patients with the acquired immunodeficiency syndrome (AIDS) or AIDS-related complex. Although significant clinical benefit was documented (N Engl J Med 1987; 317:185-91), serious adverse reactions, particularly bone marrow suppression, were observed. Nausea, myalgia, insomnia, and severe headaches were reported more frequently by recipients of AZT; macrocytosis developed within weeks in most of the AZT group. Anemia with hemoglobin levels below 7.5 g per deciliter developed in 24 percent of AZT recipients and 4 percent of placebo recipients (P less than 0.001). Twenty-one percent of AZT recipients and 4 percent of placebo recipients required multiple red-cell transfusions (P less than 0.001). Neutropenia (less than 500 cells per cubic millimeter) occurred in 16 percent of AZT recipients, as compared with 2 percent of placebo recipients (P less than 0.001). Subjects who entered the study with low CD4 lymphocyte counts, low serum vitamin B12 levels, anemia, or low neutrophil counts were more likely to have hematologic toxic effects. Concurrent use of acetaminophen was also associated with a higher frequency of hematologic toxicity. Although a subset of patients tolerated AZT for an extended period with few toxic effects, the drug should be administered with caution because of its toxicity and the limited experience with it to date.
 
 ## Related

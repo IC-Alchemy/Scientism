@@ -1,11 +1,7 @@
 ---
-title: >-
-  Serial Propagation in Vitro of Agents Producing Inclusion Bodies Derived from
-  Varicella and Herpes Zoster
+title: Serial Propagation in Vitro of Agents Producing Inclusion Bodies Derived from Varicella and Herpes Zoster
 category: source
-summary: >-
-  1953 paper reporting serial propagation of cytopathogenic agents from
-  varicella and herpes zoster vesicle fluids in human tissue cultures.
+summary: 1953 paper reporting serial propagation of cytopathogenic agents from varicella and herpes zoster vesicle fluids in human tissue cultures.
 tags:
   - endpoints
   - herpes-zoster
@@ -19,13 +15,13 @@ tags:
   - virus-propagation
   - vzv
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary lesion-fluid culture and serial propagation paper
-doi: 10.3181/00379727-83-20354
 pmid: 13064265
+doi: 10.3181/00379727-83-20354
 ---
 
 # Serial Propagation in Vitro of Agents Producing Inclusion Bodies Derived from Varicella and Herpes Zoster
@@ -69,4 +65,3 @@ This source supports a narrow claim: in Weller's 1953 experiments, vesicle fluid
 - [[sources/cheatham-dolan-dower-weller-1956-fatal-varicella-necropsy-virus-isolation]]
 - [[sources/weller-witton-bell-1958-varicella-zoster-isolation-propagation-culture]]
 - [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit]]
-

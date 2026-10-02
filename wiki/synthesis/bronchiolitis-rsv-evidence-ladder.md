@@ -1,10 +1,7 @@
 ---
 title: Bronchiolitis to Respiratory Syncytial Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source RSV research pass separating early CCA-related virus
-  isolation, serology/epidemiology, diagnostic bronchiolitis association,
-  cotton-rat pathology, adult route inoculation, and infant-causation limits.
+summary: Source-by-source RSV research pass separating early CCA-related virus isolation, serology/epidemiology, diagnostic bronchiolitis association, cotton-rat pathology, adult route inoculation, and infant-causation limits.
 tags:
   - animal-challenge
   - bronchiolitis
@@ -17,14 +14,15 @@ tags:
   - route-of-infection
   - rsv
 sources: 5
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Bronchiolitis to Respiratory Syncytial Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or infection-control recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or infection-control recommendations.
 
 ## Current answer
 The bronchiolitis -> RSV row can move from open status to a started evidence ladder:
@@ -58,4 +56,3 @@ RSV should be presented as a multi-rung chain: early CCA-related isolation, sero
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

@@ -1,10 +1,7 @@
 ---
 title: Hepatitis B to Hepatitis B Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source HBV research pass separating syndrome classification,
-  Australia-antigen particle detection, chimpanzee transmission, molecular-clone
-  infectivity, and natural human transmission.
+summary: Source-by-source HBV research pass separating syndrome classification, Australia-antigen particle detection, chimpanzee transmission, molecular-clone infectivity, and natural human transmission.
 tags:
   - australia-antigen
   - causation
@@ -18,14 +15,15 @@ tags:
   - molecular-clone
   - molecular-clone-infectivity
 sources: 3
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Hepatitis B to Hepatitis B Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make exposure, testing, vaccination, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make exposure, testing, vaccination, or treatment recommendations.
 
 ## Current answer
 The hepatitis B row can now move from candidate status to a started evidence ladder. Two full-text primary sources were obtained in this pass, but they sit at different rungs.
@@ -40,9 +38,9 @@ The earlier rungs remain acquisition-sensitive. The vault should not silently fi
 | Source | Status in this pass | Use in manuscript |
 |---|---|---|
 | Krugman, Giles, and Hammond, *Infectious hepatitis. Evidence for two distinctive clinical, epidemiological, and immunological types of infection* (1967) | Full-page JAMA scan obtained through a UK Infected Blood Inquiry evidence document and source page created. | Use for the pre-HAV/HBV syndrome-split, serum-inoculation, oral exposure, contact-spread, SGOT/thymol, and rechallenge-immunity endpoints. |
-| Dane, Cameron, and Briggs, *Virus-like particles in serum of patients with Australia-antigen-associated hepatitis* (1970) | Record/abstract located; full text not obtained in this pass. | Use only as an acquisition lead for Australia-antigen particle detection. |
-| Maynard et al., *Experimental infection of chimpanzees with the virus of hepatitis B* (1972) | Nature record/abstract located; full text not obtained in this pass. | Use only as an acquisition lead for early HBAg-positive plasma chimpanzee challenge. |
-| Barker et al., *Transmission of Type B Viral Hepatitis to Chimpanzees* (1973) | Candidate record in worklist; full text not obtained in this pass. | Use only as an acquisition lead for chimpanzee transmission/passaging. |
+| Dane, Cameron, and Briggs, *Virus-like particles in serum of patients with Australia-antigen-associated hepatitis* (1970) | No indexed abstract exists; pointer-level source page created: [[sources/dane-1970-australia-antigen-virus-like-particles]]. Full text still not obtained. | Pointer only — the rung remains unextracted and must stay at "we do not know from full text in hand." |
+| Maynard et al., *Experimental infection of chimpanzees with the virus of hepatitis B* (1972) | No indexed abstract exists; pointer-level source page created: [[sources/maynard-1972-experimental-chimpanzee-hepatitis-b]]. Full text still not obtained. | Pointer only. Related abstract-level context sits in [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]], which reports HBsAg-sera chimpanzee infection with subspecificity cross-challenge — still not a substitute for this paper's text. |
+| Barker et al., *Transmission of Type B Viral Hepatitis to Chimpanzees* (1973) | No indexed abstract exists; pointer-level source page created: [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees]]. Full text still not obtained. | Pointer only — transmission/passaging endpoints remain unextracted. |
 | Acs et al., *Hepatitis B virus produced by transfected Hep G2 cells causes hepatitis in chimpanzees* (1987) | Full-text PMC/Europe PMC PDF obtained and source page created. | Use for molecular-clone/cell-produced virion infectivity in the chimpanzee model, with serology, enzyme, histology, and recovered-DNA endpoints. |
 
 ## Evidence ladder
@@ -61,7 +59,7 @@ Hepatitis B should be presented as an unusually high-rung but still endpoint-bou
 - Acs et al. 1987 supports molecular-clone/cell-produced virion infectivity in chimpanzees after intravenous inoculation.
 - The experiment includes infection markers, liver-enzyme response, liver histology, and recovered viral DNA matching the input pattern.
 - Krugman, Giles, and Hammond 1967 supports a pre-HAV/HBV clinical, biochemical, epidemiologic, and immunologic split between MS-1/IH-like and MS-2/SH-like hepatitis patterns.
-- The Australia-antigen particle detection and early human-plasma/chimpanzee transmission rungs remain acquisition gaps until their full texts are extracted.
+- The Australia-antigen particle detection and early human-plasma/chimpanzee transmission rungs remain acquisition gaps; their papers now have pointer-level pages ([[sources/dane-1970-australia-antigen-virus-like-particles]], [[sources/maynard-1972-experimental-chimpanzee-hepatitis-b]], [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees]]) so the queue is findable, but no rung content was filled from abstracts or summaries.
 - The ordinary human route and transmission ecology should not be inferred solely from a two-chimpanzee intravenous challenge.
 
 The manuscript may therefore upgrade HBV from a candidate row into a started syndrome-split plus molecular-clone challenge example. It should not claim that the full HBV attribution ladder has been reconstructed here.
@@ -69,6 +67,10 @@ The manuscript may therefore upgrade HBV from a candidate row into a started syn
 ## Related
 - [[sources/krugman-giles-hammond-1967-two-types-infectious-hepatitis]]
 - [[sources/acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]]
+- [[sources/dane-1970-australia-antigen-virus-like-particles]]
+- [[sources/maynard-1972-experimental-chimpanzee-hepatitis-b]]
+- [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees]]
+- [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]

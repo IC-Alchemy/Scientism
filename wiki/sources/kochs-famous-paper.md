@@ -1,10 +1,7 @@
 ---
 title: Koch's Famous Paper
 category: source
-summary: >-
-  A primary-source style historical text centered on Koch's methods for
-  identifying pathogenic organisms, with emphasis on staining, pure culture,
-  host specificity, and transmission testing.
+summary: A primary-source style historical text centered on Koch's methods for identifying pathogenic organisms, with emphasis on staining, pure culture, host specificity, and transmission testing.
 tags:
   - germ-theory
   - kochs-postulates
@@ -12,16 +9,16 @@ tags:
   - microbiology
   - robert-koch
   - source
-source_path: raw/Koch's Famous Paper.md
-source_date: 1881
-authors:
-  - Robert Koch
 sources: 1
-ingested: 2026-05-04T00:00:00.000Z
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-1
+source_path: raw/Koch's Famous Paper.md
+source_date: 1881
+authors:
+  - robert koch
+ingested: 2026-05-04
 ---
 
 # Koch's Famous Paper
@@ -29,7 +26,7 @@ source_tier: tier-1
 ## TL;DR
 This raw file is largely a historical text attributed to Robert Koch on methods for investigating pathogenic organisms. It focuses less on rhetoric about germ theory in general and more on technical standards: isolating organisms, distinguishing them from artifacts, choosing appropriate animal models, and testing transmissibility.
 
-## Source type and scope
+## Source type
 - Historical primary-source style text, likely translated or excerpted in the raw file.
 - Methodological rather than biographical in emphasis.
 - The raw file should still be treated cautiously where translation quality or editorial framing is unclear.

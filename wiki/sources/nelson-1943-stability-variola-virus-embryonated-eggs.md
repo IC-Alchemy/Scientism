@@ -1,9 +1,7 @@
 ---
 title: The Stability of Variola Virus Propagated in Embryonated Eggs
 category: source
-summary: >-
-  1943 Journal of Experimental Medicine paper testing whether variola strains
-  remained stable during egg and rabbit-testis passage.
+summary: 1943 Journal of Experimental Medicine paper testing whether variola strains remained stable during egg and rabbit-testis passage.
 tags:
   - egg-passage
   - embryonated-eggs
@@ -16,7 +14,7 @@ tags:
   - variola
   - virus-stability
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,7 @@
 ---
 title: Chickenpox to Varicella-Zoster Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source chickenpox/VZV research pass separating lesion-fluid culture,
-  fatal-case recovery, varicella-zoster culture similarity, zoster latency, and
-  ordinary transmission.
+summary: Source-by-source chickenpox/VZV research pass separating lesion-fluid culture, fatal-case recovery, varicella-zoster culture similarity, zoster latency, and ordinary transmission.
 tags:
   - causation
   - chickenpox
@@ -17,14 +14,15 @@ tags:
   - virus-isolation
   - vzv
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Chickenpox to Varicella-Zoster Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make exposure, diagnostic, vaccination, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make exposure, diagnostic, vaccination, or treatment recommendations.
 
 ## Current answer
 The chickenpox row can now move from candidate status to a started evidence ladder. The full-text primary set in this pass supports three main endpoint groups:
@@ -75,4 +73,3 @@ The manuscript may therefore upgrade chickenpox/VZV from a candidate row into a 
 - [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

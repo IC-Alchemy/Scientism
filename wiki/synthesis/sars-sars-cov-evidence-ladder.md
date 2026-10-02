@@ -1,10 +1,7 @@
 ---
 title: SARS to SARS-CoV Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source SARS research pass separating patient association, virus
-  isolation, RT-PCR, serology, macaque challenge, pathology, re-isolation, and
-  natural-route limits.
+summary: Source-by-source SARS research pass separating patient association, virus isolation, RT-PCR, serology, macaque challenge, pathology, re-isolation, and natural-route limits.
 tags:
   - animal-challenge
   - coronavirus
@@ -17,14 +14,15 @@ tags:
   - serology
   - virus-isolation
 sources: 3
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # SARS to SARS-CoV Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, infection-control, exposure-management, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, infection-control, exposure-management, or treatment recommendations.
 
 ## Current answer
 The SARS -> SARS-CoV row can move from open status to a started evidence ladder. The full-text set in this pass supports a chain from patient association and virus isolation to experimental macaque pathogenicity:
@@ -41,9 +39,9 @@ The strongest causal rung in hand is the Kuiken macaque experiment. It remains m
 | Peiris et al., *Coronavirus as a Possible Cause of Severe Acute Respiratory Syndrome* (2003) | Full-text PMC article obtained and source page created. | Use for the Hong Kong patient-series rung: isolation from two patients, EM morphology, 646 bp sequence, RT-PCR, serology, and negative controls. |
 | Drosten et al., *Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome* (2003) | Full-text NEJM PDF obtained and source page created. | Use for independent virus identification, random amplification, PCR assay construction, viral RNA distribution, and serology boundaries. |
 | Kuiken et al., *Newly Discovered Coronavirus as the Primary Cause of Severe Acute Respiratory Syndrome* (2003) | Full-text PMC article obtained and source page created. | Use for multicentre patient testing plus macaque challenge, pathology, viral localization, RT-PCR, and re-isolation endpoints. |
-| Ksiazek et al., *A Novel Coronavirus Associated with Severe Acute Respiratory Syndrome* (2003) | Ovid page available only as abstract without entitlement in this pass; NEJM PDF access blocked. | Acquisition lead only; do not use for strengthened manuscript claims until full text is obtained. |
-| Rota et al., *Characterization of a Novel Coronavirus Associated with Severe Acute Respiratory Syndrome* (2003) | Science/CiteseerX access not obtained in this pass. | Acquisition lead only for genome characterization. |
-| Fouchier et al., *Koch's Postulates Fulfilled for SARS Virus* (2003) | Nature PDF access not obtained in this pass. | Acquisition lead only; Kuiken et al. supplies the full-text macaque challenge reconstruction here. |
+| Ksiazek et al., *A Novel Coronavirus Associated with Severe Acute Respiratory Syndrome* (2003) | NEJM full text still blocked; abstract-level source page created: [[sources/ksiazek-2003-novel-coronavirus-urbani-strain]]. | Abstract-level only: Vero E6 isolation, EM, group I reactivity, unique polymerase sequence, identical RT-PCR sequences in 12 patients, and serologic assay availability. Full text still needed. |
+| Rota et al., *Characterization of a Novel Coronavirus Associated with Severe Acute Respiratory Syndrome* (2003) | Science full text not obtained; abstract-level source page created: [[sources/rota-2003-sars-cov-genome-characterization]]. | Abstract-level only: complete 29,727-nt genome, 11 ORFs, coronavirus-type organization, phylogenetically distinct. Full text still needed. |
+| Fouchier et al., *Koch's Postulates Fulfilled for SARS Virus* (2003) | Nature full text not extracted; abstract-level source page created: [[sources/fouchier-2003-kochs-postulates-sars-macaques]]. | Abstract-level correspondence asserting macaque disease reproduction; endpoint detail must continue to come from the full-text Kuiken reconstruction, not this record. |
 
 ## Evidence ladder
 | Rung | Current evidence in hand | What it can answer | What it cannot answer |
@@ -61,7 +59,7 @@ SARS should be presented as a multi-rung evidence ladder:
 - Peiris et al. 2003 answers patient association, virus isolation, EM morphology, RT-PCR, serology, and control-negativity questions in a Hong Kong case series.
 - Drosten et al. 2003 answers independent virus identification, sequence, PCR assay, viral-load, and selected serology questions.
 - Kuiken et al. 2003 answers multicentre association and model-specific macaque challenge/pathology/re-isolation questions.
-- Ksiazek et al. 2003, Rota et al. 2003, and Fouchier et al. 2003 remain acquisition leads in this pass unless full text is obtained later.
+- Ksiazek et al. 2003, Rota et al. 2003, and Fouchier et al. 2003 now have abstract-level source pages ([[sources/ksiazek-2003-novel-coronavirus-urbani-strain]], [[sources/rota-2003-sars-cov-genome-characterization]], [[sources/fouchier-2003-kochs-postulates-sars-macaques]]) but remain full-text acquisition leads at manuscript strength.
 
 The manuscript may say that the current full-text set supports a strong SARS-CoV attribution chain, including an animal challenge rung. It should also say that the animal challenge used artificial combined-route exposure in four macaques and lacked a sham-inoculated macaque comparator, so ordinary human natural-route causation and route-specific transmission should not be silently imported from that experiment.
 
@@ -69,8 +67,10 @@ The manuscript may say that the current full-text set supports a strong SARS-CoV
 - [[sources/peiris-2003-coronavirus-possible-cause-sars]]
 - [[sources/drosten-2003-novel-coronavirus-sars-patients]]
 - [[sources/kuiken-2003-newly-discovered-coronavirus-primary-cause-sars]]
+- [[sources/ksiazek-2003-novel-coronavirus-urbani-strain]]
+- [[sources/rota-2003-sars-cov-genome-characterization]]
+- [[sources/fouchier-2003-kochs-postulates-sars-macaques]]
 - [[synthesis/sars-cov-2-covid-causation-audit]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

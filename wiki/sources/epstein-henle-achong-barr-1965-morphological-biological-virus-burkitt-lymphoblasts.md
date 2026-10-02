@@ -1,12 +1,7 @@
 ---
-title: >-
-  Morphological and Biological Studies on a Virus in Cultured Lymphoblasts from
-  Burkitt's Lymphoma
+title: Morphological and Biological Studies on a Virus in Cultured Lymphoblasts from Burkitt's Lymphoma
 category: source
-summary: >-
-  1965 Journal of Experimental Medicine paper describing virus-like particles in
-  EB1 and EB2 Burkitt-derived lymphoblast cultures and negative animal and
-  culture isolation attempts.
+summary: 1965 Journal of Experimental Medicine paper describing virus-like particles in EB1 and EB2 Burkitt-derived lymphoblast cultures and negative animal and culture isolation attempts.
 tags:
   - burkitt-lymphoma
   - cell-culture
@@ -19,14 +14,14 @@ tags:
   - negative-virus-recovery
   - virus-like-particles
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary morphology and biological-test paper
-doi: 10.1084/jem.121.5.761
 pmid: 14278230
 pmcid: PMC2138004
+doi: 10.1084/jem.121.5.761
 ---
 
 # Morphological and Biological Studies on a Virus in Cultured Lymphoblasts from Burkitt's Lymphoma

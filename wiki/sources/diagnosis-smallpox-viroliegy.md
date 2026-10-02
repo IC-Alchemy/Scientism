@@ -1,28 +1,27 @@
 ---
-tags:
-  - rash-illnesses
-  - orthopox-differentiation
-  - historical-diagnosis-ambiguity
-  - retrospective-diagnostic-uncertainty
-  - smallpox
-  - differential-diagnosis
-  - diagnosis
----
-
----
-title: Diagnosis: Smallpox? - ViroLIEgy
+title: 'Diagnosis: Smallpox? - ViroLIEgy'
 category: source
 summary: A Tier 3 commentary page arguing that historical smallpox diagnosis was clinically unstable and that differential diagnosis problems complicate retrospective certainty.
-tags: [source, smallpox, diagnosis, differential-diagnosis, viroliegy]
-source_path: raw/Diagnosis_ Smallpox_ – ViroLIEgy.md
-source_date: 2022-05-29
-authors: [ViroLIEgy]
+tags:
+  - diagnosis
+  - differential-diagnosis
+  - historical-diagnosis-ambiguity
+  - orthopox-differentiation
+  - rash-illnesses
+  - retrospective-diagnostic-uncertainty
+  - smallpox
+  - source
+  - viroliegy
 sources: 1
-ingested: 2026-05-04
 updated: 2026-05-04
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3
+source_path: raw/Diagnosis_ Smallpox_ – ViroLIEgy.md
+source_date: 2022-05-29
+authors:
+  - viroliegy
+ingested: 2026-05-04
 ---
 
 # Diagnosis: Smallpox? - ViroLIEgy
@@ -30,9 +29,10 @@ source_tier: tier-3
 ## TL;DR
 This raw source is a modern commentary arguing that historical smallpox diagnosis was often confounded with measles, chickenpox, monkeypox, syphilis, drug eruptions, and other rash illnesses. It is a research lead on diagnostic ambiguity, not direct support for a settled conclusion about historical diagnosis.
 
-> Warning: The source moves from genuine diagnostic ambiguity to a much broader claim that several named diseases are really one process. That broader conclusion is not established here.
+> [!warning] Warning
+> The source moves from genuine diagnostic ambiguity to a much broader claim that several named diseases are really one process. That broader conclusion is not established here.
 
-## Source type and scope
+## Source type
 - Commentary source with quotations from historical and clinical-differentiation literature.
 - The page emphasizes diagnostic uncertainty in rash illnesses.
 - It also advances an interpretive claim that distinct diseases may be re-labelings of one process.

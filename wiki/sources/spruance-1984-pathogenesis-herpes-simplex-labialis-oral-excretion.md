@@ -1,9 +1,7 @@
 ---
 title: Pathogenesis of Herpes Simplex Labialis
 category: source
-summary: >-
-  1984 J Clin Microbiol serial observational study recovering HSV from
-  oral-cavity specimens in subjects with recurrent herpes labialis.
+summary: 1984 J Clin Microbiol serial observational study recovering HSV from oral-cavity specimens in subjects with recurrent herpes labialis.
 tags:
   - amnion-cell-culture
   - cold-sores
@@ -13,14 +11,14 @@ tags:
   - serial-observational
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary HSV-1 oral excretion and recurrent labialis paper
-doi: 10.1128/jcm.19.5.675-679.1984
 pmid: 6330166
 pmcid: PMC271154
+doi: 10.1128/jcm.19.5.675-679.1984
 ---
 
 # Pathogenesis of Herpes Simplex Labialis
@@ -55,4 +53,3 @@ The risk is treating oral excretion as direct measured transmission or treating 
 
 ## Vault conclusion
 Spruance 1984 supports an HSV-1 oral excretion rung for recurrent labialis. It does not prove the full recurrence trigger or transmission chain.
-

@@ -1,9 +1,7 @@
 ---
 title: Inferential Leap
 category: concept
-summary: >-
-  An inferential leap is the move from a narrower observation or experiment to a
-  broader claim that the evidence may not strictly justify.
+summary: An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify.
 tags:
   - association-vs-causation
   - boundary-conditions
@@ -18,7 +16,7 @@ tags:
   - methodology
   - overgeneralization
 sources: 18
-updated: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -64,7 +62,7 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - Consent-relevant medical messaging should preserve the endpoint boundary. A claim that a vaccine reduced a target disease is not the same claim as saying the childhood vaccination program improves overall child health.
 - Viral disease causation claims should preserve the same endpoint boundary. A paper showing viral RNA, antibody response, animal-model disease, or culture growth does not answer the same question as a controlled human clinical causation study or an intervention study.
 
-## Related pages
+## Related
 - [[concepts/scientism]]
 - [[concepts/empirical-evidence]]
 - [[concepts/virus-isolation]]

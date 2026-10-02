@@ -1,10 +1,7 @@
 ---
 title: Recovery of Rubella Virus from Army Recruits
 category: source
-summary: >-
-  1962 paper reporting recovery of a rubella-associated interfering agent from
-  throat washings of army recruits with rubella, with scarlet-fever comparison
-  cases and neutralizing-antibody follow-up.
+summary: 1962 paper reporting recovery of a rubella-associated interfering agent from throat washings of army recruits with rubella, with scarlet-fever comparison cases and neutralizing-antibody follow-up.
 tags:
   - culture
   - endpoints
@@ -18,13 +15,13 @@ tags:
   - throat-washings
   - virus-isolation-claims
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary acute-rubella throat-washing isolation and serology paper
-doi: 10.3181/00379727-111-27750
 pmid: 13941530
+doi: 10.3181/00379727-111-27750
 ---
 
 # Recovery of Rubella Virus from Army Recruits
@@ -68,4 +65,3 @@ This source supports a narrow claim: in Parkman, Buescher, and Artenstein's 1962
 - [[sources/weller-neva-1962-propagation-cytopathic-agents-rubella-like-illness]]
 - [[sources/sigurdardottir-givan-rozee-rhodes-1963-rubella-toronto-monkey-transmission]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
-

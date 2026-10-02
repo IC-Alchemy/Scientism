@@ -1,10 +1,7 @@
 ---
 title: Electron Microscope Studies of Rabies Virus in Mouse Brain
 category: source
-summary: >-
-  1963 Journal of Cell Biology paper visualizing rod-like particles and matrix
-  structures in brains of suckling mice infected intracerebrally with street
-  rabies virus.
+summary: 1963 Journal of Cell Biology paper visualizing rod-like particles and matrix structures in brains of suckling mice infected intracerebrally with street rabies virus.
 tags:
   - electron-microscopy
   - endpoints
@@ -17,14 +14,14 @@ tags:
   - street-rabies
   - street-virus
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary electron-microscopy paper
-doi: 10.1083/jcb.19.3.565
 pmid: 14086137
 pmcid: PMC2106341
+doi: 10.1083/jcb.19.3.565
 ---
 
 # Electron Microscope Studies of Rabies Virus in Mouse Brain

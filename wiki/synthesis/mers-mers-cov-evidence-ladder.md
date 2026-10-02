@@ -1,10 +1,7 @@
 ---
 title: MERS to MERS-CoV Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source MERS research pass separating index-case isolation,
-  sequencing, serology, rhesus-macaque challenge, camel shedding ecology, and
-  natural-route limits.
+summary: Source-by-source MERS research pass separating index-case isolation, sequencing, serology, rhesus-macaque challenge, camel shedding ecology, and natural-route limits.
 tags:
   - animal-challenge
   - camel-shedding
@@ -18,14 +15,15 @@ tags:
   - shedding
   - virus-isolation
 sources: 3
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # MERS to MERS-CoV Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, exposure-management, infection-control, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, exposure-management, infection-control, or treatment recommendations.
 
 ## Current answer
 The MERS -> MERS-CoV row can move from open status to a started evidence ladder. The full-text set in this pass supports three different rungs:
@@ -71,4 +69,3 @@ The manuscript may say that the current full-text set supports MERS-CoV isolatio
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

@@ -1,9 +1,7 @@
 ---
 title: The Etiologic Agents of Varicella and Herpes Zoster
 category: source
-summary: >-
-  1958 JEM paper comparing isolation, propagation, and cultural characteristics
-  of varicella- and herpes-zoster-derived strains in vitro.
+summary: 1958 JEM paper comparing isolation, propagation, and cultural characteristics of varicella- and herpes-zoster-derived strains in vitro.
 tags:
   - culture-comparison
   - cytopathology
@@ -15,14 +13,14 @@ tags:
   - varicella-virus
   - vzv
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary varicella/zoster culture-comparison paper
-doi: 10.1084/jem.108.6.843
 pmid: 13598816
 pmcid: PMC2136922
+doi: 10.1084/jem.108.6.843
 ---
 
 # The Etiologic Agents of Varicella and Herpes Zoster
@@ -66,4 +64,3 @@ This source supports a narrow claim: in Weller, Witton, and Bell's 1958 culture 
 - [[sources/weller-1953-serial-propagation-varicella-herpes-zoster-agents]]
 - [[sources/cheatham-dolan-dower-weller-1956-fatal-varicella-necropsy-virus-isolation]]
 - [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit]]
-

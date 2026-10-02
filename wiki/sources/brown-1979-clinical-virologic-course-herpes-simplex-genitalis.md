@@ -1,9 +1,7 @@
 ---
 title: Clinical and Virologic Course of Herpes Simplex Genitalis
 category: source
-summary: >-
-  1979 West J Med clinical virology study measuring genital HSV lesion titers
-  and excretion by initial/recurrent status and sex/site.
+summary: 1979 West J Med clinical virology study measuring genital HSV lesion titers and excretion by initial/recurrent status and sex/site.
 tags:
   - clinical-course
   - genital-herpes
@@ -16,7 +14,7 @@ tags:
   - viral-excretion
   - virus-titer
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -55,4 +53,3 @@ The risk is treating lesion culture/titer as the whole transmission or recurrenc
 
 ## Vault conclusion
 Brown et al. 1979 supports a genital HSV lesion-culture and course rung, not complete transmission risk.
-

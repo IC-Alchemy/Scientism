@@ -1,10 +1,7 @@
 ---
 title: Cutts 2005 PCV9 Gambia RCT
 category: source
-summary: >-
-  Randomized double-blind placebo-controlled trial of nine-valent pneumococcal
-  conjugate vaccine in Gambian children, with all-cause admissions and mortality
-  endpoints.
+summary: Randomized double-blind placebo-controlled trial of nine-valent pneumococcal conjugate vaccine in Gambian children, with all-cause admissions and mortality endpoints.
 tags:
   - all-cause-mortality
   - double-blind
@@ -20,13 +17,13 @@ tags:
   - vaccine
   - vaccines
 sources: 1
-source_url: https://doi.org/10.1016/S0140-6736(05)71876-6
-pmid: 15794968
-doi: 10.1016/S0140-6736(05)71876-6
-updated: 2026-05-21T00:00:00.000Z
+updated: 2026-05-21
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
+pmid: 15794968
+doi: 10.1016/S0140-6736(05)71876-6
+source_url: https://doi.org/10.1016/S0140-6736(05)71876-6
 ---
 
 # Cutts 2005 PCV9 Gambia RCT
@@ -34,7 +31,8 @@ source_tier: tier-1
 ## TL;DR
 This is the clearest direct vaccine evidence currently filed in this vault for a specific vaccine improving broader health outcomes. In a randomized, double-blind, placebo-controlled trial in eastern Gambia, three doses of nine-valent pneumococcal conjugate vaccine reduced all-cause admissions and all-cause mortality compared with placebo in children followed to age 30 months.
 
-> Warning: This page is an evidence audit, not medical advice.
+> [!warning] Warning
+> This page is an evidence audit, not medical advice.
 
 ## Source identity
 - Full title: "Efficacy of nine-valent pneumococcal conjugate vaccine against pneumonia and invasive pneumococcal disease in The Gambia: randomised, double-blind, placebo-controlled trial."

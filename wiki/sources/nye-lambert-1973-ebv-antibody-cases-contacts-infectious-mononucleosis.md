@@ -1,9 +1,7 @@
 ---
 title: Epstein-Barr Virus Antibody in Cases and Contacts of Infectious Mononucleosis
 category: source
-summary: >-
-  1973 Journal of Hygiene family-contact study measuring EBV antibody in
-  Paul-Bunnell-positive infectious mononucleosis cases and household contacts.
+summary: 1973 Journal of Hygiene family-contact study measuring EBV antibody in Paul-Bunnell-positive infectious mononucleosis cases and household contacts.
 tags:
   - case-contact
   - contacts
@@ -16,7 +14,7 @@ tags:
   - paul-bunnell-test
   - serology
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

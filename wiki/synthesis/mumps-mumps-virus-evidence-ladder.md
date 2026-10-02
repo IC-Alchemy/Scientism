@@ -1,10 +1,7 @@
 ---
 title: Mumps to Mumps Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source mumps research pass separating monkey parotid inoculation,
-  chick-embryo isolation, serology, induced human exposure, saliva shedding, and
-  ordinary community transmission.
+summary: Source-by-source mumps research pass separating monkey parotid inoculation, chick-embryo isolation, serology, induced human exposure, saliva shedding, and ordinary community transmission.
 tags:
   - causation
   - evidence-ladder
@@ -17,14 +14,15 @@ tags:
   - nonhuman-primates
   - saliva-shedding
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Mumps to Mumps Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make exposure, diagnostic, vaccination, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make exposure, diagnostic, vaccination, or treatment recommendations.
 
 ## Current answer
 The mumps row can now move from candidate status to a started evidence ladder. The full-text primary set in this pass supports three distinct rungs:
@@ -71,4 +69,3 @@ The manuscript may therefore upgrade mumps from a candidate row into an evidence
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

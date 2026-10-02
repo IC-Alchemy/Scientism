@@ -1,10 +1,7 @@
 ---
 title: The Response of Mice to the Nasal Instillation of Variola Virus
 category: source
-summary: >-
-  1939 Journal of Experimental Medicine paper testing whether egg-passaged
-  variola virus produced disease, tissue survival, or pathology after nasal
-  instillation in mice.
+summary: 1939 Journal of Experimental Medicine paper testing whether egg-passaged variola virus produced disease, tissue survival, or pathology after nasal instillation in mice.
 tags:
   - egg-passaged-variola
   - host-range
@@ -17,7 +14,7 @@ tags:
   - smallpox
   - variola
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

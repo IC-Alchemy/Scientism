@@ -1,9 +1,7 @@
 ---
 title: An Inquiry into the Logical Basis of the Germ Theory
 category: source
-summary: >-
-  Tier 3 commentary arguing that germ theory rests on invalid causal reasoning
-  and institutional overreach.
+summary: Tier 3 commentary arguing that germ theory rests on invalid causal reasoning and institutional overreach.
 tags:
   - association-vs-causation
   - causality-ranking
@@ -19,7 +17,7 @@ tags:
   - methodological-critique
   - tier-3
 sources: 1
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: methodological
 source_tier: tier-3
@@ -33,7 +31,8 @@ source_tier: tier-3
 - **Apparent format:** commentary/essay with embedded quotations, links, and interpretation
 - **Role in this vault:** research lead and argument map, not a sufficient basis for factual conclusions on its own
 
-> Warning: This is a Tier 3 source. It can identify claims, cited figures, and research leads, but it does not by itself establish historical or medical conclusions.
+> [!warning] Warning
+> This is a Tier 3 source. It can identify claims, cited figures, and research leads, but it does not by itself establish historical or medical conclusions.
 
 ## What the source claims
 
@@ -66,7 +65,7 @@ What this source is not capable of establishing on its own:
 - that cited historical experiments definitively failed to show microbial causation
 - that modern microbiology, infectious disease, or public-health practice is refuted by the collected quotations
 
-## What question the source is capable of answering
+## What the source can answer
 
 This source is capable of answering a limited question:
 

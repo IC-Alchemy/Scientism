@@ -1,11 +1,7 @@
 ---
-title: >-
-  Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth
-  Disease
+title: Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth Disease
 category: source
-summary: >-
-  1974 Infection and Immunity serology paper reporting Coxsackie A16
-  fluorescent-antibody responses in HFMD cases and contacts.
+summary: 1974 Infection and Immunity serology paper reporting Coxsackie A16 fluorescent-antibody responses in HFMD cases and contacts.
 tags:
   - antibodies
   - contacts
@@ -15,14 +11,14 @@ tags:
   - hfmd-serology
   - serology
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary HFMD Coxsackie A16 serology and contact-response paper
-doi: 10.1128/iai.9.6.1098-1101.1974
 pmid: 4598255
 pmcid: PMC414938
+doi: 10.1128/iai.9.6.1098-1101.1974
 ---
 
 # Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth Disease
@@ -58,4 +54,3 @@ The risk is using antibody positivity alone as definitive proof of acute individ
 
 ## Vault conclusion
 Brown and O'Leary 1974 supports a Coxsackie A16 serology and contact-response rung for HFMD. It strengthens the attribution chain but should not be treated as standalone proof for every clinical case.
-

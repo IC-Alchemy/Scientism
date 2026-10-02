@@ -1,20 +1,18 @@
 ---
-tags:
-  - historical-infectiousness
-  - human-challenge
-  - negative-results
-  - case-definition
-  - influenza
-  - spanish-flu
-  - transmission
-  - methodology
----
-
----
-title: The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)
+title: 'The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)'
 category: source
 summary: Tier 3 commentary arguing that Rosenau's 1918 influenza transmission experiments undermine claims of influenza infectiousness.
-tags: [influenza, spanish-flu, rosenau, transmission, methodology, tier-3]
+tags:
+  - case-definition
+  - historical-infectiousness
+  - human-challenge
+  - influenza
+  - methodology
+  - negative-results
+  - rosenau
+  - spanish-flu
+  - tier-3
+  - transmission
 sources: 2
 updated: 2026-05-04
 claim_status: disputed
@@ -32,7 +30,8 @@ source_tier: tier-3
 - Published: 2021-10-03
 - URL: <https://cms.viroliegy.com/2021/10/03/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918/>
 
-> Warning: This page summarizes a Tier 3 commentary source. It can surface research leads and disputed interpretations, but it does not by itself justify factual conclusions for the wiki.
+> [!warning] Warning
+> This page summarizes a Tier 3 commentary source. It can surface research leads and disputed interpretations, but it does not by itself justify factual conclusions for the wiki.
 
 ## What the source claims
 

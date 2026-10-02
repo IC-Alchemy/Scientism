@@ -1,12 +1,7 @@
 ---
-title: >-
-  Physical, Chemical and Morphologic Dimensions of Human Hepatitis A Virus
-  Strain CR326
+title: Physical, Chemical and Morphologic Dimensions of Human Hepatitis A Virus Strain CR326
 category: source
-summary: >-
-  1975 Proceedings paper characterizing CR326 hepatitis A virus particles by
-  infectivity, neutralization, density, electron microscopy, tissue
-  localization, and stability tests.
+summary: 1975 Proceedings paper characterizing CR326 hepatitis A virus particles by infectivity, neutralization, density, electron microscopy, tissue localization, and stability tests.
 tags:
   - characterization
   - cscl-density-banding
@@ -19,7 +14,7 @@ tags:
   - viral-particles
   - virus-stability
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

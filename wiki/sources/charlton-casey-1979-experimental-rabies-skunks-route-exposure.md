@@ -1,10 +1,7 @@
 ---
 title: Experimental Rabies in Skunks Oral Nasal Tracheal and Intestinal Exposure
 category: source
-summary: >-
-  1979 Canadian Journal of Comparative Medicine route-comparison study exposing
-  striped skunks to CVS rabies virus by oral, nasal, tracheal, and intestinal
-  routes.
+summary: 1979 Canadian Journal of Comparative Medicine route-comparison study exposing striped skunks to CVS rabies virus by oral, nasal, tracheal, and intestinal routes.
 tags:
   - cvs-virus
   - endpoints
@@ -19,7 +16,7 @@ tags:
   - route-comparison
   - skunks
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

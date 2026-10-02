@@ -1,11 +1,7 @@
 ---
-title: >-
-  Direct Isolation in Cell Culture of Human Rotaviruses and Their
-  Characterization into Four Serotypes
+title: Direct Isolation in Cell Culture of Human Rotaviruses and Their Characterization into Four Serotypes
 category: source
-summary: >-
-  1983 J Clin Microbiol paper reporting partial direct cultivation of human
-  rotavirus-positive fecal specimens and serotype classification.
+summary: 1983 J Clin Microbiol paper reporting partial direct cultivation of human rotavirus-positive fecal specimens and serotype classification.
 tags:
   - cell-culture
   - cell-culture-isolation
@@ -17,14 +13,14 @@ tags:
   - serotyping
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary rotavirus culture and serotyping paper
-doi: 10.1128/jcm.18.2.310-317.1983
 pmid: 6311872
 pmcid: PMC270797
+doi: 10.1128/jcm.18.2.310-317.1983
 ---
 
 # Direct Isolation in Cell Culture of Human Rotaviruses and Their Characterization into Four Serotypes
@@ -59,4 +55,3 @@ The risk is treating culture success or serotype classification as disease causa
 
 ## Vault conclusion
 Wyatt et al. 1983 supports rotavirus culture/isolation and serotyping. It should be paired with tissue, clinical, and challenge evidence rather than treated as standalone proof.
-

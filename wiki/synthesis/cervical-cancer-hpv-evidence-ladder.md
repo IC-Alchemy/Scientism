@@ -1,10 +1,7 @@
 ---
 title: Cervical Cancer to Human Papillomavirus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source HPV/cervical-cancer research pass separating tumor DNA
-  detection, HPV type specificity, integration, physical state, progression,
-  necessity, sufficiency, and cofactor claims.
+summary: Source-by-source HPV/cervical-cancer research pass separating tumor DNA detection, HPV type specificity, integration, physical state, progression, necessity, sufficiency, and cofactor claims.
 tags:
   - causation
   - cervical-cancer
@@ -16,15 +13,16 @@ tags:
   - tumor-dna
   - tumor-dna-detection
   - viral-cell-junctions
-sources: 6
-updated: 2026-05-31T00:00:00.000Z
+sources: 7
+updated: 2026-10-01
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Cervical Cancer to Human Papillomavirus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make screening, vaccination, treatment, or prevention recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make screening, vaccination, treatment, or prevention recommendations.
 
 ## Current answer
 The cervical cancer -> HPV row can now move from candidate status to a started evidence ladder. The current full-text set supports molecular tumor-DNA detection, HPV type distinction, and physical-state/integration rungs:
@@ -35,7 +33,7 @@ The cervical cancer -> HPV row can now move from candidate status to a started e
 - [[sources/matsukura-kanda-yoshikawa-1986-hpv16-integrated-cervical-carcinoma]] supports direct cloning and sequencing of HPV16-cell DNA junctions in one cervical carcinoma.
 - [[sources/cullen-reid-campion-lorincz-1991-physical-state-hpv-cervical-neoplasm]] supports a larger physical-state boundary: integration was much more frequent in invasive cancers than in CIN or latent infection, but not universal in invasive cancer.
 
-This is a strong molecular association and integration ladder. It is not a complete causal ladder. The current full-text set does not yet reconstruct prospective incident infection, persistence, CIN2+/CIN3 progression, invasive-cancer risk, intervention evidence, or the 1999 "necessary cause" paper at full-text source-page level.
+This is a strong molecular association and integration ladder, now with an intervention-evidence rung started by [[sources/cidrap-2026-hpv-vaccine-evidence-review]]. The current full-text set does not yet reconstruct prospective incident infection, persistence, CIN2+/CIN3 progression, or the 1999 "necessary cause" paper at full-text source-page level.
 
 ## Full-text acquisition status
 | Source | Status in this pass | Use in manuscript |
@@ -47,6 +45,7 @@ This is a strong molecular association and integration ladder. It is not a compl
 | Cullen et al., *Analysis of the physical state of different human papillomavirus DNAs in intraepithelial and invasive cervical neoplasm* (1991) | Full-text JVI PDF obtained and source page created. | Use for larger integration-frequency boundary across latent HPV, CIN, and invasive cancer. |
 | Walboomers et al., *Human papillomavirus is a necessary cause of invasive cervical cancer worldwide* (1999) | DOI and record located; full text not obtained locally in this pass. | Use only as an acquisition lead until full text is obtained. |
 | Peto et al., *Cervical HPV infection and neoplasia in the Manchester cohort* (2004) | Record located; full text not obtained locally in this pass. | Use only as an acquisition lead for prospective HPV-to-CIN3 progression boundaries. |
+| CIDRAP, *Safety, effectiveness, and immunogenicity of HPV vaccines: a systematic review and meta-analysis* (2026) | Full 104-page PDF in `raw/`; source page created. | Use for the intervention rung: RCT CIN2+ endpoints, pooled observational cancer/CIN3+ outcomes, safety-certainty findings, and the one-versus-two-dose margin. |
 
 ## Evidence ladder
 | Rung | Current evidence in hand | What it can answer | What it cannot answer |
@@ -57,7 +56,7 @@ This is a strong molecular association and integration ladder. It is not a compl
 | Prospective infection and persistence | Full text not yet obtained in this pass for a prospective HPV-to-CIN3 cohort. | We do not know at manuscript strength from this pass. | Cross-sectional tumor-DNA papers cannot substitute for prospective timing evidence. |
 | Necessity claim | Walboomers et al. 1999 full text not obtained in this pass. | We do not know at manuscript strength from this pass. | A title or abstract-level "necessary cause" claim cannot be promoted without full methods, assays, exclusions, and residual-negative cases. |
 | Sufficiency and cofactors | Not reconstructed here. | We do not know at manuscript strength from this pass. | HPV DNA detection and integration cannot prove that HPV alone is sufficient for invasive cancer. |
-| Intervention evidence | Not reconstructed here. | We do not know at manuscript strength from this pass. | Prevention or vaccination endpoints require their own source ladder. |
+| Intervention evidence | Started: [[sources/cidrap-2026-hpv-vaccine-evidence-review]] (systematic review/meta-analysis naming the 2025 Cochrane RCT and observational reviews plus a Sept 2024–Jan 2026 update). | RCT-level CIN2+ reduction for vaccine-matched types at ages 15-25 (RR 0.39, 0.29-0.53) with no reduction at 25+; pooled observational cervical-cancer (RR 0.34) and CIN3+ (RR 0.37) reductions with a strong younger-initiation gradient; Cochrane-certainty findings of no elevated SAE, GBS, CRPS, or CFS/ME risk and one mixed POTS outcome; overlapping CIs on the extra protection from two doses over one. | Over half the new observational studies had severe-to-critical risk of bias; cancer outcomes rest on observational designs, not the RCTs, which used premalignant and infection endpoints; the rung says nothing about necessity, sufficiency, or cofactors in the causation ladder. |
 
 ## Current manuscript rule for cervical cancer and HPV
 Cervical cancer should be presented as an association-heavy molecular ladder, not as a simple infection challenge model:
@@ -67,8 +66,9 @@ Cervical cancer should be presented as an association-heavy molecular ladder, no
 - Durst et al. 1985 answers a small selected HPV16 episomal-versus-integrated physical-state question and explicitly leaves causal direction open.
 - Matsukura et al. 1986 answers a direct viral-cell junction structure question in one carcinoma.
 - Cullen et al. 1991 answers a broader cross-sectional integration-frequency question while preserving the fact that some invasive cancers had only episomal HPV DNA.
+- The CIDRAP 2026 review answers a prophylactic-intervention question (dose count and age at initiation against infection, premalignant, cancer, and safety endpoints) and must be cited with its rung boundaries: RCT premalignant endpoints, observational cancer outcomes, unresolved one-dose margin.
 
-The manuscript may therefore upgrade HPV/cervical cancer from a candidate row into a started tumor-DNA and integration evidence ladder. It should not state that necessity, sufficiency, prospective persistence, invasive-cancer risk, cofactor structure, or intervention evidence has been reconstructed here.
+The manuscript may therefore upgrade HPV/cervical cancer from a candidate row into a started tumor-DNA and integration evidence ladder with a started intervention rung. It should not state that necessity, sufficiency, prospective persistence, or cofactor structure has been reconstructed here.
 
 ## Related
 - [[sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma]]
@@ -76,6 +76,7 @@ The manuscript may therefore upgrade HPV/cervical cancer from a candidate row in
 - [[sources/durst-kleinheinz-hotz-gissmann-1985-physical-state-hpv16-genital-tumours]]
 - [[sources/matsukura-kanda-yoshikawa-1986-hpv16-integrated-cervical-carcinoma]]
 - [[sources/cullen-reid-campion-lorincz-1991-physical-state-hpv-cervical-neoplasm]]
+- [[sources/cidrap-2026-hpv-vaccine-evidence-review]]
 - [[synthesis/failed-virus-causation-attempts-register]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]

@@ -1,9 +1,7 @@
 ---
 title: The Germ Hypothesis Part 2
 category: source
-summary: >-
-  A Tier 3 revisionist essay arguing that Koch's work and later germ-theory
-  claims overstate what the historical experiments actually proved.
+summary: A Tier 3 revisionist essay arguing that Koch's work and later germ-theory claims overstate what the historical experiments actually proved.
 tags:
   - anthrax-history
   - cholera-etiology
@@ -16,22 +14,21 @@ tags:
   - robert-koch
   - source
   - tuberculosis-standards
-source_path: raw/The Germ Hypothesis Part 2.md
-source_date: 2024-05-31T00:00:00.000Z
-authors:
-  - Mike Stone
 sources: 1
-ingested: 2026-05-04T00:00:00.000Z
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3
+source_path: raw/The Germ Hypothesis Part 2.md
+source_date: 2024-05-31
+authors:
+  - mike stone
+ingested: 2026-05-04
 ---
 
 # The Germ Hypothesis Part 2
 
-
-## Source type and scope
+## Source type
 - Modern commentary and critique.
 - Focused on Koch, anthrax, tuberculosis, cholera, and the standards later associated with Koch's postulates.
 - Builds an argument by juxtaposing historical quotations and later criticism.
@@ -46,7 +43,7 @@ source_tier: tier-3
 - It also treats Koch's postulates as a claimed standard of proof and asks when later practice did or did not satisfy that standard.
 - The essay uses ingestion, inoculation, culture, and animal-model disputes as pressure points.
 
-## What question the source is capable of answering
+## What the source can answer
 - It can help identify where critics think the historical burden of proof is weakest.
 - It can raise the narrower research question of whether retrospective celebrations of Koch compress distinct methodological issues into a single success story.
 - It cannot, on its own, establish that germ theory as a whole was disproved.

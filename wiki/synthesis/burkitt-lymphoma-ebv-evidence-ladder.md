@@ -1,10 +1,7 @@
 ---
 title: Burkitt Lymphoma to Epstein-Barr Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source EBV/Burkitt lymphoma research pass separating cultured-cell
-  particles, viral-interference behavior, tumor-tissue DNA, association, and
-  tumor-causation claims.
+summary: Source-by-source EBV/Burkitt lymphoma research pass separating cultured-cell particles, viral-interference behavior, tumor-tissue DNA, association, and tumor-causation claims.
 tags:
   - burkitt-lymphoma
   - cancer-association
@@ -17,14 +14,15 @@ tags:
   - tumor-virology
   - viral-interference
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Burkitt Lymphoma to Epstein-Barr Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, screening, or prevention recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, screening, or prevention recommendations.
 
 ## Current answer
 The Burkitt lymphoma -> EBV row can now move from candidate status to a started evidence ladder. The current full-text set supports three distinct endpoints:

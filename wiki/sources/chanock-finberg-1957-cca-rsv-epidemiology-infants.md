@@ -1,11 +1,7 @@
 ---
-title: >-
-  Recovery from Infants with Respiratory Illness of a Virus Related to
-  Chimpanzee Coryza Agent II
+title: Recovery from Infants with Respiratory Illness of a Virus Related to Chimpanzee Coryza Agent II
 category: source
-summary: >-
-  1957 American Journal of Hygiene epidemiologic companion paper reporting virus
-  isolation and antibody evidence in infants and young children.
+summary: 1957 American Journal of Hygiene epidemiologic companion paper reporting virus isolation and antibody evidence in infants and young children.
 tags:
   - bronchiolitis
   - complement-fixation
@@ -17,7 +13,7 @@ tags:
   - serology
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -57,4 +53,3 @@ The risk is using early epidemiologic association as a direct RSV-causes-bronchi
 
 ## Vault conclusion
 Chanock and Finberg 1957 supports early RSV/CCA-related infection epidemiology and serology, but its bronchiolitis attribution is control-limited.
-

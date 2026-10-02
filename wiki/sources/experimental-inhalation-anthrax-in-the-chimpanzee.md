@@ -1,10 +1,7 @@
 ---
 title: Experimental Inhalation Anthrax in the Chimpanzee
 category: source
-summary: >-
-  A primary research paper on aerosol anthrax challenge in chimpanzees,
-  currently represented in the raw vault by a minimal pointer note rather than a
-  substantive summary.
+summary: A primary research paper on aerosol anthrax challenge in chimpanzees, currently represented in the raw vault by a minimal pointer note rather than a substantive summary.
 tags:
   - aerosol-inhalation
   - animal-experiment
@@ -13,17 +10,17 @@ tags:
   - disease-model
   - robert-koch
   - source
-source_path: raw/EXPERIMENTAL INHALATION ANTHRAX IN THE CHIMPANZEE.md
-source_date: 1959
-authors:
-  - Wilhelm S. Albrink
-  - Robert J. Goodlow
 sources: 1
-ingested: 2026-05-04T00:00:00.000Z
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: empirical
 source_tier: tier-1
+source_path: raw/EXPERIMENTAL INHALATION ANTHRAX IN THE CHIMPANZEE.md
+source_date: 1959
+authors:
+  - robert j. goodlow
+  - wilhelm s. albrink
+ingested: 2026-05-04
 ---
 
 # Experimental Inhalation Anthrax in the Chimpanzee
@@ -31,9 +28,10 @@ source_tier: tier-1
 ## TL;DR
 The raw vault entry is only a stub that points to a 1959 primary paper and embedded images. The underlying paper appears relevant to inhalational anthrax in chimpanzees, but method, dose or exposure, comparator, endpoint, and result have not yet been extracted.
 
-> Note: The raw note contains very little text. This summary is therefore a conservative first-pass based on the source pointer and article metadata, not a full extraction of the paper's methods and results.
+> [!note] Note
+> The raw note contains very little text. This summary is therefore a conservative first-pass based on the source pointer and article metadata, not a full extraction of the paper's methods and results.
 
-## Source type and scope
+## Source type
 - Tier 1 primary research article.
 - The raw note itself is not a summary; it is mainly a citation pointer to the paper.
 - Additional direct reading of the full article is still needed for a stronger wiki entry.

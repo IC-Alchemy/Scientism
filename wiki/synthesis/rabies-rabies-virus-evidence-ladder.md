@@ -1,11 +1,7 @@
 ---
 title: Rabies to Rabies Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source rabies research pass separating artificial inoculation,
-  neural-spread pathology, chick-embryo propagation, particle morphology,
-  tissue-culture replication, street/fixed strain differences, and
-  route-boundary evidence.
+summary: Source-by-source rabies research pass separating artificial inoculation, neural-spread pathology, chick-embryo propagation, particle morphology, tissue-culture replication, street/fixed strain differences, and route-boundary evidence.
 tags:
   - causation
   - electron-microscopy
@@ -19,14 +15,15 @@ tags:
   - street-vs-fixed
   - tissue-culture
 sources: 8
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Rabies to Rabies Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make exposure-management, vaccination, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make exposure-management, vaccination, or treatment recommendations.
 
 ## Current answer
 The rabies -> rabies virus row can now move from candidate status to a started evidence ladder. The current full-text set supports artificial animal inoculation, neural-spread pathology, chick-embryo propagation, infected-brain particle morphology, tissue-culture replication, street/fixed strain differences, and route-boundary findings:

@@ -1,9 +1,7 @@
 ---
 title: Direct Isolation of Mumps Virus in Chick Embryos
 category: source
-summary: >-
-  1947 experimental paper reporting mumps-virus isolation from acute mumps
-  saliva by amniotic-sac inoculation of chick embryos.
+summary: 1947 experimental paper reporting mumps-virus isolation from acute mumps saliva by amniotic-sac inoculation of chick embryos.
 tags:
   - amniotic-sac-inoculation
   - chick-embryo
@@ -15,13 +13,13 @@ tags:
   - mumps-virus
   - rhesus-monkey-confirmation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary direct-isolation method from human saliva
-doi: 10.3181/00379727-65-15956
 pmid: 20250483
+doi: 10.3181/00379727-65-15956
 ---
 
 # Direct Isolation of Mumps Virus in Chick Embryos
@@ -66,4 +64,3 @@ This source supports a narrow claim: in Leymaster and Ward's 1947 experiment, ac
 - [[sources/henle-henle-wendell-rosenberg-1948-induced-mumps-infections-virus-isolation]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[concepts/virus-isolation]]
-

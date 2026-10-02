@@ -1,9 +1,7 @@
 ---
 title: Infectivity of Respiratory Syncytial Virus by Various Routes of Inoculation
 category: source
-summary: >-
-  1981 human adult inoculation-route study comparing nasal, ocular, and oral RSV
-  exposure endpoints.
+summary: 1981 human adult inoculation-route study comparing nasal, ocular, and oral RSV exposure endpoints.
 tags:
   - human-challenge
   - inoculation-route
@@ -14,14 +12,14 @@ tags:
   - serology
   - shedding
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary RSV adult human route-inoculation paper
-doi: 10.1128/iai.33.3.779-783.1981
 pmid: 7287181
 pmcid: PMC350778
+doi: 10.1128/iai.33.3.779-783.1981
 ---
 
 # Infectivity of Respiratory Syncytial Virus by Various Routes of Inoculation
@@ -56,4 +54,3 @@ The risk is importing adult route-inoculation infection into infant bronchioliti
 
 ## Vault conclusion
 Hall et al. 1981 supports RSV adult route-specific infectivity by nasal and ocular inoculation. It should stay separate from infant bronchiolitis disease causation.
-

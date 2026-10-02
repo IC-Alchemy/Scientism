@@ -1,10 +1,7 @@
 ---
 title: Studies on Measles I Susceptibility of Monkeys to the Virus of Measles
 category: source
-summary: >-
-  1921 Journal of Experimental Medicine study reporting measles-like illness in
-  rhesus monkeys after respiratory-mucosal inoculation with nasopharyngeal
-  washings and monkey passage material.
+summary: 1921 Journal of Experimental Medicine study reporting measles-like illness in rhesus monkeys after respiratory-mucosal inoculation with nasopharyngeal washings and monkey passage material.
 tags:
   - animal-challenge
   - berkefeld-filtering
@@ -18,13 +15,13 @@ tags:
   - respiratory-material
   - rhesus-inoculation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary monkey respiratory-mucosal inoculation and passage paper
-doi: 10.1084/jem.33.3.385
 pmid: 19868504
+doi: 10.1084/jem.33.3.385
 ---
 
 # Studies on Measles I Susceptibility of Monkeys to the Virus of Measles

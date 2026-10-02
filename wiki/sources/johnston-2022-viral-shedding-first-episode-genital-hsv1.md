@@ -1,9 +1,7 @@
 ---
 title: Viral Shedding One Year Following First-Episode Genital HSV-1 Infection
 category: source
-summary: >-
-  2022 JAMA prospective cohort measuring genital HSV-1 DNA shedding during the
-  first year after first-episode genital HSV-1 infection.
+summary: 2022 JAMA prospective cohort measuring genital HSV-1 DNA shedding during the first year after first-episode genital HSV-1 infection.
 tags:
   - asymptomatic-shedding
   - first-episode-infection
@@ -13,14 +11,14 @@ tags:
   - pcr
   - recurrence
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary genital HSV-1 first-year shedding paper
-doi: 10.1001/jama.2022.19061
 pmid: 36272098
 pmcid: PMC9588168
+doi: 10.1001/jama.2022.19061
 ---
 
 # Viral Shedding One Year Following First-Episode Genital HSV-1 Infection
@@ -53,4 +51,3 @@ The risk is treating one-year PCR shedding as lifetime transmission probability.
 
 ## Vault conclusion
 Johnston et al. 2022 supports a genital HSV-1 shedding time-course rung, not full transmission-risk closure.
-

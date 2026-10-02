@@ -1,9 +1,7 @@
 ---
 title: Virus-Disease Attribution Audit Worklist
 category: synthesis
-summary: >-
-  Exploratory worklist of diseases commonly attributed to specific viruses, to
-  be checked against foundational experiment-grade support.
+summary: Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support.
 tags:
   - audit
   - disease-causation
@@ -12,15 +10,16 @@ tags:
   - research-queue
   - viral-disease-attribution
   - virology
-sources: 197
-updated: 2026-05-31T00:00:00.000Z
+sources: 231
+updated: 2026-10-01
 claim_status: exploratory
 claim_type: medical
 ---
 
 # Virus-Disease Attribution Audit Worklist
 
-> Warning: This page is a research queue, not a proof page. It lists conventional virus-disease attribution claims that still need direct experiment and endpoint review under this vault's evidence standard.
+> [!warning] Warning
+> This page is a research queue, not a proof page. It lists conventional virus-disease attribution claims that still need direct experiment and endpoint review under this vault's evidence standard.
 
 ## Scope note
 This page tracks diseases that are commonly described as being caused by a specific virus or by a narrow virus family. The list is intentionally practical rather than exhaustive. Each line names an attribution claim that can later be tested against named experiments, challenge studies, transmission studies, isolation workflows, pathology studies, or other direct evidence.
@@ -30,7 +29,7 @@ Use [[synthesis/viral-disease-causation-evidence-ladder]] as the cross-cutting m
 ## Starter list
 | Disease or syndrome | Common virus attribution | Audit status | Notes |
 | --- | --- | --- | --- |
-| AIDS | HIV-1 / HIV-2 | candidate papers logged | Already represented in the vault, but the foundational causation chain remains controversial here. |
+| AIDS | HIV-1 / HIV-2 | candidate papers logged | Already represented in the vault, but the foundational causation chain remains controversial here. The animal-model, nonprogression, and exclusivity boundary set now has source pages (see the AIDS section of [[synthesis/failed-virus-causation-attempts-register]]). |
 | Poliomyelitis | Poliovirus | ladder page started | Existing [[sources/polio]] and [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]] frame a dispute; [[synthesis/poliomyelitis-poliovirus-evidence-ladder]] now separates monkey challenge, route/tissue recovery, tissue culture, direct isolation gaps, and natural-route causation. |
 | Rabies | Rabies lyssavirus | ladder page started | [[synthesis/rabies-rabies-virus-evidence-ladder]] now separates masseter-muscle rabbit inoculation, neural-spread pathology, chick-embryo propagation, infected-brain morphology, tissue-culture replication, street/fixed strain differences, and oral/nasal route boundaries. |
 | Smallpox | Variola virus | ladder page started | [[synthesis/smallpox-variola-virus-evidence-ladder]] now separates nonhuman-primate variolation, mouse nasal-route and lung-recovery boundaries, egg propagation/stability, monkey contact/aerosol transmission, and simian-reservoir limits. |
@@ -41,12 +40,12 @@ Use [[synthesis/viral-disease-causation-evidence-ladder]] as the cross-cutting m
 | Shingles | Varicella-zoster virus reactivation | ladder page started | [[synthesis/shingles-vzv-reactivation-evidence-ladder]] now separates varicella/zoster cultural similarity, ganglionic latency, neuronal localization, latent transcription, active ganglionitis, and reactivation-trigger limits. |
 | Influenza | Influenza A / B viruses | ladder page started | [[synthesis/influenza-influenza-virus-evidence-ladder]] now separates Rosenau's pre-virus human challenge failures from human-case filtrate, ferret passage, swine susceptibility, contact-boundary, serology, and ordinary human natural-route causation. |
 | COVID-19 | SARS-CoV-2 | audit page added | See [[synthesis/sars-cov-2-covid-causation-audit]]. Current status: virus characterization and animal-model pathogenicity are partially supported, but controlled human clinical causation remains unresolved in the audited set. |
-| SARS | SARS-CoV | ladder page started | [[synthesis/sars-sars-cov-evidence-ladder]] now separates patient association, virus isolation, RT-PCR, serology, multicentre comparison, macaque challenge, pathology, re-isolation, and artificial-route limits. |
+| SARS | SARS-CoV | ladder page started | [[synthesis/sars-sars-cov-evidence-ladder]] separates patient association, virus isolation, RT-PCR, serology, multicentre comparison, macaque challenge, pathology, re-isolation, and artificial-route limits; the three former acquisition leads now have abstract-level source pages: [[sources/ksiazek-2003-novel-coronavirus-urbani-strain]], [[sources/rota-2003-sars-cov-genome-characterization]], [[sources/fouchier-2003-kochs-postulates-sars-macaques]]. |
 | MERS | MERS-CoV | ladder page started | [[synthesis/mers-mers-cov-evidence-ladder]] now separates index-case isolation, culture, sequencing, limited serology, rhesus-macaque challenge, camel shedding ecology, and ordinary human natural-route limits. |
-| Hepatitis A | Hepatitis A virus | ladder page started | [[synthesis/hepatitis-a-hepatitis-a-virus-evidence-ladder]] now separates CR326 marmoset propagation, human-serology neutralization, particle characterization, cell-culture propagation, and full-text acquisition gaps for acute-stool IEM and chimpanzee papers. |
-| Hepatitis B | Hepatitis B virus | ladder page started | [[synthesis/hepatitis-b-hepatitis-b-virus-evidence-ladder]] now anchors the syndrome-split rung through [[sources/krugman-giles-hammond-1967-two-types-infectious-hepatitis]] and the molecular-clone/cell-produced virion chimpanzee challenge rung through [[sources/acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]]; Australia-antigen and early chimpanzee-transmission papers remain acquisition gaps. |
-| Hepatitis C | Hepatitis C virus | ladder page started | [[synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder]] now separates molecular identification, recombinant-antigen assay validation, transfusion-recipient serology, molecular-clone infectivity, full-text acquisition gaps, and ordinary-route limits. |
-| Cervical cancer | Human papillomavirus, especially HPV-16 / HPV-18 | ladder page started | [[synthesis/cervical-cancer-hpv-evidence-ladder]] now separates HPV16/18 tumor-DNA detection, type association, integration, viral-cell junction structure, prospective progression gaps, necessity claims, sufficiency, cofactors, and intervention evidence. |
+| Hepatitis A | Hepatitis A virus | ladder page started | [[synthesis/hepatitis-a-hepatitis-a-virus-evidence-ladder]] separates CR326 marmoset propagation, human-serology neutralization, particle characterization, cell-culture propagation, and the former acquisition gaps, which now have abstract-level source pages: [[sources/feinstone-kapikian-purcell-1973-hepatitis-a-iem]], [[sources/dienstag-1975-experimental-chimpanzee-hepatitis-a]], [[sources/schulman-1976-hepatitis-a-antigen-liver-bile-stool]], [[sources/thornton-1977-human-hepatitis-a-chimpanzees]], [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]]. Full texts still not obtained. |
+| Hepatitis B | Hepatitis B virus | ladder page started | [[synthesis/hepatitis-b-hepatitis-b-virus-evidence-ladder]] anchors the syndrome-split rung through [[sources/krugman-giles-hammond-1967-two-types-infectious-hepatitis]] and the molecular-clone/cell-produced virion chimpanzee challenge rung through [[sources/acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]]; the Australia-antigen and early chimpanzee-transmission papers now have pointer-level source pages ([[sources/dane-1970-australia-antigen-virus-like-particles]], [[sources/maynard-1972-experimental-chimpanzee-hepatitis-b]], [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees]]) but remain unextracted acquisition gaps. |
+| Hepatitis C | Hepatitis C virus | ladder page started | [[synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder]] separates molecular identification, recombinant-antigen assay validation, transfusion-recipient serology, molecular-clone infectivity, and the former acquisition gaps, which now have abstract-level source pages: [[sources/tabor-1984-non-a-non-b-two-agents-chimpanzees]] and [[sources/hong-1999-transmissible-hcv-molecular-clone]]. Full texts still not obtained; ordinary-route limits remain. |
+| Cervical cancer | Human papillomavirus, especially HPV-16 / HPV-18 | ladder page started | [[synthesis/cervical-cancer-hpv-evidence-ladder]] separates HPV16/18 tumor-DNA detection, type association, integration, viral-cell junction structure, prospective progression gaps, necessity claims, sufficiency, cofactors, and intervention evidence. The HPV-negative/assay/progression boundary set now has abstract-level source pages (see [[synthesis/failed-virus-causation-attempts-register]]), and the intervention rung is started by the CIDRAP 2026 systematic review: [[sources/cidrap-2026-hpv-vaccine-evidence-review]]. |
 | Infectious mononucleosis | Epstein-Barr virus | ladder page started | [[synthesis/infectious-mononucleosis-ebv-evidence-ladder]] now separates EBV-linked immunofluorescence, case/contact serology, prospective seroconversion, EBV-specific IgM, clinical IM, inapparent infection, and transmission-route gaps. |
 | Burkitt lymphoma | Epstein-Barr virus | ladder page started | [[synthesis/burkitt-lymphoma-ebv-evidence-ladder]] now separates derived-cell viral-interference behavior, cultured-cell particle morphology, negative biological recovery tests, tumor-tissue EBV DNA, comparison-tumor boundaries, and unresolved necessity/sufficiency/cofactor claims. |
 | Kaposi sarcoma | Human herpesvirus 8 | ladder page started | [[synthesis/kaposi-sarcoma-hhv8-evidence-ladder]] now separates molecular discovery, lesion PCR, cross-status detection, viral characterization, limited serology, transmission gaps, and necessity/sufficiency claims. |
@@ -558,7 +557,7 @@ For each attribution claim, the vault should try to name:
 
 If the available sources do not name those fields clearly, the claim should remain open or unresolved rather than being treated as supported.
 
-## Related pages
+## Related
 - [[concepts/virus-isolation]]
 - [[concepts/inferential-leap]]
 - [[concepts/clinical-endpoints]]

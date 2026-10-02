@@ -1,20 +1,18 @@
 ---
 title: MagMAX Pathogen RNA Kit
 category: source
-summary: >-
-  Product-link note identifying an RNA extraction kit referenced in the H5N1
-  sequencing workflow.
+summary: Product-link note identifying an RNA extraction kit referenced in the H5N1 sequencing workflow.
 tags:
   - lab-methods
   - pathogen-rna-kit
   - rna-extraction
   - sequencing
   - thermo-fisher
-source_path: raw/MagMAX pathogen RNA kit.md
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3
+source_path: raw/MagMAX pathogen RNA kit.md
 ---
 
 # MagMAX Pathogen RNA Kit

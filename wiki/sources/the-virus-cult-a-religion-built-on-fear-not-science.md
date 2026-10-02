@@ -1,10 +1,7 @@
 ---
 title: The Virus Cult - A Religion Built on Fear, Not Science
 category: source
-summary: >-
-  Polemical essay that packages multiple methodological criticisms of virology,
-  public-health policy, and no-virus arguments into a single Tier 3 commentary
-  source.
+summary: Polemical essay that packages multiple methodological criticisms of virology, public-health policy, and no-virus arguments into a single Tier 3 commentary source.
 tags:
   - commentary
   - electron-microscopy
@@ -17,7 +14,7 @@ tags:
   - virology-critique
   - virus-isolation
 sources: 1
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3
@@ -26,7 +23,8 @@ source_path: raw/The Virus Cult – A Religion Built on Fear, Not Science.md
 
 # The Virus Cult - A Religion Built on Fear, Not Science
 
-> Warning: This source is explicitly polemical. It bundles technical, legal, historical, and policy claims with little separation of evidence quality.
+> [!warning] Warning
+> This source is explicitly polemical. It bundles technical, legal, historical, and policy claims with little separation of evidence quality.
 
 ## Source type
 Commentary essay or extended note that synthesizes a no-virus critique across cell culture, electron microscopy, sequencing, FOI requests, and public-health policy.
@@ -38,7 +36,7 @@ Commentary essay or extended note that synthesizes a no-virus critique across ce
 - FOI responses and court cases are presented as evidence that mainstream virology lacks foundational proof.
 - The essay extends these methodological objections into broader policy conclusions.
 
-## What question the source is capable of answering
+## What the source can answer
 This source can document how one critical framework argues against mainstream virology and which methodological objections it prioritizes.
 
 It cannot, by itself, establish that the broader biomedical conclusions are correct.
@@ -56,7 +54,7 @@ It cannot, by itself, establish that the broader biomedical conclusions are corr
 - It frequently moves from methodological criticism to sweeping social conclusions without resolving the intermediate evidentiary steps.
 - For this vault, that shift should be named explicitly rather than silently adopted.
 
-## Related pages
+## Related
 - [[concepts/virus-isolation]]
 - [[concepts/cell-culture]]
 - [[concepts/inferential-leap]]

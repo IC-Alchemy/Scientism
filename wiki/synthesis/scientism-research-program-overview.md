@@ -1,9 +1,7 @@
 ---
 title: Scientism Research Program Overview
 category: synthesis
-summary: >-
-  First-pass synthesis of the expanded raw corpus, emphasizing evidence quality,
-  inferential limits, and the main dispute clusters now mapped in the wiki.
+summary: First-pass synthesis of the expanded raw corpus, emphasizing evidence quality, inferential limits, and the main dispute clusters now mapped in the wiki.
 tags:
   - evidence-quality
   - inferential-limits
@@ -14,7 +12,7 @@ tags:
   - surrogate-endpoints
   - tier-3-sources
 sources: 34
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: exploratory
 claim_type: methodological
 ---

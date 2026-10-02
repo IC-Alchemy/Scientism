@@ -1,12 +1,7 @@
 ---
-title: >-
-  Fate of Nasally Instilled Poliomyelitis Virus in Normal and Convalescent
-  Monkeys with Special Reference to the Problem of Host to Host Transmission
+title: Fate of Nasally Instilled Poliomyelitis Virus in Normal and Convalescent Monkeys with Special Reference to the Problem of Host to Host Transmission
 category: source
-summary: >-
-  1938 rhesus-monkey intranasal instillation study tracking early tissue
-  recovery of poliomyelitis virus and its limits for host-to-host transmission
-  claims.
+summary: 1938 rhesus-monkey intranasal instillation study tracking early tissue recovery of poliomyelitis virus and its limits for host-to-host transmission claims.
 tags:
   - endpoints
   - infective-virus-recovery
@@ -20,7 +15,7 @@ tags:
   - rhesus-macaque
   - transmission
 sources: 1
-updated: 2026-05-06T00:00:00.000Z
+updated: 2026-05-06
 claim_status: exploratory
 claim_type: empirical
 source_tier: tier-1
@@ -37,7 +32,8 @@ doi: 10.1084/jem.68.1.39
 - Authors: A. B. Sabin; P. K. Olitsky
 - Source basis in hand: local PubMed metadata and abstract for PMID `19870774`
 
-> Warning: This page is based on the PubMed abstract and metadata now in hand, not yet a full-text extraction.
+> [!warning] Warning
+> This page is based on the PubMed abstract and metadata now in hand, not yet a full-text extraction.
 
 ## Vault extraction
 | Field | Value |
@@ -71,7 +67,7 @@ doi: 10.1084/jem.68.1.39
 ## Abstract status
 Abstract is adequate for a cautious source-page ingest focused on the named tissue-recovery endpoints and transmission-boundary claims. Full text is still needed for exact procedures, denominator details, and any discussion the paper gives about host-to-host transmission.
 
-## API abstract
+## Indexed abstract
 With a method of intranasal instillation of poliomyelitis virus that brings about infection of all M. rhesus monkeys subjected to it, a study was undertaken of the fate of nasally instilled virus in normal and convalescent, immune animals. Control experiments revealed that nasal mucosa of normal monkeys contained no observable antiviral factors and that when five or ten minimal cerebral infective doses were added to the mucosa, virus could be detected by the employed procedure. In the olfactory bulbs even a single infective dose could be recovered, since suspensions of both bulbs could be transferred to the brain of a monkey without any loss of material. After nasal instillation of virus in normal monkeys, it disappeared quickly (4 hours or less) and could be recovered neither from the excised nasal mucosa nor from the olfactory bulbs during the first 48 hours. At 72 hours, just before or coincident with the first rise of temperature, virus was found in very small amounts in the nasal mucosa and for the first time also in the olfactory bulbs. At 96 hours, at least 3 days before the appearance of nervous signs, and later, while virus continued to be present in considerable amounts in the olfactory bulbs (and presumably elsewhere in the central nervous system), none was detected in the nasal mucosa. In convalescent, immune animals receiving the same strain of virus intranasally which caused the original infection, none could be recovered from the nasal mucosa or central nervous system at 4 hours, 1, 2, 3, 4, 5, and 7 days. The bearing of these observations on the problem of host to host transmission of poliomyelitis virus is discussed.
 
 ## Why it matters for failed natural-route or host-to-host transmission claims

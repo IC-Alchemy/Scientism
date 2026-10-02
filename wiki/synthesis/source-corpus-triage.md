@@ -1,9 +1,7 @@
 ---
 title: Source Corpus Triage
 category: synthesis
-summary: >-
-  First-pass inventory of the raw corpus by evidence level, dispute cluster, and
-  next-step research value.
+summary: First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value.
 tags:
   - corpus-inventory
   - dispute-cluster
@@ -14,7 +12,7 @@ tags:
   - source-map
   - triage
 sources: 34
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -54,7 +52,8 @@ The raw corpus is mixed. Some files are direct papers or historical texts, some 
 - It now includes at least one direct vaccine-effectiveness trial whose conclusions are explicitly bounded by population, season, endpoint, and cost model; the same source contains both favorable matched-season efficacy findings and unfavorable mismatched-season ILI-related utilization findings for the vaccine group.
 
 ## What the corpus does not currently support
-> Warning: Many high-stakes medical and historical claims in the raw material remain under-sourced at the wiki level.
+> [!warning] Warning
+> Many high-stakes medical and historical claims in the raw material remain under-sourced at the wiki level.
 
 - It does not yet support strong biomedical conclusions about viruses, vaccines, AIDS, polio, or rabies based on the current commentary mix alone.
 - It does not yet support a single resolved historical conclusion about Pasteur, Koch, Jenner, or germ theory without paired reading across primary and critical sources.

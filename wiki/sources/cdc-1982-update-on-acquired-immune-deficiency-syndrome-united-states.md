@@ -1,9 +1,7 @@
 ---
 title: Update on acquired immune deficiency syndrome (AIDS) - United States
 category: source
-summary: >-
-  Primary national surveillance report relevant to Gutknecht letter Q8
-  chronology.
+summary: Primary national surveillance report relevant to Gutknecht letter Q8 chronology.
 tags:
   - aids
   - aids-case-definition
@@ -14,13 +12,12 @@ tags:
   - hiv
   - mmwr-report
   - pre-azt-chronology
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary national surveillance report
 pmid: 6815471
-doi: null
 ---
 
 # Update on acquired immune deficiency syndrome (AIDS) - United States
@@ -32,7 +29,8 @@ doi: null
 - Publication types: Journal Article
 - Authors in API output: Centers for Disease Control (CDC)
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -45,7 +43,7 @@ doi: null
 | Result | Records hundreds of AIDS cases before published human AZT use and before 1987 approval. |
 | Main limitation | Surveillance definition and reporting completeness limits. |
 
-## What this source can answer
+## What the source can answer
 Strong primary chronology evidence against an AZT-origin explanation for AIDS generally.
 
 ## What it cannot answer
@@ -54,7 +52,7 @@ Does not address post-approval AZT toxicity.
 ## Abstract status
 PubMed has no abstract; MMWR full text is needed for exact case counts and dates.
 
-## API abstract
+## Indexed abstract
 The PubMed lookup did not provide an abstract. Use the primary full text before relying on case details.
 
 ## Related

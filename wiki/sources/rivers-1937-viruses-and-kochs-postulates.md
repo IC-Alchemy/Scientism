@@ -1,10 +1,7 @@
 ---
 title: Viruses and Koch's Postulates
 category: source
-summary: >-
-  Thomas Rivers' 1937 methodological paper arguing that viral causation can be
-  investigated without literal fulfillment of Koch's bacteriological postulates,
-  but still requires proof beyond association.
+summary: Thomas Rivers' 1937 methodological paper arguing that viral causation can be investigated without literal fulfillment of Koch's bacteriological postulates, but still requires proof beyond association.
 tags:
   - causation
   - endpoint-audit
@@ -16,20 +13,20 @@ tags:
   - viral-causation
   - viral-disease-standards
   - virology
-source_path: doi:10.1128/jb.33.1.1-12.1937
-source_date: 1937
-authors:
-  - Thomas M. Rivers
 sources: 1
-ingested: 2026-05-14T00:00:00.000Z
-updated: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-1
-lens_id: 001-842-966-232-780
-doi: 10.1128/jb.33.1.1-12.1937
+source_path: doi:10.1128/jb.33.1.1-12.1937
+source_date: 1937
+authors:
+  - thomas m. rivers
+ingested: 2026-05-14
 pmid: 16559982
 pmcid: PMC545348
+doi: 10.1128/jb.33.1.1-12.1937
+lens_id: 001-842-966-232-780
 ---
 
 # Viruses and Koch's Postulates
@@ -37,7 +34,7 @@ pmcid: PMC545348
 ## TL;DR
 Rivers' 1937 paper is a primary methodological source for viral disease causation. It argues that Koch's original bacteriology rules cannot be copied literally into virology, especially where viruses cannot be grown on lifeless media, but it does not replace causal proof with authority or loose association.
 
-## Source type and scope
+## Source type
 - Presidential address and journal article in *Journal of Bacteriology*.
 - Historical-methodological source, not a disease-specific trial.
 - Lens lookup: Lens `001-842-966-232-780`; DOI `10.1128/jb.33.1.1-12.1937`; PMID `16559982`; PMCID `PMC545348`.

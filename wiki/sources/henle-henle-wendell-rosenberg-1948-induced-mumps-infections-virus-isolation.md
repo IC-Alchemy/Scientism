@@ -1,12 +1,7 @@
 ---
-title: >-
-  Isolation of Mumps Virus from Human Beings with Induced Apparent or Inapparent
-  Infections
+title: Isolation of Mumps Virus from Human Beings with Induced Apparent or Inapparent Infections
 category: source
-summary: >-
-  1948 JEM human induced-exposure study reporting clinical mumps, inapparent
-  serologic infection, and saliva virus isolation after exposure to
-  chick-embryo-passaged mumps virus.
+summary: 1948 JEM human induced-exposure study reporting clinical mumps, inapparent serologic infection, and saliva virus isolation after exposure to chick-embryo-passaged mumps virus.
 tags:
   - chick-embryo-isolation
   - complement-fixation
@@ -19,16 +14,14 @@ tags:
   - serology
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
-evidence_role: >-
-  primary induced human exposure with clinical, serologic, and saliva-isolation
-  endpoints
-doi: 10.1084/jem.88.2.223
+evidence_role: primary induced human exposure with clinical, serologic, and saliva-isolation endpoints
 pmid: 18873870
 pmcid: PMC2135813
+doi: 10.1084/jem.88.2.223
 ---
 
 # Isolation of Mumps Virus from Human Beings with Induced Apparent or Inapparent Infections
@@ -39,7 +32,8 @@ pmcid: PMC2135813
 - Authors: Gertrude Henle, Werner Henle, K. K. Wendell, and P. Rosenberg
 - Source basis in hand: full-text PDF rendered through Europe PMC/PMC, checked against DOI and PubMed/PMC metadata
 
-> Warning: This page describes a historical human exposure experiment. It is not medical advice and does not assess the experiment under modern research-ethics rules.
+> [!warning] Warning
+> This page describes a historical human exposure experiment. It is not medical advice and does not assess the experiment under modern research-ethics rules.
 
 ## Vault extraction
 | Field | Value |
@@ -75,4 +69,3 @@ This source supports a narrow claim: in Henle and colleagues' 1948 historical ex
 - [[sources/johnson-goodpasture-1934-investigation-etiology-mumps]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[concepts/clinical-endpoints]]
-

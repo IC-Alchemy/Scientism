@@ -1,10 +1,7 @@
 ---
 title: SARS-CoV-2 COVID-19 Causation Audit
 category: synthesis
-summary: >-
-  Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers,
-  separating virus characterization, animal-model pathogenicity, and controlled
-  human clinical causation.
+summary: Endpoint-specific audit of candidate SARS-CoV-2 and COVID-19 causation papers, separating virus characterization, animal-model pathogenicity, and controlled human clinical causation.
 tags:
   - animal-challenge
   - causation
@@ -17,14 +14,15 @@ tags:
   - sars-cov-2
   - virology
 sources: 8
-updated: 2026-05-06T00:00:00.000Z
+updated: 2026-05-06
 claim_status: unresolved
 claim_type: medical
 ---
 
 # SARS-CoV-2 COVID-19 Causation Audit
 
-> Warning: This page is a research audit, not medical advice. It does not deny that the cited papers contain experimental evidence. It separates what each experiment can actually answer from broader COVID-19 causation claims.
+> [!warning] Warning
+> This page is a research audit, not medical advice. It does not deny that the cited papers contain experimental evidence. It separates what each experiment can actually answer from broader COVID-19 causation claims.
 
 ## Question
 Does SARS-CoV-2 cause COVID-19?
@@ -89,7 +87,7 @@ Current conclusion:
 - SARS-CoV-2 animal-model pathogenicity under artificial exposure: **partially supported**
 - SARS-CoV-2 as a controlled, sham-tested cause of human clinical COVID-19: **unresolved in the current audited set**
 
-## Related pages
+## Related
 - [[synthesis/virus-disease-attribution-audit-worklist]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/failed-virus-causation-attempts-register]]

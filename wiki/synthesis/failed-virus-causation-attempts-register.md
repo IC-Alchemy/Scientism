@@ -1,9 +1,7 @@
 ---
 title: Failed Virus-Causation Attempt Register
 category: synthesis
-summary: >-
-  Register of failed, negative, or non-confirmatory experiments relevant to
-  virus-disease attribution claims in the current audit set.
+summary: Register of failed, negative, or non-confirmatory experiments relevant to virus-disease attribution claims in the current audit set.
 tags:
   - causation
   - causation-audit
@@ -13,15 +11,16 @@ tags:
   - negative-results
   - viral-attribution
   - virology
-sources: 128
-updated: 2026-05-31T00:00:00.000Z
+sources: 149
+updated: 2026-10-01
 claim_status: exploratory
 claim_type: methodological
 ---
 
 # Failed Virus-Causation Attempt Register
 
-> Warning: This page is a register of currently assembled negative-result leads. It does not yet represent a complete literature review for every disease-virus pair in the audit set.
+> [!warning] Warning
+> This page is a register of currently assembled negative-result leads. It does not yet represent a complete literature review for every disease-virus pair in the audit set.
 
 ## Why this page exists
 The current vault already tracks candidate foundational papers that are commonly treated as supporting virus-disease attribution claims. But a causation audit is incomplete if it records only the experiments later described as successful while ignoring failed, negative, or non-confirmatory attempts.
@@ -187,13 +186,13 @@ Current full-text route-boundary sources in hand:
 - [[sources/charlton-casey-1979-experimental-rabies-skunks-route-exposure]]
 - [[sources/shirakawa-2007-cats-fed-rabid-mouse-brains]]
 
-Candidate route-failure papers still needing full text:
+Candidate route-boundary papers (source pages now created; Bell and Moore remains a pointer-only record):
 
-- Bell and Moore, *Susceptibility of Carnivora to Rabies Virus Administered Orally* (1971; DOI `10.1093/oxfordjournals.aje.a121244`; PMID `5104866`). Strong route/species-boundary candidate. The tested method was oral feeding of infected carcasses to striped skunks, ferrets, and cats; the negative signal is failure of infection in ferrets and cats under those ingestion conditions.
-- Charlton, *Experimental Rabies in Skunks: Oral, Nasal, Tracheal and Intestinal Exposure* (1979; PMID `497886`; PMCID `PMC1319912`). Strong method-boundary paper. Intranasal and some intratracheal/forced-feeding exposures produced rabies in some animals, while other exposure methods did not; survivors later had little or no protection on intramuscular challenge.
-- Davis, Rudd, and Bowen, *Effects of Aerosolized Rabies Virus Exposure on Bats and Mice* (2007; DOI `10.1086/512616`; PMID `17357050`). Strong aerosol/species-boundary candidate. The relevant endpoint is survival, neutralizing antibody, and later challenge after aerosol exposure; bat survival after aerosol exposure does not challenge bite-route rabies causation.
-- Shirakawa et al., *Experiments on Intramuscular Inoculation and Feeding Domestic Cats with Brains of Mice Previously Infected by Rabies Viruses* (2007; DOI `10.11606/issn.1678-4456.bjvras.2007.26601`). Strong oral-route and detection-versus-disease boundary candidate. Fed cats reportedly had no clinical signs and negative DFA/mouse-inoculation tests, while some specimens were RT-PCR positive.
-- Ramsden and Johnston, *Studies on the Oral Infectivity of Rabies Virus in Carnivora* (1975; DOI `10.7589/0090-3558-11.3.318`; PMID `1097742`). Useful comparator because oral infection did occur in red foxes and striped skunks; not a clean failed-attempt entry.
+- [[sources/bell-moore-1971-rabies-oral-carnivora]] — Bell and Moore, *Susceptibility of Carnivora to Rabies Virus Administered Orally* (1971; PMID `5104866`). No indexed abstract and no free full text exist, so the page is a pointer preserving the register's characterization (oral feeding of infected carcasses; infection failure in ferrets and cats under those conditions) as unverified at primary-text level. Acquisition lead.
+- [[sources/charlton-casey-1979-experimental-rabies-skunks-route-exposure]] — already a full-text-backed page in this vault (the register's earlier "still needing full text" entry for Charlton 1979 was stale; the paper was extracted in the May pass).
+- [[sources/davis-rudd-bowen-2007-aerosolized-rabies-bats-mice]] — Davis, Rudd, and Bowen 2007. Abstract-level. Aerosol exposure killed several mice and no bats; all bats seroconverted but showed poor protection against later intramuscular challenge — an aerosol/species boundary plus an antibody-versus-protection endpoint boundary.
+- [[sources/shirakawa-2007-cats-fed-rabid-mouse-brains]] — already a full-text-backed page in this vault.
+- [[sources/ramsden-johnston-1975-oral-infectivity-rabies-carnivora]] — Ramsden and Johnston 1975. Abstract-level comparator: feeding infected mice produced rabies deaths and neutralizing antibody in both red foxes and striped skunks, so oral infection did occur under those conditions — not a clean failed-attempt entry.
 
 Current vault conclusion:
 - Rabies no longer belongs in the "no paper in hand" bucket.
@@ -226,27 +225,28 @@ What these sources currently support:
 - Provost et al. 1973 linked marmoset-propagated CR326 to human hepatitis A by convalescent-serum and immune-globulin neutralization, while contrasting hepatitis B sera.
 - Provost et al. 1975 characterized CR326 as 27 nm particles in infected marmoset material, with density, stability, liver cytoplasmic localization, and hepatitis A serologic identity endpoints.
 - Provost and Hilleman 1979 propagated CR326 in marmoset liver explant cultures and FRhK6 cells, with no cytopathic effect and with serologic, antigen, IEM, and marmoset infectivity confirmation.
+- Abstract-level pages now also exist for the former acquisition-gap papers: [[sources/feinstone-kapikian-purcell-1973-hepatitis-a-iem]] (acute-stool IEM detection), [[sources/dienstag-1975-experimental-chimpanzee-hepatitis-a]] (controlled chimpanzee challenge with filtrate-negative controls and a housing-exposure arm), [[sources/schulman-1976-hepatitis-a-antigen-liver-bile-stool]] (liver/bile/stool antigen), [[sources/thornton-1977-human-hepatitis-a-chimpanzees]] (multi-source infection consistency), and [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]] (marmoset passage and chimpanzee intravenous challenge).
 
 What this does **not** yet support:
-- A complete acute human detection rung, because Feinstone/Kapikian/Purcell 1973 was not obtained in full text in this pass.
-- A complete chimpanzee challenge/tissue-shedding rung, because the JID/Oxford papers were not obtained in full text.
+- Full-text strength for the acute human detection rung: Feinstone/Kapikian/Purcell 1973 is abstract-level only.
+- Full-text strength for the chimpanzee challenge/tissue-shedding rung: the JID/Oxford papers are abstract-level records, not extractions.
 - A claim that noncytopathic cell culture is equivalent to human clinical disease reproduction.
 
 Current methodological value:
-- Hepatitis A is a source-completion warning. The current CR326 chain is strong for marmoset neutralization, characterization, and culture, but the manuscript must still say "we do not know from full text in hand" for the acute-stool IEM and chimpanzee rungs.
+- Hepatitis A is a source-completion warning. The CR326 chain is strong for marmoset neutralization, characterization, and culture, and the formerly missing rungs now have abstract-level records, but the manuscript must still say "we do not know from full text in hand" for the acute-stool IEM and chimpanzee rungs at full-text strength.
 
 ### AIDS -> HIV
 The failed-attempt framing is harder here because the major canonical case is not a simple animal or volunteer natural-route transmission program like influenza or early polio.
 
-Candidate boundary papers now in hand:
+Candidate boundary papers now have source pages (abstract-level unless noted):
 
-- Alter et al., *Transmission of HTLV-III Infection from Human Plasma to Chimpanzees: An Animal Model for AIDS* (1984; DOI `10.1126/science.6093251`; PMID `6093251`). Strong animal-model boundary paper. The endpoint was seroconversion, lymphadenopathy, T4/T8 changes, and opportunistic infection after plasma exposure; the boundary result is infection and immune changes without full AIDS syndrome in the reported animals.
-- CDC, *Experimental Infection of Chimpanzees with Lymphadenopathy-Associated Virus* (1984; MMWR historical report). Useful historical document lead. It records recoverable virus and antibody in inoculated chimpanzees without clinical illness, but should be paired with underlying primary papers.
-- Fultz et al., *Persistent Infection of Chimpanzees with Human Immunodeficiency Virus: Serological Responses and Properties of Reisolated Viruses* (1987; DOI `10.1128/JVI.61.10.3173-3180.1987`; PMID `2442411`). Model-boundary candidate. The endpoint is persistent infection and serologic response rather than reproduction of AIDS as a clinical syndrome.
-- Learmont et al., *Long-Term Symptomless HIV-1 Infection in Recipients of Blood Products from a Single Donor* (1992; DOI `10.1016/0140-6736(92)93281-q`; PMID `1357294`). Strong progression-boundary paper. It concerns long-term nonprogression in a transfusion-linked cluster, not a failed HIV challenge experiment.
-- Smith et al., *Unexplained Opportunistic Infections and CD4+ T-Lymphocytopenia without HIV Infection* (1993; DOI `10.1056/NEJM199302113280601`; PMID `8093633`). Strong exclusivity-boundary paper. It shows AIDS-defining-type immune phenomena without HIV evidence in the investigated cases, but it concerns a distinct HIV-negative syndrome.
-- Ho et al., *Idiopathic CD4+ T-Lymphocytopenia: An Analysis of Five Patients with Unexplained Opportunistic Infections* (1993; DOI `10.1056/NEJM199302113280603`; PMID `8093635`). Strong exclusivity-boundary paper. It used serology, culture, PCR, and contact/donor checks without finding HIV/HTLV or a transmissible retroviral signal.
-- Novembre et al., *Development of AIDS in a Chimpanzee Infected with HIV-1* (1997; DOI `10.1128/JVI.71.5.4086-4091.1997`; PMID `9094687`). Comparator paper, not a failed-attempt entry. It prevents overreading the chimpanzee boundary as "HIV never produces AIDS-like disease in chimpanzees."
+- [[sources/alter-1984-htlv-iii-chimpanzees-plasma]] — Alter et al. 1984. Strong animal-model boundary paper. The endpoint was seroconversion, lymphadenopathy, T4/T8 changes, and impaired blastogenic responses after plasma exposure; the boundary result is infection and immune changes without opportunistic infections or AIDS syndrome in the reported animals.
+- [[sources/cdc-1984-experimental-chimpanzee-lav-infection]] — CDC 1984 MMWR historical report, extracted from the CDC archive. It records recoverable LAV, p25 seroconversion, and T4/T8 trends in inoculated chimpanzees with "no clinical illness," and should be paired with the underlying primary papers.
+- [[sources/fultz-1987-persistent-chimpanzee-hiv-infection]] — Fultz et al. 1987. Model-boundary candidate. The endpoint is persistent infection and broadening serologic response over two years rather than reproduction of AIDS as a clinical syndrome.
+- [[sources/learmont-1992-long-term-symptomless-hiv-single-donor]] — Learmont et al. 1992. Strong progression-boundary paper. Long-term nonprogression (1/6 progressed vs 94/101 other transfusion recipients) in a transfusion-linked cluster, not a failed HIV challenge experiment.
+- [[sources/smith-1993-icd-opportunistic-infections-no-hiv]] — Smith et al. 1993. Strong exclusivity-boundary paper. AIDS-defining-type immune phenomena without HIV evidence in 47 investigated cases, with no transmission to investigated contacts, but a distinct HIV-negative syndrome.
+- [[sources/spira-1993-idiopathic-cd4-lymphocytopenia]] — Spira et al. 1993 (the register previously attributed this record to "Ho et al."; the first author is Thomas J. Spira). Strong exclusivity-boundary paper. Serology, culture, PCR, and isolation attempts found no HIV/HTLV or transmissible retroviral signal, and the immunologic profile differed from CD4-matched HIV infection.
+- [[sources/novembre-1997-aids-chimpanzee-hiv-1]] — Novembre et al. 1997. Comparator paper, not a failed-attempt entry: one chimpanzee developed AIDS-like disease after more than ten years and viral evolution, which prevents overreading the chimpanzee boundary as absolute.
 
 Current vault conclusion:
 - The current search did not retrieve a clean primary "challenge failed to cause AIDS" paper comparable to Rosenau's influenza series.
@@ -396,18 +396,18 @@ Current primary boundary findings in hand:
 - Cullen et al. 1991 found integration in 56 of 69 invasive cancers, but also found 13 invasive cancers with only episomal HPV DNA.
 - Cullen et al. 1991 found only 3 mixed episomal/integrated cases among 61 CIN2-CIN3 specimens and no integration among latent/CIN1 specimens, which makes integration a late or invasion-associated marker in that set rather than a universal early event.
 
-Candidate HPV-negative, assay-failure, and insufficiency papers still needing full source-page extraction:
+Candidate HPV-negative, assay-failure, and insufficiency papers now have source pages (abstract-level):
 
-- Kaliff et al., *HPV-Negative Tumors in a Swedish Cohort of Cervical Cancer* (2020; DOI `10.1097/PGP.0000000000000612`; PMID `31206367`). Strong assay and classification boundary paper. Retesting reduced the HPV-negative fraction from 14% to 7%, with some remaining negative cases showing p16 patterns suggestive of possible residual false negatives.
-- Rodriguez-Carunchio et al., *HPV-Negative Carcinoma of the Uterine Cervix* (2015; DOI `10.1111/1471-0528.13071`; PMID `25229645`). Strong candidate. In a 136-case cohort, 14 were HC2-negative but only 8 remained HPV-negative after further PCR testing; confirmed negatives were more often adenocarcinomas.
-- Petry et al., *Surgical Staging Identified False HPV-Negative Cases in a Large Series of Invasive Cervical Cancers* (2017; DOI `10.1016/j.pvr.2017.10.003`; PMID `29179875`). Strong diagnostic-boundary paper. In 371 biopsy-proven invasive cervical cancers, many initially HPV-negative cases were not cervical cancer after staging; only one primary undifferentiated cervical carcinoma remained HPV-DNA negative by all tests.
-- Lagheden et al., *Deep Sequencing Detects HPV in Cervical Cancers Negative for HPV by PCR* (2020; DOI `10.1038/s41416-020-01111-0`; PMID `33020595`). Strong failed-detection paper. Deep sequencing found HPV sequences in 169 of 392 PCR-negative cervical cancers.
-- Arroyo Muhr et al., *Sequencing Detects HPV in Some Apparently HPV-Negative Invasive Cervical Cancers* (2020; DOI `10.1099/jgv.0.001374`; PMID `31859615`). Strong assay-boundary paper. RNA-enriched sequencing detected HPV sequences in 48 of 92 PCR-negative cases.
-- Caussy et al., *Evaluation of Methods for Detecting HPV DNA Sequences in Clinical Specimens* (1988; DOI `10.1128/jcm.26.2.236-243.1988`; PMID `2830308`). Early method-boundary paper. Different hybridization methods found different HPV detection rates in invasive cancer specimens, including nonuniform positivity.
-- Claas et al., *HPV Detection in Paraffin-Embedded Cervical Carcinomas and Metastases by PCR* (1989; PMID `2552814`). Early negative-after-improved-assay candidate. PCR detected HPV in three DISH-negative cases, but two squamous cervical carcinoma cases remained negative for the tested HPV types.
-- McCance et al., *Presence of HPV DNA Sequences in Cervical Intraepithelial Neoplasia* (1983; DOI `10.1136/bmj.287.6395.784`; PMID `6311316`). Early partial-detection boundary paper. HPV antigen and HPV6 DNA were not universal in the sampled CIN cases.
-- Peto et al., *Cervical HPV Infection and Neoplasia in the Manchester Cohort* (2004; DOI `10.1038/sj.bjc.6602049`; PMID `15292939`). Strong progression-boundary paper. Oncogenic HPV strongly predicted CIN3, but cytologically normal HPV-positive women did not all progress; the 14-year cumulative CIN3 risk was reported as 28%.
-- Skinner et al., *Progression of HPV Infection to Detectable Cervical Lesions or Clearance* (2016; DOI `10.1002/ijc.29971`; PMID `26685704`). Strong insufficiency/progression-boundary paper. Most baseline HPV infections cleared, including many six-month persistent infections, even though persistent oncogenic HPV increased CIN2+ risk.
+- [[sources/kaliff-2020-hpv-negative-tumors-swedish-cohort]] — retesting halved the HPV-negative fraction (14% to 7%), with residual negatives skewed toward adenocarcinoma and some p16-positive cases suspected of remaining false negatives.
+- [[sources/rodriguez-carunchio-2015-hpv-negative-cervical-carcinoma]] — HC2-negative cases fell from 14/136 to 8/136 confirmed HPV-negative after three-assay PCR reanalysis; confirmed negatives clustered in adenocarcinomas with worse disease-free survival.
+- [[sources/petry-2017-surgical-staging-false-hpv-negative]] — surgical staging showed 21 of 31 HC2-negative "cervical cancers" were not cervical cancer at all; one of 350 staging-confirmed primaries was HPV-DNA-negative by all tests.
+- [[sources/arroyo-muhr-2020-deep-sequencing-pcr-negative]] — deep sequencing found HPV sequences in 169 of 392 PCR-negative cervical cancers, lifting cumulative HPV positivity above 92% in the 2,850-case Swedish series. (The register previously attributed this paper to "Lagheden et al."; the first author is Arroyo Mühr.)
+- [[sources/arroyo-muhr-2020-sequencing-hpv-apparently-negative]] — RNA-enriched sequencing detected HPV in 48 of 92 PCR-negative cases, with splice junctions in 12 cases indicating transcriptionally active material.
+- [[sources/caussy-1988-hpv-detection-methods-clinical-specimens]] — method-comparison boundary: HPV positivity in identical invasive-cancer specimens ranged from 30% to 89% by hybridization method.
+- [[sources/claas-1989-hpv-pcr-paraffin-embedded-cervical]] — PCR recovered HPV in three of five DISH-negative cervical carcinomas (with matched-metastase concordance); two squamous carcinomas stayed negative for the four tested types.
+- [[sources/mccance-1983-hpv-dna-cin]] — early partial-detection boundary: HPV6 DNA in 13 of 22 CIN-spectrum cases, predating HPV16/18 discovery in cervical material.
+- [[sources/peto-2004-manchester-hpv-neoplasia-cohort]] — progression boundary: oncogenic HPV strongly predicted CIN3 (OR 17.2), yet only 28% of cytologically normal HPV-positive women developed CIN3 within 14 years.
+- [[sources/skinner-2016-hpv-progression-clearance]] — insufficiency boundary: 79.3% of baseline HPV infections cleared in a vaccine-trial control arm, with CIN2+ risk concentrated in 6-month persistent oncogenic infections.
 
 Current vault conclusion:
 - Cervical cancer -> HPV does not fit a simple failed-transmission register.
@@ -453,6 +453,15 @@ Current vault conclusion:
 - The useful boundary categories are infection without clinical IM, mononucleosis-like illness from non-EBV or unresolved causes, and roommate/contact findings that do not define a simple route-specific transmission model.
 - These boundaries do not refute the EBV/IM association; they prevent equating EBV infection with every clinical mono-like syndrome or treating serology as purified-virus challenge evidence.
 
+### Hepatitis B -> hepatitis B virus (register note)
+The three named acquisition-gap papers now have pointer-level source pages so the queue is findable, with no rung content filled from abstracts or summaries (none exist to fill from): [[sources/dane-1970-australia-antigen-virus-like-particles]] (Australia-antigen particle detection, 1970), [[sources/maynard-1972-experimental-chimpanzee-hepatitis-b]] (HBAg-positive plasma chimpanzee challenge, 1972), and [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees]] (chimpanzee transmission/passaging, 1973). An abstract-level related record, [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]], reports HBsAg-sera chimpanzee infection with subspecificity cross-challenge but is not a substitute for the unextracted texts.
+
+### Hepatitis C -> hepatitis C virus (register note)
+The two named acquisition-gap papers now have abstract-level source pages: [[sources/tabor-1984-non-a-non-b-two-agents-chimpanzees]] (pre-HCV evidence that two distinct agents transmitted and passaged non-A/non-B hepatitis in chimpanzees) and [[sources/hong-1999-transmissible-hcv-molecular-clone]] (consensus-repaired H77 clone RNA initiated infection and serum transmitted it to a second chimpanzee). Both remain abstract-level; the 1999 record's first author is Hong.
+
+### SARS -> SARS-CoV (register note)
+The three named acquisition-lead papers now have abstract-level source pages: [[sources/ksiazek-2003-novel-coronavirus-urbani-strain]] (Vero E6 isolation, EM, sequence, 12-patient RT-PCR identity, serology), [[sources/rota-2003-sars-cov-genome-characterization]] (29,727-nt genome, 11 ORFs, phylogenetic distinctness), and [[sources/fouchier-2003-kochs-postulates-sars-macaques]] (correspondence asserting macaque disease reproduction; endpoint detail continues to come from the full-text Kuiken reconstruction).
+
 ## Scientism relevance
 This register supports a broader methodological claim: biology and medicine can become narratively selective when a small number of tractable or institutionally successful experiments become the remembered foundation while non-confirmatory attempts become background noise.
 
@@ -472,10 +481,11 @@ The highest-value next step is a fuller paper-by-paper negative-result reconstru
 
 The polio lead now has abstract-level primary detail, and the influenza lead now has extracted-report primary detail. Both tracks still need broader primary reconstruction before the vault can speak confidently about field-wide failure patterns.
 
-## Related pages
+## Related
 - [[synthesis/virus-disease-attribution-audit-worklist]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
+- [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique]]
 - [[concepts/inferential-leap]]
 - [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]]
 - [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918]]

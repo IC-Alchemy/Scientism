@@ -1,9 +1,7 @@
 ---
 title: Oral Administration of Human Rotavirus to Volunteers
 category: source
-summary: >-
-  1983 human volunteer challenge paper reporting diarrhea, shedding, and
-  serologic response after oral administration of human rotavirus strain D.
+summary: 1983 human volunteer challenge paper reporting diarrhea, shedding, and serologic response after oral administration of human rotavirus strain D.
 tags:
   - diarrheal-illness
   - gastroenteritis
@@ -15,7 +13,7 @@ tags:
   - virus-shedding
   - volunteer-challenge
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -55,4 +53,3 @@ The risk is projecting adult volunteer challenge response onto infant population
 
 ## Vault conclusion
 Kapikian et al. 1983 supports a high-value rotavirus human oral-challenge rung. It should remain bounded by adult sample, protocol, and small size.
-

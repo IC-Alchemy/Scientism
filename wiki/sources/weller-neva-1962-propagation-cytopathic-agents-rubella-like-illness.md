@@ -1,11 +1,7 @@
 ---
-title: >-
-  Propagation in Tissue Culture of Cytopathic Agents from Patients with
-  Rubella-Like Illness
+title: Propagation in Tissue Culture of Cytopathic Agents from Patients with Rubella-Like Illness
 category: source
-summary: >-
-  1962 paper reporting cytopathic agents isolated from urine or blood of
-  rubella-like cases and serially propagated in primary human amnion cultures.
+summary: 1962 paper reporting cytopathic agents isolated from urine or blood of rubella-like cases and serially propagated in primary human amnion cultures.
 tags:
   - cytopathic-effect
   - cytopathology
@@ -17,13 +13,11 @@ tags:
   - serology
   - tissue-culture
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
-evidence_role: >-
-  primary rubella-like illness tissue-culture propagation and paired-serology
-  paper
+evidence_role: primary rubella-like illness tissue-culture propagation and paired-serology paper
 doi: 10.3181/00379727-111-27749
 ---
 
@@ -68,4 +62,3 @@ This source supports a narrow claim: in Weller and Neva's 1962 experiments, agen
 - [[sources/parkman-buescher-artenstein-1962-recovery-rubella-virus-army-recruits]]
 - [[sources/sigurdardottir-givan-rozee-rhodes-1963-rubella-toronto-monkey-transmission]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
-

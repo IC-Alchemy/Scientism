@@ -1,9 +1,7 @@
 ---
 title: An Investigation of the Etiology of Mumps
 category: source
-summary: >-
-  1934 JEM paper reporting that early-case mumps saliva produced acute
-  non-suppurative parotitis in rhesus monkeys after parotid-duct inoculation.
+summary: 1934 JEM paper reporting that early-case mumps saliva produced acute non-suppurative parotitis in rhesus monkeys after parotid-duct inoculation.
 tags:
   - animal-challenge
   - endpoints
@@ -13,14 +11,14 @@ tags:
   - parotitis
   - rhesus-monkey
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary animal-inoculation and parotid-lesion experiment
-doi: 10.1084/jem.59.1.1
 pmid: 19870227
 pmcid: PMC2132344
+doi: 10.1084/jem.59.1.1
 ---
 
 # An Investigation of the Etiology of Mumps
@@ -66,4 +64,3 @@ This source supports a narrow claim: in Johnson and Goodpasture's 1934 experimen
 - [[sources/henle-henle-wendell-rosenberg-1948-induced-mumps-infections-virus-isolation]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[concepts/inferential-leap]]
-

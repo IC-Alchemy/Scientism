@@ -1,11 +1,7 @@
 ---
-title: >-
-  Rapid Diagnosis of Respiratory Syncytial Virus Infection in Children by the
-  Immunofluorescent Technique
+title: Rapid Diagnosis of Respiratory Syncytial Virus Infection in Children by the Immunofluorescent Technique
 category: source
-summary: >-
-  1971 J Clin Pathol paper comparing RSV immunofluorescence diagnosis with
-  culture in hospitalized young children, including bronchiolitis cases.
+summary: 1971 J Clin Pathol paper comparing RSV immunofluorescence diagnosis with culture in hospitalized young children, including bronchiolitis cases.
 tags:
   - bronchiolitis
   - diagnosis
@@ -17,14 +13,14 @@ tags:
   - viral-culture-comparison
   - virus-culture
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary RSV diagnostic detection and culture-comparison paper
-doi: 10.1136/jcp.24.4.308
 pmid: 4933660
 pmcid: PMC476980
+doi: 10.1136/jcp.24.4.308
 ---
 
 # Rapid Diagnosis of Respiratory Syncytial Virus Infection in Children by the Immunofluorescent Technique
@@ -59,4 +55,3 @@ The risk is treating a strong diagnostic association as a complete bronchiolitis
 
 ## Vault conclusion
 Cradock-Watson et al. 1971 supports a strong RSV diagnostic association rung in hospitalized infants with bronchiolitis, while leaving causation and pathogenesis separate.
-

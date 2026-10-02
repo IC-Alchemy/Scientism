@@ -1,10 +1,7 @@
 ---
 title: Norwalk-like Viral Gastroenteritis Outbreak in U.S. Army Trainees
 category: source
-summary: >-
-  2000 Emerging Infectious Diseases outbreak investigation linking acute
-  gastroenteritis among U.S. Army trainees to Norwalk-like virus by
-  epidemiology, RT-PCR, EM, and negative bacterial/parasitic testing.
+summary: 2000 Emerging Infectious Diseases outbreak investigation linking acute gastroenteritis among U.S. Army trainees to Norwalk-like virus by epidemiology, RT-PCR, EM, and negative bacterial/parasitic testing.
 tags:
   - electron-microscopy
   - em-viral-particles
@@ -18,14 +15,14 @@ tags:
   - rt-pcr
   - stool-testing
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary norovirus-like outbreak investigation paper
-doi: 10.3201/eid0602.009918
 pmid: 10756159
 pmcid: PMC2640852
+doi: 10.3201/eid0602.009918
 ---
 
 # Norwalk-like Viral Gastroenteritis Outbreak in U.S. Army Trainees
@@ -60,4 +57,3 @@ The risk is overclaiming the vehicle/source beyond what epidemiology and specime
 
 ## Vault conclusion
 Arness et al. 2000 supports a norovirus-like outbreak investigation rung. It is useful for outbreak attribution but not for exact-source certainty.
-

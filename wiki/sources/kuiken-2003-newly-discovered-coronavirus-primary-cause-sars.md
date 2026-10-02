@@ -1,11 +1,7 @@
 ---
-title: >-
-  Newly Discovered Coronavirus as the Primary Cause of Severe Acute Respiratory
-  Syndrome
+title: Newly Discovered Coronavirus as the Primary Cause of Severe Acute Respiratory Syndrome
 category: source
-summary: >-
-  2003 Lancet paper combining multicentre SARS-CoV testing with cynomolgus
-  macaque challenge, pathology, virus detection, and re-isolation endpoints.
+summary: 2003 Lancet paper combining multicentre SARS-CoV testing with cynomolgus macaque challenge, pathology, virus detection, and re-isolation endpoints.
 tags:
   - animal-challenge
   - coronavirus
@@ -20,7 +16,7 @@ tags:
   - sars-cov
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -62,4 +58,3 @@ The risk is treating a strong macaque challenge/re-isolation result as if it wer
 
 ## Vault conclusion
 Kuiken et al. 2003 is the strongest SARS source in this pass for experimental pathogenicity: it combines multicentre patient association with cynomolgus macaque challenge, lung pathology, viral localization, RT-PCR, and partial re-isolation. Its main boundary is artificial combined-route exposure without a sham-inoculated macaque comparator.
-

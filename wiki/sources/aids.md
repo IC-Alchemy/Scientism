@@ -1,9 +1,7 @@
 ---
 title: AIDS
 category: source
-summary: >-
-  Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation
-  arguments, especially drug-toxicity and AZT-toxicity claims.
+summary: Briefing-style note summarizing Peter Duesberg's dissenting HIV/AIDS-causation arguments, especially drug-toxicity and AZT-toxicity claims.
 tags:
   - aids
   - aids-associated-death
@@ -16,11 +14,11 @@ tags:
   - hiv-aids-dispute
   - inferential-dispute
   - virology
-source_path: raw/AIDS.md
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: medical
 source_tier: tier-3
+source_path: raw/AIDS.md
 ---
 
 # AIDS
@@ -28,7 +26,8 @@ source_tier: tier-3
 ## TL;DR
 This raw file is a briefing note about Peter Duesberg's book *Inventing the AIDS Virus*. It is a research lead on HIV/AIDS causation disputes and AZT-toxicity arguments, not a source that can settle those disputes by itself.
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Source triage
 - Type: commentary on a controversial book

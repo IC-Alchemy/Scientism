@@ -1,10 +1,7 @@
 ---
 title: Gutknecht Letter Questions 7-9
 category: synthesis
-summary: >-
-  Direct-study audit of the Gutknecht letter's questions about hemophiliac
-  survival, recreational drugs or AZT as causes of AIDS, and the ethics of
-  prescribing AZT.
+summary: Direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT.
 tags:
   - aids
   - azt
@@ -16,7 +13,7 @@ tags:
   - survival-analysis
   - treatment-center
 sources: 42
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: unresolved
 claim_type: medical
 ---
@@ -25,9 +22,11 @@ claim_type: medical
 
 Scope: This page addresses only questions 7-9 from [[sources/congressman-questions-aids-in-letter]]. It is rebuilt from identifier-level API lookups in `wiki/synthesis/gutknecht-letter-questions-7-9-api-lookups.json`, `wiki/synthesis/gutknecht-letter-questions-7-9-api-lookups.csv`, and `wiki/synthesis/gutknecht-letter-questions-7-9-lens-lookups.json`, then filtered under this vault's direct-evidence standard.
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
-> Note: Agency, regulatory, and MMWR records below are used only for primary chronology or surveillance-document value. They are not treated as authority proof of biomedical causation.
+> [!note] Note
+> Agency, regulatory, and MMWR records below are used only for primary chronology or surveillance-document value. They are not treated as authority proof of biomedical causation.
 
 ## API lookup and triage notes
 - The batch script `scripts/gutknecht_pmid_doi_lookup.py` performed one PubMed PMID or DOI lookup per candidate paper and wrote JSON plus CSV output; the Lens helper also wrote a Lens metadata JSON dump for the same PMID set.
@@ -39,7 +38,8 @@ Scope: This page addresses only questions 7-9 from [[sources/congressman-questio
 ### Status
 Unresolved. The direct studies below support narrower findings: hemophilia survival improved before the HIV era, and HIV-era mortality signals appear in U.S., UK, Dutch, and hemophilia natural-history cohorts. They do not close every causation question.
 
-> Note: The exact letter statistic that American hemophiliacs' median life expectancy rose from 11 in 1972 to 27 in 1987 remains unresolved in this audit. [[sources/johnson-1985-aids-among-hemophilia-treatment-center-patients]] supports related U.S. treatment-center and mortality facts, but full text is needed before converting that into the letter's exact statistic.
+> [!note] Note
+> The exact letter statistic that American hemophiliacs' median life expectancy rose from 11 in 1972 to 27 in 1987 remains unresolved in this audit. [[sources/johnson-1985-aids-among-hemophilia-treatment-center-patients]] supports related U.S. treatment-center and mortality facts, but full text is needed before converting that into the letter's exact statistic.
 
 ### Direct-study register
 | Source | Study type | Sample / subjects | Exposure or intervention | Comparator / control | Endpoint | Result | Main limitation |

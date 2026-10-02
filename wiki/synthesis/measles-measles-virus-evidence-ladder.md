@@ -1,10 +1,7 @@
 ---
 title: Measles to Measles Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source measles research pass separating failed blood inoculation,
-  respiratory-material monkey challenge, pathology endpoints, tissue-culture
-  isolation, serology, plaque assay, and ordinary transmission limits.
+summary: Source-by-source measles research pass separating failed blood inoculation, respiratory-material monkey challenge, pathology endpoints, tissue-culture isolation, serology, plaque assay, and ordinary transmission limits.
 tags:
   - animal-challenge
   - causation
@@ -17,14 +14,15 @@ tags:
   - serology
   - tissue-culture
 sources: 7
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Measles to Measles Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make vaccination, exposure-management, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make vaccination, exposure-management, or treatment recommendations.
 
 ## Current answer
 The measles -> measles virus row can now move from candidate status to a started evidence ladder. The full-text set in this pass supports a mixed pattern: early blood-inoculation attempts failed, respiratory-material monkey inoculation produced a reproducible measles-like syndrome, tissue culture later recovered cytopathogenic agents from patient blood or throat washings, and later plaque assays characterized measles-virus replication.

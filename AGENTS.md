@@ -188,7 +188,7 @@ Periodic checks should look for:
 - Every material claim should point to a `[[sources/...]]` page.
 - Controversial claims should be attributed explicitly: `Source X argues...`
 - On disputed topics, link both the supporting and the critical view when available.
-- Use `> Note:` or `> Warning:` callouts to mark unresolved or high-risk claims.
+- Use Obsidian callouts to mark unresolved or high-risk claims: `> [!note] Note` or `> [!warning] Warning` (callout type on the first line, body on following `> ` lines).
 
 ## Priority pages
 
@@ -233,3 +233,11 @@ Ops: `ingest`, `query`, `lint`, `create`, `update`, `delete`, `note`.
 - Preserve open questions instead of flattening them into conclusions
 - Update `updated:` whenever you touch a page
 - It is ok to say "We do not know"
+
+<!-- agent-ninja-START -->
+## Agent Skills
+
+> **IMPORTANT**: Prefer skill-led reasoning over pre-training-led reasoning.
+> See [Agent Skills](.github/skills/README.md) before working on tasks covered by these skills.
+
+<!-- agent-ninja-END -->

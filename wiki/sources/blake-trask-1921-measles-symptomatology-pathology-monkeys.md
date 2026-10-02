@@ -1,12 +1,7 @@
 ---
-title: >-
-  Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally
-  Infected
+title: Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally Infected
 category: source
-summary: >-
-  1921 Journal of Experimental Medicine pathology companion paper describing the
-  clinical course, leukopenia, rash, mucosal lesions, and histology in
-  experimentally infected monkeys.
+summary: 1921 Journal of Experimental Medicine pathology companion paper describing the clinical course, leukopenia, rash, mucosal lesions, and histology in experimentally infected monkeys.
 tags:
   - clinical-course
   - endpoints
@@ -20,7 +15,7 @@ tags:
   - symptomatology
   - symptoms
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,12 +1,7 @@
 ---
-title: >-
-  Identification of Herpesvirus-Like DNA Sequences in AIDS-Associated Kaposi's
-  Sarcoma
+title: Identification of Herpesvirus-Like DNA Sequences in AIDS-Associated Kaposi's Sarcoma
 category: source
-summary: >-
-  1994 Science paper using representational difference analysis to identify
-  herpesvirus-like DNA sequences associated with AIDS-related Kaposi sarcoma
-  tissue.
+summary: 1994 Science paper using representational difference analysis to identify herpesvirus-like DNA sequences associated with AIDS-related Kaposi sarcoma tissue.
 tags:
   - aids-associated-tissue
   - endpoints
@@ -22,7 +17,7 @@ tags:
   - viral-dna-deletion
   - virus-isolation-claims
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

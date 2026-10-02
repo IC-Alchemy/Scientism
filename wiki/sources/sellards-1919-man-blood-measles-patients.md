@@ -1,9 +1,7 @@
 ---
 title: Insusceptibility of Man to Inoculation with Blood from Measles Patients
 category: source
-summary: >-
-  1919 Johns Hopkins Hospital Bulletin human-volunteer study reporting failure
-  to produce clinical measles by inoculating blood from measles patients.
+summary: 1919 Johns Hopkins Hospital Bulletin human-volunteer study reporting failure to produce clinical measles by inoculating blood from measles patients.
 tags:
   - blood-inoculation
   - endpoints
@@ -16,7 +14,7 @@ tags:
   - susceptibility-testing
   - transmission
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,9 +1,7 @@
 ---
 title: Hand-Foot-and-Mouth Disease in Birmingham in 1959
 category: source
-summary: >-
-  1960 BMJ outbreak report describing a Birmingham hand-foot-and-mouth disease
-  outbreak and Coxsackie A16 isolation from one hand-vesicle sample.
+summary: 1960 BMJ outbreak report describing a Birmingham hand-foot-and-mouth disease outbreak and Coxsackie A16 isolation from one hand-vesicle sample.
 tags:
   - birmingham-1959
   - coxackie-a16
@@ -15,14 +13,14 @@ tags:
   - vesicle-fluid
   - virus-isolation
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary HFMD outbreak and Coxsackie A16 isolation paper
-doi: 10.1136/bmj.2.5214.1708
 pmid: 13682692
 pmcid: PMC2098292
+doi: 10.1136/bmj.2.5214.1708
 ---
 
 # Hand-Foot-and-Mouth Disease in Birmingham in 1959
@@ -58,4 +56,3 @@ The risk is treating one isolate as proof that every similar HFMD presentation i
 
 ## Vault conclusion
 Alsop et al. 1960 supports an early Coxsackie A16 lesion-isolation rung for HFMD. It should be cited narrowly as evidence of virus recovery from a clinically typical lesion, not as a universal HFMD causation proof.
-

@@ -1,10 +1,7 @@
 ---
 title: Viral Gastroenteritis to Rotavirus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source rotavirus research pass separating pediatric mucosal antigen,
-  hospitalized-child association, adult oral challenge, cell-culture isolation,
-  and natural-transmission limits.
+summary: Source-by-source rotavirus research pass separating pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, and natural-transmission limits.
 tags:
   - cell-culture-isolation
   - evidence-ladder
@@ -16,14 +13,15 @@ tags:
   - rotavirus
   - stool-detection
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Viral Gastroenteritis to Rotavirus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or vaccine recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or vaccine recommendations.
 
 ## Current answer
 The viral gastroenteritis -> rotavirus row can move from open status to a started evidence ladder:
@@ -54,4 +52,3 @@ Rotavirus should be presented as a multi-rung attribution chain. The manuscript 
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

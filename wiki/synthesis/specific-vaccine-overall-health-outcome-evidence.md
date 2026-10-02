@@ -1,9 +1,7 @@
 ---
 title: Specific Vaccine Overall Health Outcome Evidence
 category: synthesis
-summary: >-
-  Current best direct evidence that a specific vaccine improved broader health
-  outcomes, centered on the PCV9 Gambia randomized trial.
+summary: Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial.
 tags:
   - all-cause-mortality
   - endpoints
@@ -15,7 +13,7 @@ tags:
   - randomized-trials
   - vaccines
 sources: 6
-updated: 2026-05-21T00:00:00.000Z
+updated: 2026-05-21
 claim_status: supported
 claim_type: medical
 ---
@@ -27,7 +25,8 @@ The clearest evidence found so far is [[sources/cutts-2005-pcv9-gambia-rct]]. It
 
 This is not evidence that "all vaccines" or "the whole childhood vaccination schedule" improves overall health. It is evidence that one specific vaccine, in one setting, improved broader health endpoints.
 
-> Warning: This page is a research audit, not medical advice.
+> [!warning] Warning
+> This page is a research audit, not medical advice.
 
 ## What evidence has been found so far
 

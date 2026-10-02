@@ -1,12 +1,7 @@
 ---
-title: >-
-  Visualization by Immune Electron Microscopy of a 27-nm Particle Associated
-  with Acute Infectious Nonbacterial Gastroenteritis
+title: Visualization by Immune Electron Microscopy of a 27-nm Particle Associated with Acute Infectious Nonbacterial Gastroenteritis
 category: source
-summary: >-
-  1972 J Virol paper visualizing a 27-nm particle associated with the Norwalk
-  acute infectious nonbacterial gastroenteritis agent by immune electron
-  microscopy.
+summary: 1972 J Virol paper visualizing a 27-nm particle associated with the Norwalk acute infectious nonbacterial gastroenteritis agent by immune electron microscopy.
 tags:
   - gastroenteritis
   - immune-electron-microscopy
@@ -16,14 +11,14 @@ tags:
   - outbreak
   - particle-visualization
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary Norwalk-agent particle and serology paper
-doi: 10.1128/jvi.10.5.1075-1081.1972
 pmid: 4117963
 pmcid: PMC356579
+doi: 10.1128/jvi.10.5.1075-1081.1972
 ---
 
 # Visualization by Immune Electron Microscopy of a 27-nm Particle Associated with Acute Infectious Nonbacterial Gastroenteritis
@@ -58,4 +53,3 @@ The risk is treating one prototype outbreak particle as the whole norovirus dise
 
 ## Vault conclusion
 Kapikian et al. 1972 supports a Norwalk-agent particle and serologic-association rung. It should be paired with challenge, outbreak, and culture-system evidence.
-

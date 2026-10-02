@@ -1,9 +1,7 @@
 ---
 title: Reactivated and Latent Varicella-Zoster Virus in Human Dorsal Root Ganglia
 category: source
-summary: >-
-  1995 PNAS human ganglia study detecting VZV nucleic acid and protein in
-  latent/reactivated dorsal-root ganglia with controls.
+summary: 1995 PNAS human ganglia study detecting VZV nucleic acid and protein in latent/reactivated dorsal-root ganglia with controls.
 tags:
   - detection-in-ganglia
   - dorsal-root-ganglia
@@ -13,14 +11,14 @@ tags:
   - varicella-zoster-virus
   - vzv
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary VZV human ganglia latency/reactivation paper
-doi: 10.1073/pnas.92.24.10980
 pmid: 7479921
 pmcid: PMC40554
+doi: 10.1073/pnas.92.24.10980
 ---
 
 # Reactivated and Latent Varicella-Zoster Virus in Human Dorsal Root Ganglia
@@ -53,4 +51,3 @@ The risk is treating ganglionic detection as a complete mechanism of reactivatio
 
 ## Vault conclusion
 Lungu et al. 1995 supports a human ganglionic VZV latency/reactivation rung, not a full trigger mechanism.
-

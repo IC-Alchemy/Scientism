@@ -1,9 +1,7 @@
 ---
 title: Cell Culture
 category: concept
-summary: >-
-  Cell culture is a laboratory method whose evidentiary meaning depends on
-  controls, media conditions, and the specific endpoint being claimed.
+summary: Cell culture is a laboratory method whose evidentiary meaning depends on controls, media conditions, and the specific endpoint being claimed.
 tags:
   - cell-culture
   - culture-conditions
@@ -12,14 +10,15 @@ tags:
   - virology
   - virology-methodology
 sources: 4
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: unresolved
 claim_type: medical
 ---
 
 # Cell Culture
 
-> Note: Cell culture is a method, not a conclusion. In this vault it matters mainly because several disputed sources claim too much from cell-culture effects alone.
+> [!note] Note
+> Cell culture is a method, not a conclusion. In this vault it matters mainly because several disputed sources claim too much from cell-culture effects alone.
 
 ## Definition
 Cell culture refers to laboratory methods that maintain cells under controlled conditions so that responses, growth, damage, or other effects can be observed.
@@ -37,11 +36,20 @@ In the current source slice, cell culture appears mainly in arguments about viro
 - What was the measured endpoint?
 - Were negative controls run under comparable conditions?
 - Does the observed effect establish only cell damage, or also the existence and causal role of a specific agent?
+### Why critics dispute that interpretation
 
+There are several technical criticisms that have been raised over the years:
+
+- A cytopathic effect does not uniquely identify a virus. Cells can die for many reasons, including toxic components, culture conditions, contamination, or other stressors.
+- Tissue culture is an artificial system. If the culture conditions themselves can damage cells, then observing cell death is not, by itself, proof of viral replication.
+- The preparation is not chemically pure. Patient tissue contains proteins, nucleic acids, extracellular vesicles, metabolites, and many other components.
+- The experiment demonstrates an infectious phenomenon in culture, but critics argue it does not, by itself, establish that a purified viral particle is the causal agent in human paralytic disease.
+
+Those are legitimate points to examine when evaluating the evidential strength of the experiment.
 ## What this wiki currently concludes
 - Cell culture can generate real observations, but those observations do not interpret themselves.
 - In disputed medical topics, the main danger is moving from a laboratory effect to a much broader causation claim without enough intermediate support.
 
-## Related pages
+## Related
 - [[concepts/virus-isolation]]
 - [[concepts/inferential-leap]]

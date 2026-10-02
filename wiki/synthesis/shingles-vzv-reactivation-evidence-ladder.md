@@ -1,10 +1,7 @@
 ---
 title: Shingles to VZV Reactivation Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source shingles research pass separating varicella-zoster cultural
-  similarity, ganglionic latency, neuronal localization, latent transcription,
-  active ganglionitis, and reactivation-trigger limits.
+summary: Source-by-source shingles research pass separating varicella-zoster cultural similarity, ganglionic latency, neuronal localization, latent transcription, active ganglionitis, and reactivation-trigger limits.
 tags:
   - evidence-ladder
   - evidence-standard
@@ -16,14 +13,15 @@ tags:
   - shingles
   - varicella-zoster-virus
 sources: 5
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Shingles to VZV Reactivation Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or vaccine recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or vaccine recommendations.
 
 ## Current answer
 The shingles -> VZV reactivation row can move from candidate status to a started evidence ladder:
@@ -59,4 +57,3 @@ Shingles should be presented as a latency/reactivation ladder, not merely as a r
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

@@ -1,9 +1,7 @@
 ---
 title: Shingles, VZV Causation, and Vaccine Trial Audit
 category: synthesis
-summary: >-
-  Endpoint-level shortlist for shingles etiology, foundational varicella-zoster
-  experiments, and modern zoster vaccine clinical trials.
+summary: Endpoint-level shortlist for shingles etiology, foundational varicella-zoster experiments, and modern zoster vaccine clinical trials.
 tags:
   - causation
   - herpes-zoster
@@ -15,14 +13,15 @@ tags:
   - vaccine-trials
   - varicella-zoster-virus
 sources: 18
-updated: 2026-05-08T00:00:00.000Z
+updated: 2026-05-08
 claim_status: unresolved
 claim_type: medical
 ---
 
 # Shingles, VZV Causation, and Vaccine Trial Audit
 
-> Warning: This page is a research audit, not medical advice. It separates direct experimental or observational endpoints from broader claims about shingles causation, latency, reactivation, vaccine efficacy, or overall health.
+> [!warning] Warning
+> This page is a research audit, not medical advice. It separates direct experimental or observational endpoints from broader claims about shingles causation, latency, reactivation, vaccine efficacy, or overall health.
 
 ## Question
 What direct-study evidence is available for the etiology of shingles, foundational causation claims involving varicella-zoster virus, and modern shingles vaccine trials?
@@ -89,7 +88,7 @@ The main leap risk is converting a chain of narrower findings into a single stro
 
 The current vault wording should therefore say that specific endpoints are supported or unresolved, not that the whole causation story is settled by any one paper.
 
-## Related pages
+## Related
 - [[synthesis/virus-disease-attribution-audit-worklist]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/failed-virus-causation-attempts-register]]

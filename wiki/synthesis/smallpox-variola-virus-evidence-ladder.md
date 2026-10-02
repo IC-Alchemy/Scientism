@@ -1,10 +1,7 @@
 ---
 title: Smallpox to Variola Virus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source smallpox research pass separating variola animal inoculation,
-  route boundaries, egg propagation, mouse lung recovery, contact/aerosol monkey
-  transmission, and simian-reservoir limits.
+summary: Source-by-source smallpox research pass separating variola animal inoculation, route boundaries, egg propagation, mouse lung recovery, contact/aerosol monkey transmission, and simian-reservoir limits.
 tags:
   - animal-challenge
   - embryonated-egg-propagation
@@ -18,14 +15,15 @@ tags:
   - transmission
   - variola
 sources: 7
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Smallpox to Variola Virus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make vaccination, exposure-management, or treatment recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make vaccination, exposure-management, or treatment recommendations.
 
 ## Current answer
 The smallpox -> variola virus row can now move from candidate status to a started evidence ladder. The full-text set in this pass supports several distinct rungs: artificial variola inoculation in nonhuman primates, mouse nasal-route and lung-recovery boundaries, embryonated-egg propagation and stability, one-day fertile-egg growth, experimental monkey contact/aerosol transmission, and a negative simian-reservoir assessment.

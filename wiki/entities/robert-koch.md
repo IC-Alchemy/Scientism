@@ -1,9 +1,7 @@
 ---
 title: Robert Koch
 category: entity
-summary: >-
-  Historical scientist whose laboratory methods and later reputation are central
-  to this vault's questions about causal-proof standards in germ-theory history.
+summary: Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history.
 tags:
   - causal-proof-standards
   - causation
@@ -17,7 +15,7 @@ tags:
   - robert-koch
   - tissue-evidence
 sources: 3
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: unresolved
 claim_type: historical
 ---

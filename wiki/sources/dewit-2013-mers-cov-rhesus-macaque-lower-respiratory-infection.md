@@ -1,10 +1,7 @@
 ---
 title: MERS-CoV Causes Transient Lower Respiratory Tract Infection in Rhesus Macaques
 category: source
-summary: >-
-  2013 PNAS experimental challenge paper reporting transient lower-respiratory
-  infection, lung pathology, viral RNA, and viral antigen after high-dose
-  combined-route MERS-CoV exposure in rhesus macaques.
+summary: 2013 PNAS experimental challenge paper reporting transient lower-respiratory infection, lung pathology, viral RNA, and viral antigen after high-dose combined-route MERS-CoV exposure in rhesus macaques.
 tags:
   - animal-challenge
   - bronchoalveolar-lavage
@@ -17,14 +14,14 @@ tags:
   - qrt-pcr
   - rhesus-macaque
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary MERS-CoV nonhuman-primate challenge paper
-doi: 10.1073/pnas.1310744110
 pmid: 24062443
 pmcid: PMC3799368
+doi: 10.1073/pnas.1310744110
 ---
 
 # MERS-CoV Causes Transient Lower Respiratory Tract Infection in Rhesus Macaques
@@ -61,4 +58,3 @@ The risk is translating a high-dose combined-route macaque model into ordinary h
 
 ## Vault conclusion
 de Wit et al. 2013 supports a primary MERS-CoV animal-challenge rung: MERS-CoV can replicate in the lower respiratory tract and produce transient lung disease in rhesus macaques under artificial combined-route exposure. It does not settle ordinary human route, dose, or full clinical causation.
-

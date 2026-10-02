@@ -1,7 +1,5 @@
 ---
-title: >-
-  Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men - New York
-  City and California
+title: Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men - New York City and California
 category: source
 summary: Primary surveillance case report relevant to Gutknecht letter Q8 chronology.
 tags:
@@ -16,13 +14,12 @@ tags:
   - mortality
   - pneumocystis-pneumonia
   - pre-azt-era
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary surveillance case report
 pmid: 6789108
-doi: null
 ---
 
 # Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men - New York City and California
@@ -34,7 +31,8 @@ doi: null
 - Publication types: Journal Article
 - Authors in API output: Centers for Disease Control (CDC)
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -47,7 +45,7 @@ doi: null
 | Result | Records additional AIDS-defining clinical clusters in 1981 before AZT approval. |
 | Main limitation | Early surveillance case report with incomplete causal model. |
 
-## What this source can answer
+## What the source can answer
 Adds a second primary pre-AZT chronology anchor.
 
 ## What it cannot answer
@@ -56,7 +54,7 @@ Does not adjudicate mechanism.
 ## Abstract status
 PubMed has no abstract; MMWR full text is needed for case details.
 
-## API abstract
+## Indexed abstract
 The PubMed lookup did not provide an abstract. Use the primary full text before relying on case details.
 
 ## Related

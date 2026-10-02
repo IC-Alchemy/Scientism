@@ -1,10 +1,7 @@
 ---
 title: Edward Jenner's Smallpox Paper (1798)
 category: source
-summary: >-
-  A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and
-  argues that the original record is more ambiguous than later triumphal
-  retellings suggest.
+summary: A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and argues that the original record is more ambiguous than later triumphal retellings suggest.
 tags:
   - 1798-inquiry
   - case-ambiguity
@@ -15,16 +12,16 @@ tags:
   - source
   - vaccination
   - variolation-challenge
-source_path: raw/Edward Jenner’s Smallpox Paper (1798).md
-source_date: 2022-02-03T00:00:00.000Z
-authors:
-  - ViroLIEgy
 sources: 1
-ingested: 2026-05-04T00:00:00.000Z
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: disputed
 claim_type: historical
 source_tier: tier-3
+source_path: raw/Edward Jenner’s Smallpox Paper (1798).md
+source_date: 2022-02-03
+authors:
+  - viroliegy
+ingested: 2026-05-04
 ---
 
 # Edward Jenner's Smallpox Paper (1798)
@@ -32,9 +29,10 @@ source_tier: tier-3
 ## TL;DR
 This raw source is a modern commentary page by ViroLIEgy built around long excerpts from Jenner's 1798 *Inquiry*. It argues that Jenner's own cases contain exceptions, theory drift, and observational ambiguity that should limit stronger claims made later about vaccination and causal understanding.
 
-> Warning: This is a Tier 3 interpretive source. It can open questions about Jenner's evidence, but it cannot by itself settle the history.
+> [!warning] Warning
+> This is a Tier 3 interpretive source. It can open questions about Jenner's evidence, but it cannot by itself settle the history.
 
-## Source type and scope
+## Source type
 - Commentary source built around excerpts from a primary historical document.
 - The raw page mixes direct quotations from Jenner with the author's own skeptical interpretation.
 - The underlying primary source is [[entities/edward-jenner]]'s 1798 inquiry on cowpox inoculation and subsequent smallpox challenge.

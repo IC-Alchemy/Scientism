@@ -1,11 +1,7 @@
 ---
-title: >-
-  A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer
-  Biopsy Samples
+title: A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer Biopsy Samples
 category: source
-summary: >-
-  1983 PNAS paper cloning HPV16 DNA from a cervical carcinoma and surveying
-  HPV16-homologous DNA in genital tumors.
+summary: 1983 PNAS paper cloning HPV16 DNA from a cervical carcinoma and surveying HPV16-homologous DNA in genital tumors.
 tags:
   - cervical-cancer
   - endpoints
@@ -16,7 +12,7 @@ tags:
   - tumor-dna
   - tumor-hpv-association
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

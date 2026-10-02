@@ -1,10 +1,7 @@
 ---
 title: Louis Pasteur
 category: entity
-summary: >-
-  Historical scientist whose work in this vault is treated as a disputed case
-  study in the gap between experiment, treatment claims, and later historical
-  narrative.
+summary: Historical scientist whose work in this vault is treated as a disputed case study in the gap between experiment, treatment claims, and later historical narrative.
 tags:
   - biology
   - ethical-evidence
@@ -18,7 +15,7 @@ tags:
   - rabies-paper
   - treatment-claims
 sources: 4
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: unresolved
 claim_type: historical
 ---
@@ -42,7 +39,6 @@ The current vault has not yet ingested direct Pasteur fermentation sources, so f
 - Pasteur remains an unresolved case in this vault.
 - Current Pasteur-related pages mostly concern rabies-history dispute leads, and the rabies source base is still too thin for direct experiment-level conclusions.
 - Any future Pasteur claim should name the experiment, subject or material, comparator, endpoint, result, and limitation before it is used in synthesis.
-
 
 ## Related
 - [[concepts/germ-theory]]

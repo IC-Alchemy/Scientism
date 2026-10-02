@@ -1,10 +1,7 @@
 ---
 title: Pasteur's Researches on Rabies
 category: source
-summary: >-
-  A pointer to an 1886 BMJ report on Pasteur's rabies work, currently
-  represented in the raw vault as a short bibliographic note rather than a
-  developed summary.
+summary: A pointer to an 1886 BMJ report on Pasteur's rabies work, currently represented in the raw vault as a short bibliographic note rather than a developed summary.
 tags:
   - 1886-bmj-report
   - british-medical-journal
@@ -15,16 +12,16 @@ tags:
   - preventive-inoculation
   - rabies
   - source
-source_path: raw/Pasteur’s Researches on Rabies.md
-source_date: 1886-04-17T00:00:00.000Z
-authors:
-  - British Medical Journal
 sources: 1
-ingested: 2026-05-04T00:00:00.000Z
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: medical
 source_tier: tier-2
+source_path: raw/Pasteur’s Researches on Rabies.md
+source_date: 1886-04-17
+authors:
+  - british medical journal
+ingested: 2026-05-04
 ---
 
 # Pasteur's Researches on Rabies
@@ -32,9 +29,10 @@ source_tier: tier-2
 ## TL;DR
 The raw vault file is a stub that points to an 1886 BMJ report on Pasteur's work on rabies and preventive inoculation. It is relevant because it may preserve near-contemporary reporting on the treatment claims, but the current raw note does not yet provide enough detail for strong conclusions.
 
-> Note: This page is intentionally conservative because the raw note contains only bibliographic scaffolding and images, not the report text itself.
+> [!note] Note
+> This page is intentionally conservative because the raw note contains only bibliographic scaffolding and images, not the report text itself.
 
-## Source type and scope
+## Source type
 - Near-contemporary secondary report.
 - Likely summarizes Pasteur's treatment claims and reported outcomes as understood in 1886.
 - Not the same thing as Pasteur's full laboratory notebooks or a modern historical analysis.

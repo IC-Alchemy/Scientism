@@ -1,20 +1,20 @@
 ---
-tags:
-  - falsifiability
-  - replication-crisis
-  - methodological-boundary
-  - pseudoscience-criteria
-  - scientific-method-critique
-  - virology-critique
-  - virology-debate
-  - commentary
----
-
----
-title: ViroLIEgy 101: The Scientific Method
+title: 'ViroLIEgy 101: The Scientific Method'
 category: source
 summary: Tier 3 commentary arguing that a fixed scientific method is the boundary between science and pseudoscience, with virology presented as a failing case.
-tags: [scientific-method, virology, pseudoscience, tier-3, commentary]
+tags:
+  - commentary
+  - falsifiability
+  - methodological-boundary
+  - pseudoscience
+  - pseudoscience-criteria
+  - replication-crisis
+  - scientific-method
+  - scientific-method-critique
+  - tier-3
+  - virology
+  - virology-critique
+  - virology-debate
 sources: 1
 updated: 2026-05-04
 claim_status: disputed
@@ -31,7 +31,8 @@ source_tier: tier-3
 - Published in source metadata: 2024-02-29
 - Source type in this vault: Tier 3 commentary and research lead
 
-> Warning: This page summarizes a Tier 3 commentary source. It can seed questions and comparison work, but it does not by itself justify factual conclusions about virology, germ theory, or the history and philosophy of science.
+> [!warning] Warning
+> This page summarizes a Tier 3 commentary source. It can seed questions and comparison work, but it does not by itself justify factual conclusions about virology, germ theory, or the history and philosophy of science.
 
 ## What the source claims
 

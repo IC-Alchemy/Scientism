@@ -1,10 +1,7 @@
 ---
 title: Infectious Gastroenteritis Outbreaks to Norovirus Evidence Ladder
 category: synthesis
-summary: >-
-  Source-by-source norovirus research pass separating Norwalk particle
-  visualization, human challenge, outbreak investigation, enteroid replication,
-  and PCR-versus-infectiousness limits.
+summary: Source-by-source norovirus research pass separating Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, and PCR-versus-infectiousness limits.
 tags:
   - enterovirus-enteroid
   - evidence-ladder
@@ -17,14 +14,15 @@ tags:
   - outbreak
   - pcr-infectiousness-limits
 sources: 4
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: unresolved
 claim_type: empirical
 ---
 
 # Infectious Gastroenteritis Outbreaks to Norovirus Evidence Ladder
 
-> Warning: This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or infection-control recommendations.
+> [!warning] Warning
+> This page is a research synthesis, not medical advice. It does not make diagnosis, treatment, exposure-management, or infection-control recommendations.
 
 ## Current answer
 The infectious gastroenteritis outbreaks -> norovirus row can move from open status to a started evidence ladder:
@@ -55,4 +53,3 @@ Norovirus should be presented as a multi-rung chain: prototype particle/serology
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
-

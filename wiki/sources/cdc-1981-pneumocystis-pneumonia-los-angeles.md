@@ -9,13 +9,12 @@ tags:
   - hiv
   - mmwr-case-report
   - pneumocystis-pneumonia
-updated: 2026-05-05T00:00:00.000Z
+updated: 2026-05-05
 claim_status: exploratory
 claim_type: historical
 source_tier: tier-1
 evidence_role: primary surveillance case report
 pmid: 6265753
-doi: null
 ---
 
 # Pneumocystis pneumonia - Los Angeles
@@ -27,7 +26,8 @@ doi: null
 - Publication types: Case Reports; Journal Article
 - Authors in API output: Centers for Disease Control (CDC)
 
-> Warning: This page is for research analysis only. It is not medical advice.
+> [!warning] Warning
+> This page is for research analysis only. It is not medical advice.
 
 ## Vault extraction
 | Field | Value |
@@ -40,7 +40,7 @@ doi: null
 | Result | Records PCP cases and deaths before published human AZT use. |
 | Main limitation | Small case report and the AIDS label was not yet established. |
 
-## What this source can answer
+## What the source can answer
 Establishes pre-AZT AIDS-defining illness chronology.
 
 ## What it cannot answer
@@ -49,7 +49,7 @@ Does not establish full AIDS causation.
 ## Abstract status
 PubMed has no abstract; MMWR full text is needed for case details.
 
-## API abstract
+## Indexed abstract
 The PubMed lookup did not provide an abstract. Use the primary full text before relying on case details.
 
 ## Related

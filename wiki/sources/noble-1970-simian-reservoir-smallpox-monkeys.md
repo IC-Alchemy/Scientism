@@ -1,12 +1,7 @@
 ---
-title: >-
-  A Study of New and Old World Monkeys to Determine the Likelihood of a Simian
-  Reservoir of Smallpox
+title: A Study of New and Old World Monkeys to Determine the Likelihood of a Simian Reservoir of Smallpox
 category: source
-summary: >-
-  1970 Bulletin of the World Health Organization paper testing monkey
-  susceptibility and serologic evidence for a possible simian smallpox
-  reservoir.
+summary: 1970 Bulletin of the World Health Organization paper testing monkey susceptibility and serologic evidence for a possible simian smallpox reservoir.
 tags:
   - host-range
   - monkeys
@@ -18,7 +13,7 @@ tags:
   - smallpox
   - variola
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

@@ -1,10 +1,7 @@
 ---
 title: The Susceptibility of Swine to the Virus of Human Influenza
 category: source
-summary: >-
-  1936 Journal of Experimental Medicine paper testing human influenza virus
-  strains in swine by intranasal inoculation, serial passage, bacterial
-  co-exposure, contact exposure, mouse infectivity, and serology.
+summary: 1936 Journal of Experimental Medicine paper testing human influenza virus strains in swine by intranasal inoculation, serial passage, bacterial co-exposure, contact exposure, mouse infectivity, and serology.
 tags:
   - animal-challenge
   - contact-transfer
@@ -18,7 +15,7 @@ tags:
   - swine
   - transmission
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
@@ -36,7 +33,8 @@ doi: 10.1084/jem.64.5.791
 - Authors: Richard E. Shope, Thomas Francis Jr.
 - Source basis in hand: Europe PMC full-text OCR/JATS record for PMCID `PMC2133454`
 
-> Warning: The Europe PMC OCR contains minor character noise. The extraction below uses fields that are clear in the article text and abstract.
+> [!warning] Warning
+> The Europe PMC OCR contains minor character noise. The extraction below uses fields that are clear in the article text and abstract.
 
 ## Vault extraction
 | Field | Value |

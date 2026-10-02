@@ -1,10 +1,7 @@
 ---
 title: Viral Disease Causation Evidence Ladder
 category: synthesis
-summary: >-
-  Cross-cutting framework for separating detection, isolation, transmission,
-  animal challenge, molecular, clinical, and intervention evidence in viral
-  disease causation claims.
+summary: Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims.
 tags:
   - causation
   - endpoint-compression
@@ -16,14 +13,15 @@ tags:
   - virology
   - virology-critique
 sources: 120
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: exploratory
 claim_type: methodological
 ---
 
 # Viral Disease Causation Evidence Ladder
 
-> Warning: This page is a methodological synthesis, not medical advice and not a proof page for any single virus-disease pair.
+> [!warning] Warning
+> This page is a methodological synthesis, not medical advice and not a proof page for any single virus-disease pair.
 
 ## Current answer
 The current vault evidence does not support a blanket statement that viral disease causation has either been globally proven or globally refuted. The better answer is disease-specific and endpoint-specific.
@@ -95,7 +93,7 @@ The current evidence in hand supports a methodological conclusion: viral causati
 3. Continue association-heavy rows by filling the remaining EBV/Burkitt, HPV/cervical-cancer, and HHV-8/Kaposi prospective, localization, and cofactor gaps.
 4. Continue the failed-attempt register so positive and non-confirmatory experiments remain visible together.
 
-## Related pages
+## Related
 - [[synthesis/virus-disease-attribution-audit-worklist]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/failed-virus-causation-attempts-register]]

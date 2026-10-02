@@ -1,11 +1,7 @@
 ---
-title: >-
-  Profitable Sacred Cows That Are Clearly Wrong but Profitable Continue Getting
-  Fu
+title: Profitable Sacred Cows That Are Clearly Wrong but Profitable Continue Getting Fu
 category: source
-summary: >-
-  AI-assisted note speculating about how vaccination overcounts and harm
-  undercounts could distort safety and effectiveness analysis.
+summary: AI-assisted note speculating about how vaccination overcounts and harm undercounts could distort safety and effectiveness analysis.
 tags:
   - covid-19
   - data-quality
@@ -17,11 +13,11 @@ tags:
   - vaccination-controversy
   - vaccine
   - vaccines
-source_path: raw/Profitable sacred cows that are clearly wrong but .md
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3
+source_path: raw/Profitable sacred cows that are clearly wrong but .md
 ---
 
 # Profitable Sacred Cows That Are Clearly Wrong but Profitable Continue Getting Fu
@@ -29,7 +25,8 @@ source_tier: tier-3
 ## TL;DR
 This raw file is mostly a user-and-AI exchange about hypothetical statistical distortion. It is low-signal as evidence, but it does point to a real methodological category: denominator quality and under-reporting can affect risk-benefit analysis if the underlying claims are true.
 
-> Warning: This page is for data-quality research only. It is not medical advice.
+> [!warning] Warning
+> This page is for data-quality research only. It is not medical advice.
 
 ## Source triage
 - Type: AI chat and commentary

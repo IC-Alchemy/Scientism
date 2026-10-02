@@ -1,10 +1,7 @@
 ---
 title: Replication of Human Noroviruses in Stem Cell-Derived Human Enteroids
 category: source
-summary: >-
-  2016 Science paper reporting replication of multiple human norovirus strains
-  in stem-cell-derived human intestinal enteroids under strain-dependent
-  conditions.
+summary: 2016 Science paper reporting replication of multiple human norovirus strains in stem-cell-derived human intestinal enteroids under strain-dependent conditions.
 tags:
   - bile-requirement
   - cell-culture
@@ -16,14 +13,14 @@ tags:
   - replication
   - strain-dependent-replication
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary human norovirus enteroid replication paper
-doi: 10.1126/science.aaf5211
 pmid: 27562956
 pmcid: PMC5305121
+doi: 10.1126/science.aaf5211
 ---
 
 # Replication of Human Noroviruses in Stem Cell-Derived Human Enteroids
@@ -58,4 +55,3 @@ The risk is treating cell replication as equivalent to clinical pathogenicity. T
 
 ## Vault conclusion
 Ettayebi et al. 2016 supports a major human norovirus replication-system rung. It should be used for culture feasibility and replication biology, not as standalone clinical causation proof.
-

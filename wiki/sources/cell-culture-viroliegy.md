@@ -1,10 +1,7 @@
 ---
 title: Cell Culture - ViroLIEgy
 category: source
-summary: >-
-  Category-style landing page from ViroLIEgy that signals a critical stance
-  toward virology cell-culture methods but contains little standalone
-  evidentiary detail.
+summary: Category-style landing page from ViroLIEgy that signals a critical stance toward virology cell-culture methods but contains little standalone evidentiary detail.
 tags:
   - category-page
   - cell-culture
@@ -16,7 +13,7 @@ tags:
   - virology
   - virology-methodology
 sources: 1
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 source_tier: tier-3
@@ -25,7 +22,8 @@ source_path: raw/Cell Culture – ViroLIEgy.md
 
 # Cell Culture - ViroLIEgy
 
-> Warning: This raw file is effectively a clipped category or landing page, not a complete article.
+> [!warning] Warning
+> This raw file is effectively a clipped category or landing page, not a complete article.
 
 ## Source type
 Website category page or teaser text from ViroLIEgy.
@@ -34,7 +32,7 @@ Website category page or teaser text from ViroLIEgy.
 - The outlet treats cell culture as a central site of criticism in virology.
 - The page signals that later argument will challenge standard interpretations of cell-culture results.
 
-## What question the source is capable of answering
+## What the source can answer
 It can show that ViroLIEgy organizes part of its argument around cell-culture methodology.
 
 It cannot answer whether any specific methodological criticism is valid, because the clipped page contains almost no developed argument or experiment summary.
@@ -46,6 +44,6 @@ It cannot answer whether any specific methodological criticism is valid, because
 ## Methodology and evidence notes
 - The raw text is only a brief introduction and does not describe controls, endpoints, or specific experiments.
 
-## Related pages
+## Related
 - [[concepts/cell-culture]]
 - [[concepts/virus-isolation]]

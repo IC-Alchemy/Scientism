@@ -1,9 +1,7 @@
 ---
 title: Studies upon Experimental Variola in Monkeys
 category: source
-summary: >-
-  1906 Journal of Medical Research paper testing variola inoculation in macaques
-  and an orangutan across skin, corneal, mucosal, and tracheal routes.
+summary: 1906 Journal of Medical Research paper testing variola inoculation in macaques and an orangutan across skin, corneal, mucosal, and tracheal routes.
 tags:
   - animal-challenge
   - endpoints
@@ -17,7 +15,7 @@ tags:
   - tracheal-inoculation
   - variola
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

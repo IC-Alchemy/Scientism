@@ -1,9 +1,7 @@
 ---
 title: Vault Maintenance Guide
 category: synthesis
-summary: >-
-  Operating guide for maintaining this Obsidian research vault without blurring
-  source quality, experimental scope, or wiki conclusions.
+summary: Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions.
 tags:
   - document-analysis
   - index-updating
@@ -15,7 +13,7 @@ tags:
   - wiki-linting
   - workflow
 sources: 3
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: exploratory
 claim_type: methodological
 ---

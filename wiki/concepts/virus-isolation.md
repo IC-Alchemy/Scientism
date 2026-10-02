@@ -1,10 +1,7 @@
 ---
 title: Virus Isolation
 category: concept
-summary: >-
-  Virus isolation is a disputed methodological term in this vault, especially
-  where sources move from cell-culture findings or mixed samples to broader
-  claims about causation.
+summary: Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation.
 tags:
   - causation-evidence
   - cell-culture-inference
@@ -17,14 +14,15 @@ tags:
   - virology
   - virus-isolation-claims
 sources: 8
-updated: 2026-05-14T00:00:00.000Z
+updated: 2026-05-14
 claim_status: unresolved
 claim_type: medical
 ---
 
 # Virus Isolation
 
-> Warning: This concept appears in high-stakes medical disputes. Current coverage is dominated by Tier 3 critical sources and should not be mistaken for a settled conclusion.
+> [!warning] Warning
+> This concept appears in high-stakes medical disputes. Current coverage is dominated by Tier 3 critical sources and should not be mistaken for a settled conclusion.
 
 ## Definition in this vault
 Virus isolation refers to the methodological question of what counts as adequately separating, identifying, and characterizing a virus for later claims about existence, infectivity, or disease causation.
@@ -53,7 +51,7 @@ The newer causation-ladder page [[synthesis/viral-disease-causation-evidence-lad
 - Current sourcing in this area is mostly Tier 3 and therefore insufficient for firm biomedical conclusions.
 - The methodological source base is now stronger, but the disease-specific conclusion still depends on named study endpoints for each virus-disease pair.
 
-## Related pages
+## Related
 - [[concepts/cell-culture]]
 - [[concepts/inferential-leap]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]

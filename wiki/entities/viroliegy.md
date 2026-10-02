@@ -1,9 +1,7 @@
 ---
 title: ViroLIEgy
 category: entity
-summary: >-
-  A commentary source used repeatedly in this vault for revisionist critiques of
-  virology, smallpox history, Pasteur, and infectious-disease claims.
+summary: A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims.
 tags:
   - commentary
   - germ-theory
@@ -16,7 +14,7 @@ tags:
   - tier-3-sources
   - virology-critique
 sources: 8
-updated: 2026-05-04T00:00:00.000Z
+updated: 2026-05-04
 claim_status: unresolved
 claim_type: rhetorical
 ---

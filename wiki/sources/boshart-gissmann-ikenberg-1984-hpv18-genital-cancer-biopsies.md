@@ -1,12 +1,7 @@
 ---
-title: >-
-  A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical
-  Cancer Cell Lines
+title: A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical Cancer Cell Lines
 category: source
-summary: >-
-  1984 EMBO Journal paper cloning HPV18 from cervical carcinoma material and
-  surveying HPV18 DNA in genital cancers, normal cervix, benign lesions, and
-  cervical-cancer-derived cell lines.
+summary: 1984 EMBO Journal paper cloning HPV18 from cervical carcinoma material and surveying HPV18 DNA in genital cancers, normal cervix, benign lesions, and cervical-cancer-derived cell lines.
 tags:
   - cervical-cancer
   - endpoints
@@ -20,7 +15,7 @@ tags:
   - tandem-repeats
   - tumor-dna
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

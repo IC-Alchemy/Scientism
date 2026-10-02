@@ -1,9 +1,7 @@
 ---
 title: Virus Causation Inferential Leaps
 category: synthesis
-summary: >-
-  Analysis of how foundational virus-disease attribution papers can be extended
-  beyond the question their experiments directly answer.
+summary: Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer.
 tags:
   - causation
   - detection-vs-causation
@@ -14,14 +12,15 @@ tags:
   - virology
   - virus-disease-attribution
 sources: 197
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: exploratory
 claim_type: methodological
 ---
 
 # Virus Causation Inferential Leaps
 
-> Warning: This page is provisional. It analyzes inferential-leap patterns from the current candidate-paper list, not from full source-page ingests of every paper.
+> [!warning] Warning
+> This page is provisional. It analyzes inferential-leap patterns from the current candidate-paper list, not from full source-page ingests of every paper.
 
 ## Why this page exists
 The current [[synthesis/virus-disease-attribution-audit-worklist]] identifies candidate foundational papers for several disease-virus attribution claims. The next question is not only whether those papers exist, but what they actually establish and how later narratives may overextend them.
@@ -264,7 +263,7 @@ After the 2026-05-10 Lens batch, the next high-value source-ingest candidates ar
 - the still-missing HPV/cervical-cancer prospective progression and 1999 "necessary cause" full texts, because they would fill timing and near-universality/assay boundary rungs
 - the remaining EBV/Burkitt localization, timing, and cofactor papers and HHV-8 Kaposi serology/prospective papers, because they are good cases for association-versus-causal-closure analysis
 
-## Related pages
+## Related
 - [[synthesis/virus-disease-attribution-audit-worklist]]
 - [[synthesis/sars-cov-2-covid-causation-audit]]
 - [[synthesis/failed-virus-causation-attempts-register]]

@@ -1,10 +1,7 @@
 ---
 title: Insusceptibility of Monkeys to Inoculation with Blood from Measles Patients
 category: source
-summary: >-
-  1919 Johns Hopkins Hospital Bulletin negative-result monkey study testing
-  whether blood from early measles cases produced measles-like illness in rhesus
-  monkeys.
+summary: 1919 Johns Hopkins Hospital Bulletin negative-result monkey study testing whether blood from early measles cases produced measles-like illness in rhesus monkeys.
 tags:
   - blood-inoculation
   - clinical-observation
@@ -17,7 +14,7 @@ tags:
   - rhesus-macaque
   - transmission
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

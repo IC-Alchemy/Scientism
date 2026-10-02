@@ -1,11 +1,7 @@
 ---
-title: >-
-  Transcripts from a Single Full-Length cDNA Clone of Hepatitis C Virus Are
-  Infectious
+title: Transcripts from a Single Full-Length cDNA Clone of Hepatitis C Virus Are Infectious
 category: source
-summary: >-
-  1997 PNAS paper testing H77 HCV full-length cDNA clone transcripts by direct
-  intrahepatic transfection in chimpanzees.
+summary: 1997 PNAS paper testing H77 HCV full-length cDNA clone transcripts by direct intrahepatic transfection in chimpanzees.
 tags:
   - chimpanzee
   - chimpanzee-challenge
@@ -17,14 +13,14 @@ tags:
   - intrahepatic-transfection
   - molecular-clone
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary HCV infectious molecular-clone chimpanzee paper
-doi: 10.1073/pnas.94.16.8738
 pmid: 9238047
 pmcid: PMC23104
+doi: 10.1073/pnas.94.16.8738
 ---
 
 # Transcripts from a Single Full-Length cDNA Clone of Hepatitis C Virus Are Infectious

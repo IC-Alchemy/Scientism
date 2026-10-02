@@ -1,11 +1,7 @@
 ---
-title: >-
-  The Survival of Variola and Vaccinia Viruses in the Lungs of Mice Previously
-  Infected with Variola
+title: The Survival of Variola and Vaccinia Viruses in the Lungs of Mice Previously Infected with Variola
 category: source
-summary: >-
-  1940 Journal of Experimental Medicine paper comparing variola and vaccinia
-  recovery from mouse lungs after prior variola exposure.
+summary: 1940 Journal of Experimental Medicine paper comparing variola and vaccinia recovery from mouse lungs after prior variola exposure.
 tags:
   - cross-protection
   - host-range
@@ -19,7 +15,7 @@ tags:
   - vaccinia
   - variola
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1

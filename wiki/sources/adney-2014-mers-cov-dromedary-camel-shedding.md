@@ -1,12 +1,7 @@
 ---
-title: >-
-  Replication and Shedding of MERS-CoV in Upper Respiratory Tract of Inoculated
-  Dromedary Camels
+title: Replication and Shedding of MERS-CoV in Upper Respiratory Tract of Inoculated Dromedary Camels
 category: source
-summary: >-
-  2014 experimental dromedary-camel inoculation paper reporting mild disease,
-  upper-respiratory replication, nasal shedding, tissue antigen, and
-  seroconversion after high-dose combined-route MERS-CoV exposure.
+summary: 2014 experimental dromedary-camel inoculation paper reporting mild disease, upper-respiratory replication, nasal shedding, tissue antigen, and seroconversion after high-dose combined-route MERS-CoV exposure.
 tags:
   - animal-challenge
   - dromedary-camel
@@ -20,14 +15,14 @@ tags:
   - upper-respiratory-replication
   - viral-antigen-localization
 sources: 1
-updated: 2026-05-31T00:00:00.000Z
+updated: 2026-05-31
 claim_status: supported
 claim_type: empirical
 source_tier: tier-1
 evidence_role: primary MERS-CoV camel replication and shedding paper
-doi: 10.3201/eid2012.141280
 pmid: 25418529
 pmcid: PMC4257817
+doi: 10.3201/eid2012.141280
 ---
 
 # Replication and Shedding of MERS-CoV in Upper Respiratory Tract of Inoculated Dromedary Camels
@@ -64,4 +59,3 @@ The risk is using a camel reservoir/shedding model as if it were a human clinica
 
 ## Vault conclusion
 Adney et al. 2014 supports a primary dromedary-camel replication and shedding rung for MERS-CoV. It strengthens the plausibility of camel reservoir ecology but does not by itself prove human clinical MERS causation or ordinary camel-to-human transmission.
-
