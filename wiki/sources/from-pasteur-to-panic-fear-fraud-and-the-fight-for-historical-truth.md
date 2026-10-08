@@ -66,3 +66,20 @@ This raw source is an interview-style commentary that presents Mike Stone as a c
 
 ## Where it's cited in this wiki
 - [[concepts/germ-theory]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[germ-theory]] |
+> | [[index]] |
+> | [[louis-pasteur]] |
+> | [[louis-pasteurs-unethical-rabies-fraud]] |
+> | [[mike-stone]] |
+> | [[pasteurs-researches-on-rabies]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[viroliegy]] |
+<!-- /vault-operator:incoming-links sha="294c3be9" -->

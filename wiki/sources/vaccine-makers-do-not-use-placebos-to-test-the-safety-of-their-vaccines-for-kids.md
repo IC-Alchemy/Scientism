@@ -59,3 +59,20 @@ This means the strongest preserved claim is trial-specific rather than universal
 - [[concepts/surrogate-endpoints]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[clinical-endpoints]] |
+> | [[disease-prevention-vs-health-outcomes]] |
+> | [[index]] |
+> | [[pediatric-vaccine-trial-records-placebo-control-audit]] |
+> | [[placebo-controls]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[surrogate-endpoints]] |
+<!-- /vault-operator:incoming-links sha="7a41a2f9" -->

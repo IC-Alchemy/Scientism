@@ -103,3 +103,20 @@ For this vault, that omission is highly relevant to [[concepts/scientism]]: a ra
 - [[concepts/inferential-leap]]
 - [[comparisons/disease-prevention-vs-health-outcomes]]
 - [[synthesis/source-corpus-triage]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[clinical-endpoints]] |
+> | [[disease-prevention-vs-health-outcomes]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[placebo-controls]] |
+> | [[scientism]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+<!-- /vault-operator:incoming-links sha="656323f3" -->

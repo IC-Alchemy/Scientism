@@ -118,3 +118,20 @@ This wiki can conclude only the following from this source alone:
 - verify the quoted passages attributed to Hurd, Beale, Tait, Snow, Dubos, and others in their primary sources
 - separate critiques of overgeneralized causal claims from critiques of all microbial causation
 - compare early germ-theory objections with later standards for causal inference, replication, and mechanism
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[germ-theory]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[mike-stone]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[viroliegy]] |
+<!-- /vault-operator:incoming-links sha="725692bb" -->

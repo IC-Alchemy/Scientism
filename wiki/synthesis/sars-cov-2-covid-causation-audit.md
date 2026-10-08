@@ -94,3 +94,20 @@ Current conclusion:
 - [[concepts/virus-isolation]]
 - [[concepts/clinical-endpoints]]
 - [[concepts/inferential-leap]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[index]] |
+> | [[jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses]] |
+> | [[mers-mers-cov-evidence-ladder]] |
+> | [[sars-sars-cov-evidence-ladder]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="b03f41d" -->

@@ -72,3 +72,34 @@ Germ theory is the framework that specific microorganisms can cause specific dis
 ## Used in
 - [[synthesis/scientism-research-program-overview]]
 - [[sources/scientism-conversation-may-1-2026]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 24 Notes link here
+> | Note |
+> | --- |
+> | [[concepts]] |
+> | [[diagnosis-smallpox-viroliegy]] |
+> | [[edward-jenner]] |
+> | [[edward-jenners-smallpox-paper-1798]] |
+> | [[experimental-inhalation-anthrax-in-the-chimpanzee]] |
+> | [[from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[kochs-famous-paper]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[louis-pasteur]] |
+> | [[louis-pasteurs-unethical-rabies-fraud]] |
+> | [[mike-stone]] |
+> | [[pasteurs-researches-on-rabies]] |
+> | [[rene-dubos]] |
+> | [[rivers-1937-viruses-and-kochs-postulates]] |
+> | [[robert-koch]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[the-germ-hypothesis-part-2]] |
+> | [[the-infectious-myth-busted-part-6-the-germ-duel]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[viroliegy]] |
+<!-- /vault-operator:incoming-links sha="361105a" -->

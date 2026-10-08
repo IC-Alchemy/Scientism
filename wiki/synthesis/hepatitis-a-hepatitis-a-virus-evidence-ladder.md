@@ -78,3 +78,21 @@ The manuscript may upgrade hepatitis A from candidate status to a started ladder
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 11 Notes link here
+> | Note |
+> | --- |
+> | [[dienstag-1975-experimental-chimpanzee-hepatitis-a]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[feinstone-kapikian-purcell-1973-hepatitis-a-iem]] |
+> | [[index]] |
+> | [[schulman-1976-hepatitis-a-antigen-liver-bile-stool]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis]] |
+> | [[thornton-1977-human-hepatitis-a-chimpanzees]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="35982f0c" -->

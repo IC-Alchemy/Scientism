@@ -64,3 +64,25 @@ It cannot answer whether the biomedical or historical claims mentioned in the co
 - [[concepts/inferential-leap]]
 - [[concepts/empirical-evidence]]
 - [[concepts/virus-isolation]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 15 Notes link here
+> | Note |
+> | --- |
+> | [[clinical-endpoints]] |
+> | [[disease-prevention-vs-health-outcomes]] |
+> | [[germ-theory]] |
+> | [[index]] |
+> | [[louis-pasteur]] |
+> | [[paul-feyerabend]] |
+> | [[placebo-controls]] |
+> | [[rene-dubos]] |
+> | [[replication-crisis]] |
+> | [[robert-koch]] |
+> | [[scientism]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[sources]] |
+> | [[surrogate-endpoints]] |
+<!-- /vault-operator:incoming-links sha="6b2a79ce" -->

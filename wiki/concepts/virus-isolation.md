@@ -56,3 +56,32 @@ The newer causation-ladder page [[synthesis/viral-disease-causation-evidence-lad
 - [[concepts/inferential-leap]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 22 Notes link here
+> | Note |
+> | --- |
+> | [[cell-culture]] |
+> | [[cell-culture-viroliegy]] |
+> | [[concepts]] |
+> | [[enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] |
+> | [[feinstone-kapikian-purcell-1973-hepatitis-a-iem]] |
+> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[has-the-virus-been-isolated-no-viroliegy]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[leymaster-ward-1947-direct-isolation-mumps-virus-chick-embryos]] |
+> | [[rivers-1937-viruses-and-kochs-postulates]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[scientism-conversation-may-1-2026]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[the-virus-cult-a-religion-built-on-fear-not-science]] |
+> | [[the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="6d06c389" -->

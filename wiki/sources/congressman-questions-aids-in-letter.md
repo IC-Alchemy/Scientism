@@ -63,3 +63,61 @@ It cannot answer whether those questions were scientifically resolved in favor o
 - [[synthesis/gutknecht-letter-questions-7-9]]
 - [[concepts/inferential-leap]]
 - [[concepts/scientism]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 51 Notes link here
+> | Note |
+> | --- |
+> | [[abrams-1998-hiv-load-early-in-life-and-infant-disease-progression]] |
+> | [[actg-116b-117-1995-zidovudine-versus-didanosine]] |
+> | [[actg-175-1996-zidovudine-monotherapy-versus-combination-nucleosides]] |
+> | [[aids]] |
+> | [[cardo-1997-occupational-hiv-seroconversion-after-percutaneous-exposure]] |
+> | [[cdc-1981-kaposis-sarcoma-and-pneumocystis-pneumonia]] |
+> | [[cdc-1981-pneumocystis-pneumonia-los-angeles]] |
+> | [[cdc-1982-aids-among-patients-with-hemophilia-a]] |
+> | [[cdc-1982-update-on-acquired-immune-deficiency-syndrome-united-states]] |
+> | [[chorba-1994-longevity-and-causes-of-death-in-hemophilia-a]] |
+> | [[chorba-2001-hiv-effects-on-age-and-cause-of-death-in-hemophilia-a]] |
+> | [[concorde-1994-immediate-versus-deferred-zidovudine]] |
+> | [[connor-1994-zidovudine-to-reduce-maternal-infant-hiv-transmission]] |
+> | [[daquila-1995-zidovudine-resistance-mutations-and-clinical-progression]] |
+> | [[darby-1989-aids-and-excess-mortality-in-uk-haemophiliacs]] |
+> | [[darby-1995-mortality-before-and-after-hiv-infection-in-uk-haemophiliacs]] |
+> | [[delta-1996-zidovudine-combinations-versus-zidovudine-alone]] |
+> | [[donegan-1990-risk-of-aids-after-transfusion-of-hiv-positive-blood]] |
+> | [[european-collaborative-study-1991-children-born-to-women-with-hiv-1-infection]] |
+> | [[european-collaborative-study-1994-natural-history-of-vertically-acquired-hiv-1]] |
+> | [[fda-1987-zidovudine-retrovir-approval-record]] |
+> | [[fischl-1987-efficacy-of-azidothymidine-in-aids-and-arc]] |
+> | [[fischl-1990-actg-016-zidovudine-in-mildly-symptomatic-hiv]] |
+> | [[fischl-1992-safety-and-toxicity-of-zidovudine-in-actg-019]] |
+> | [[giesecke-1988-symptoms-and-aids-in-swedish-haemophiliacs-and-transfusion-recipients]] |
+> | [[goedert-1989-hiv-1-infection-and-aids-in-hemophilia]] |
+> | [[gottlieb-1981-pneumocystis-carinii-pneumonia-and-mucosal-candidiasis]] |
+> | [[gutknecht-letter-evidence-check]] |
+> | [[gutknecht-letter-questions-7-9]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[ippolito-1999-occupational-hiv-infection-in-health-care-workers]] |
+> | [[johnson-1985-aids-among-hemophilia-treatment-center-patients]] |
+> | [[kroner-1994-hiv-1-incidence-among-persons-with-hemophilia]] |
+> | [[lamivudine-1996-lamivudine-plus-zidovudine-versus-zidovudine-alone]] |
+> | [[larsson-1985-life-expectancy-of-swedish-haemophiliacs]] |
+> | [[mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv]] |
+> | [[richman-1987-toxicity-of-azidothymidine-in-aids-and-arc]] |
+> | [[roosendaal-1998-progression-to-aids-and-clotting-product-consumption]] |
+> | [[schinaia-1994-progression-to-aids-in-italian-hiv-positive-hemophiliacs]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[simmonds-1991-determinants-of-hiv-disease-progression-in-edinburgh-haemophilia-cohort]] |
+> | [[smit-1989-physical-condition-longevity-and-social-performance-of-dutch-haemophiliacs]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[triemstra-1995-mortality-in-patients-with-hemophilia]] |
+> | [[volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv]] |
+> | [[volberding-1994-duration-of-zidovudine-benefit-in-actg-019]] |
+> | [[ward-1989-natural-history-of-transfusion-associated-hiv-infection]] |
+> | [[yarchoan-1986-administration-of-azt-to-patients-with-aids-or-arc]] |
+<!-- /vault-operator:incoming-links sha="107b7a2f" -->

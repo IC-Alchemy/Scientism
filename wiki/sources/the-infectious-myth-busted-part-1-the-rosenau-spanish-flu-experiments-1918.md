@@ -100,3 +100,21 @@ This source leaves several key questions unresolved:
 ## Preliminary wiki conclusion
 
 This source is best treated as a research lead and interpretive argument, not as a stand-alone evidentiary basis for conclusions about influenza transmission. It is relevant to pages on disputed interpretations of early influenza experiments, methodological limits of transmission studies, and inferential overreach from negative experimental findings.
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 11 Notes link here
+> | Note |
+> | --- |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[germ-theory]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[mike-stone]] |
+> | [[rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[viroliegy]] |
+<!-- /vault-operator:incoming-links sha="4484ea5f" -->

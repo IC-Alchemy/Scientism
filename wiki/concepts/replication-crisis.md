@@ -61,3 +61,22 @@ The anchors share a common boundary: none measures all of science. The OSC proje
 - [[concepts/empirical-evidence]]
 - [[concepts/inferential-leap]]
 - [[synthesis/source-corpus-triage]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 12 Notes link here
+> | Note |
+> | --- |
+> | [[baker-2016-nature-reproducibility-survey]] |
+> | [[begley-ellis-2012-raise-standards-preclinical-cancer]] |
+> | [[concepts]] |
+> | [[empirical-evidence]] |
+> | [[empirical-evidence]] |
+> | [[index]] |
+> | [[log]] |
+> | [[osc-2015-estimating-reproducibility-psychological-science]] |
+> | [[scientism]] |
+> | [[scientism-conversation-may-1-2026]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+<!-- /vault-operator:incoming-links sha="743bd0c9" -->

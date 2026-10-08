@@ -74,3 +74,22 @@ The manuscript may say that the current full-text set supports a strong SARS-CoV
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
+
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 11 Notes link here
+> | Note |
+> | --- |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[fouchier-2003-kochs-postulates-sars-macaques]] |
+> | [[index]] |
+> | [[ksiazek-2003-novel-coronavirus-urbani-strain]] |
+> | [[mers-mers-cov-evidence-ladder]] |
+> | [[rota-2003-sars-cov-genome-characterization]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="5835912d" -->

@@ -1,3 +1,5 @@
 .obsidian/workspace*
 .obsidian/cache
 .DS_Store
+.obsidian/*
+.vault-operator/*

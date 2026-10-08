@@ -70,3 +70,60 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - [[concepts/germ-theory]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 50 Notes link here
+> | Note |
+> | --- |
+> | [[aids]] |
+> | [[cell-culture]] |
+> | [[clinical-endpoints]] |
+> | [[concepts]] |
+> | [[congressman-questions-aids-in-letter]] |
+> | [[disease-prevention-vs-health-outcomes]] |
+> | [[edward-jenners-smallpox-paper-1798]] |
+> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[empirical-evidence]] |
+> | [[empirical-evidence]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[germ-theory]] |
+> | [[gutknecht-letter-evidence-check]] |
+> | [[gutknecht-letter-questions-7-9]] |
+> | [[h5n1]] |
+> | [[index]] |
+> | [[insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] |
+> | [[johnson-goodpasture-1934-investigation-etiology-mumps]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[louis-pasteur]] |
+> | [[paul-feyerabend]] |
+> | [[polio]] |
+> | [[rabies-the-virus-of-fear]] |
+> | [[replication-crisis]] |
+> | [[rivers-1937-viruses-and-kochs-postulates]] |
+> | [[robert-koch]] |
+> | [[rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
+> | [[sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[scientism]] |
+> | [[scientism-conversation-may-1-2026]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[scobey-poisoning-as-the-cause-of-poliomyelitis]] |
+> | [[smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients]] |
+> | [[source-corpus-triage]] |
+> | [[specific-vaccine-overall-health-outcome-evidence]] |
+> | [[surrogate-endpoints]] |
+> | [[the-infectious-myth-busted-part-6-the-germ-duel]] |
+> | [[the-virus-cult-a-religion-built-on-fear-not-science]] |
+> | [[the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
+> | [[vaccinated-children-more-healthy-question]] |
+> | [[vault-maintenance-guide]] |
+> | [[vault-maintenance-guide]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[viroliegy]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+> | [[virus-isolation]] |
+<!-- /vault-operator:incoming-links sha="1a84bd2c" -->

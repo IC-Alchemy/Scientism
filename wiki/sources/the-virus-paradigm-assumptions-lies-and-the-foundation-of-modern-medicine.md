@@ -58,3 +58,22 @@ It cannot, on its own, adjudicate the truth of the biomedical claims it disputes
 - [[concepts/cell-culture]]
 - [[concepts/inferential-leap]]
 - [[sources/has-the-virus-been-isolated-no-viroliegy]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 12 Notes link here
+> | Note |
+> | --- |
+> | [[cell-culture]] |
+> | [[has-the-virus-been-isolated-no-viroliegy]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[scientism]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[the-virus-cult-a-religion-built-on-fear-not-science]] |
+> | [[virus-isolation]] |
+<!-- /vault-operator:incoming-links sha="60e4127" -->

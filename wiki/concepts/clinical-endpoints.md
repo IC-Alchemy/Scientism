@@ -47,3 +47,30 @@ Clinical endpoints are outcomes that directly describe patient health, such as m
 - [[comparisons/disease-prevention-vs-health-outcomes]]
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit]]
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 20 Notes link here
+> | Note |
+> | --- |
+> | [[cidrap-2026-hpv-vaccine-evidence-review]] |
+> | [[concepts]] |
+> | [[cutts-2005-pcv9-gambia-rct]] |
+> | [[disease-prevention-vs-health-outcomes]] |
+> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[gutknecht-letter-evidence-check]] |
+> | [[gutknecht-letter-questions-7-9]] |
+> | [[henle-henle-wendell-rosenberg-1948-induced-mumps-infections-virus-isolation]] |
+> | [[index]] |
+> | [[pediatric-vaccine-trial-records-placebo-control-audit]] |
+> | [[placebo-controls]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[specific-vaccine-overall-health-outcome-evidence]] |
+> | [[surrogate-endpoints]] |
+> | [[vaccinated-children-more-healthy-question]] |
+> | [[vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="1dcbb420" -->

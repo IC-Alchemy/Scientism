@@ -272,3 +272,50 @@ After the 2026-05-10 Lens batch, the next high-value source-ingest candidates ar
 - [[concepts/virus-isolation]]
 - [[sources/polio]]
 - [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 40 Notes link here
+> | Note |
+> | --- |
+> | [[acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]] |
+> | [[alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
+> | [[bronchiolitis-rsv-evidence-ladder]] |
+> | [[burkitt-lymphoma-ebv-evidence-ladder]] |
+> | [[cervical-cancer-hpv-evidence-ladder]] |
+> | [[choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome]] |
+> | [[cold-sores-hsv1-evidence-ladder]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[genital-herpes-hsv-evidence-ladder]] |
+> | [[hand-foot-mouth-disease-enteroviruses-evidence-ladder]] |
+> | [[hepatitis-a-hepatitis-a-virus-evidence-ladder]] |
+> | [[hepatitis-b-hepatitis-b-virus-evidence-ladder]] |
+> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[index]] |
+> | [[infectious-mononucleosis-ebv-evidence-ladder]] |
+> | [[inferential-leap]] |
+> | [[influenza-influenza-virus-evidence-ladder]] |
+> | [[kaposi-sarcoma-hhv8-evidence-ladder]] |
+> | [[krugman-giles-hammond-1967-two-types-infectious-hepatitis]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[measles-measles-virus-evidence-ladder]] |
+> | [[mers-mers-cov-evidence-ladder]] |
+> | [[mumps-mumps-virus-evidence-ladder]] |
+> | [[norovirus-gastroenteritis-outbreaks-evidence-ladder]] |
+> | [[poliomyelitis-poliovirus-evidence-ladder]] |
+> | [[rabies-rabies-virus-evidence-ladder]] |
+> | [[rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
+> | [[rotavirus-gastroenteritis-evidence-ladder]] |
+> | [[rubella-rubella-virus-evidence-ladder]] |
+> | [[sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[sars-sars-cov-evidence-ladder]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[shingles-vzv-reactivation-evidence-ladder]] |
+> | [[smallpox-variola-virus-evidence-ladder]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+> | [[yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
+<!-- /vault-operator:incoming-links sha="5340312b" -->

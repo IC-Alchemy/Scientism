@@ -81,3 +81,29 @@ The manuscript may therefore upgrade HPV/cervical cancer from a candidate row in
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 19 Notes link here
+> | Note |
+> | --- |
+> | [[arroyo-muhr-2020-deep-sequencing-pcr-negative]] |
+> | [[arroyo-muhr-2020-sequencing-hpv-apparently-negative]] |
+> | [[caussy-1988-hpv-detection-methods-clinical-specimens]] |
+> | [[cidrap-2026-hpv-vaccine-evidence-review]] |
+> | [[claas-1989-hpv-pcr-paraffin-embedded-cervical]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[index]] |
+> | [[kaliff-2020-hpv-negative-tumors-swedish-cohort]] |
+> | [[log]] |
+> | [[mccance-1983-hpv-dna-cin]] |
+> | [[peto-2004-manchester-hpv-neoplasia-cohort]] |
+> | [[petry-2017-surgical-staging-false-hpv-negative]] |
+> | [[rodriguez-carunchio-2015-hpv-negative-cervical-carcinoma]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[skinner-2016-hpv-progression-clearance]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="7b5d12ed" -->

@@ -100,3 +100,62 @@ The current evidence in hand supports a methodological conclusion: viral causati
 - [[concepts/germ-theory]]
 - [[concepts/virus-isolation]]
 - [[concepts/inferential-leap]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 52 Notes link here
+> | Note |
+> | --- |
+> | [[acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]] |
+> | [[alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
+> | [[bronchiolitis-rsv-evidence-ladder]] |
+> | [[burkitt-lymphoma-ebv-evidence-ladder]] |
+> | [[cervical-cancer-hpv-evidence-ladder]] |
+> | [[chickenpox-varicella-zoster-virus-evidence-ladder]] |
+> | [[choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome]] |
+> | [[cold-sores-hsv1-evidence-ladder]] |
+> | [[enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[genital-herpes-hsv-evidence-ladder]] |
+> | [[germ-theory]] |
+> | [[hand-foot-mouth-disease-enteroviruses-evidence-ladder]] |
+> | [[henle-henle-wendell-rosenberg-1948-induced-mumps-infections-virus-isolation]] |
+> | [[hepatitis-a-hepatitis-a-virus-evidence-ladder]] |
+> | [[hepatitis-b-hepatitis-b-virus-evidence-ladder]] |
+> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[index]] |
+> | [[infectious-mononucleosis-ebv-evidence-ladder]] |
+> | [[inferential-leap]] |
+> | [[influenza-influenza-virus-evidence-ladder]] |
+> | [[jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses]] |
+> | [[johnson-goodpasture-1934-investigation-etiology-mumps]] |
+> | [[kaposi-sarcoma-hhv8-evidence-ladder]] |
+> | [[krugman-giles-hammond-1967-two-types-infectious-hepatitis]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[leymaster-ward-1947-direct-isolation-mumps-virus-chick-embryos]] |
+> | [[measles-measles-virus-evidence-ladder]] |
+> | [[mers-mers-cov-evidence-ladder]] |
+> | [[mumps-mumps-virus-evidence-ladder]] |
+> | [[norovirus-gastroenteritis-outbreaks-evidence-ladder]] |
+> | [[parkman-buescher-artenstein-1962-recovery-rubella-virus-army-recruits]] |
+> | [[poliomyelitis-poliovirus-evidence-ladder]] |
+> | [[rabies-rabies-virus-evidence-ladder]] |
+> | [[replication-crisis]] |
+> | [[rivers-1937-viruses-and-kochs-postulates]] |
+> | [[rotavirus-gastroenteritis-evidence-ladder]] |
+> | [[rubella-rubella-virus-evidence-ladder]] |
+> | [[sars-sars-cov-evidence-ladder]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[shingles-vzv-reactivation-evidence-ladder]] |
+> | [[shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus]] |
+> | [[sigurdardottir-givan-rozee-rhodes-1963-rubella-toronto-monkey-transmission]] |
+> | [[smallpox-variola-virus-evidence-ladder]] |
+> | [[smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients]] |
+> | [[synthesis]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+> | [[virus-isolation]] |
+> | [[weller-neva-1962-propagation-cytopathic-agents-rubella-like-illness]] |
+> | [[yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
+<!-- /vault-operator:incoming-links sha="4b05ac9" -->

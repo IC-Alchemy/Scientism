@@ -74,3 +74,21 @@ The manuscript may therefore upgrade HBV from a candidate row into a started syn
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 11 Notes link here
+> | Note |
+> | --- |
+> | [[acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]] |
+> | [[barker-1973-transmission-type-b-hepatitis-chimpanzees]] |
+> | [[dane-1970-australia-antigen-virus-like-particles]] |
+> | [[index]] |
+> | [[krugman-giles-hammond-1967-two-types-infectious-hepatitis]] |
+> | [[maynard-1972-experimental-chimpanzee-hepatitis-b]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="4a0d4995" -->

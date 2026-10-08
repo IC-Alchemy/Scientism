@@ -47,3 +47,24 @@ This distinction is why empirical evidence connects directly to [[concepts/infer
 - [[concepts/inferential-leap]]
 - [[concepts/replication-crisis]]
 - [[concepts/scientism]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 14 Notes link here
+> | Note |
+> | --- |
+> | [[concepts]] |
+> | [[empirical-evidence]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] |
+> | [[replication-crisis]] |
+> | [[scientism]] |
+> | [[scientism-conversation-may-1-2026]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[scobey-poisoning-as-the-cause-of-poliomyelitis]] |
+> | [[source-corpus-triage]] |
+> | [[vault-maintenance-guide]] |
+> | [[vault-maintenance-guide]] |
+<!-- /vault-operator:incoming-links sha="7ee5309e" -->

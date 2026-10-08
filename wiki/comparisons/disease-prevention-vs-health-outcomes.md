@@ -63,3 +63,24 @@ Both framings assume that trial design and outcome measurement matter when judgi
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]]
 - [[sources/cutts-2005-pcv9-gambia-rct]]
 - [[synthesis/specific-vaccine-overall-health-outcome-evidence]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 14 Notes link here
+> | Note |
+> | --- |
+> | [[clinical-endpoints]] |
+> | [[comparisons]] |
+> | [[cutts-2005-pcv9-gambia-rct]] |
+> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[index]] |
+> | [[pediatric-vaccine-trial-records-placebo-control-audit]] |
+> | [[placebo-controls]] |
+> | [[profitable-sacred-cows-that-are-clearly-wrong-but-profitable-continue-getting-fu]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[specific-vaccine-overall-health-outcome-evidence]] |
+> | [[surrogate-endpoints]] |
+> | [[vaccinated-children-more-healthy-question]] |
+> | [[vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
+<!-- /vault-operator:incoming-links sha="27d34595" -->

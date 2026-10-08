@@ -59,3 +59,20 @@ It cannot, by itself, establish that the broader biomedical conclusions are corr
 - [[concepts/cell-culture]]
 - [[concepts/inferential-leap]]
 - [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[cell-culture]] |
+> | [[cell-culture-viroliegy]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[scientism]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[virus-isolation]] |
+<!-- /vault-operator:incoming-links sha="39d4348d" -->

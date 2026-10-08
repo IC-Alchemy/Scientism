@@ -58,3 +58,21 @@ The risk is treating a strong macaque challenge/re-isolation result as if it wer
 
 ## Vault conclusion
 Kuiken et al. 2003 is the strongest SARS source in this pass for experimental pathogenicity: it combines multicentre patient association with cynomolgus macaque challenge, lung pathology, viral localization, RT-PCR, and partial re-isolation. Its main boundary is artificial combined-route exposure without a sham-inoculated macaque comparator.
+
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[fouchier-2003-kochs-postulates-sars-macaques]] |
+> | [[index]] |
+> | [[ksiazek-2003-novel-coronavirus-urbani-strain]] |
+> | [[sars-sars-cov-evidence-ladder]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[sources]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="5a2fce3d" -->

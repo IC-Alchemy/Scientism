@@ -66,3 +66,21 @@ This source supports a narrow claim: Yanagi et al. 1997 showed that transcripts 
 - [[synthesis/failed-virus-causation-attempts-register]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 11 Notes link here
+> | Note |
+> | --- |
+> | [[alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
+> | [[choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[hong-1999-transmissible-hcv-molecular-clone]] |
+> | [[index]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[sources]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="6db7c711" -->

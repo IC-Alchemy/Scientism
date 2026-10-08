@@ -489,3 +489,56 @@ The polio lead now has abstract-level primary detail, and the influenza lead now
 - [[concepts/inferential-leap]]
 - [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]]
 - [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 46 Notes link here
+> | Note |
+> | --- |
+> | [[alter-1984-htlv-iii-chimpanzees-plasma]] |
+> | [[arroyo-muhr-2020-deep-sequencing-pcr-negative]] |
+> | [[arroyo-muhr-2020-sequencing-hpv-apparently-negative]] |
+> | [[bell-moore-1971-rabies-oral-carnivora]] |
+> | [[burkitt-lymphoma-ebv-evidence-ladder]] |
+> | [[caussy-1988-hpv-detection-methods-clinical-specimens]] |
+> | [[cdc-1984-experimental-chimpanzee-lav-infection]] |
+> | [[cervical-cancer-hpv-evidence-ladder]] |
+> | [[claas-1989-hpv-pcr-paraffin-embedded-cervical]] |
+> | [[davis-rudd-bowen-2007-aerosolized-rabies-bats-mice]] |
+> | [[fultz-1987-persistent-chimpanzee-hiv-infection]] |
+> | [[hepatitis-a-hepatitis-a-virus-evidence-ladder]] |
+> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[index]] |
+> | [[infectious-mononucleosis-ebv-evidence-ladder]] |
+> | [[influenza-influenza-virus-evidence-ladder]] |
+> | [[jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses]] |
+> | [[kaliff-2020-hpv-negative-tumors-swedish-cohort]] |
+> | [[kaposi-sarcoma-hhv8-evidence-ladder]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[learmont-1992-long-term-symptomless-hiv-single-donor]] |
+> | [[log]] |
+> | [[mccance-1983-hpv-dna-cin]] |
+> | [[measles-measles-virus-evidence-ladder]] |
+> | [[novembre-1997-aids-chimpanzee-hiv-1]] |
+> | [[peto-2004-manchester-hpv-neoplasia-cohort]] |
+> | [[petry-2017-surgical-staging-false-hpv-negative]] |
+> | [[poliomyelitis-poliovirus-evidence-ladder]] |
+> | [[rabies-rabies-virus-evidence-ladder]] |
+> | [[ramsden-johnston-1975-oral-infectivity-rabies-carnivora]] |
+> | [[rodriguez-carunchio-2015-hpv-negative-cervical-carcinoma]] |
+> | [[rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
+> | [[sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus]] |
+> | [[skinner-2016-hpv-progression-clearance]] |
+> | [[smallpox-variola-virus-evidence-ladder]] |
+> | [[smith-1993-icd-opportunistic-infections-no-hiv]] |
+> | [[spira-1993-idiopathic-cd4-lymphocytopenia]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+> | [[yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
+<!-- /vault-operator:incoming-links sha="24049b70" -->

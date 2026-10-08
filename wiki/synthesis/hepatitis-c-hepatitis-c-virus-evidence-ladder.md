@@ -77,3 +77,22 @@ The manuscript may therefore upgrade HCV from a candidate row into a started mol
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 12 Notes link here
+> | Note |
+> | --- |
+> | [[alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
+> | [[choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[hong-1999-transmissible-hcv-molecular-clone]] |
+> | [[index]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis]] |
+> | [[tabor-1984-non-a-non-b-two-agents-chimpanzees]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+> | [[yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
+<!-- /vault-operator:incoming-links sha="47208ea3" -->

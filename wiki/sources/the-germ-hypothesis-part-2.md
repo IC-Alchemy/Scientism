@@ -61,3 +61,23 @@ ingested: 2026-05-04
 ## Where it's cited in this wiki
 - [[concepts/germ-theory]]
 - [[entities/robert-koch]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 13 Notes link here
+> | Note |
+> | --- |
+> | [[experimental-inhalation-anthrax-in-the-chimpanzee]] |
+> | [[from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] |
+> | [[germ-theory]] |
+> | [[index]] |
+> | [[kochs-famous-paper]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[louis-pasteur]] |
+> | [[mike-stone]] |
+> | [[robert-koch]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+<!-- /vault-operator:incoming-links sha="6bafb5d3" -->

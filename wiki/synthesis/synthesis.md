@@ -68,3 +68,57 @@ The vault's research output. Evidence ladders separate what each named experimen
 - [[index|Full page index]] — every page with one-line descriptions.
 - [[wiki|Vault map]] — folder structure and how to navigate.
 - [[concepts/concepts]] · [[entities/entities]] · [[comparisons/comparisons]] · [[sources/sources]]
+
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 46 Notes link here
+> | Note |
+> | --- |
+> | [[bronchiolitis-rsv-evidence-ladder]] |
+> | [[burkitt-lymphoma-ebv-evidence-ladder]] |
+> | [[cervical-cancer-hpv-evidence-ladder]] |
+> | [[chickenpox-varicella-zoster-virus-evidence-ladder]] |
+> | [[cold-sores-hsv1-evidence-ladder]] |
+> | [[comparisons]] |
+> | [[concepts]] |
+> | [[covid-early-intubation-noninvasive-ventilation-lens-summary]] |
+> | [[entities]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[genital-herpes-hsv-evidence-ladder]] |
+> | [[gutknecht-letter-evidence-check]] |
+> | [[gutknecht-letter-questions-7-9]] |
+> | [[hand-foot-mouth-disease-enteroviruses-evidence-ladder]] |
+> | [[hepatitis-a-hepatitis-a-virus-evidence-ladder]] |
+> | [[hepatitis-b-hepatitis-b-virus-evidence-ladder]] |
+> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[index]] |
+> | [[infectious-mononucleosis-ebv-evidence-ladder]] |
+> | [[influenza-influenza-virus-evidence-ladder]] |
+> | [[kaposi-sarcoma-hhv8-evidence-ladder]] |
+> | [[measles-measles-virus-evidence-ladder]] |
+> | [[mers-mers-cov-evidence-ladder]] |
+> | [[mumps-mumps-virus-evidence-ladder]] |
+> | [[norovirus-gastroenteritis-outbreaks-evidence-ladder]] |
+> | [[poliomyelitis-poliovirus-evidence-ladder]] |
+> | [[rabies-rabies-virus-evidence-ladder]] |
+> | [[rotavirus-gastroenteritis-evidence-ladder]] |
+> | [[rubella-rubella-virus-evidence-ladder]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[sars-sars-cov-evidence-ladder]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[shingles-vzv-reactivation-evidence-ladder]] |
+> | [[smallpox-variola-virus-evidence-ladder]] |
+> | [[source-corpus-triage]] |
+> | [[sources]] |
+> | [[specific-vaccine-overall-health-outcome-evidence]] |
+> | [[vaccinated-children-more-healthy-question]] |
+> | [[vault-maintenance-guide]] |
+> | [[vault-maintenance-guide]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+> | [[wiki]] |
+<!-- /vault-operator:incoming-links sha="492e9dc7" -->

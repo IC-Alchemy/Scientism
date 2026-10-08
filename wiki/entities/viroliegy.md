@@ -41,3 +41,25 @@ ViroLIEgy is a recurring source of raw material in this vault. Its articles ofte
 ## Related
 - [[concepts/germ-theory]]
 - [[concepts/inferential-leap]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 15 Notes link here
+> | Note |
+> | --- |
+> | [[Cell Culture – ViroLIEgy]] |
+> | [[diagnosis-smallpox-viroliegy]] |
+> | [[Edward Jenner’s Smallpox Paper (1798)]] |
+> | [[edward-jenners-smallpox-paper-1798]] |
+> | [[entities]] |
+> | [[From Pasteur to Panic Fear, Fraud, and the Fight for Historical Truth]] |
+> | [[from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] |
+> | [[germ-theory]] |
+> | [[index]] |
+> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[Louis Pasteur’s Unethical Rabies Fraud]] |
+> | [[louis-pasteurs-unethical-rabies-fraud]] |
+> | [[Rabies The “Virus” of Fear]] |
+> | [[The Infectious Myth Busted Part 6 The Germ Duel]] |
+> | [[the-infectious-myth-busted-part-6-the-germ-duel]] |
+<!-- /vault-operator:incoming-links sha="344045ba" -->

@@ -83,3 +83,20 @@ The manuscript may upgrade rabies from candidate status to a started evidence la
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/virus-disease-attribution-audit-worklist]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 10 Notes link here
+> | Note |
+> | --- |
+> | [[bell-moore-1971-rabies-oral-carnivora]] |
+> | [[davis-rudd-bowen-2007-aerosolized-rabies-bats-mice]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[index]] |
+> | [[ramsden-johnston-1975-oral-infectivity-rabies-carnivora]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+> | [[virus-disease-attribution-audit-worklist]] |
+<!-- /vault-operator:incoming-links sha="93db7e6" -->

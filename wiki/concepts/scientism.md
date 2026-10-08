@@ -53,3 +53,27 @@ That distinction is central to [[concepts/empirical-evidence]] and [[concepts/in
 ## Open questions
 - Which historical case studies best show justified scientific inference versus overreach?
 - How should the vault distinguish necessary inference from over-interpretation in historical sciences?
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 17 Notes link here
+> | Note |
+> | --- |
+> | [[baker-2016-nature-reproducibility-survey]] |
+> | [[concepts]] |
+> | [[congressman-questions-aids-in-letter]] |
+> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[empirical-evidence]] |
+> | [[germ-theory]] |
+> | [[gutknecht-letter-evidence-check]] |
+> | [[index]] |
+> | [[inferential-leap]] |
+> | [[paul-feyerabend]] |
+> | [[rene-dubos]] |
+> | [[replication-crisis]] |
+> | [[scientism-conversation-may-1-2026]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[scientism-research-program-overview]] |
+> | [[scobey-poisoning-as-the-cause-of-poliomyelitis]] |
+> | [[wiki]] |
+<!-- /vault-operator:incoming-links sha="3df2062e" -->

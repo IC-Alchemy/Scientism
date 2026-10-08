@@ -564,3 +564,43 @@ If the available sources do not name those fields clearly, the claim should rema
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
 - [[synthesis/failed-virus-causation-attempts-register]]
+
+<!-- vault-operator:incoming-links -->
+
+> [!relation-in]- 33 Notes link here
+> | Note |
+> | --- |
+> | [[acs-sells-purcell-1987-hepatitis-b-virus-transfected-hepg2-chimpanzees]] |
+> | [[bronchiolitis-rsv-evidence-ladder]] |
+> | [[burkitt-lymphoma-ebv-evidence-ladder]] |
+> | [[cervical-cancer-hpv-evidence-ladder]] |
+> | [[chickenpox-varicella-zoster-virus-evidence-ladder]] |
+> | [[cold-sores-hsv1-evidence-ladder]] |
+> | [[failed-virus-causation-attempts-register]] |
+> | [[genital-herpes-hsv-evidence-ladder]] |
+> | [[hand-foot-mouth-disease-enteroviruses-evidence-ladder]] |
+> | [[hepatitis-a-hepatitis-a-virus-evidence-ladder]] |
+> | [[hepatitis-b-hepatitis-b-virus-evidence-ladder]] |
+> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[index]] |
+> | [[infectious-mononucleosis-ebv-evidence-ladder]] |
+> | [[kaposi-sarcoma-hhv8-evidence-ladder]] |
+> | [[krugman-giles-hammond-1967-two-types-infectious-hepatitis]] |
+> | [[measles-measles-virus-evidence-ladder]] |
+> | [[mers-mers-cov-evidence-ladder]] |
+> | [[mumps-mumps-virus-evidence-ladder]] |
+> | [[norovirus-gastroenteritis-outbreaks-evidence-ladder]] |
+> | [[rabies-rabies-virus-evidence-ladder]] |
+> | [[rivers-1937-viruses-and-kochs-postulates]] |
+> | [[rotavirus-gastroenteritis-evidence-ladder]] |
+> | [[rubella-rubella-virus-evidence-ladder]] |
+> | [[sars-cov-2-covid-causation-audit]] |
+> | [[sars-sars-cov-evidence-ladder]] |
+> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[shingles-vzv-reactivation-evidence-ladder]] |
+> | [[smallpox-variola-virus-evidence-ladder]] |
+> | [[synthesis]] |
+> | [[viral-disease-causation-evidence-ladder]] |
+> | [[virus-causation-inferential-leaps]] |
+<!-- /vault-operator:incoming-links sha="5a2c031a" -->
