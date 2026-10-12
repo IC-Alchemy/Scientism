@@ -80,14 +80,14 @@ The manuscript may therefore upgrade chickenpox/VZV from a candidate row into a 
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[cheatham-dolan-dower-weller-1956-fatal-varicella-necropsy-virus-isolation]] |
+> | [[sources/cheatham-dolan-dower-weller-1956-fatal-varicella-necropsy-virus-isolation]] |
 > | [[index]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[shingles-vzv-reactivation-evidence-ladder]] |
-> | [[synthesis]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
-> | [[weller-1953-serial-propagation-varicella-herpes-zoster-agents]] |
-> | [[weller-witton-bell-1958-varicella-zoster-isolation-propagation-culture]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/shingles-vzv-reactivation-evidence-ladder]] |
+> | [[synthesis/synthesis]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
+> | [[sources/weller-1953-serial-propagation-varicella-herpes-zoster-agents]] |
+> | [[sources/weller-witton-bell-1958-varicella-zoster-isolation-propagation-culture]] |
 <!-- /vault-operator:incoming-links sha="5363d1db" -->

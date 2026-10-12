@@ -63,15 +63,15 @@ A placebo control is a comparator intended to help interpret the effects of an i
 > [!relation-in]- 11 Notes link here
 > | Note |
 > | --- |
-> | [[cidrap-2026-hpv-vaccine-evidence-review]] |
-> | [[clinical-endpoints]] |
-> | [[concepts]] |
-> | [[disease-prevention-vs-health-outcomes]] |
-> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[sources/cidrap-2026-hpv-vaccine-evidence-review]] |
+> | [[concepts/clinical-endpoints]] |
+> | [[concepts/concepts]] |
+> | [[comparisons/disease-prevention-vs-health-outcomes]] |
+> | [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
 > | [[index]] |
-> | [[pediatric-vaccine-trial-records-placebo-control-audit]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[surrogate-endpoints]] |
-> | [[vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
+> | [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[concepts/surrogate-endpoints]] |
+> | [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
 <!-- /vault-operator:incoming-links sha="1f148567" -->

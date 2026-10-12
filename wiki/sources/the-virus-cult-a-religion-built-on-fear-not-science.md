@@ -65,14 +65,14 @@ It cannot, by itself, establish that the broader biomedical conclusions are corr
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[cell-culture]] |
-> | [[cell-culture-viroliegy]] |
+> | [[concepts/cell-culture]] |
+> | [[sources/cell-culture-viroliegy]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[scientism]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[source-corpus-triage]] |
-> | [[sources]] |
-> | [[virus-isolation]] |
+> | [[concepts/inferential-leap]] |
+> | [[concepts/scientism]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[sources/sources]] |
+> | [[concepts/virus-isolation]] |
 <!-- /vault-operator:incoming-links sha="39d4348d" -->

@@ -10,7 +10,7 @@ tags:
   - philosophy-of-science
   - scientism
 sources: 1
-updated: 2026-05-04
+updated: 2026-10-08
 claim_status: exploratory
 claim_type: historical
 ---
@@ -27,6 +27,15 @@ The source uses Feyerabend as an entry point into the vault's interest in [[conc
 - The seed source names Feyerabend as relevant to philosophy-of-science critique. Cited from [[sources/scientism-conversation-may-1-2026]].
 - No primary Feyerabend text has been ingested yet, so this page is only a pointer for future source collection.
 
+## Related source pages in this vault
+
+### Experimental record
+- None. No primary Feyerabend text and no experiment-grade page connected to his claims exists in this vault yet.
+
+### Commentary and critique
+- [[sources/scientism-conversation-may-1-2026]] - Tier 3 seed transcript; this entity's existing record states that the seed names Feyerabend as a lead for critiques of fixed scientific method.
+- [[synthesis/scientism-research-program-overview]] - vault synthesis page, not itself a source, listing Feyerabend among the philosophy-of-science critique leads tracked through [[concepts/scientism]].
+
 ## Related
 - [[concepts/scientism]]
 - [[concepts/inferential-leap]]
@@ -36,3 +45,4 @@ The source uses Feyerabend as an entry point into the vault's interest in [[conc
 
 ## Open questions
 - Which Feyerabend texts best fit this vault's emphasis on methodology versus authority?
+- No primary Feyerabend text has been ingested, and no Tier 1 or Tier 2 source discussing his positions exists in the vault; every current mention traces to the Tier 3 seed transcript, so this page remains a lead rather than a supported account.

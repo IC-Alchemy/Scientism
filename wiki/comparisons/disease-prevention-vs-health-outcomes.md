@@ -14,7 +14,7 @@ tags:
   - trials
   - utilization-endpoints
 sources: 6
-updated: 2026-05-21
+updated: 2026-10-08
 claim_status: exploratory
 claim_type: medical
 ---
@@ -38,6 +38,7 @@ Both framings assume that trial design and outcome measurement matter when judgi
 - [[sources/profitable-sacred-cows-that-are-clearly-wrong-but-profitable-continue-getting-fu]] raises a weaker, more speculative concern about numerator and denominator quality in public-health datasets.
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] is a direct trial example. It found significantly worse ILI-related sick-day, lost-workday, and physician-visit work-hour endpoints in the vaccine group during the mismatched 1997-1998 season, season-specific reductions in laboratory-confirmed influenza illness, ILI, physician visits, and lost workdays during the matched 1998-1999 season, and no net economic savings under the study model in either season.
 - [[sources/cutts-2005-pcv9-gambia-rct]] is a direct favorable example for a broader health-outcome claim: the PCV9 group had fewer all-cause admissions and fewer all-cause deaths than the placebo group in the Gambian child trial.
+- [[sources/vaccine-clips-research-lead]] is a Tier 3 stub note that frames the gap directly: target-disease prevention is treated as demonstrable, while prevention-equals-health-benefit is described as a logical inference that still needs its own long-term outcome evidence.
 
 ## What question the underlying studies can answer
 - If a study measures only disease prevention, it can support that narrower claim within the limits of its design.
@@ -69,18 +70,18 @@ Both framings assume that trial design and outcome measurement matter when judgi
 > [!relation-in]- 14 Notes link here
 > | Note |
 > | --- |
-> | [[clinical-endpoints]] |
-> | [[comparisons]] |
-> | [[cutts-2005-pcv9-gambia-rct]] |
-> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[concepts/clinical-endpoints]] |
+> | [[comparisons/comparisons]] |
+> | [[sources/cutts-2005-pcv9-gambia-rct]] |
+> | [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
 > | [[index]] |
-> | [[pediatric-vaccine-trial-records-placebo-control-audit]] |
-> | [[placebo-controls]] |
-> | [[profitable-sacred-cows-that-are-clearly-wrong-but-profitable-continue-getting-fu]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[specific-vaccine-overall-health-outcome-evidence]] |
-> | [[surrogate-endpoints]] |
-> | [[vaccinated-children-more-healthy-question]] |
-> | [[vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
+> | [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] |
+> | [[concepts/placebo-controls]] |
+> | [[sources/profitable-sacred-cows-that-are-clearly-wrong-but-profitable-continue-getting-fu]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/specific-vaccine-overall-health-outcome-evidence]] |
+> | [[concepts/surrogate-endpoints]] |
+> | [[synthesis/vaccinated-children-more-healthy-question]] |
+> | [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
 <!-- /vault-operator:incoming-links sha="27d34595" -->

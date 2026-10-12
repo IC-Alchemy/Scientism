@@ -76,14 +76,14 @@ The manuscript may therefore upgrade mumps from a candidate row into an evidence
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[failed-virus-causation-attempts-register]] |
-> | [[henle-henle-wendell-rosenberg-1948-induced-mumps-infections-virus-isolation]] |
+> | [[synthesis/failed-virus-causation-attempts-register]] |
+> | [[sources/henle-henle-wendell-rosenberg-1948-induced-mumps-infections-virus-isolation]] |
 > | [[index]] |
-> | [[johnson-goodpasture-1934-investigation-etiology-mumps]] |
-> | [[leymaster-ward-1947-direct-isolation-mumps-virus-chick-embryos]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[synthesis]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
+> | [[sources/johnson-goodpasture-1934-investigation-etiology-mumps]] |
+> | [[sources/leymaster-ward-1947-direct-isolation-mumps-virus-chick-embryos]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/synthesis]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
 <!-- /vault-operator:incoming-links sha="7f8aa7d7" -->

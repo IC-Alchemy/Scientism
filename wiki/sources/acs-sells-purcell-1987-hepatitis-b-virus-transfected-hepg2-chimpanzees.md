@@ -72,14 +72,14 @@ This source supports a narrow claim: in Acs et al. 1987, virions produced by HBV
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[barker-1973-transmission-type-b-hepatitis-chimpanzees]] |
-> | [[dane-1970-australia-antigen-virus-like-particles]] |
-> | [[hepatitis-b-hepatitis-b-virus-evidence-ladder]] |
+> | [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees]] |
+> | [[sources/dane-1970-australia-antigen-virus-like-particles]] |
+> | [[synthesis/hepatitis-b-hepatitis-b-virus-evidence-ladder]] |
 > | [[index]] |
-> | [[krugman-giles-hammond-1967-two-types-infectious-hepatitis]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[sources]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
+> | [[sources/krugman-giles-hammond-1967-two-types-infectious-hepatitis]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[sources/sources]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
 <!-- /vault-operator:incoming-links sha="49801aaa" -->

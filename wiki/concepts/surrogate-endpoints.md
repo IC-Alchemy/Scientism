@@ -54,16 +54,16 @@ Surrogate endpoints are measures used in trials as stand-ins for broader clinica
 > [!relation-in]- 12 Notes link here
 > | Note |
 > | --- |
-> | [[clinical-endpoints]] |
-> | [[concepts]] |
-> | [[disease-prevention-vs-health-outcomes]] |
+> | [[concepts/clinical-endpoints]] |
+> | [[concepts/concepts]] |
+> | [[comparisons/disease-prevention-vs-health-outcomes]] |
 > | [[index]] |
-> | [[pediatric-vaccine-trial-records-placebo-control-audit]] |
-> | [[placebo-controls]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
-> | [[skinner-2016-hpv-progression-clearance]] |
-> | [[specific-vaccine-overall-health-outcome-evidence]] |
-> | [[vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
+> | [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] |
+> | [[concepts/placebo-controls]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[sources/skinner-2016-hpv-progression-clearance]] |
+> | [[synthesis/specific-vaccine-overall-health-outcome-evidence]] |
+> | [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] |
 <!-- /vault-operator:incoming-links sha="3b706b40" -->

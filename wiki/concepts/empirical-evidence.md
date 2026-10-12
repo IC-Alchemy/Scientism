@@ -15,7 +15,7 @@ tags:
   - observation-data
   - reproducibility
 sources: 5
-updated: 2026-05-04
+updated: 2026-10-08
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -34,7 +34,7 @@ This distinction is why empirical evidence connects directly to [[concepts/infer
 
 ## How current sources use the term
 - [[sources/empirical-evidence]] offers a broad tertiary definition of the term.
-- The raw `Speciation.md` note distinguishes direct observations from causal stories about speciation, but it has not yet been promoted to a `wiki/sources/` page.
+- [[sources/speciation-direct-evidence-ai-chat]] distinguishes direct observations from causal stories about speciation, and records its named observations as leads to verify.
 - The raw `Evolution.md` note distinguishes historical reconstruction from direct replicated experiment, but it has not yet been promoted to a `wiki/sources/` page.
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] shows a stronger case in which the experiment and the conclusion align closely.
 
@@ -53,18 +53,18 @@ This distinction is why empirical evidence connects directly to [[concepts/infer
 > [!relation-in]- 14 Notes link here
 > | Note |
 > | --- |
-> | [[concepts]] |
-> | [[empirical-evidence]] |
+> | [[concepts/concepts]] |
+> | [[concepts/empirical-evidence]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] |
-> | [[replication-crisis]] |
-> | [[scientism]] |
-> | [[scientism-conversation-may-1-2026]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[scobey-poisoning-as-the-cause-of-poliomyelitis]] |
-> | [[source-corpus-triage]] |
-> | [[vault-maintenance-guide]] |
-> | [[vault-maintenance-guide]] |
+> | [[concepts/inferential-leap]] |
+> | [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] |
+> | [[concepts/replication-crisis]] |
+> | [[concepts/scientism]] |
+> | [[sources/scientism-conversation-may-1-2026]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[synthesis/vault-maintenance-guide]] |
+> | [[synthesis/vault-maintenance-guide]] |
 <!-- /vault-operator:incoming-links sha="7ee5309e" -->

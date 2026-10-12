@@ -124,14 +124,14 @@ This wiki can conclude only the following from this source alone:
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[germ-theory]] |
+> | [[concepts/germ-theory]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
-> | [[mike-stone]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[source-corpus-triage]] |
-> | [[sources]] |
-> | [[viroliegy]] |
+> | [[concepts/inferential-leap]] |
+> | [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[entities/mike-stone]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[sources/sources]] |
+> | [[entities/viroliegy]] |
 <!-- /vault-operator:incoming-links sha="725692bb" -->

@@ -14,7 +14,7 @@ tags:
   - virology
   - virus-isolation-claims
 sources: 8
-updated: 2026-05-14
+updated: 2026-10-08
 claim_status: unresolved
 claim_type: medical
 ---
@@ -40,6 +40,7 @@ The newer causation-ladder page [[synthesis/viral-disease-causation-evidence-lad
 - [[sources/rivers-1937-viruses-and-kochs-postulates]] is a stronger historical-methodological source because it accepts that viruses may require different proof methods while still requiring proof that the virus is causal rather than incidental.
 - [[sources/fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] is relevant to molecular detection because it treats sequence evidence as a causal lead that needs controls and disease linkage, not as standalone proof.
 - [[sources/jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses]] is relevant to respiratory viruses because it distinguishes weak detection evidence from stronger transmission-causality evidence.
+- [[sources/is-complete-purification-isolation-of-a-virus-even-possible]] argues from the exosome-isolation methods literature that complete purification of nanoparticle-scale particles is practically impossible, and that virology therefore lacks the separation step its existence and causation claims would require.
 
 ## What this wiki currently concludes
 - The vault should not treat "isolation" as self-explanatory.
@@ -62,26 +63,26 @@ The newer causation-ladder page [[synthesis/viral-disease-causation-evidence-lad
 > [!relation-in]- 22 Notes link here
 > | Note |
 > | --- |
-> | [[cell-culture]] |
-> | [[cell-culture-viroliegy]] |
-> | [[concepts]] |
-> | [[enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] |
-> | [[feinstone-kapikian-purcell-1973-hepatitis-a-iem]] |
-> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
-> | [[has-the-virus-been-isolated-no-viroliegy]] |
+> | [[concepts/cell-culture]] |
+> | [[sources/cell-culture-viroliegy]] |
+> | [[concepts/concepts]] |
+> | [[sources/enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] |
+> | [[sources/feinstone-kapikian-purcell-1973-hepatitis-a-iem]] |
+> | [[sources/fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[sources/has-the-virus-been-isolated-no-viroliegy]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
-> | [[leymaster-ward-1947-direct-isolation-mumps-virus-chick-embryos]] |
-> | [[rivers-1937-viruses-and-kochs-postulates]] |
-> | [[sars-cov-2-covid-causation-audit]] |
-> | [[scientism-conversation-may-1-2026]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[shingles-vzv-causation-and-vaccine-trial-audit]] |
-> | [[the-virus-cult-a-religion-built-on-fear-not-science]] |
-> | [[the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
+> | [[concepts/inferential-leap]] |
+> | [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[sources/leymaster-ward-1947-direct-isolation-mumps-virus-chick-embryos]] |
+> | [[sources/rivers-1937-viruses-and-kochs-postulates]] |
+> | [[synthesis/sars-cov-2-covid-causation-audit]] |
+> | [[sources/scientism-conversation-may-1-2026]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit]] |
+> | [[sources/the-virus-cult-a-religion-built-on-fear-not-science]] |
+> | [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
 <!-- /vault-operator:incoming-links sha="6d06c389" -->

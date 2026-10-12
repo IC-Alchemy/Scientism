@@ -100,14 +100,14 @@ Current conclusion:
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[sources/fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
 > | [[index]] |
-> | [[jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses]] |
-> | [[mers-mers-cov-evidence-ladder]] |
-> | [[sars-sars-cov-evidence-ladder]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[synthesis]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
+> | [[sources/jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses]] |
+> | [[synthesis/mers-mers-cov-evidence-ladder]] |
+> | [[synthesis/sars-sars-cov-evidence-ladder]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/synthesis]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
 <!-- /vault-operator:incoming-links sha="b03f41d" -->

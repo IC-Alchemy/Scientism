@@ -3,7 +3,7 @@ title: Sources
 category: concept
 summary: Map of all source pages in the vault.
 tags: [MOCs, mocs]
-updated: 2026-10-01
+updated: 2026-10-08
 ---
 
 # Sources
@@ -259,6 +259,12 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/in-case-i-do-not-reach-my-decision-point-or-the-mexico-border-i-am-sending-this|In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending This]]
 - [[sources/sources|Sources]]
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science|The Virus Cult - A Religion Built on Fear, Not Science]]
+
+## Research leads and vault meta (3)
+
+- [[sources/is-complete-purification-isolation-of-a-virus-even-possible|Is Complete Purification/Isolation of a "Virus" Even Possible? - ViroLIEgy]]
+- [[sources/speciation-direct-evidence-ai-chat|Speciation - What Counts as Direct Evidence (AI Chat)]]
+- [[sources/vaccine-clips-research-lead|Vaccine Clips (Research Lead)]]
 
 ## Elsewhere
 

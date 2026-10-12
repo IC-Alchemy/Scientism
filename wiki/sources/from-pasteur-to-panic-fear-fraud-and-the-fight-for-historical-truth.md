@@ -72,14 +72,14 @@ This raw source is an interview-style commentary that presents Mike Stone as a c
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[germ-theory]] |
+> | [[concepts/germ-theory]] |
 > | [[index]] |
-> | [[louis-pasteur]] |
-> | [[louis-pasteurs-unethical-rabies-fraud]] |
-> | [[mike-stone]] |
-> | [[pasteurs-researches-on-rabies]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[source-corpus-triage]] |
-> | [[sources]] |
-> | [[viroliegy]] |
+> | [[entities/louis-pasteur]] |
+> | [[sources/louis-pasteurs-unethical-rabies-fraud]] |
+> | [[entities/mike-stone]] |
+> | [[sources/pasteurs-researches-on-rabies]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[sources/sources]] |
+> | [[entities/viroliegy]] |
 <!-- /vault-operator:incoming-links sha="294c3be9" -->

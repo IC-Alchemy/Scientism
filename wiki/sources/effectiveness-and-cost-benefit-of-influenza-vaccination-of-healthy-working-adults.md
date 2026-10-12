@@ -109,14 +109,14 @@ For this vault, that omission is highly relevant to [[concepts/scientism]]: a ra
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[clinical-endpoints]] |
-> | [[disease-prevention-vs-health-outcomes]] |
+> | [[concepts/clinical-endpoints]] |
+> | [[comparisons/disease-prevention-vs-health-outcomes]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[placebo-controls]] |
-> | [[scientism]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[source-corpus-triage]] |
-> | [[sources]] |
+> | [[concepts/inferential-leap]] |
+> | [[concepts/placebo-controls]] |
+> | [[concepts/scientism]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[sources/sources]] |
 <!-- /vault-operator:incoming-links sha="656323f3" -->

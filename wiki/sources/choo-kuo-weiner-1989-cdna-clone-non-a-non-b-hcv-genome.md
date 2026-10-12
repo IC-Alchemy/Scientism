@@ -72,14 +72,14 @@ This source supports a narrow claim: Choo et al. 1989 identified cDNA clones and
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
-> | [[hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
+> | [[sources/alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
+> | [[synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder]] |
 > | [[index]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[sources]] |
-> | [[tabor-1984-non-a-non-b-two-agents-chimpanzees]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
-> | [[yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[sources/sources]] |
+> | [[sources/tabor-1984-non-a-non-b-two-agents-chimpanzees]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
+> | [[sources/yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
 <!-- /vault-operator:incoming-links sha="2cb54a50" -->

@@ -47,19 +47,19 @@ ViroLIEgy is a recurring source of raw material in this vault. Its articles ofte
 > [!relation-in]- 15 Notes link here
 > | Note |
 > | --- |
-> | [[Cell Culture – ViroLIEgy]] |
-> | [[diagnosis-smallpox-viroliegy]] |
-> | [[Edward Jenner’s Smallpox Paper (1798)]] |
-> | [[edward-jenners-smallpox-paper-1798]] |
-> | [[entities]] |
-> | [[From Pasteur to Panic Fear, Fraud, and the Fight for Historical Truth]] |
-> | [[from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] |
-> | [[germ-theory]] |
+> | [[sources/cell-culture-viroliegy|Cell Culture – ViroLIEgy]] |
+> | [[sources/diagnosis-smallpox-viroliegy]] |
+> | [[sources/edward-jenners-smallpox-paper-1798|Edward Jenner’s Smallpox Paper (1798)]] |
+> | [[sources/edward-jenners-smallpox-paper-1798]] |
+> | [[entities/entities]] |
+> | [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth|From Pasteur to Panic Fear, Fraud, and the Fight for Historical Truth]] |
+> | [[sources/from-pasteur-to-panic-fear-fraud-and-the-fight-for-historical-truth]] |
+> | [[concepts/germ-theory]] |
 > | [[index]] |
-> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
-> | [[Louis Pasteur’s Unethical Rabies Fraud]] |
-> | [[louis-pasteurs-unethical-rabies-fraud]] |
-> | [[Rabies The “Virus” of Fear]] |
-> | [[The Infectious Myth Busted Part 6 The Germ Duel]] |
-> | [[the-infectious-myth-busted-part-6-the-germ-duel]] |
+> | [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[sources/louis-pasteurs-unethical-rabies-fraud|Louis Pasteur’s Unethical Rabies Fraud]] |
+> | [[sources/louis-pasteurs-unethical-rabies-fraud]] |
+> | [[sources/rabies-the-virus-of-fear|Rabies The “Virus” of Fear]] |
+> | [[sources/the-infectious-myth-busted-part-6-the-germ-duel|The Infectious Myth Busted Part 6 The Germ Duel]] |
+> | [[sources/the-infectious-myth-busted-part-6-the-germ-duel]] |
 <!-- /vault-operator:incoming-links sha="344045ba" -->

@@ -106,15 +106,15 @@ This source is best treated as a research lead and interpretive argument, not as
 > [!relation-in]- 11 Notes link here
 > | Note |
 > | --- |
-> | [[failed-virus-causation-attempts-register]] |
-> | [[germ-theory]] |
+> | [[synthesis/failed-virus-causation-attempts-register]] |
+> | [[concepts/germ-theory]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[mike-stone]] |
-> | [[rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[source-corpus-triage]] |
-> | [[sources]] |
-> | [[viroliegy]] |
+> | [[concepts/inferential-leap]] |
+> | [[entities/mike-stone]] |
+> | [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[sources/sources]] |
+> | [[entities/viroliegy]] |
 <!-- /vault-operator:incoming-links sha="4484ea5f" -->

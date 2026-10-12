@@ -83,16 +83,16 @@ The manuscript may therefore upgrade HCV from a candidate row into a started mol
 > [!relation-in]- 12 Notes link here
 > | Note |
 > | --- |
-> | [[alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
-> | [[choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome]] |
-> | [[failed-virus-causation-attempts-register]] |
-> | [[hong-1999-transmissible-hcv-molecular-clone]] |
+> | [[sources/alter-purcell-shih-1989-hcv-antibody-transfusion-recipients]] |
+> | [[sources/choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome]] |
+> | [[synthesis/failed-virus-causation-attempts-register]] |
+> | [[sources/hong-1999-transmissible-hcv-molecular-clone]] |
 > | [[index]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[synthesis]] |
-> | [[tabor-1984-non-a-non-b-two-agents-chimpanzees]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
-> | [[yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/synthesis]] |
+> | [[sources/tabor-1984-non-a-non-b-two-agents-chimpanzees]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
+> | [[sources/yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee]] |
 <!-- /vault-operator:incoming-links sha="47208ea3" -->

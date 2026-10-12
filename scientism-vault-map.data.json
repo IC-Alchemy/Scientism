@@ -1,0 +1,333 @@
+{
+  "title": "Scientism Vault — Architecture",
+  "subtitle": "Built from a scan of wiki/ (271 pages), raw/, and scripts/; index current as of the 2026-10-01 pass.",
+  "summary": "A research vault studying scientism and evidence standards. The core loop: immutable raw/ documents are triaged into 207 source pages grouped in 14 topic clusters; 24 per-disease evidence ladders reconstruct the foundational experiments; a 10-rung causation framework grades every claim by the rung its evidence actually reached, while failed experiments are kept visible in a dedicated register. Epistemic concepts, historical-actor case studies, and a long-form manuscript sit on top; an auto-generated index and lint scripts keep the catalogues honest.",
+  "mode": "architecture",
+  "meta": ["271 wiki pages", "207 sources · 14 clusters", "24 disease ladders", "10-rung framework"],
+  "layers": [
+    { "key": "concept", "label": "Concepts", "color": "#2563eb" },
+    { "key": "entity", "label": "Entities", "color": "#475569" },
+    { "key": "synthesis", "label": "Synthesis", "color": "#7c3aed" },
+    { "key": "comparison", "label": "Comparisons", "color": "#e11d48" },
+    { "key": "source", "label": "Sources", "color": "#b45309" },
+    { "key": "meta", "label": "Vault meta", "color": "#059669" }
+  ],
+  "clusters": [
+    { "key": "epistemics", "label": "Epistemic core (concepts)", "row": 0 },
+    { "key": "actors", "label": "Historical actors & critics", "row": 0 },
+    { "key": "frameworks", "label": "Cross-cutting frameworks & audits", "row": 1 },
+    { "key": "infra", "label": "Vault infrastructure", "row": 1 },
+    { "key": "ladders", "label": "Per-disease evidence ladders (24 + audits)", "row": 2 },
+    { "key": "corpus", "label": "Source corpus — 207 pages", "row": 3 }
+  ],
+  "nodes": [
+    {
+      "id": "concept-scientism", "label": "Scientism", "hint": "the core problem", "layer": "concept", "cluster": "epistemics",
+      "description": "The vault's namesake problem: extending scientific authority, methods, or results beyond what the underlying experiments support. Anchored on the Bridges flu-vaccine RCT, whose favorable abstract framing outran its unfavorable sick-day endpoints.",
+      "decisions": ["Consensus and peer review are not treated as truth markers; replication is the strongest marker."],
+      "files": ["wiki/concepts/scientism.md"], "data": ["Seed: raw/Scientism.md (Tier 3)", "Tier 1 example: Bridges flu RCT"]
+    },
+    {
+      "id": "concept-replication", "label": "Replication crisis", "hint": "only 'supported' concept", "layer": "concept", "cluster": "epistemics",
+      "description": "Rebuilt 2026-10-01 from three anchors whose limits are kept distinct: OSC 2015 (100 psychology studies, 36% replicated), the Amgen cancer-biology report (6/53, unpublished data → stays unresolved), and the 2016 Nature survey (attitudes, not rates).",
+      "files": ["wiki/concepts/replication-crisis.md"], "data": ["OSC 2015", "Amgen 2012", "Baker 2016"]
+    },
+    {
+      "id": "concept-leap", "label": "Inferential leap", "hint": "~50 inbound links", "layer": "concept", "cluster": "epistemics",
+      "description": "The central analytic tool: the move from a narrow observation or endpoint to a broader claim the evidence cannot carry. Applied symmetrically to mainstream and Tier-3 revisionist sources.",
+      "files": ["wiki/concepts/inferential-leap.md", "wiki/concepts/empirical-evidence.md"]
+    },
+    {
+      "id": "concept-endpoints", "label": "Trial endpoints", "hint": "surrogates · placebos", "layer": "concept", "cluster": "epistemics",
+      "description": "Trial-endpoint discipline: surrogate endpoints vs clinical endpoints, and inert placebo vs active comparator. Anchored on the pediatric placebo-control audit (18 records, mostly active comparators, at least one saline+excipient trial).",
+      "files": ["wiki/concepts/surrogate-endpoints.md", "wiki/concepts/clinical-endpoints.md", "wiki/concepts/placebo-controls.md"]
+    },
+    {
+      "id": "concept-methods", "label": "Disputed methods", "hint": "germ theory · isolation", "layer": "concept", "cluster": "epistemics",
+      "description": "The disputed-methods cluster: germ theory (explicitly unresolved — neither validated nor globally refuted), virus isolation (a term under dispute), and cell culture ('a method, not a conclusion'; CPE-artifact criticisms recorded as legitimate points to examine).",
+      "files": ["wiki/concepts/germ-theory.md", "wiki/concepts/virus-isolation.md", "wiki/concepts/cell-culture.md"]
+    },
+    {
+      "id": "entity-trio", "label": "Pasteur · Koch · Jenner", "hint": "disputed case studies", "layer": "entity", "cluster": "actors",
+      "description": "Historical scientists treated as case studies in the gap between experiment, treatment claim, and later narrative — Koch as the methodological benchmark for causal-proof standards, not a symbol.",
+      "files": ["wiki/entities/louis-pasteur.md", "wiki/entities/robert-koch.md", "wiki/entities/edward-jenner.md"]
+    },
+    {
+      "id": "entity-critics", "label": "Revisionist critics", "hint": "Mike Stone · ViroLIEgy", "layer": "entity", "cluster": "actors",
+      "description": "Contemporary Tier-3 revisionist commentary: used for quotations and dispute structure, never for factual closure; when it cites an experiment, the underlying source is ingested separately.",
+      "decisions": ["Feyerabend and Dubos pages remain un-ingested stubs awaiting primary sources."],
+      "files": ["wiki/entities/mike-stone.md", "wiki/entities/viroliegy.md"]
+    },
+    {
+      "id": "syn-ladder", "label": "Evidence ladder", "hint": "10 rungs · 120 sources", "layer": "synthesis", "cluster": "frameworks",
+      "description": "The cross-cutting framework: ten rungs from clinical syndrome description to replicated cross-method convergence, each naming what it can and cannot answer. Guards against 'endpoint compression' — a result at one rung retold as causal closure.",
+      "decisions": ["'Virus causes disease' is never one proposition; it is expanded into named disease, virus, design, route, comparator, endpoint, result, limitation."],
+      "files": ["wiki/synthesis/viral-disease-causation-evidence-ladder.md"]
+    },
+    {
+      "id": "syn-leaps", "label": "Inferential leaps", "hint": "197 sources · 5 patterns", "layer": "synthesis", "cluster": "frameworks",
+      "description": "Analysis of how foundational attribution papers get extended past their experiments: artificial-route→natural causation, detection→proof, animal-model→human history, association→necessity, tractability→closure. Worked cases: polio (control), AIDS, influenza, measles, smallpox.",
+      "files": ["wiki/synthesis/virus-causation-inferential-leaps.md"]
+    },
+    {
+      "id": "syn-failed", "label": "Failed attempts", "hint": "register · 149 sources", "layer": "synthesis", "cluster": "frameworks",
+      "description": "Register of failed, negative, and non-confirmatory experiments, organized per disease pair as boundary findings (route, host, endpoint, model limits) rather than blanket refutations. Flagship negatives: Rosenau 1918-19 influenza, Sabin-Olitsky 1938 polio.",
+      "files": ["wiki/synthesis/failed-virus-causation-attempts-register.md"]
+    },
+    {
+      "id": "syn-worklist", "label": "Audit worklist", "hint": "231 sources · queue", "layer": "synthesis", "cluster": "frameworks",
+      "description": "The upstream research queue: ~28 disease attributions with audit status (candidate papers logged → ladder started → audit added) and per-disease foundational papers each framed with a 'capable question'. Seeds every ladder page.",
+      "files": ["wiki/synthesis/virus-disease-attribution-audit-worklist.md"]
+    },
+    {
+      "id": "syn-program", "label": "Program + manuscript", "hint": "overview · 161-source ms", "layer": "synthesis", "cluster": "frameworks",
+      "description": "The research-program overview (34 sources; thesis 'procedural rather than doctrinal', six dispute clusters) and the long-form manuscript wrapping the ladder, failed register, AIDS, COVID, and vaccine-outcome strands in ten sections.",
+      "files": ["wiki/synthesis/scientism-research-program-overview.md", "wiki/synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence.md"]
+    },
+    {
+      "id": "syn-gutknecht", "label": "Gutknecht audit", "hint": "12 questions · Q7-9", "layer": "synthesis", "cluster": "frameworks",
+      "description": "Direct-study audit of the March 1995 Gutknecht AIDS letter's 12 questions. Strongest support on Q7-9 (hemophiliac survival cohorts; drugs/AZT-as-general-cause rejected by chronology and non-recreational cohorts; AZT ethics is population/endpoint-specific). Q4-6 and Q10-12 unresolved.",
+      "files": ["wiki/synthesis/gutknecht-letter-evidence-check.md", "wiki/synthesis/gutknecht-letter-questions-7-9.md"]
+    },
+    {
+      "id": "syn-vaccine", "label": "Vaccine outcomes", "hint": "PCV9 · flu RCT", "layer": "synthesis", "cluster": "frameworks",
+      "description": "Does a specific vaccine improve broader overall health? Centered on the PCV9 Gambia RCT (all-cause admissions and mortality endpoints) against the Bridges flu RCT's unfavorable sick-day endpoints; answers 'not established' where only disease-prevention endpoints exist.",
+      "files": ["wiki/synthesis/vaccinated-children-more-healthy-question.md", "wiki/synthesis/specific-vaccine-overall-health-outcome-evidence.md", "wiki/synthesis/shingles-vzv-causation-and-vaccine-trial-audit.md"]
+    },
+    {
+      "id": "cmp-dispute", "label": "Dispute comparisons", "hint": "ladder vs no-virus", "layer": "comparison", "cluster": "frameworks",
+      "description": "Two dispute-structure maps: the rung-separated ladder standard vs the Tier-3 'no-virus' critique (framed as symmetric overreach — endpoint compression vs generalizing negatives), and disease-prevention vs health-outcomes framing.",
+      "files": ["wiki/comparisons/ladder-standard-vs-revisionist-virus-causation-critique.md", "wiki/comparisons/disease-prevention-vs-health-outcomes.md"]
+    },
+    {
+      "id": "lad-herpes", "label": "Herpesviruses (7)", "hint": "HSV · VZV · EBV · HHV-8", "layer": "synthesis", "cluster": "ladders",
+      "description": "Cold sores, genital herpes, chickenpox, shingles, infectious mononucleosis, Burkitt lymphoma, Kaposi sarcoma — from 1953 VZV tissue propagation through ganglion-latency studies and daily-shedding cohorts.",
+      "files": ["wiki/synthesis/chickenpox-varicella-zoster-virus-evidence-ladder.md", "wiki/synthesis/shingles-vzv-reactivation-evidence-ladder.md", "wiki/synthesis/cold-sores-hsv1-evidence-ladder.md", "wiki/synthesis/genital-herpes-hsv-evidence-ladder.md", "wiki/synthesis/infectious-mononucleosis-ebv-evidence-ladder.md", "wiki/synthesis/burkitt-lymphoma-ebv-evidence-ladder.md", "wiki/synthesis/kaposi-sarcoma-hhv8-evidence-ladder.md"]
+    },
+    {
+      "id": "lad-hepatitis", "label": "Hepatitis (3)", "hint": "A · B · C", "layer": "synthesis", "cluster": "ladders",
+      "description": "Hepatitis A, B, and C ladders — classed by the framework as its strongest experimental ladders: marmoset propagation and chimpanzee transmission through molecular-clone infectivity.",
+      "files": ["wiki/synthesis/hepatitis-a-hepatitis-a-virus-evidence-ladder.md", "wiki/synthesis/hepatitis-b-hepatitis-b-virus-evidence-ladder.md", "wiki/synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder.md"]
+    },
+    {
+      "id": "lad-childhood", "label": "Childhood (5)", "hint": "measles → HFMD", "layer": "synthesis", "cluster": "ladders",
+      "description": "Measles, mumps, rubella, polio, hand-foot-and-mouth: the monkey-challenge and tissue-culture era reconstructed rung by rung. Polio is the framework's control case for tight vs extended inference.",
+      "files": ["wiki/synthesis/measles-measles-virus-evidence-ladder.md", "wiki/synthesis/mumps-mumps-virus-evidence-ladder.md", "wiki/synthesis/rubella-rubella-virus-evidence-ladder.md", "wiki/synthesis/poliomyelitis-poliovirus-evidence-ladder.md", "wiki/synthesis/hand-foot-mouth-disease-enteroviruses-evidence-ladder.md"]
+    },
+    {
+      "id": "lad-resp", "label": "Resp & gut (6)", "hint": "flu·RSV·SARS·MERS·rota·noro", "layer": "synthesis", "cluster": "ladders",
+      "description": "Influenza, RSV/bronchiolitis, SARS, MERS, rotavirus, norovirus, plus the COVID-19 causation audit. Heavy on failed human-transmission and route-boundary evidence (Rosenau 1919).",
+      "files": ["wiki/synthesis/influenza-influenza-virus-evidence-ladder.md", "wiki/synthesis/bronchiolitis-rsv-evidence-ladder.md", "wiki/synthesis/sars-sars-cov-evidence-ladder.md", "wiki/synthesis/mers-mers-cov-evidence-ladder.md", "wiki/synthesis/rotavirus-gastroenteritis-evidence-ladder.md", "wiki/synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder.md", "wiki/synthesis/sars-cov-2-covid-causation-audit.md"]
+    },
+    {
+      "id": "lad-hpv", "label": "HPV / cervical", "hint": "association-heavy", "layer": "synthesis", "cluster": "ladders",
+      "description": "The association-heavy ladder: HPV16/18 cloning, integration state, the 49,655-woman Manchester progression cohort, PCR-negative retesting (HPV-negative fraction shrinks with every better assay), and the 2026 CIDRAP vaccine review as the intervention rung.",
+      "files": ["wiki/synthesis/cervical-cancer-hpv-evidence-ladder.md"]
+    },
+    {
+      "id": "lad-zoonotic", "label": "Rabies & smallpox", "hint": "route boundaries", "layer": "synthesis", "cluster": "ladders",
+      "description": "The severe-systemic pair: rabies (neural spread, egg adaptation, street vs fixed strains, aerosol-route tests) and smallpox (monkey inoculation, egg propagation, contact/aerosol transmission).",
+      "files": ["wiki/synthesis/rabies-rabies-virus-evidence-ladder.md", "wiki/synthesis/smallpox-variola-virus-evidence-ladder.md"]
+    },
+    {
+      "id": "src-hiv", "label": "HIV/AIDS (53)", "hint": "densest cluster", "layer": "source", "cluster": "corpus",
+      "description": "Surveillance chronology (1981-82 CDC reports), hemophilia mortality cohorts, transfusion/occupational/vertical transmission cohorts, and the AZT trial set (ACTG 016/019/175, Concorde, Delta, Connor). 2026 additions: chimpanzee-infection boundary studies and ICD cases.",
+      "files": ["wiki/sources/gottlieb-1981-pneumocystis-carinii-pneumonia-and-mucosal-candidiasis.md", "wiki/sources/fischl-1987-efficacy-of-azidothymidine-in-aids-and-arc.md", "wiki/sources/darby-1995-mortality-before-and-after-hiv-infection-in-uk-haemophiliacs.md"]
+    },
+    {
+      "id": "src-hpv", "label": "HPV & trials (32)", "hint": "de facto catch-all", "layer": "source", "cluster": "corpus",
+      "description": "HPV16/18 cloning through deep-sequencing reanalysis of HPV-negative cancers — plus, mixed in by the index, roughly half non-HPV pages: smallpox/vaccinia growth papers, the PCV9 Gambia RCT, flu-vaccine RCT, and vaccine placebo-control audits.",
+      "files": ["wiki/sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma.md", "wiki/sources/peto-2004-manchester-hpv-neoplasia-cohort.md", "wiki/sources/cutts-2005-pcv9-gambia-rct.md"]
+    },
+    {
+      "id": "src-herpes", "label": "Herpesviruses (26)", "hint": "HSV · VZV · EBV · KSHV", "layer": "source", "cluster": "corpus",
+      "description": "From Weller's 1953 varicella/zoster propagation and Epstein's 1965 Burkitt-culture particles through latent-VZV ganglion studies, shedding cohorts, and the 1994-96 KSHV discovery line.",
+      "files": ["wiki/sources/weller-1953-serial-propagation-varicella-herpes-zoster-agents.md", "wiki/sources/epstein-henle-achong-barr-1965-morphological-biological-virus-burkitt-lymphoblasts.md", "wiki/sources/chang-cesarman-pessin-1994-herpesvirus-like-dna-aids-kaposi.md"]
+    },
+    {
+      "id": "src-hepatitis", "label": "Hepatitis (17)", "hint": "A · B · C", "layer": "source", "cluster": "corpus",
+      "description": "Willowbrook human-infection series (1967), Feinstone's 1973 immune-EM visualization, Australia-antigen Dane particles, chimpanzee transmission experiments, and the 1989 HCV molecular cloning.",
+      "files": ["wiki/sources/krugman-giles-hammond-1967-two-types-infectious-hepatitis.md", "wiki/sources/feinstone-kapikian-purcell-1973-hepatitis-a-iem.md", "wiki/sources/choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome.md"]
+    },
+    {
+      "id": "src-resp", "label": "Resp & enteric (29)", "hint": "flu · SARS/MERS · RSV · noro", "layer": "source", "cluster": "corpus",
+      "description": "Influenza (9: Smith 1933 ferret passage, Rosenau 1919 failed human transmission), SARS/MERS (7: Ksiazek isolation, Kuiken macaque challenge), respiratory/enteric (13: Chanock RSV, Kapikian Norwalk, rotavirus challenge, enteroid culture). The index interleaves some RSV/HFMD/rotavirus pages into influenza.",
+      "files": ["wiki/sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients.md", "wiki/sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza.md", "wiki/sources/ksiazek-2003-novel-coronavirus-urbani-strain.md", "wiki/sources/chanock-roizman-myers-1957-cca-rsv-isolation-characterization.md", "wiki/sources/kapikian-1972-immune-electron-microscopy-norwalk-agent.md"]
+    },
+    {
+      "id": "src-classic", "label": "Classic epidemics (14)", "hint": "measles · pox · polio", "layer": "source", "cluster": "corpus",
+      "description": "Measles (6), smallpox/variola/vaccinia (5), polio (3): Enders-era tissue culture, monkey and egg propagation, and early variola inoculation work.",
+      "files": ["wiki/sources/enders-peebles-1954-cytopathogenic-agents-measles-tissue-culture.md", "wiki/sources/enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues.md", "wiki/sources/brinckerhoff-tyzzer-1906-experimental-variola-monkeys.md"]
+    },
+    {
+      "id": "src-methods", "label": "Repl & methods (14)", "hint": "OSC · Amgen · Baker", "layer": "source", "cluster": "corpus",
+      "description": "The replication-crisis triad (OSC 2015, Amgen 2012, Baker 2016), sequencing-bias methods, Illumina error patterns — with mumps and rubella primary experiments parked here because no dedicated index clusters exist for them.",
+      "files": ["wiki/sources/osc-2015-estimating-reproducibility-psychological-science.md", "wiki/sources/begley-ellis-2012-raise-standards-preclinical-cancer.md", "wiki/sources/baker-2016-nature-reproducibility-survey.md", "wiki/sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform.md"]
+    },
+    {
+      "id": "src-rabies", "label": "Rabies (11)", "hint": "route-boundary set", "layer": "source", "cluster": "corpus",
+      "description": "Goodpasture's 1925 neural-transmission study, chick-embryo adaptation, street vs fixed strain comparisons, tissue culture, and the aerosol and oral/nasal/tracheal route-boundary experiments.",
+      "files": ["wiki/sources/goodpasture-1925-rabies-neural-transmission-rabbits-negri-bodies.md", "wiki/sources/davis-rudd-bowen-2007-aerosolized-rabies-bats-mice.md"]
+    },
+    {
+      "id": "src-germ", "label": "Germ-theory (11)", "hint": "Koch · Rivers · F&R", "layer": "source", "cluster": "corpus",
+      "description": "Germ-theory and historical-debate sources (8): Koch's methods paper, Rivers' 1937 postulates revision, Fredericks & Relman's 1996 sequence-based update — plus the 3-page misc bucket of unextracted Tier-3 material.",
+      "files": ["wiki/sources/kochs-famous-paper.md", "wiki/sources/rivers-1937-viruses-and-kochs-postulates.md", "wiki/sources/fredericks-relman-1996-sequence-based-identification-microbial-pathogens.md"]
+    },
+    {
+      "id": "meta-raw", "label": "raw/ sources", "hint": "immutable · 40 items", "layer": "meta", "cluster": "infra",
+      "description": "User-owned source documents at the root of everything: ~34 markdown files plus 2 saved HTML pages and the reprocrisis/ subfolder — historical papers, Tier-3 essays, and the seed Scientism.md conversation. Read-only by iron rule.",
+      "decisions": ["raw/ is never edited; every wiki page traces back to something here."],
+      "files": ["raw/Scientism.md", "raw/Koch's Famous Paper.md"]
+    },
+    {
+      "id": "meta-index", "label": "Index & log", "hint": "auto-generated", "layer": "meta", "cluster": "infra",
+      "description": "wiki/index.md — the auto-generated catalogue of all 271 pages grouped by category and topic cluster — and wiki/log.md, the append-only operation log (2026-05-04 → 2026-10-01).",
+      "files": ["wiki/index.md", "wiki/log.md"]
+    },
+    {
+      "id": "meta-scripts", "label": "Scripts", "hint": "update_index · lint", "layer": "meta", "cluster": "infra",
+      "description": "update_index.py regenerates the index from frontmatter; lint_wiki.py checks frontmatter, wikilinks, and orphans; normalize_formatting.py runs the vault-wide formatting pass; two Gutknecht helpers manage PMID/DOI lookups.",
+      "files": ["scripts/update_index.py", "scripts/lint_wiki.py", "scripts/normalize_formatting.py"]
+    },
+    {
+      "id": "meta-templates", "label": "Templates & guide", "hint": "5 templates", "layer": "meta", "cluster": "infra",
+      "description": "Page templates for the five categories (source-summary is the canonical source-page structure, updated 2026-10-01) and the vault maintenance guide defining the ingest, triage, and lint workflow.",
+      "files": ["wiki/.templates/source-summary.md", "wiki/synthesis/vault-maintenance-guide.md"]
+    }
+  ],
+  "edges": [
+    ["meta-raw", "src-germ", "Koch · Jenner docs"],
+    ["meta-raw", "src-methods", "reprocrisis/ notes"],
+    ["src-germ", "concept-methods", "Koch · Rivers · F&R"],
+    ["src-germ", "entity-trio", "primary records"],
+    ["src-methods", "concept-replication", "OSC · Amgen · Baker"],
+    ["src-methods", "lad-childhood", "mumps · rubella papers"],
+    ["src-hiv", "syn-gutknecht", "Q7-9 cohorts & trials"],
+    ["src-herpes", "lad-herpes", "isolation → shedding"],
+    ["src-hepatitis", "lad-hepatitis", "IEM → molecular clones"],
+    ["src-resp", "lad-resp", "detection & challenge"],
+    ["src-classic", "lad-childhood", "culture & monkey tests"],
+    ["src-rabies", "lad-zoonotic", "route boundaries"],
+    ["src-hpv", "lad-hpv", "HPV16/18 → deep-seq"],
+    ["src-hpv", "syn-vaccine", "PCV9 · flu RCTs"],
+    ["lad-herpes", "syn-ladder", "graded by rungs"],
+    ["lad-hepatitis", "syn-ladder", "graded by rungs"],
+    ["lad-childhood", "syn-ladder", "graded by rungs"],
+    ["lad-resp", "syn-ladder", "graded by rungs"],
+    ["lad-hpv", "syn-ladder", "graded by rungs"],
+    ["lad-zoonotic", "syn-ladder", "graded by rungs"],
+    ["syn-worklist", "lad-herpes", "seeds every ladder"],
+    ["lad-resp", "syn-failed", "Rosenau 1918 negatives"],
+    ["lad-childhood", "syn-failed", "Sabin-Olitsky 1938"],
+    ["syn-ladder", "syn-leaps", "rung vocabulary"],
+    ["syn-ladder", "cmp-dispute", "ladder-standard side"],
+    ["entity-critics", "cmp-dispute", "revisionist side"],
+    ["entity-critics", "concept-methods", "Tier-3 critique"],
+    ["entity-trio", "concept-methods", "case studies"],
+    ["concept-scientism", "concept-leap", "defines the problem"],
+    ["concept-leap", "syn-leaps", "concept → synthesis"],
+    ["concept-endpoints", "syn-vaccine", "endpoint discipline"],
+    ["syn-gutknecht", "syn-program", "AIDS strand"],
+    ["syn-vaccine", "syn-program", "trial strand"],
+    ["meta-scripts", "meta-index", "regenerates index"]
+  ],
+  "flows": [
+    {
+      "id": "ingest", "label": "Ingest a source", "title": "From raw/ document to catalogued wiki page",
+      "nodes": ["meta-raw", "src-hiv", "syn-gutknecht", "meta-scripts", "meta-index"],
+      "steps": [
+        "A document sits in raw/ — read-only, never edited by the wiki.",
+        "Classify it: Tier 1 primary experiment, Tier 2 scholarship, or Tier 3 commentary. Tier 3 can open questions but never settle them.",
+        "Create the wiki/sources/ page, separating what the source claims, what its experiment is capable of answering, and what the wiki concludes.",
+        "Update every materially affected concept, entity, comparison, and synthesis page — e.g. Gottlieb 1981 lands in the HIV corpus and the Gutknecht Q8 chronology.",
+        "Run scripts/update_index.py --write to regenerate the index, then append the operation to wiki/log.md."
+      ],
+      "decisions": ["All writes go to wiki/; raw/ stays immutable.", "A claim is 'supported' only when experiment, endpoint, and result are all named."]
+    },
+    {
+      "id": "grade", "label": "Grade a claim", "title": "How a virus-disease attribution gets graded",
+      "nodes": ["syn-worklist", "src-classic", "lad-childhood", "syn-ladder", "syn-leaps", "syn-failed"],
+      "steps": [
+        "The audit worklist queues a disease attribution with its candidate foundational papers, each framed by the question it is capable of answering.",
+        "The per-disease ladder page reconstructs each experiment: design, sample, intervention, comparator, endpoint, result, limitation.",
+        "Each paper is placed on one of the ladder's ten rungs — syndrome description up through replicated cross-method convergence.",
+        "Claims that outrun their rung are catalogued in the inferential-leaps analysis (five recurrent leap patterns).",
+        "Negative and boundary experiments go to the failed-attempts register instead of disappearing — e.g. Sabin-Olitsky 1938 polio, Rosenau 1918 influenza."
+      ],
+      "decisions": ["Rung placement, not verdicts: every rung names what it can and cannot answer."]
+    }
+  ],
+  "matrices": [
+    {
+      "title": "Source corpus clusters (207 pages, 14 index clusters)",
+      "headers": ["Cluster", "Pages", "Anchor experiments", "Feeds"],
+      "rows": [
+        ["Herpesviruses (HSV, VZV, EBV, KS)", "26", "Weller 1953 · Chang 1994", "7 herpesvirus ladders"],
+        ["HIV/AIDS & antiretrovirals", "53", "Gottlieb 1981 · Fischl 1987", "Gutknecht Q7-9"],
+        ["HPV & cervical cancer", "32", "Durst 1983 · Peto 2004", "HPV ladder · vaccine audits"],
+        ["Hepatitis A/B/C", "17", "Feinstone 1973 · Choo 1989", "3 hepatitis ladders"],
+        ["SARS, MERS & coronaviruses", "7", "Ksiazek 2003 · Kuiken 2003", "SARS & MERS ladders"],
+        ["Rabies", "11", "Goodpasture 1925", "Rabies ladder"],
+        ["Poliomyelitis", "3", "Enders 1949 · Sabin-Olitsky 1938", "Polio ladder · failed register"],
+        ["Measles", "6", "Enders & Peebles 1954", "Measles ladder"],
+        ["Influenza", "9", "Smith 1933 · Rosenau 1919", "Influenza ladder · failed register"],
+        ["Smallpox, variola & vaccinia", "5", "Brinckerhoff 1906 · Noble 1969", "Smallpox ladder"],
+        ["Respiratory & enteric viruses", "13", "Chanock 1957 · Kapikian 1972", "RSV · noro · rota · HFMD ladders"],
+        ["Germ theory & historical debate", "8", "Koch · Rivers 1937 · F&R 1996", "Germ-theory · virus-isolation"],
+        ["Replication, methods & standards", "14", "OSC 2015 · Amgen 2012 · Baker 2016", "Replication-crisis · mumps/rubella ladders"],
+        ["Other (misc Tier 3)", "3", "—", "leads only"]
+      ]
+    },
+    {
+      "title": "The 10-rung evidence ladder",
+      "headers": ["Rung", "Can answer", "Cannot answer"],
+      "rows": [
+        ["1 · Clinical syndrome description", "was a named disease pattern observed", "whether a virus caused it"],
+        ["2 · Detection (microscopy, antigen, PCR, sequencing)", "was viral material found in the sample", "infectiousness, sufficiency, causation"],
+        ["3 · Culture / propagation / isolation", "does the agent propagate in lab conditions", "that it caused the original disease naturally"],
+        ["4 · Serology / immune response", "did the host respond to the agent", "necessity, sufficiency, non-incidence"],
+        ["5 · Animal challenge / experimental exposure", "disease-like endpoints in a host by a route", "ordinary human natural-route causation"],
+        ["6 · Re-isolation from the host", "is the agent recovered after infection", "that this recapitulates natural ecology"],
+        ["7 · Controlled human challenge", "protocolized exposure → defined endpoints", "population patterns, cofactors, real transmission"],
+        ["8 · Prospective cohort / outbreak / transmission chain", "exposure, markers, and disease align over time", "excluding all alternatives and artifacts"],
+        ["9 · Intervention evidence", "does blocking the agent change the endpoint", "one-factor, sufficient, universal causation"],
+        ["10 · Replicated cross-method convergence", "independent methods converge on one model", "license to ignore endpoint limits"]
+      ]
+    },
+    {
+      "title": "Concept anchors",
+      "headers": ["Concept", "Named anchors"],
+      "rows": [
+        ["Replication crisis (supported)", "OSC 2015 · Amgen 2012 · Baker 2016 survey"],
+        ["Scientism", "Bridges flu-vaccine RCT (sick-day endpoints) · seed conversation"],
+        ["Inferential leap", "Rosenau 1918 · Scobey polio · Gutknecht letter · MiSeq error paper (counterexample)"],
+        ["Surrogate endpoints / placebos", "CHD placebo-control article · 18-record audit · Skinner 2016 VIVIANE"],
+        ["Germ theory (unresolved)", "Koch's paper · Rivers 1937 · Jenner 1798 · Pasteur rabies sources"],
+        ["Virus isolation (unresolved)", "Rivers 1937 · Fredericks-Relman 1996 · Jefferson 2022 · ViroLIEgy critique"],
+        ["Cell culture (unresolved)", "Enders 1949 · Enders & Peebles 1954 · CPE-artifact critiques"]
+      ]
+    }
+  ],
+  "walkthroughs": [
+    {
+      "id": "ingest-steps", "label": "Ingest, step by step",
+      "header": { "kind": "INGEST", "path": "raw/ → wiki/", "pairs": [["Iron rule 2", "All writes go to wiki/"]] },
+      "stages": [
+        { "layer": "meta", "title": "Arrive in raw/", "desc": "A paper, transcript, or essay lands in raw/ — read-only forever.", "file": "raw/Scientism.md", "badge": { "type": "gate", "text": "immutable" } },
+        { "layer": "meta", "title": "Triage", "desc": "Tier 1 primary / Tier 2 secondary / Tier 3 commentary; tier caps what the source can settle.", "file": "wiki/synthesis/vault-maintenance-guide.md", "badge": null },
+        { "layer": "source", "title": "Source page", "desc": "wiki/sources/ page written: source claims vs. answerable question vs. wiki conclusion.", "file": "wiki/sources/gottlieb-1981-pneumocystis-carinii-pneumonia-and-mucosal-candidiasis.md", "badge": null },
+        { "layer": "synthesis", "title": "Propagate", "desc": "Affected ladder, concept, and audit pages updated; the claim is placed on its rung.", "file": "wiki/synthesis/viral-disease-causation-evidence-ladder.md", "badge": null },
+        { "layer": "meta", "title": "Catalogue", "desc": "update_index.py --write regenerates the index; log.md records the operation.", "file": "scripts/update_index.py", "badge": { "type": "pass", "text": "index + log updated" } }
+      ]
+    }
+  ],
+  "notes": [
+    { "kind": "ok", "text": "271 pages catalogued; the index is auto-generated from frontmatter by scripts/update_index.py, and the lint pass after the 2026-10-01 restructuring came back clean." },
+    { "kind": "info", "text": "Only concepts/replication-crisis carries claim_status: supported. Germ-theory, virus-isolation, and cell-culture are explicitly unresolved; the vault treats 'we do not know' as a valid conclusion." },
+    { "kind": "warn", "text": "Index cluster drift: 'HPV and cervical cancer' is a de facto catch-all (~half non-HPV pages, incl. smallpox, MERS, and vaccine-trial records); the influenza cluster holds RSV/HFMD/rotavirus pages; mumps and rubella primaries are parked under 'Replication, methods'." },
+    { "kind": "info", "text": "Feyerabend and Dubos entity pages are un-ingested stubs awaiting primary sources — part of the open acquisition queue from the 2026-10-01 log." },
+    { "kind": "warn", "text": "Many source pages are abstract-level records pending full-text acquisition; per-page boundaries are noted individually." }
+  ],
+  "sections": { "walkthroughTitle": "Pipeline example", "matricesTitle": "Reference tables" }
+}

@@ -59,15 +59,15 @@ Those are legitimate points to examine when evaluating the evidential strength o
 > [!relation-in]- 11 Notes link here
 > | Note |
 > | --- |
-> | [[cell-culture-viroliegy]] |
-> | [[concepts]] |
-> | [[enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] |
-> | [[has-the-virus-been-isolated-no-viroliegy]] |
+> | [[sources/cell-culture-viroliegy]] |
+> | [[concepts/concepts]] |
+> | [[sources/enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] |
+> | [[sources/has-the-virus-been-isolated-no-viroliegy]] |
 > | [[index]] |
-> | [[inferential-leap]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[the-virus-cult-a-religion-built-on-fear-not-science]] |
-> | [[the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
-> | [[virus-isolation]] |
+> | [[concepts/inferential-leap]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[sources/the-virus-cult-a-religion-built-on-fear-not-science]] |
+> | [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
+> | [[concepts/virus-isolation]] |
 <!-- /vault-operator:incoming-links sha="2d99616b" -->

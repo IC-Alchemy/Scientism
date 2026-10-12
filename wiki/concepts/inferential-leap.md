@@ -16,7 +16,7 @@ tags:
   - methodology
   - overgeneralization
 sources: 18
-updated: 2026-05-14
+updated: 2026-10-08
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -44,6 +44,7 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] is another useful counterexample. It reports season-specific trial endpoints and keeps a visible boundary between worse ILI-related utilization outcomes in the mismatched 1997-1998 season, reduced ILI/work-loss outcomes in the matched 1998-1999 season, and broader claims about economic benefit or general population health.
 - [[synthesis/virus-causation-inferential-leaps]] extends this method to foundational virus-disease attribution papers, including the specific risk that artificial-route inoculation or isolation results are later treated as if they fully proved ordinary natural causation.
 - [[synthesis/viral-disease-causation-evidence-ladder]] turns the virus-causation audit into an explicit ladder so detection, culture, serology, challenge, transmission, and intervention evidence are not collapsed into one causal claim.
+- [[sources/speciation-direct-evidence-ai-chat]] applies the same distinction outside virology: an AI-chat exchange separating observations such as sequenced telomere-like remnants or measured chromosome counts from the historical narrative that random mutation caused speciation.
 
 ## Questions to ask
 - What was directly observed?
@@ -76,54 +77,54 @@ An inferential leap occurs when a source moves from observed data or a specific 
 > [!relation-in]- 50 Notes link here
 > | Note |
 > | --- |
-> | [[aids]] |
-> | [[cell-culture]] |
-> | [[clinical-endpoints]] |
-> | [[concepts]] |
-> | [[congressman-questions-aids-in-letter]] |
-> | [[disease-prevention-vs-health-outcomes]] |
-> | [[edward-jenners-smallpox-paper-1798]] |
-> | [[effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
-> | [[empirical-evidence]] |
-> | [[empirical-evidence]] |
-> | [[failed-virus-causation-attempts-register]] |
-> | [[fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
-> | [[germ-theory]] |
-> | [[gutknecht-letter-evidence-check]] |
-> | [[gutknecht-letter-questions-7-9]] |
-> | [[h5n1]] |
+> | [[sources/aids]] |
+> | [[concepts/cell-culture]] |
+> | [[concepts/clinical-endpoints]] |
+> | [[concepts/concepts]] |
+> | [[sources/congressman-questions-aids-in-letter]] |
+> | [[comparisons/disease-prevention-vs-health-outcomes]] |
+> | [[sources/edward-jenners-smallpox-paper-1798]] |
+> | [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] |
+> | [[concepts/empirical-evidence]] |
+> | [[concepts/empirical-evidence]] |
+> | [[synthesis/failed-virus-causation-attempts-register]] |
+> | [[sources/fredericks-relman-1996-sequence-based-identification-microbial-pathogens]] |
+> | [[concepts/germ-theory]] |
+> | [[synthesis/gutknecht-letter-evidence-check]] |
+> | [[synthesis/gutknecht-letter-questions-7-9]] |
+> | [[sources/h5n1]] |
 > | [[index]] |
-> | [[insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] |
-> | [[johnson-goodpasture-1934-investigation-etiology-mumps]] |
-> | [[ladder-standard-vs-revisionist-virus-causation-critique]] |
-> | [[louis-pasteur]] |
-> | [[paul-feyerabend]] |
-> | [[polio]] |
-> | [[rabies-the-virus-of-fear]] |
-> | [[replication-crisis]] |
-> | [[rivers-1937-viruses-and-kochs-postulates]] |
-> | [[robert-koch]] |
-> | [[rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
-> | [[sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]] |
-> | [[sars-cov-2-covid-causation-audit]] |
-> | [[scientism]] |
-> | [[scientism-conversation-may-1-2026]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[scientism-research-program-overview]] |
-> | [[scobey-poisoning-as-the-cause-of-poliomyelitis]] |
-> | [[smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients]] |
-> | [[source-corpus-triage]] |
-> | [[specific-vaccine-overall-health-outcome-evidence]] |
-> | [[surrogate-endpoints]] |
-> | [[the-infectious-myth-busted-part-6-the-germ-duel]] |
-> | [[the-virus-cult-a-religion-built-on-fear-not-science]] |
-> | [[the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
-> | [[vaccinated-children-more-healthy-question]] |
-> | [[vault-maintenance-guide]] |
-> | [[vault-maintenance-guide]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[viroliegy]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
-> | [[virus-isolation]] |
+> | [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform]] |
+> | [[sources/johnson-goodpasture-1934-investigation-etiology-mumps]] |
+> | [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique]] |
+> | [[entities/louis-pasteur]] |
+> | [[entities/paul-feyerabend]] |
+> | [[sources/polio]] |
+> | [[sources/rabies-the-virus-of-fear]] |
+> | [[concepts/replication-crisis]] |
+> | [[sources/rivers-1937-viruses-and-kochs-postulates]] |
+> | [[entities/robert-koch]] |
+> | [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza]] |
+> | [[sources/sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]] |
+> | [[synthesis/sars-cov-2-covid-causation-audit]] |
+> | [[concepts/scientism]] |
+> | [[sources/scientism-conversation-may-1-2026]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/scientism-research-program-overview]] |
+> | [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]] |
+> | [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients]] |
+> | [[synthesis/source-corpus-triage]] |
+> | [[synthesis/specific-vaccine-overall-health-outcome-evidence]] |
+> | [[concepts/surrogate-endpoints]] |
+> | [[sources/the-infectious-myth-busted-part-6-the-germ-duel]] |
+> | [[sources/the-virus-cult-a-religion-built-on-fear-not-science]] |
+> | [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine]] |
+> | [[synthesis/vaccinated-children-more-healthy-question]] |
+> | [[synthesis/vault-maintenance-guide]] |
+> | [[synthesis/vault-maintenance-guide]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[entities/viroliegy]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
+> | [[concepts/virus-isolation]] |
 <!-- /vault-operator:incoming-links sha="1a84bd2c" -->

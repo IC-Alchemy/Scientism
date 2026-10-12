@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-10-01 • 271 pages_
+_Auto-generated 2026-10-12 • 274 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -42,7 +42,7 @@ _Auto-generated 2026-10-01 • 271 pages_
 - [[synthesis/gutknecht-letter-evidence-check|Gutknecht Letter Evidence Check]] — Current evidence-standard answer to the 12 questions in Representative Gil Gutknecht's March 24, 1995 AIDS letter, with direct-study support strongest for questions 7-9. _(43 sources · upd 2026-05-05)_
 - [[synthesis/gutknecht-letter-questions-7-9|Gutknecht Letter Questions 7-9]] — Direct-study audit of the Gutknecht letter's questions about hemophiliac survival, recreational drugs or AZT as causes of AIDS, and the ethics of prescribing AZT. _(42 sources · upd 2026-05-05)_
 - [[synthesis/hand-foot-mouth-disease-enteroviruses-evidence-ladder|Hand, Foot, and Mouth Disease to Enteroviruses Evidence Ladder]] — Source-by-source HFMD research pass separating Coxsackie A16 lesion isolation, serology, EV71 outbreak/CNS association, tree-shrew animal modeling, and ordinary-transmission limits. _(4 sources · upd 2026-05-31)_
-- [[synthesis/hepatitis-a-hepatitis-a-virus-evidence-ladder|Hepatitis A to Hepatitis A Virus Evidence Ladder]] — Source-by-source hepatitis A research pass separating marmoset propagation, human-serology neutralization, particle characterization, tissue localization, cell-culture propagation, and acquisition gaps. _(9 sources · upd 2026-10-01)_
+- [[synthesis/hepatitis-a-hepatitis-a-virus-evidence-ladder|Hepatitis A to Hepatitis A Virus Evidence Ladder]] — Source-by-source hepatitis A research pass separating marmoset propagation, human-serology neutralization, particle characterization, tissue localization, cell-culture propagation, and acquisition gaps. _(9 sources · upd 2026-10-08)_
 - [[synthesis/hepatitis-b-hepatitis-b-virus-evidence-ladder|Hepatitis B to Hepatitis B Virus Evidence Ladder]] — Source-by-source HBV research pass separating syndrome classification, Australia-antigen particle detection, chimpanzee transmission, molecular-clone infectivity, and natural human transmission. _(3 sources · upd 2026-05-31)_
 - [[synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder|Hepatitis C to Hepatitis C Virus Evidence Ladder]] — Source-by-source HCV research pass separating non-A non-B hepatitis, molecular identification, prospective transfusion serology, infectious molecular clone, and ordinary transmission. _(5 sources · upd 2026-05-31)_
 - [[synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder|Infectious Gastroenteritis Outbreaks to Norovirus Evidence Ladder]] — Source-by-source norovirus research pass separating Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, and PCR-versus-infectiousness limits. _(4 sources · upd 2026-05-31)_
@@ -77,34 +77,34 @@ _Auto-generated 2026-10-01 • 271 pages_
 - [[concepts/clinical-endpoints|Clinical Endpoints]] — Outcomes such as mortality, hospitalization, symptom burden, or quality of life that speak more directly to patient health than narrower proxy measures. _(upd 2026-05-05)_
 - [[comparisons/comparisons|Comparisons]] — Map of all comparison pages in the vault. _(upd 2026-10-01)_
 - [[concepts/concepts|Concepts]] — Map of all concept pages in the vault. _(upd 2026-10-01)_
-- [[concepts/empirical-evidence|Empirical Evidence]] — Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility. _(upd 2026-05-04)_
+- [[concepts/empirical-evidence|Empirical Evidence]] — Empirical evidence consists of observed or measured data, but the evidentiary force of that data depends on method quality, endpoint clarity, and reproducibility. _(upd 2026-10-08)_
 - [[entities/entities|Entities]] — Map of all entity pages in the vault. _(upd 2026-10-01)_
 - [[concepts/germ-theory|Germ Theory]] — A disease framework centered on microorganisms, treated in this vault as both a historical research program and a site of disputed interpretation about what classic experiments actually proved. _(upd 2026-05-14)_
-- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(upd 2026-05-14)_
+- [[concepts/inferential-leap|Inferential Leap]] — An inferential leap is the move from a narrower observation or experiment to a broader claim that the evidence may not strictly justify. _(upd 2026-10-08)_
 - [[concepts/placebo-controls|Placebo Controls]] — A concept page for distinguishing inert placebos from active comparators and for tracking what a control group can and cannot show. _(upd 2026-05-05)_
 - [[concepts/replication-crisis|Replication Crisis]] — Concept page anchored on direct replication projects: the psychology multi-lab project, the cancer-biology Amgen report, and the Nature researcher survey, with the evidentiary limits of each kept distinct. _(upd 2026-10-01)_
 - [[concepts/scientism|Scientism]] — In this vault, scientism means extending scientific authority, methods, or results beyond what the underlying evidence strictly supports. _(upd 2026-05-05)_
-- [[sources/sources|Sources]] — Map of all source pages in the vault. _(upd 2026-10-01)_
+- [[sources/sources|Sources]] — Map of all source pages in the vault. _(upd 2026-10-08)_
 - [[concepts/surrogate-endpoints|Surrogate Endpoints]] — Trial outcomes that stand in for broader clinical benefit, such as infection counts, biomarkers, or immune response measures rather than overall health outcomes. _(upd 2026-05-04)_
-- [[concepts/virus-isolation|Virus Isolation]] — Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation. _(upd 2026-05-14)_
+- [[concepts/virus-isolation|Virus Isolation]] — Virus isolation is a disputed methodological term in this vault, especially where sources move from cell-culture findings or mixed samples to broader claims about causation. _(upd 2026-10-08)_
 - [[wiki|Wiki]] — Vault map page linking the main index and log. _(upd 2026-10-01)_
 
 ## Entity (7)
 
-- [[entities/edward-jenner|Edward Jenner]] — Historical physician associated with early smallpox vaccination claims, whose published case record in this vault is treated as important but not self-interpreting. _(upd 2026-05-04)_
-- [[entities/louis-pasteur|Louis Pasteur]] — Historical scientist whose work in this vault is treated as a disputed case study in the gap between experiment, treatment claims, and later historical narrative. _(upd 2026-05-04)_
-- [[entities/mike-stone|Mike Stone]] — Contemporary revisionist commentator whose essays in this vault argue that canonical germ-theory history overstates what historical experiments proved. _(upd 2026-05-04)_
-- [[entities/paul-feyerabend|Paul Feyerabend]] — Philosopher of science referenced in the seed source as a lead for critiques of fixed scientific method and authority. _(upd 2026-05-04)_
-- [[entities/rene-dubos|Rene Dubos]] — Microbiologist referenced in the seed source as a lead for later criticism or qualification of germ-theory thinking. _(upd 2026-05-04)_
-- [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(upd 2026-05-04)_
+- [[entities/edward-jenner|Edward Jenner]] — Historical physician associated with early smallpox vaccination claims, whose published case record in this vault is treated as important but not self-interpreting. _(upd 2026-10-08)_
+- [[entities/louis-pasteur|Louis Pasteur]] — Historical scientist whose work in this vault is treated as a disputed case study in the gap between experiment, treatment claims, and later historical narrative. _(upd 2026-10-08)_
+- [[entities/mike-stone|Mike Stone]] — Contemporary revisionist commentator whose essays in this vault argue that canonical germ-theory history overstates what historical experiments proved. _(upd 2026-10-08)_
+- [[entities/paul-feyerabend|Paul Feyerabend]] — Philosopher of science referenced in the seed source as a lead for critiques of fixed scientific method and authority. _(upd 2026-10-08)_
+- [[entities/rene-dubos|Rene Dubos]] — Microbiologist referenced in the seed source as a lead for later criticism or qualification of germ-theory thinking. _(upd 2026-10-08)_
+- [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(upd 2026-10-08)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(upd 2026-05-04)_
 
 ## Comparison (2)
 
-- [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-05-21)_
+- [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (207)
+## Source (210)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -191,7 +191,7 @@ _Auto-generated 2026-10-01 • 271 pages_
 - [[sources/volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv|Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter]] — Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv|Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study]] — Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 
-### HPV and cervical cancer (32)
+### HPV and cervical cancer (33)
 
 - [[sources/boshart-gissmann-ikenberg-1984-hpv18-genital-cancer-biopsies|A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical Cancer Cell Lines]] — 1984 EMBO Journal paper cloning HPV18 from cervical carcinoma material and surveying HPV18 DNA in genital cancers, normal cervix, benign lesions, and cervical-cancer-derived cell lines. _(upd 2026-05-31)_
 - [[sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma|A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer Biopsy Samples]] — 1983 PNAS paper cloning HPV16 DNA from a cervical carcinoma and surveying HPV16-homologous DNA in genital tumors. _(upd 2026-05-31)_
@@ -224,6 +224,7 @@ _Auto-generated 2026-10-01 • 271 pages_
 - [[sources/durst-kleinheinz-hotz-gissmann-1985-physical-state-hpv16-genital-tumours|The Physical State of Human Papillomavirus Type 16 DNA in Benign and Malignant Genital Tumours]] — 1985 Journal of General Virology paper comparing episomal and integrated HPV16 DNA patterns in selected benign and malignant genital tumors. _(upd 2026-05-31)_
 - [[sources/nelson-1943-stability-variola-virus-embryonated-eggs|The Stability of Variola Virus Propagated in Embryonated Eggs]] — 1943 Journal of Experimental Medicine paper testing whether variola strains remained stable during egg and rabbit-testis passage. _(upd 2026-05-31)_
 - [[sources/nelson-1940-variola-vaccinia-survival-mouse-lungs|The Survival of Variola and Vaccinia Viruses in the Lungs of Mice Previously Infected with Variola]] — 1940 Journal of Experimental Medicine paper comparing variola and vaccinia recovery from mouse lungs after prior variola exposure. _(upd 2026-05-31)_
+- [[sources/vaccine-clips-research-lead|Vaccine Clips (Research Lead)]] — Stub note asserting that disease prevention by vaccines is demonstrable while prevention-equals-health-benefit is an unproven logical inference; retained strictly as a research lead. _(upd 2026-10-08)_
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids|Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids]] — Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos. _(upd 2026-05-05)_
 
 ### Hepatitis A, B, and C (17)
@@ -241,7 +242,7 @@ _Auto-generated 2026-10-01 • 271 pages_
 - [[sources/choo-kuo-weiner-1989-cdna-clone-non-a-non-b-hcv-genome|Isolation of a cDNA Clone Derived from a Blood-Borne Non-A Non-B Viral Hepatitis Genome]] — 1989 Science molecular-cloning paper identifying cDNA clones associated with blood-borne non-A non-B hepatitis and naming hepatitis C virus. _(upd 2026-05-31)_
 - [[sources/provost-wolanski-miller-1975-cr326-hepatitis-a-dimensions|Physical, Chemical and Morphologic Dimensions of Human Hepatitis A Virus Strain CR326]] — 1975 Proceedings paper characterizing CR326 hepatitis A virus particles by infectivity, neutralization, density, electron microscopy, tissue localization, and stability tests. _(upd 2026-05-31)_
 - [[sources/provost-hilleman-1979-human-hepatitis-a-cell-culture|Propagation of Human Hepatitis A Virus in Cell Culture in Vitro]] — 1979 Proceedings paper reporting serial propagation of human hepatitis A virus in marmoset liver explant cultures and FRhK6 fetal rhesus kidney cells. _(upd 2026-05-31)_
-- [[sources/thornton-1977-human-hepatitis-a-chimpanzees|Studies on human hepatitis A virus in chimpanzees]] — Seronegative chimpanzees inoculated with three human HAV sources (MS-1, chimp-passaged, and an outbreak strain) developed transaminase elevation around day 19 with fecal particle excretion from day 9 and antibody during incubation while still shedding. _(upd 2026-10-01)_
+- [[sources/thornton-1977-human-hepatitis-a-chimpanzees|Studies on human hepatitis A virus in chimpanzees]] — Full-text record — 23 seronegative chimpanzees inoculated with three human HAV sources, hepatitis in 18/23, particle shedding in 2, antibody during incubation, and four uninoculated controls that stayed well. _(upd 2026-10-08)_
 - [[sources/yanagi-purcell-emerson-bukh-1997-hcv-infectious-cdna-clone-chimpanzee|Transcripts from a Single Full-Length cDNA Clone of Hepatitis C Virus Are Infectious]] — 1997 PNAS paper testing H77 HCV full-length cDNA clone transcripts by direct intrahepatic transfection in chimpanzees. _(upd 2026-05-31)_
 - [[sources/barker-1973-transmission-type-b-hepatitis-chimpanzees|Transmission of Type B Viral Hepatitis to Chimpanzees]] — The 1973 Journal of Infectious Diseases paper by Barker et al. on type B hepatitis transmission and passaging in chimpanzees; no abstract is indexed, so this page is a pointer pending full-text extraction. _(upd 2026-10-01)_
 - [[sources/dane-1970-australia-antigen-virus-like-particles|Virus-like particles in serum of patients with Australia-antigen-associated hepatitis]] — The canonical 1970 Lancet paper by Dane, Cameron, and Briggs describing virus-like particles in Australia-antigen-associated hepatitis serum; no abstract is indexed, so this page is a pointer pending full-text extraction. _(upd 2026-10-01)_
@@ -349,8 +350,10 @@ _Auto-generated 2026-10-01 • 271 pages_
 - [[sources/the-virus-paradigm-assumptions-lies-and-the-foundation-of-modern-medicine|The Virus Paradigm - Assumptions, Lies, and the Foundation of Modern Medicine]] — Long-form no-virus commentary built around arguments about isolation, controls, FOI responses, and the difference between observed effects and broader doctrine. _(upd 2026-05-04)_
 - [[sources/viroliegy-101-the-scientific-method|ViroLIEgy 101: The Scientific Method]] — Tier 3 commentary arguing that a fixed scientific method is the boundary between science and pseudoscience, with virology presented as a failing case. _(upd 2026-05-04)_
 
-### Other sources (3)
+### Other sources (5)
 
 - [[sources/has-the-virus-been-isolated-no-viroliegy|Has the Virus Been Isolated? No. - ViroLIEgy]] — HTML-only ViroLIEgy source whose title and outlet framing indicate a strong no-virus claim, but whose evidentiary details were not stably extracted during this first pass. _(upd 2026-05-04)_
 - [[sources/in-case-i-do-not-reach-my-decision-point-or-the-mexico-border-i-am-sending-this|In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending This]] — UAP and national-security letter that is outside the clinical, vaccine, and virology scope of this ingest slice. _(upd 2026-05-04)_
+- [[sources/is-complete-purification-isolation-of-a-virus-even-possible|Is Complete Purification/Isolation of a "Virus" Even Possible? - ViroLIEgy]] — 2021 ViroLIEgy essay by Mike Stone arguing that complete purification and isolation of a virus at nanoparticle scale is practically impossible, built largely on quotations from an exosome-isolation methods review. _(upd 2026-10-08)_
+- [[sources/speciation-direct-evidence-ai-chat|Speciation - What Counts as Direct Evidence (AI Chat)]] — AI-chat exchange that separates direct observations from historical interpretation in speciation claims and names three empirical leads that still require named experiments before any support. _(upd 2026-10-08)_
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science|The Virus Cult - A Religion Built on Fear, Not Science]] — Polemical essay that packages multiple methodological criticisms of virology, public-health policy, and no-virus arguments into a single Tier 3 commentary source. _(upd 2026-05-04)_

@@ -71,14 +71,14 @@ This source supports a narrow claim: in Weller, Witton, and Bell's 1958 culture 
 > [!relation-in]- 10 Notes link here
 > | Note |
 > | --- |
-> | [[cheatham-dolan-dower-weller-1956-fatal-varicella-necropsy-virus-isolation]] |
-> | [[chickenpox-varicella-zoster-virus-evidence-ladder]] |
+> | [[sources/cheatham-dolan-dower-weller-1956-fatal-varicella-necropsy-virus-isolation]] |
+> | [[synthesis/chickenpox-varicella-zoster-virus-evidence-ladder]] |
 > | [[index]] |
-> | [[scientism-methodological-overreach-and-the-discipline-of-evidence]] |
-> | [[shingles-vzv-reactivation-evidence-ladder]] |
-> | [[sources]] |
-> | [[viral-disease-causation-evidence-ladder]] |
-> | [[virus-causation-inferential-leaps]] |
-> | [[virus-disease-attribution-audit-worklist]] |
-> | [[weller-1953-serial-propagation-varicella-herpes-zoster-agents]] |
+> | [[synthesis/scientism-methodological-overreach-and-the-discipline-of-evidence]] |
+> | [[synthesis/shingles-vzv-reactivation-evidence-ladder]] |
+> | [[sources/sources]] |
+> | [[synthesis/viral-disease-causation-evidence-ladder]] |
+> | [[synthesis/virus-causation-inferential-leaps]] |
+> | [[synthesis/virus-disease-attribution-audit-worklist]] |
+> | [[sources/weller-1953-serial-propagation-varicella-herpes-zoster-agents]] |
 <!-- /vault-operator:incoming-links sha="268dc84c" -->
