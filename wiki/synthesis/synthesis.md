@@ -3,7 +3,7 @@ title: Synthesis
 category: synthesis
 summary: Map of all synthesis pages in the vault.
 tags: [MOCs, mocs]
-updated: 2026-10-01
+updated: 2026-10-16
 ---
 
 # Synthesis
@@ -50,6 +50,7 @@ The vault's research output. Evidence ladders separate what each named experimen
 ## Vaccination and health outcomes
 
 - [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children.
+- [[synthesis/nordvall-2026-script-audit|Nordvall 2026 Analysis Script Audit]] — Line-by-line audit of the deposited R code behind a Swedish registry study of COVID-19 vaccination and childbirth: interval splitting, fixed-offset index dates, and missing-value handling through the miscarriage filters, tested on synthetic data.
 - [[synthesis/specific-vaccine-overall-health-outcome-evidence|Specific Vaccine Overall Health Outcome Evidence]] — Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial.
 
 ## The Gutknecht letter (HIV/AIDS questions)

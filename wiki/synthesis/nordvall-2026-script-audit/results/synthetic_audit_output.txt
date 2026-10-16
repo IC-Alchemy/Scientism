@@ -1,0 +1,247 @@
+
+==============================================================================
+0. Parse check of the deposited file
+==============================================================================
+Whole file: <text>:2:13: unexpected symbol
+1:  
+2: Vaccination and
+               ^ 
+Line 136: PARSE ERROR (curly quotes) | install.packages(“coxphw”)
+Line 140: PARSE ERROR (curly quotes) | cox_model <- coxphw(Surv(startTime,endTime,status) ~ exposure+age, data = comb, template=”AHR”)
+Lines 38/39: both assign Befruktningsdatum; run top-to-bottom, line 39 (266 days) wins.
+Paper's primary analysis uses 280 days (line 38). Part I prep run below with line 39 skipped.
+
+==============================================================================
+1. Interval splitting (verbatim lines 22-129 vs survival::tmerge)
+==============================================================================
+tmerge() calls in script: 0 
+survSplit() calls (calendar periods, lines): 229, 239, 433 
+tt() time-varying coefficient models (lines): 248, 256, 268 
+Verbatim Part I prep (N=20000 eligible women) ran in 20 s
+
+Interval invariants on the script's comb:
+                                                         check value
+                                                          rows 33329
+                                                       persons 19280
+ rows with startTime < 0 (exposure or entry before 2021-01-01)     0
+                                rows with endTime <= startTime     0
+                      persons whose first row is not at time 0     0
+            gaps/overlaps between consecutive rows of a person     1
+                                         persons with >1 event     0
+                                     events on a non-final row     0
+                            persons going exposed -> unexposed     0
+                                          persons with >2 rows     1
+           rows ending after study end (day 1002 = 2023-09-30)     4
+
+Script rows identical to tmerge rows: 33316; script-only rows: 13; tmerge-only rows: 12
+Persons whose intervals differ: 13 
+Interval check with duplicates: gaps/overlaps 1, persons with >2 rows 1 (see dup_death below)
+  by computed cause (a person can have several):
+      dose2_before_entry       index_equals_dose2    dose2_after_study_end 
+                       3                        5                        4 
+dose3_on_or_before_dose2  duplicated_input_record            none_of_these 
+                       0                        1                        0 
+  natural ties (index == dose 2) not injected: 2
+
+-- Edge case 'pre2021_dose2' (first injected person) --
+ script:
+ Personnr exposure startTime endTime status
+ P0013524        0         0    1002      0
+ tmerge:
+ tstart tstop status exposure
+      0  1002      0        1
+
+-- Edge case 'dose3_le_dose2' (first injected person) --
+ script:
+ Personnr exposure startTime endTime status
+ P0000367        0         0     263      0
+ tmerge:
+ tstart tstop status exposure
+      0   263      0        0
+
+-- Edge case 'index_eq_dose2' (first injected person) --
+ script:
+ Personnr exposure startTime endTime status
+ P0009073        0         0     790      0
+ tmerge:
+ tstart tstop status exposure
+      0   790      1        0
+
+-- Edge case 'index_on_day0' (first injected person) --
+ script:
+   (no rows: person removed)
+ tmerge:
+   (no rows)
+
+-- Edge case 'dose2_after_end' (first injected person) --
+ script:
+ Personnr exposure startTime endTime status
+ P0005260        0         0    1126      0
+ tmerge:
+ tstart tstop status exposure
+      0  1002      0        0
+
+-- Edge case 'dup_death' (first injected person) --
+ script:
+ Personnr exposure startTime endTime status
+ P0002018        0         0     154      0
+ P0002018        0         0     154      0
+ P0002018        1       154     364      0
+ tmerge:
+ tstart tstop status exposure
+      0   154      0        0
+    154   364      0        1
+
+Age-adjusted HR, script dataset vs tmerge dataset (synthetic true HR = 1):
+                           dataset     HR     lo     hi events
+                       script, all 1.0218 0.8976 1.1632   1325
+                       tmerge, all 1.0113 0.8886 1.1508   1330
+ script, differing persons removed 1.0202 0.8962 1.1614   1325
+ tmerge, differing persons removed 1.0202 0.8962 1.1614   1325
+
+Eligible persons with dose 2 before entry (2021-01-01): 3
+  ...of whom have an exposed row in comb: 0; classified unexposed for all follow-up: 3
+
+Script's KM summary uses ever_exposed = max(exposure) per person.
+  Events among 'ever exposed': 543 of 14048 persons; among 'never exposed': 782 of 5232
+  Cox HR on that person-level 'ever exposed' summary: 0.35 (synthetic truth: 1.00)
+
+==============================================================================
+2. Index-date arithmetic (synthetic gestational ages)
+==============================================================================
+Columns in the delivery file the script reads (inferred from positional drops at lines 40/64):
+  Personnr, <col 2 dropped before merge>, Kontaktdatum -> no gestational-age field is read.
+  A 4th column (e.g. GA) would shift the positional drops at lines 79/95.
+
+Synthetic gestational-age distribution (days from LMP), assumed not observed:
+  0%   1%   5%  25%  50%  75%  95%  99% 100% 
+ 154  220  251  274  281  286  295  301  301 
+  mean 278.4; preterm (<259 d) 6.3%; error of fixed 280 vs LMP-based index: mean 1.6, SD 14.5 days
+  error of fixed 266 vs conception (GA-14): mean 1.6, SD 14.5 days; |error| > 28 d in 5.0%
+
+Verbatim lines 22-125 with four index definitions (same synthetic world, true HR = 1):
+                                     index crude_HR adj_HR adj_lo adj_hi events
+                 fixed 280 (paper primary)   1.0207 1.0218 0.8976 1.1632   1325
+             GA-based, LMP (delivery - GA)   1.0535 1.0558 0.9280 1.2012   1345
+             fixed 266 (paper sensitivity)   1.0469 1.0486 0.9207 1.1942   1328
+ GA-based, conception (delivery - GA + 14)   1.0428 1.0424 0.9159 1.1864   1353
+ persons excluded_pregnant_at_start
+   19280                        716
+   19292                        706
+   19313                        685
+   19334                        667
+
+Proportional-hazards outputs (Schoenfeld p for exposure; period HRs as in Table S4):
+                                     index zph_p_exposure HR_0_212 HR_213_365
+                 fixed 280 (paper primary)         0.0133   1.0177     0.8861
+             GA-based, LMP (delivery - GA)         0.0313   1.0764     0.9231
+             fixed 266 (paper sensitivity)         0.0210   0.9943     0.9631
+ GA-based, conception (delivery - GA + 14)         0.0060   0.8175     0.9641
+ HR_366_end
+     1.0824
+     1.1076
+     1.0936
+     1.1149
+
+Event-level reclassification between index definitions:
+  fixed 280 (paper primary) vs GA-based, LMP (delivery - GA): events in both 1314, exposure class differs 12, event in only one 42
+  fixed 266 (paper sensitivity) vs GA-based, conception (delivery - GA + 14): events in both 1319, exposure class differs 11, event in only one 43
+  fixed 280 (paper primary) vs fixed 266 (paper sensitivity): events in both 1290, exposure class differs 23, event in only one 73
+
+Replicates: 60 synthetic worlds of N = 60000 women each, per true HR
+ true_hr index adj.mean adj.sd crude.mean crude.sd
+     0.9  conc   0.9005 0.0319     0.8937   0.0317
+     1.0  conc   1.0007 0.0387     0.9901   0.0369
+     0.9  f266   0.9017 0.0315     0.8951   0.0312
+     1.0  f266   1.0008 0.0380     0.9904   0.0359
+     0.9  f280   0.9043 0.0340     0.8977   0.0339
+     1.0  f280   0.9996 0.0368     0.9892   0.0349
+     0.9   lmp   0.9031 0.0340     0.8964   0.0338
+     1.0   lmp   1.0009 0.0358     0.9905   0.0342
+
+Within-world difference in adjusted log-HR (fixed minus GA-based):
+  true HR 1.0: 280 vs LMP-based mean -0.0014 (max |.| 0.0237); 266 vs conception-based mean +0.0002 (max |.| 0.0192)
+  true HR 0.9: 280 vs LMP-based mean +0.0013 (max |.| 0.0207); 266 vs conception-based mean +0.0013 (max |.| 0.0207)
+
+==============================================================================
+3. Row-count trace with injected NA values (verbatim lines 22-129)
+==============================================================================
+Every change in rows / persons / all-NA phantom rows, by source line:
+ line object  rows persons phantom_na_rows
+   25   data 21600   21600               0
+   32   data 20000   19995               5
+   33   data 20000   19993               7
+   44   grav   675     672               3
+   45   grav   673     672               1
+   46   data 19328   19328               0
+   58   data 33825   19328               0
+   62   test 33825   19328               0
+   78   test 33498   19328               0
+   80   test 33496   19327               0
+  107  sista 19327   19327               0
+  108   test 14169   14169               0
+  117   comb 33496   19327               0
+  122   comb 33491   19319               9
+  123    pat 19320   19319               1
+  128   comb 32059   18498               0
+  129    pat 18498   18498               0
+                                                                     code
+ data <- read.csv("H:/Dokument/LinU/Dennis forskningsplan/Kausal_inferens
+        data <- data[data$ÅlderStartdatum>=18 & data$ÅlderStartdatum<46,]
+                                        data <- data[data$Kön=="Kvinna",]
+ grav <- FörstaFörlossningOkt21_[FörstaFörlossningOkt21_$Kontaktdatum<"20
+                                grav <- grav[!duplicated(grav$Personnr),]
+                       data <- data[!(data$Personnr %in% grav$Personnr),]
+                   data <- rbind(dat,data1[!is.na(data1$Exposuredatum),])
+                          test <- merge(data, döda,by="Personnr",all.x=T)
+                                              test <- test[test$Före==0,]
+                                    test <- test[!is.na(test$PatientID),]
+                              sista <- test[!duplicated(test$PatientID),]
+                                  test <- test[!(test$ID %in% sista$ID),]
+                                                comb <- rbind(test,sista)
+                                              comb <- comb[comb$Time1>0,]
+                                 pat <- comb[!duplicated(comb$Personnr),]
+                   comb <- comb[!(comb$Personnr %in% Missfall$Personnr),]
+                                 pat <- comb[!duplicated(comb$Personnr),]
+
+Miscarriage filter, line 128: comb <- comb[!(comb$Personnr %in% Missfall$Personnr),]
+  comb rows 33491 -> 32059; persons 19319 -> 18498; phantom all-NA rows 9 -> 0
+  Missfall rows: 931; NA Personnr: 2; NA date: 2
+  The filter reads Missfall$Personnr only. The miscarriage date and gestational week are
+  never used, so no '>= 22 weeks' condition exists at this line.
+  %in% never returns NA, so the line cannot create NA rows. Phantom rows removed only
+  because Missfall also has NA Personnr (NA %in% NA is TRUE): 9
+  Real women removed: 821 (rows 1423)
+    whose every miscarriage record predates 2021-01-01: 615
+    whose only record has a missing date: 2
+    who carried a childbirth index event (status = 1), now deleted: 61
+  Events: 1351 -> 1290
+
+Women with missing birth date (age and dates present) lost from comb: 5 of 5
+  (lines 71-121 derive interval times from age in days, so a missing birth date makes
+   Time1 NA and the subset at line 122 turns each such row into an all-NA phantom row.)
+Women with a dose-2 record but a missing dose-2 date: 2; kept as unexposed for all follow-up: 2
+Women with a delivery record but a missing delivery date: 3; counted as event-free: 3
+
+==============================================================================
+3b. Part II (miscarriage outcome): object provenance
+==============================================================================
+Part II run in a fresh R session:
+ line                       error
+  355 object 'Missfall' not found
+                                                        code
+ test <- merge(test, Missfall[,-c(2)],by="Personnr",all.x=T)
+
+Part II run after Part I in the same session (two variants):
+                                                           variant persons
+ as deposited: line 355 merges Missfall (Part I object, unshifted)   19358
+       line 355 replaced by the -154-day shifted FörstaMissfall21_   19953
+  rows phantom_rows events
+ 33841            9    148
+ 34888            9    127
+Women with >1 Missfall record (the merge at line 355 multiplies their rows): 7
+Shifted variant: miscarriage events dated after the woman's dose 2: 75; of these classified exposed: 55, unexposed: 20
+  (any miscarriage within 154 days after dose 2, i.e. vaccination during that pregnancy,
+   is attributed to unexposed time under the shift)
+
+Done.
