@@ -3,7 +3,7 @@ title: Sources
 category: concept
 summary: Map of all source pages in the vault.
 tags: [MOCs, mocs]
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Sources
@@ -259,6 +259,10 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/in-case-i-do-not-reach-my-decision-point-or-the-mexico-border-i-am-sending-this|In Case I Do Not Reach My Decision Point or the Mexico Border, I Am Sending This]]
 - [[sources/sources|Sources]]
 - [[sources/the-virus-cult-a-religion-built-on-fear-not-science|The Virus Cult - A Religion Built on Fear, Not Science]]
+
+## Vaccines and reproductive outcomes (1)
+
+- [[sources/nordvall-2026-covid-vaccination-childbirth-sweden|COVID-19 Vaccination Carries No Association with Childbirth Rates in Sweden (Nordvall 2026)]]
 
 ## Research leads and vault meta (3)
 

@@ -12,8 +12,8 @@ tags:
   - outcomes
   - quality-of-life
   - symptom-burden
-sources: 4
-updated: 2026-05-05
+sources: 5
+updated: 2026-10-16
 claim_status: exploratory
 claim_type: medical
 ---
@@ -29,6 +29,8 @@ Clinical endpoints are outcomes that directly describe patient health, such as m
 [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids]] focuses more on control groups, but it also points back to a related question: which outcomes were actually measured in the cited trials. [[sources/pediatric-vaccine-trial-records-placebo-control-audit]] begins that trial-record check by naming abstract-level safety, immunogenicity, and disease endpoints for the cited records.
 
 [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] is a direct trial example. It names clinical and work-utilization endpoints separately: influenzalike illness, physician visits, lost workdays, serologically confirmed influenza illness in a subset, and cost per vaccinated versus unvaccinated person.
+
+[[sources/nordvall-2026-covid-vaccination-childbirth-sweden]] uses a constructed endpoint. Its event date is not observed: it is computed as the recorded delivery date minus a fixed 280 (or 266) days. Whether vaccination counts as before or after the event therefore depends on that arithmetic. [[synthesis/nordvall-2026-script-audit]] checks what the fixed offset does to exposure classification.
 
 ## What question the underlying experiments can answer
 - A trial that directly measures hospitalization or mortality can speak to those named outcomes within its design limits.

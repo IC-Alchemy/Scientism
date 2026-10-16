@@ -14,7 +14,7 @@ tags:
   - replication-crisis
   - reproducibility
 sources: 4
-updated: 2026-10-01
+updated: 2026-10-16
 claim_status: supported
 claim_type: empirical
 ---
@@ -39,7 +39,7 @@ The replication crisis concerns whether reported findings survive when their met
 ## What this concept includes
 - failed direct replications with named protocols ([[sources/osc-2015-estimating-reproducibility-psychological-science]])
 - fragile results that depend on narrow analytic choices and selective reporting (the failure modes the Amgen report attributes its failures to)
-- methods that are under-described or hard to reconstruct
+- methods that are under-described or hard to reconstruct, including analysis code that is deposited but cannot regenerate the published numbers as written ([[synthesis/nordvall-2026-script-audit]])
 - weak social machinery for surfacing failures ([[sources/baker-2016-nature-reproducibility-survey]])
 
 ## What this concept does not settle

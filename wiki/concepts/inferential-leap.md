@@ -15,8 +15,8 @@ tags:
   - methodological-critique
   - methodology
   - overgeneralization
-sources: 18
-updated: 2026-10-08
+sources: 19
+updated: 2026-10-16
 claim_status: exploratory
 claim_type: methodological
 ---
@@ -44,6 +44,7 @@ An inferential leap occurs when a source moves from observed data or a specific 
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults]] is another useful counterexample. It reports season-specific trial endpoints and keeps a visible boundary between worse ILI-related utilization outcomes in the mismatched 1997-1998 season, reduced ILI/work-loss outcomes in the matched 1998-1999 season, and broader claims about economic benefit or general population health.
 - [[synthesis/virus-causation-inferential-leaps]] extends this method to foundational virus-disease attribution papers, including the specific risk that artificial-route inoculation or isolation results are later treated as if they fully proved ordinary natural causation.
 - [[synthesis/viral-disease-causation-evidence-ladder]] turns the virus-causation audit into an explicit ladder so detection, culture, serology, challenge, transmission, and intervention evidence are not collapsed into one causal claim.
+- [[sources/nordvall-2026-covid-vaccination-childbirth-sweden]] moves from one county's age-adjusted, dose-2 time-varying Cox estimate (HR 1.03, 0.97-1.09) to "COVID-19 vaccination is not associated with a decrease in childbirth" and to support for vaccination policy. Its own supplementary tables contain sensitivity estimates whose intervals exclude 1, and its socio-economic explanation for the birth decline is not tested. The code-level audit is [[synthesis/nordvall-2026-script-audit]].
 - [[sources/speciation-direct-evidence-ai-chat]] applies the same distinction outside virology: an AI-chat exchange separating observations such as sequenced telomere-like remnants or measured chromosome counts from the historical narrative that random mutation caused speciation.
 
 ## Questions to ask
