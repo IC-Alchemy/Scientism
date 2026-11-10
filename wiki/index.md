@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-11-10 • 284 pages_
+_Auto-generated 2026-11-10 • 285 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -47,7 +47,7 @@ _Auto-generated 2026-11-10 • 284 pages_
 - [[synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder|Hepatitis C to Hepatitis C Virus Evidence Ladder]] — Source-by-source HCV research pass separating non-A non-B hepatitis, molecular identification, prospective transfusion serology, infectious molecular clone, and ordinary transmission. _(5 sources · upd 2026-05-31)_
 - [[synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder|Infectious Gastroenteritis Outbreaks to Norovirus Evidence Ladder]] — Source-by-source norovirus research pass separating Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, and PCR-versus-infectiousness limits. _(4 sources · upd 2026-05-31)_
 - [[synthesis/infectious-mononucleosis-ebv-evidence-ladder|Infectious Mononucleosis to Epstein-Barr Virus Evidence Ladder]] — Source-by-source EBV/infectious mononucleosis research pass separating immunofluorescence, EBV antibody, seroconversion, EBV-specific IgM, clinical IM, contacts, and transmission-route claims. _(4 sources · upd 2026-05-31)_
-- [[synthesis/influenza-influenza-virus-evidence-ladder|Influenza to Influenza Virus Evidence Ladder]] — Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, modern controlled human challenge, controlled household natural-route transmission, and ordinary human causation. _(7 sources · upd 2026-11-10)_
+- [[synthesis/influenza-influenza-virus-evidence-ladder|Influenza to Influenza Virus Evidence Ladder]] — Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, modern controlled human challenge, controlled household natural-route transmission, and ordinary human causation. _(8 sources · upd 2026-11-10)_
 - [[synthesis/kaposi-sarcoma-hhv8-evidence-ladder|Kaposi Sarcoma to Human Herpesvirus 8 Evidence Ladder]] — Source-by-source HHV-8/Kaposi sarcoma research pass separating lesion PCR, cross-status detection, tissue specificity, viral characterization, serology, transmission, and tumor-causation claims. _(5 sources · upd 2026-05-31)_
 - [[synthesis/measles-measles-virus-evidence-ladder|Measles to Measles Virus Evidence Ladder]] — Source-by-source measles research pass separating failed blood inoculation, respiratory-material monkey challenge, pathology endpoints, tissue-culture isolation, serology, plaque assay, and ordinary transmission limits. _(7 sources · upd 2026-05-31)_
 - [[synthesis/mers-mers-cov-evidence-ladder|MERS to MERS-CoV Evidence Ladder]] — Source-by-source MERS research pass separating index-case isolation, sequencing, serology, rhesus-macaque challenge, camel shedding ecology, and natural-route limits. _(3 sources · upd 2026-05-31)_
@@ -106,7 +106,7 @@ _Auto-generated 2026-11-10 • 284 pages_
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (218)
+## Source (219)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -291,9 +291,10 @@ _Auto-generated 2026-11-10 • 284 pages_
 - [[sources/blake-trask-1921-measles-monkey-susceptibility|Studies on Measles I Susceptibility of Monkeys to the Virus of Measles]] — 1921 Journal of Experimental Medicine study reporting measles-like illness in rhesus monkeys after respiratory-mucosal inoculation with nasopharyngeal washings and monkey passage material. _(upd 2026-05-31)_
 - [[sources/blake-trask-1921-measles-symptomatology-pathology-monkeys|Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally Infected]] — 1921 Journal of Experimental Medicine pathology companion paper describing the clinical course, leukopenia, rash, mucosal lesions, and histology in experimentally infected monkeys. _(upd 2026-05-31)_
 
-### Influenza (12)
+### Influenza (13)
 
 - [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients|A Virus Obtained from Influenza Patients]] — 1933 Lancet paper reporting that filtered throat washings from human influenza cases produced a transmissible ferret disease. _(upd 2026-05-31)_
+- [[sources/kasel-couch-1969-experimental-infection-man-horses-influenza|Experimental Infection in Man and Horses with Influenza A Viruses]] — 1969 Bulletin of the World Health Organization paper by Kasel and Couch - A/Equi-2/Miami/63 virus produced febrile influenza-like illness and shedding in 15 of 15 seronegative adult male volunteers, and a simultaneous 19-person unimmunized control group challenged with A2/Hong Kong/68 showed markedly more illness, shedding, and seroconversion than the equine-primed subjects; no sham-inoculation arm. _(upd 2026-11-10)_
 - [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza|Experiments to Determine Mode of Spread of Influenza]] — Primary 1919 JAMA report describing repeated negative human influenza transmission attempts under several exposure methods. _(upd 2026-05-06)_
 - [[sources/cowling-2009-household-facemask-hand-hygiene-rct|Facemasks and Hand Hygiene to Prevent Influenza Transmission in Households]] — 2009 Annals of Internal Medicine household cluster-randomized controlled trial in Hong Kong testing surgical facemasks plus hand hygiene and hand hygiene alone against a no-intervention control, with RT-PCR-confirmed influenza infection in household contacts as the primary endpoint; overall differences were not significant, with a significant reduction only in the subgroup where intervention started within 36 hours of index-patient symptom onset. _(upd 2026-11-10)_
 - [[sources/brown-oleary-1974-fluorescent-antibody-hfmd|Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth Disease]] — 1974 Infection and Immunity serology paper reporting Coxsackie A16 fluorescent-antibody responses in HFMD cases and contacts. _(upd 2026-05-31)_
