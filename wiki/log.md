@@ -21,6 +21,9 @@ tags:
 >
 > Grep the last 10 entries: `grep "^## \[" log.md | tail -10`
 
+## [2026-11-10] ingest | Aiello 2012 PLoS ONE and Suess 2012 BMC Infect Dis household/residence-hall NPI trials (queue items 15-16: GAP 2 replication rows)
+Run 10 of the source-verification loop. Both verified end to end from Europe PMC full text (PMC3266257, PMC3285078); sources pages written; influenza ladder natural-route rung and cross-cutting ladder extended to a replicated 3/3-null-as-randomized result; queue item 5 (Herlocher 2004) re-exhausted and remains unverifiable; queue items 15/16 marked done with full extracts and recorded table/label inconsistencies.
+
 ## [2026-05-04] note | Vault initialized
 Topic: **Scientism**. Layers created: `raw/`, `wiki/{entities,concepts,sources,comparisons,synthesis}`.
 Schema loader: `CLAUDE.md` + `AGENTS.md` + `.cursorrules`.

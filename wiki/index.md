@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-11-10 • 288 pages_
+_Auto-generated 2026-11-10 • 290 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -106,7 +106,7 @@ _Auto-generated 2026-11-10 • 288 pages_
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (222)
+## Source (224)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -291,12 +291,13 @@ _Auto-generated 2026-11-10 • 288 pages_
 - [[sources/blake-trask-1921-measles-monkey-susceptibility|Studies on Measles I Susceptibility of Monkeys to the Virus of Measles]] — 1921 Journal of Experimental Medicine study reporting measles-like illness in rhesus monkeys after respiratory-mucosal inoculation with nasopharyngeal washings and monkey passage material. _(upd 2026-05-31)_
 - [[sources/blake-trask-1921-measles-symptomatology-pathology-monkeys|Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally Infected]] — 1921 Journal of Experimental Medicine pathology companion paper describing the clinical course, leukopenia, rash, mucosal lesions, and histology in experimentally infected monkeys. _(upd 2026-05-31)_
 
-### Influenza (16)
+### Influenza (18)
 
 - [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients|A Virus Obtained from Influenza Patients]] — 1933 Lancet paper reporting that filtered throat washings from human influenza cases produced a transmissible ferret disease. _(upd 2026-05-31)_
 - [[sources/kasel-couch-1969-experimental-infection-man-horses-influenza|Experimental Infection in Man and Horses with Influenza A Viruses]] — 1969 Bulletin of the World Health Organization paper by Kasel and Couch - A/Equi-2/Miami/63 virus produced febrile influenza-like illness and shedding in 15 of 15 seronegative adult male volunteers, and a simultaneous 19-person unimmunized control group challenged with A2/Hong Kong/68 showed markedly more illness, shedding, and seroconversion than the equine-primed subjects; no sham-inoculation arm. _(upd 2026-11-10)_
 - [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza|Experiments to Determine Mode of Spread of Influenza]] — Primary 1919 JAMA report describing repeated negative human influenza transmission attempts under several exposure methods. _(upd 2026-05-06)_
 - [[sources/cowling-2009-household-facemask-hand-hygiene-rct|Facemasks and Hand Hygiene to Prevent Influenza Transmission in Households]] — 2009 Annals of Internal Medicine household cluster-randomized controlled trial in Hong Kong testing surgical facemasks plus hand hygiene and hand hygiene alone against a no-intervention control, with RT-PCR-confirmed influenza infection in household contacts as the primary endpoint; overall differences were not significant, with a significant reduction only in the subgroup where intervention started within 36 hours of index-patient symptom onset. _(upd 2026-11-10)_
+- [[sources/aiello-2012-facemasks-hand-hygiene-young-adults-rct|Facemasks, Hand Hygiene, and Influenza among Young Adults: A Randomized Intervention Trial]] — 2012 PLoS ONE cluster-randomized trial in 37 University of Michigan residence houses (1,111 young adults, 2007-08 season) testing facemasks+hand sanitizer and facemasks-only against a no-intervention control, with time to first influenza-like illness and time to RT-PCR-confirmed influenza A/B as endpoints; cumulative differences were not statistically significant, with significant week-by-week ILI reductions only in the mask+hygiene arm from week 3 onward. _(upd 2026-11-10)_
 - [[sources/brown-oleary-1974-fluorescent-antibody-hfmd|Fluorescent Antibody Responses of Cases and Contacts of Hand, Foot, and Mouth Disease]] — 1974 Infection and Immunity serology paper reporting Coxsackie A16 fluorescent-antibody responses in HFMD cases and contacts. _(upd 2026-05-31)_
 - [[sources/alsop-flewett-foster-1960-hand-foot-mouth-disease-birmingham|Hand-Foot-and-Mouth Disease in Birmingham in 1959]] — 1960 BMJ outbreak report describing a Birmingham hand-foot-and-mouth disease outbreak and Coxsackie A16 isolation from one hand-vesicle sample. _(upd 2026-05-31)_
 - [[sources/davidson-1975-rotavirus-immunofluorescence-duodenal-mucosa|Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to a New Virus]] — 1975 J Clin Pathol paper localizing a new gastroenteritis-associated viral antigen in duodenal villus epithelium of children with acute enteritis. _(upd 2026-05-31)_
@@ -307,6 +308,7 @@ _Auto-generated 2026-11-10 • 288 pages_
 - [[sources/kim-2012-kenya-household-pdm09-transmission-cohort|Secondary Household Transmission of 2009 Pandemic Influenza A (H1N1) Virus among an Urban and Rural Population in Kenya, 2009-2010]] — 2012 PLoS ONE prospective population-based household cohort (PBIDS, urban Kibera and rural Lwak, Kenya) comparing influenza-like illness in contacts of RT-PCR-confirmed pandemic H1N1 index patients against matched comparison households within a same-8-day timing window; secondary ILI was elevated in case households at both sites (RR 1.8 and 2.6), but secondary cases were self-reported ILI rather than virologically confirmed. _(upd 2026-11-10)_
 - [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918|The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)]] — Tier 3 commentary arguing that Rosenau's 1918 influenza transmission experiments undermine claims of influenza infectiousness. _(upd 2026-05-04)_
 - [[sources/prince-1978-pathogenesis-rsv-infection-cotton-rats|The Pathogenesis of Respiratory Syncytial Virus Infection in Cotton Rats]] — 1978 American Journal of Pathology animal-model paper reporting RSV replication, antigen localization, histopathology, and neutralizing antibody in cotton rats. _(upd 2026-05-31)_
+- [[sources/suess-2012-berlin-household-facemask-hand-hygiene-rct|The Role of Facemasks and Hand Hygiene in the Prevention of Influenza Transmission in Households: Results from a Cluster Randomised Trial, Berlin, Germany, 2009/2010]] — 2012 BMC Infectious Diseases household cluster-randomized trial in Berlin across the 2009/10 pandemic and 2010/11 seasons (84 households, 218 contacts) testing facemasks+hand rub, facemasks-only, and no-intervention control around qRT-PCR-confirmed index cases, with qRT-PCR-confirmed influenza infection in contacts as the primary endpoint; intention-to-treat differences were not significant (p=0.18), with significance only in the within-36-hours subgroup and in per-protocol analyses. _(upd 2026-11-10)_
 - [[sources/shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus|The Susceptibility of Swine to the Virus of Human Influenza]] — 1936 Journal of Experimental Medicine paper testing human influenza virus strains in swine by intranasal inoculation, serial passage, bacterial co-exposure, contact exposure, mouse infectivity, and serology. _(upd 2026-05-31)_
 - [[sources/memoli-2015-h1n1pdm09-human-challenge-model-validation|Validation of the Wild-type Influenza A Human Challenge Model H1N1pdMIST]] — 2015 Clinical Infectious Diseases dose-finding human challenge paper showing intranasal GMP A(H1N1)pdm09 produced mild-to-moderate influenza disease (shedding plus symptoms) in 69% of low-antibody adults at 10^7 TCID50. _(upd 2026-11-10)_
 
