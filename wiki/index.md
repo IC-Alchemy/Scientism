@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-11-10 • 280 pages_
+_Auto-generated 2026-11-10 • 281 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -106,7 +106,7 @@ _Auto-generated 2026-11-10 • 280 pages_
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (214)
+## Source (215)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -193,7 +193,7 @@ _Auto-generated 2026-11-10 • 280 pages_
 - [[sources/volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv|Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter]] — Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv|Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study]] — Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 
-### HPV and cervical cancer (35)
+### HPV and cervical cancer (36)
 
 - [[sources/boshart-gissmann-ikenberg-1984-hpv18-genital-cancer-biopsies|A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical Cancer Cell Lines]] — 1984 EMBO Journal paper cloning HPV18 from cervical carcinoma material and surveying HPV18 DNA in genital cancers, normal cervix, benign lesions, and cervical-cancer-derived cell lines. _(upd 2026-05-31)_
 - [[sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma|A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer Biopsy Samples]] — 1983 PNAS paper cloning HPV16 DNA from a cervical carcinoma and surveying HPV16-homologous DNA in genital tumors. _(upd 2026-05-31)_
@@ -206,6 +206,7 @@ _Auto-generated 2026-11-10 • 280 pages_
 - [[sources/edward-jenners-smallpox-paper-1798|Edward Jenner's Smallpox Paper (1798)]] — A Tier 3 commentary source that excerpts Jenner's 1798 vaccination inquiry and argues that the original record is more ambiguous than later triumphal retellings suggest. _(upd 2026-05-04)_
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults|Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults]] — Double-blind randomized saline-placebo trial testing inactivated influenza vaccination in healthy working adults across two influenza seasons. _(upd 2026-05-05)_
 - [[sources/caussy-1988-hpv-detection-methods-clinical-specimens|Evaluation of methods for detecting human papillomavirus deoxyribonucleotide sequences in clinical specimens]] — A 1988 head-to-head comparison showing HPV detection rates in the same invasive-cancer specimens varied from 30% to 89% depending on the hybridization method used. _(upd 2026-10-01)_
+- [[sources/future-ii-study-group-2007-quadrivalent-hpv-cin2-rct|FUTURE II 2007 Quadrivalent HPV Vaccine RCT (High-Grade Cervical Lesions)]] — Phase 3 randomized double-blind trial in 12,167 women 15-26: quadrivalent HPV-6/11/16/18 vaccine reduced HPV-16/18 DNA-confirmed CIN2/3, adenocarcinoma in situ, and cervical cancer by 98% (per-protocol susceptible) versus an aluminum-containing placebo; zero cervical cancers occurred in either arm. _(upd 2026-11-10)_
 - [[sources/oya-1956-vaccinia-variola-one-day-hen-egg-growth|Growth of Vaccinia and Variola Viruses in the One-Day-Old Fertile Hen's Egg]] — 1956 Japanese Journal of Medical Science and Biology paper comparing vaccinia and variola growth in one-day-old fertile hen's eggs. _(upd 2026-05-31)_
 - [[sources/h5n1|H5N1]] — Raw note excerpting a 2024 H5N1 dairy-cattle sequencing paper and its sample-processing methods. _(upd 2026-05-04)_
 - [[sources/rodriguez-carunchio-2015-hpv-negative-cervical-carcinoma|HPV-negative carcinoma of the uterine cervix: a distinct type of cervical cancer with poor prognosis]] — In a 136-case Barcelona cohort, HC2-negative cervical cancers fell from 14 to 8 confirmed HPV-negative cases after three-assay PCR reanalysis, and confirmed negativity clustered in adenocarcinomas with worse disease-free survival. _(upd 2026-10-01)_

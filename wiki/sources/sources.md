@@ -3,7 +3,7 @@ title: Sources
 category: concept
 summary: Map of all source pages in the vault.
 tags: [MOCs, mocs]
-updated: 2026-10-16
+updated: 2026-11-10
 ---
 
 # Sources
@@ -95,7 +95,7 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv|Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter]]
 - [[sources/mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv|Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study]]
 
-## HPV and cervical cancer (32)
+## HPV and cervical cancer (33)
 
 - [[sources/boshart-gissmann-ikenberg-1984-hpv18-genital-cancer-biopsies|A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical Cancer Cell Lines]]
 - [[sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma|A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer Biopsy Samples]]
@@ -107,6 +107,7 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/edward-jenners-smallpox-paper-1798|Edward Jenner's Smallpox Paper (1798)]]
 - [[sources/effectiveness-and-cost-benefit-of-influenza-vaccination-of-healthy-working-adults|Effectiveness and Cost-Benefit of Influenza Vaccination of Healthy Working Adults]]
 - [[sources/caussy-1988-hpv-detection-methods-clinical-specimens|Evaluation of methods for detecting human papillomavirus deoxyribonucleotide sequences in clinical specimens]]
+- [[sources/future-ii-study-group-2007-quadrivalent-hpv-cin2-rct|FUTURE II 2007 Quadrivalent HPV Vaccine RCT (High-Grade Cervical Lesions)]]
 - [[sources/oya-1956-vaccinia-variola-one-day-hen-egg-growth|Growth of Vaccinia and Variola Viruses in the One-Day-Old Fertile Hen's Egg]]
 - [[sources/h5n1|H5N1]]
 - [[sources/rodriguez-carunchio-2015-hpv-negative-cervical-carcinoma|HPV-negative carcinoma of the uterine cervix: a distinct type of cervical cancer with poor prognosis]]

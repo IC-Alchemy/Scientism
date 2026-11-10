@@ -63,6 +63,11 @@ BCG and measles-vaccine nonspecific-effect studies are relevant but less clean f
 
 It does not join the all-cause proof above: all-cause mortality was 24 vaccine vs 20 placebo deaths with no efficacy analysis reported, and most gastroenteritis hospitalizations were not rotavirus-attributable (all-cause gastroenteritis hospitalization reduction 58.9%). REST is target-disease evidence; the overall-health-outcome rung for this vaccine remains untested.
 
+### Iteration 5 - a third disease-endpoint RCT, now for HPV, with a non-inert placebo
+[[sources/future-ii-study-group-2007-quadrivalent-hpv-cin2-rct]] (FUTURE II, NEJM 2007) is the third experiment-grade controlled vaccine trial in the vault and the first HPV one: 12,167 women 15-26, quadrivalent HPV-6/11/16/18 vaccine vs an aluminum-containing (AAHS) placebo, composite endpoint CIN2/3 + adenocarcinoma in situ + cervical cancer with HPV-16/18 DNA confirmed in the lesion. VE 98% per-protocol susceptible (1 vs 42 cases), 44% ITT type-specific, 17% ITT any type; no effect on infection or lesions already present; zero cervical cancers in either arm.
+
+It does not join the all-cause proof either, on three grounds: the endpoint is a precursor lesion, not cancer (no cancer cases occurred); the comparator contains the same adjuvant as the vaccine arm, so it is not an inert placebo; and follow-up averaged ~3 years. FUTURE II is target-lesion evidence; the overall-health-outcome rung for HPV vaccination remains untested in this vault.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
