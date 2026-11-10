@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-10-16 • 276 pages_
+_Auto-generated 2026-11-10 • 279 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -28,7 +28,7 @@ _Auto-generated 2026-10-16 • 276 pages_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — ingest, triage, and lint conventions.
 - [[log|Operation log]] — append-only record of every operation.
 
-## Synthesis (41)
+## Synthesis (42)
 
 - [[synthesis/vaccinated-children-more-healthy-question|Are Vaccinated Children More Healthy Than Not Vaccinated Children?]] — Direct answer and Lens shortlist for whether the current evidence found in this vault establishes broader overall-health superiority for vaccinated children. _(14 sources · upd 2026-05-21)_
 - [[synthesis/bronchiolitis-rsv-evidence-ladder|Bronchiolitis to Respiratory Syncytial Virus Evidence Ladder]] — Source-by-source RSV research pass separating early CCA-related virus isolation, serology/epidemiology, diagnostic bronchiolitis association, cotton-rat pathology, adult route inoculation, and infant-causation limits. _(5 sources · upd 2026-05-31)_
@@ -47,7 +47,7 @@ _Auto-generated 2026-10-16 • 276 pages_
 - [[synthesis/hepatitis-c-hepatitis-c-virus-evidence-ladder|Hepatitis C to Hepatitis C Virus Evidence Ladder]] — Source-by-source HCV research pass separating non-A non-B hepatitis, molecular identification, prospective transfusion serology, infectious molecular clone, and ordinary transmission. _(5 sources · upd 2026-05-31)_
 - [[synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder|Infectious Gastroenteritis Outbreaks to Norovirus Evidence Ladder]] — Source-by-source norovirus research pass separating Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, and PCR-versus-infectiousness limits. _(4 sources · upd 2026-05-31)_
 - [[synthesis/infectious-mononucleosis-ebv-evidence-ladder|Infectious Mononucleosis to Epstein-Barr Virus Evidence Ladder]] — Source-by-source EBV/infectious mononucleosis research pass separating immunofluorescence, EBV antibody, seroconversion, EBV-specific IgM, clinical IM, contacts, and transmission-route claims. _(4 sources · upd 2026-05-31)_
-- [[synthesis/influenza-influenza-virus-evidence-ladder|Influenza to Influenza Virus Evidence Ladder]] — Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, and ordinary human causation. _(4 sources · upd 2026-05-31)_
+- [[synthesis/influenza-influenza-virus-evidence-ladder|Influenza to Influenza Virus Evidence Ladder]] — Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, modern controlled human challenge, and ordinary human causation. _(6 sources · upd 2026-11-10)_
 - [[synthesis/kaposi-sarcoma-hhv8-evidence-ladder|Kaposi Sarcoma to Human Herpesvirus 8 Evidence Ladder]] — Source-by-source HHV-8/Kaposi sarcoma research pass separating lesion PCR, cross-status detection, tissue specificity, viral characterization, serology, transmission, and tumor-causation claims. _(5 sources · upd 2026-05-31)_
 - [[synthesis/measles-measles-virus-evidence-ladder|Measles to Measles Virus Evidence Ladder]] — Source-by-source measles research pass separating failed blood inoculation, respiratory-material monkey challenge, pathology endpoints, tissue-culture isolation, serology, plaque assay, and ordinary transmission limits. _(7 sources · upd 2026-05-31)_
 - [[synthesis/mers-mers-cov-evidence-ladder|MERS to MERS-CoV Evidence Ladder]] — Source-by-source MERS research pass separating index-case isolation, sequencing, serology, rhesus-macaque challenge, camel shedding ecology, and natural-route limits. _(3 sources · upd 2026-05-31)_
@@ -63,12 +63,12 @@ _Auto-generated 2026-10-16 • 276 pages_
 - [[synthesis/shingles-vzv-reactivation-evidence-ladder|Shingles to VZV Reactivation Evidence Ladder]] — Source-by-source shingles research pass separating varicella-zoster cultural similarity, ganglionic latency, neuronal localization, latent transcription, active ganglionitis, and reactivation-trigger limits. _(5 sources · upd 2026-05-31)_
 - [[synthesis/shingles-vzv-causation-and-vaccine-trial-audit|Shingles, VZV Causation, and Vaccine Trial Audit]] — Endpoint-level shortlist for shingles etiology, foundational varicella-zoster experiments, and modern zoster vaccine clinical trials. _(18 sources · upd 2026-05-08)_
 - [[synthesis/smallpox-variola-virus-evidence-ladder|Smallpox to Variola Virus Evidence Ladder]] — Source-by-source smallpox research pass separating variola animal inoculation, route boundaries, egg propagation, mouse lung recovery, contact/aerosol monkey transmission, and simian-reservoir limits. _(7 sources · upd 2026-05-31)_
-- [[synthesis/source-verification-queue|Source Verification Queue]] — Work queue for fetching and verifying candidate virology papers against the evidence standard; status per item, with unreachable full texts marked unverifiable. _(0 sources · upd 2026-11-10)_
 - [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(34 sources · upd 2026-05-05)_
+- [[synthesis/source-verification-queue|Source Verification Queue]] — Work queue for moving the virology corpus toward the vault's evidence standard by fetching and verifying candidate papers end to end. _(upd 2026-11-10)_
 - [[synthesis/specific-vaccine-overall-health-outcome-evidence|Specific Vaccine Overall Health Outcome Evidence]] — Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial. _(6 sources · upd 2026-05-21)_
 - [[synthesis/synthesis|Synthesis]] — Map of all synthesis pages in the vault. _(upd 2026-10-16)_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
-- [[synthesis/viral-disease-causation-evidence-ladder|Viral Disease Causation Evidence Ladder]] — Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims. _(120 sources · upd 2026-05-31)_
+- [[synthesis/viral-disease-causation-evidence-ladder|Viral Disease Causation Evidence Ladder]] — Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims. _(120 sources · upd 2026-11-10)_
 - [[synthesis/rotavirus-gastroenteritis-evidence-ladder|Viral Gastroenteritis to Rotavirus Evidence Ladder]] — Source-by-source rotavirus research pass separating pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, and natural-transmission limits. _(4 sources · upd 2026-05-31)_
 - [[synthesis/virus-causation-inferential-leaps|Virus Causation Inferential Leaps]] — Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer. _(197 sources · upd 2026-05-31)_
 - [[synthesis/virus-disease-attribution-audit-worklist|Virus-Disease Attribution Audit Worklist]] — Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support. _(231 sources · upd 2026-10-01)_
@@ -106,7 +106,7 @@ _Auto-generated 2026-10-16 • 276 pages_
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (211)
+## Source (213)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -289,7 +289,7 @@ _Auto-generated 2026-10-16 • 276 pages_
 - [[sources/blake-trask-1921-measles-monkey-susceptibility|Studies on Measles I Susceptibility of Monkeys to the Virus of Measles]] — 1921 Journal of Experimental Medicine study reporting measles-like illness in rhesus monkeys after respiratory-mucosal inoculation with nasopharyngeal washings and monkey passage material. _(upd 2026-05-31)_
 - [[sources/blake-trask-1921-measles-symptomatology-pathology-monkeys|Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally Infected]] — 1921 Journal of Experimental Medicine pathology companion paper describing the clinical course, leukopenia, rash, mucosal lesions, and histology in experimentally infected monkeys. _(upd 2026-05-31)_
 
-### Influenza (9)
+### Influenza (11)
 
 - [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients|A Virus Obtained from Influenza Patients]] — 1933 Lancet paper reporting that filtered throat washings from human influenza cases produced a transmissible ferret disease. _(upd 2026-05-31)_
 - [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza|Experiments to Determine Mode of Spread of Influenza]] — Primary 1919 JAMA report describing repeated negative human influenza transmission attempts under several exposure methods. _(upd 2026-05-06)_
@@ -297,9 +297,11 @@ _Auto-generated 2026-10-16 • 276 pages_
 - [[sources/alsop-flewett-foster-1960-hand-foot-mouth-disease-birmingham|Hand-Foot-and-Mouth Disease in Birmingham in 1959]] — 1960 BMJ outbreak report describing a Birmingham hand-foot-and-mouth disease outbreak and Coxsackie A16 isolation from one hand-vesicle sample. _(upd 2026-05-31)_
 - [[sources/davidson-1975-rotavirus-immunofluorescence-duodenal-mucosa|Immunofluorescence in Duodenal Mucosa of Children with Acute Enteritis Due to a New Virus]] — 1975 J Clin Pathol paper localizing a new gastroenteritis-associated viral antigen in duodenal villus epithelium of children with acute enteritis. _(upd 2026-05-31)_
 - [[sources/cradock-watson-1971-rapid-diagnosis-rsv-immunofluorescence|Rapid Diagnosis of Respiratory Syncytial Virus Infection in Children by the Immunofluorescent Technique]] — 1971 J Clin Pathol paper comparing RSV immunofluorescence diagnosis with culture in hospitalized young children, including bronchiolitis cases. _(upd 2026-05-31)_
+- [[sources/han-2021-cr6261-placebo-controlled-h1n1pdm09-challenge|Safety and Efficacy of CR6261 in an Influenza A H1N1 Healthy Human Challenge Model]] — 2021 Clinical Infectious Diseases randomized double-blind placebo-controlled H1N1pdm09 challenge trial; the virus-only placebo arm (69% MMID, 88% confirmed influenza, 93% symptomatic) supplies the sham-controlled element GAP 1 needs. _(upd 2026-11-10)_
 - [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918|The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)]] — Tier 3 commentary arguing that Rosenau's 1918 influenza transmission experiments undermine claims of influenza infectiousness. _(upd 2026-05-04)_
 - [[sources/prince-1978-pathogenesis-rsv-infection-cotton-rats|The Pathogenesis of Respiratory Syncytial Virus Infection in Cotton Rats]] — 1978 American Journal of Pathology animal-model paper reporting RSV replication, antigen localization, histopathology, and neutralizing antibody in cotton rats. _(upd 2026-05-31)_
 - [[sources/shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus|The Susceptibility of Swine to the Virus of Human Influenza]] — 1936 Journal of Experimental Medicine paper testing human influenza virus strains in swine by intranasal inoculation, serial passage, bacterial co-exposure, contact exposure, mouse infectivity, and serology. _(upd 2026-05-31)_
+- [[sources/memoli-2015-h1n1pdm09-human-challenge-model-validation|Validation of the Wild-type Influenza A Human Challenge Model H1N1pdMIST]] — 2015 Clinical Infectious Diseases dose-finding human challenge paper showing intranasal GMP A(H1N1)pdm09 produced mild-to-moderate influenza disease (shedding plus symptoms) in 69% of low-antibody adults at 10^7 TCID50. _(upd 2026-11-10)_
 
 ### Smallpox, variola, and vaccinia (5)
 
