@@ -190,7 +190,7 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/blake-trask-1921-measles-monkey-susceptibility|Studies on Measles I Susceptibility of Monkeys to the Virus of Measles]]
 - [[sources/blake-trask-1921-measles-symptomatology-pathology-monkeys|Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally Infected]]
 
-## Influenza (9)
+## Influenza (10)
 
 - [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients|A Virus Obtained from Influenza Patients]]
 - [[sources/rosenau-1919-experiments-to-determine-mode-of-spread-of-influenza|Experiments to Determine Mode of Spread of Influenza]]
@@ -201,6 +201,7 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918|The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)]]
 - [[sources/prince-1978-pathogenesis-rsv-infection-cotton-rats|The Pathogenesis of Respiratory Syncytial Virus Infection in Cotton Rats]]
 - [[sources/shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus|The Susceptibility of Swine to the Virus of Human Influenza]]
+- [[sources/cowling-2009-household-facemask-hand-hygiene-rct|Facemasks and Hand Hygiene to Prevent Influenza Transmission in Households]]
 
 ## Smallpox, variola, and vaccinia (5)
 
@@ -210,13 +211,15 @@ All source pages in the vault, grouped by topic. The [[index|full index]] carrie
 - [[sources/nelson-1939-variola-virus-nasal-instillation-mice|The Response of Mice to the Nasal Instillation of Variola Virus]]
 - [[sources/noble-rich-1969-smallpox-contact-aerosol-macaca-irus|Transmission of Smallpox by Contact and by Aerosol Routes in Macaca irus]]
 
-## Respiratory and enteric viruses (13)
+## Respiratory and enteric viruses (15)
 
 - [[sources/jefferson-2022-hierarchical-framework-transmission-causality-respiratory-viruses|A Hierarchical Framework for Assessing Transmission Causality of Respiratory Viruses]]
 - [[sources/mccormack-1982-clinical-features-rotavirus-gastroenteritis|Clinical Features of Rotavirus Gastroenteritis]]
 - [[sources/wyatt-1983-direct-isolation-human-rotaviruses-cell-culture-serotypes|Direct Isolation in Cell Culture of Human Rotaviruses and Their Characterization into Four Serotypes]]
 - [[sources/li-2014-tree-shrew-coxsackievirus-a16-experimental-infection|Experimental Infection of Tree Shrews with Coxsackievirus A16]]
 - [[sources/hall-1981-infectivity-rsv-various-routes-inoculation|Infectivity of Respiratory Syncytial Virus by Various Routes of Inoculation]]
+- [[sources/devincenzo-2010-rsv-human-challenge-model-validation|Viral Load Drives Disease in Humans Experimentally Infected with Respiratory Syncytial Virus]]
+- [[sources/byrne-2026-s337395-placebo-controlled-rsv-challenge|Phase 2a Randomized Placebo-Controlled Human Challenge Trial of the RSV L-Protein Inhibitor S-337395]]
 - [[sources/atmar-2008-norwalk-virus-shedding-experimental-human-infection|Norwalk Virus Shedding after Experimental Human Infection]]
 - [[sources/arness-2000-norwalk-like-gastroenteritis-army-trainees|Norwalk-like Viral Gastroenteritis Outbreak in U.S. Army Trainees]]
 - [[sources/kapikian-1983-oral-human-rotavirus-volunteers|Oral Administration of Human Rotavirus to Volunteers]]

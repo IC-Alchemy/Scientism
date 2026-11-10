@@ -1,7 +1,7 @@
 ---
 title: Influenza to Influenza Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, modern controlled human challenge, and ordinary human causation.
+summary: Source-by-source influenza research pass separating pre-virus human transmission failure, human-case filtrate, ferret passage, serology, swine susceptibility, contact transfer, modern controlled human challenge, controlled household natural-route transmission, and ordinary human causation.
 tags:
   - causation
   - contact-transfer
@@ -13,7 +13,7 @@ tags:
   - influenza-virus
   - pre-virus-transmission-failure
   - swine-susceptibility
-sources: 6
+sources: 7
 updated: 2026-11-10
 claim_status: unresolved
 claim_type: empirical
@@ -31,6 +31,7 @@ The influenza row can now be upgraded from a Rosenau-only negative-result warnin
 - Smith, Andrewes, and Laidlaw 1933 supports human-case filtrate producing a transmissible ferret disease under experimental conditions.
 - Shope and Francis 1936 supports cross-species swine susceptibility and a contact-transfer boundary for human influenza-virus strains in swine.
 - Memoli 2015 and Han 2021 (2026-11-10 verification run) support a modern controlled human challenge rung for A(H1N1)pdm09: purified GMP wild-type inoculum, dose-dependent shedding plus clinical disease, and a randomized placebo-controlled trial whose virus-only arm reached 69% MMID and 88% confirmed infection.
+- Cowling 2009 (2026-11-10 verification run, full text recovered from archived publisher HTML) supports a controlled natural-route household transmission rung: cluster-randomized facemask/hand-hygiene trial in Hong Kong households with RT-PCR-confirmed influenza in contacts as the primary endpoint - no significant reduction as randomized, significant reduction only in the within-36-hours subgroup (aOR 0.33).
 
 This is not a global proof or refutation. The current vault can say that the later influenza-virus literature answered questions Rosenau's 1919 study could not answer, but it cannot erase Rosenau's negative human challenge results or treat animal passage as identical to ordinary human transmission.
 
@@ -55,6 +56,7 @@ This is not a global proof or refutation. The current vault can say that the lat
 | Serology / neutralization | [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients]]; [[sources/shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus]] | Immune or convalescent sera neutralized experimental endpoints in ferrets, mice, or swine-derived material. | It cannot alone prove clinical causation; full Francis-Magill 1935 extraction remains a gap. |
 | Cross-species susceptibility and contact boundary | [[sources/shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus]] | Young swine were infected by intranasal human influenza virus; contact transfer was weak, occurring in one of four exposed swine and without clinical illness. | It cannot establish ordinary human transmission or airborne spread. |
 | Controlled human challenge, inoculum route (rung 7) | [[sources/memoli-2015-h1n1pdm09-human-challenge-model-validation]]; [[sources/han-2021-cr6261-placebo-controlled-h1n1pdm09-challenge]] | Dose-dependent viral shedding plus clinical influenza-like disease (MMID) in seronegative adults after intranasal GMP wild-type A(H1N1)pdm09: 69% MMID at 10^7 TCID50 (dose-finding), reproduced at 69% MMID / 88% confirmed infection in the randomized placebo arm. This is a positive modern human-inoculation boundary: purified wild-type virus is sufficient to produce influenza-like disease under these conditions. | It cannot answer natural-route transmission (no recipient subjects were exposed), population attack rates, or whether PCR shedding equals infectiousness; exposure was atomizer inoculation in isolation. |
+| Natural-route household transmission, controlled (GAP 2) | [[sources/cowling-2009-household-facemask-hand-hygiene-rct]] | In Hong Kong households with a rapid-test-positive index patient, household-level randomization to lifestyle control, enhanced hand hygiene, or facemasks+hand hygiene with an RT-PCR endpoint in contacts: 60/794 contacts (8%) infected, no significant difference between groups as randomized; prespecified within-36-hours subgroup showed facemask+hygiene aOR 0.33 (0.13-0.87) vs control. Natural-route transmission was measured under randomized conditions for the first time in this vault's influenza set. | Subgroup timing was not randomized within arm; adherence was low and control-group contamination documented; the bundled interventions cannot decompose transmission routes; interpandemic strains and mild illness only. |
 | Ordinary human natural-route causation | Not yet reconstructed here. | We do not know from the current full-text set. | It cannot be inferred directly from pre-virus negative challenge, ferret passage, swine inoculation, or challenge-model inoculation alone. |
 
 ## Current manuscript rule for influenza
@@ -64,6 +66,7 @@ Influenza should be presented as a layered case:
 - Smith, Andrewes, and Laidlaw answer a different question: whether a filterable agent from influenza cases could produce and pass a ferret disease.
 - Shope and Francis answer another different question: whether human influenza-virus strains could infect swine and how strongly they transmitted by swine contact.
 - Memoli 2015 and Han 2021 answer an inoculation question: whether purified wild-type A(H1N1)pdm09 delivered intranasally produces shedding plus influenza-like illness at a reproducible rate, including under a randomized placebo-controlled contrast. They do not test natural transmission.
+- Cowling 2009 answers a natural-route intervention question: whether facemask and hand-hygiene interventions reduce RT-PCR-confirmed household transmission when applied with real-world delay. As randomized the answer was no; only the within-36-hours subgroup was significant. That is a different question from inoculation-route disease reproduction.
 - None of these rungs alone is the same as ordinary human natural-route causation.
 
 The manuscript may therefore strengthen the influenza section from a single negative-result paragraph into an evidence-ladder discussion. It should not say that influenza is noninfectious, and it should not say that ferret or swine experiments by themselves settle ordinary human causation.
@@ -74,6 +77,7 @@ The manuscript may therefore strengthen the influenza section from a single nega
 - [[sources/shope-francis-1936-susceptibility-of-swine-to-human-influenza-virus]]
 - [[sources/memoli-2015-h1n1pdm09-human-challenge-model-validation]]
 - [[sources/han-2021-cr6261-placebo-controlled-h1n1pdm09-challenge]]
+- [[sources/cowling-2009-household-facemask-hand-hygiene-rct]]
 - [[synthesis/failed-virus-causation-attempts-register]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/virus-causation-inferential-leaps]]
