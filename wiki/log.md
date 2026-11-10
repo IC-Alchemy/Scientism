@@ -21,6 +21,9 @@ tags:
 >
 > Grep the last 10 entries: `grep "^## \[" log.md | tail -10`
 
+## [2026-11-10] create | Munywoki 2014 JID household RSV cohort (queue item 17: GAP 3 RSV row) and Sauter 2026 Nat Commun PHIRST influenza household transmission (queue item 18: GAP 3 influenza replication row)
+Run 11 of the source-verification loop. Item 17 done after citation reconciliation (no Munywoki 2013 PLoS ONE paper exists; actual primary: J Infect Dis 2014;209(11):1685-1692, PMID 24367040, PMC4017365) - [[sources/munywoki-2014-rsv-infant-source-household-cohort]] written from full text; RSV ladder gained its first natural-route household-cohort rung. Item 18 done: [[sources/sauter-2026-phirst-influenza-household-transmission]] (Nat Commun 2026;17:9238, PMC13526887) written from full text; influenza ladder GAP 3 rung extended to two rows ([[sources/kim-2012-kenya-household-pdm09-transmission-cohort]] + Sauter 2026). Cross-cutting ladder GAP 3 note extended and RSV note updated. Tsang 2023 PNAS Hong Kong household reconstruction (PMC10436695) retrieved, left as a next-run lead. Both queue rows marked done with full extracts.
+
 ## [2026-11-10] ingest | Aiello 2012 PLoS ONE and Suess 2012 BMC Infect Dis household/residence-hall NPI trials (queue items 15-16: GAP 2 replication rows)
 Run 10 of the source-verification loop. Both verified end to end from Europe PMC full text (PMC3266257, PMC3285078); sources pages written; influenza ladder natural-route rung and cross-cutting ladder extended to a replicated 3/3-null-as-randomized result; queue item 5 (Herlocher 2004) re-exhausted and remains unverifiable; queue items 15/16 marked done with full extracts and recorded table/label inconsistencies.
 

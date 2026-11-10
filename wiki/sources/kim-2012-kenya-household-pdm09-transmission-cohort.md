@@ -63,6 +63,8 @@ doi: 10.1371/journal.pone.0038166
 - Comparisons with other countries' secondary attack rates import those studies' differing definitions (some use lab-confirmed contacts, some ILI) into one discussion.
 
 ## Related
+- [[sources/sauter-2026-phirst-influenza-household-transmission]] - the GAP 3 replication row (2026-11-10 run 11): PHIRST South Africa cohort whose infections are serially PCR-observed rather than self-reported
+- [[sources/munywoki-2014-rsv-infant-source-household-cohort]] - the GAP 3 RSV row written the same run
 - [[sources/cowling-2009-household-facemask-hand-hygiene-rct]] - the controlled (randomized) household natural-route influenza study; shares author B. J. Cowling
 - [[sources/memoli-2015-h1n1pdm09-human-challenge-model-validation]] - uses the same pandemic virus under inoculation conditions
 - [[synthesis/influenza-influenza-virus-evidence-ladder]]
