@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-11-10 • 292 pages_
+_Auto-generated 2026-11-10 • 294 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -106,7 +106,7 @@ _Auto-generated 2026-11-10 • 292 pages_
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (226)
+## Source (228)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -193,7 +193,7 @@ _Auto-generated 2026-11-10 • 292 pages_
 - [[sources/volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv|Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter]] — Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv|Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study]] — Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 
-### HPV and cervical cancer (36)
+### HPV and cervical cancer (37)
 
 - [[sources/boshart-gissmann-ikenberg-1984-hpv18-genital-cancer-biopsies|A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical Cancer Cell Lines]] — 1984 EMBO Journal paper cloning HPV18 from cervical carcinoma material and surveying HPV18 DNA in genital cancers, normal cervix, benign lesions, and cervical-cancer-derived cell lines. _(upd 2026-05-31)_
 - [[sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma|A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer Biopsy Samples]] — 1983 PNAS paper cloning HPV16 DNA from a cervical carcinoma and surveying HPV16-homologous DNA in genital tumors. _(upd 2026-05-31)_
@@ -215,6 +215,7 @@ _Auto-generated 2026-11-10 • 292 pages_
 - [[sources/insight-into-biases-and-sequencing-errors-of-illumina-miseq-platform|Insight into Biases and Sequencing Errors of the Illumina MiSeq Platform]] — Primary paper showing that Illumina MiSeq amplicon error patterns depend strongly on library preparation and primer choice rather than occurring purely at random. _(upd 2026-05-04)_
 - [[sources/zaki-2012-novel-coronavirus-pneumonia-saudi-arabia|Isolation of a Novel Coronavirus from a Man with Pneumonia in Saudi Arabia]] — 2012 NEJM case-isolation paper reporting recovery and characterization of HCoV-EMC, later MERS-CoV, from a fatal pneumonia case in Saudi Arabia. _(upd 2026-05-31)_
 - [[sources/magmax-pathogen-rna-kit|MagMAX Pathogen RNA Kit]] — Product-link note identifying an RNA extraction kit referenced in the H5N1 sequencing workflow. _(upd 2026-05-04)_
+- [[sources/kelly-2022-sars-cov-2-household-transmission-cohort|Magnitude and Determinants of SARS-CoV-2 Household Transmission - A Longitudinal Cohort Study]] — 2022 Clin Infect Dis prospective longitudinal household cohort (San Francisco Bay Area, Sept 2020-Jan 2022) - 42 symptomatic primary cases and 74 household contacts with near-daily self-collected nasal swabs regardless of symptoms; 32/74 (43%) contacts infected by serial RT-PCR, 81% of transmissions within 5 days of case onset, no cumulative-incidence difference by primary-case vaccination status (41% vs 45%, p=0.60), and the all-infections-are-primary-case-transmissions assumption quoted on the page. _(upd 2026-11-10)_
 - [[sources/pasteurs-researches-on-rabies|Pasteur's Researches on Rabies]] — A pointer to an 1886 BMJ report on Pasteur's rabies work, currently represented in the raw vault as a short bibliographic note rather than a developed summary. _(upd 2026-05-04)_
 - [[sources/pediatric-vaccine-trial-records-placebo-control-audit|Pediatric Vaccine Trial Records Placebo-Control Audit]] — Abstract-level audit of vaccine clinical-trial records cited by the CHD placebo-control article, focused on comparator type and endpoint scope. _(upd 2026-05-05)_
 - [[sources/polio|Polio]] — Sparse note linking Scobey's poisoning-based interpretation of poliomyelitis and a set of historical vaccine advertisements. _(upd 2026-05-04)_
@@ -291,7 +292,7 @@ _Auto-generated 2026-11-10 • 292 pages_
 - [[sources/blake-trask-1921-measles-monkey-susceptibility|Studies on Measles I Susceptibility of Monkeys to the Virus of Measles]] — 1921 Journal of Experimental Medicine study reporting measles-like illness in rhesus monkeys after respiratory-mucosal inoculation with nasopharyngeal washings and monkey passage material. _(upd 2026-05-31)_
 - [[sources/blake-trask-1921-measles-symptomatology-pathology-monkeys|Studies on Measles II Symptomatology and Pathology in Monkeys Experimentally Infected]] — 1921 Journal of Experimental Medicine pathology companion paper describing the clinical course, leukopenia, rash, mucosal lesions, and histology in experimentally infected monkeys. _(upd 2026-05-31)_
 
-### Influenza (19)
+### Influenza (20)
 
 - [[sources/smith-andrewes-laidlaw-1933-virus-obtained-from-influenza-patients|A Virus Obtained from Influenza Patients]] — 1933 Lancet paper reporting that filtered throat washings from human influenza cases produced a transmissible ferret disease. _(upd 2026-05-31)_
 - [[sources/kasel-couch-1969-experimental-infection-man-horses-influenza|Experimental Infection in Man and Horses with Influenza A Viruses]] — 1969 Bulletin of the World Health Organization paper by Kasel and Couch - A/Equi-2/Miami/63 virus produced febrile influenza-like illness and shedding in 15 of 15 seronegative adult male volunteers, and a simultaneous 19-person unimmunized control group challenged with A2/Hong Kong/68 showed markedly more illness, shedding, and seroconversion than the equine-primed subjects; no sham-inoculation arm. _(upd 2026-11-10)_
@@ -304,6 +305,7 @@ _Auto-generated 2026-11-10 • 292 pages_
 - [[sources/lowen-2007-guinea-pig-humidity-temperature-transmission|Influenza Virus Transmission Is Dependent on Relative Humidity and Temperature]] — 2007 PLoS Pathogens controlled guinea-pig transmission study (Lowen, Mubareka, Steel, Palese) showing aerosol-route transmission of A/Panama/2007/99 (H3N2) between cage-separated animals - no physical contact possible - is highly efficient at 5 degrees C and blocked at 30 degrees C, with transmission efficiency tracking humidity; endpoints are plaque-assay nasal-wash titers and HI seroconversion, with no disease endpoint. _(upd 2026-11-10)_
 - [[sources/couch-1969-nature-equine-influenza-syndrome-man|Production of the Influenza Syndrome in Man with Equine Influenza Virus]] — 1969 Nature letter by Couch, Douglas, Kasel, Riggs, and Knight - undiluted A/equi-2/Miami inoculum (10^6.7 TCID50) given intranasally to 15 antibody-free adult male volunteers infected all 15 (virus recovered from every man, 14/15 seroconverted) and produced febrile influenza-like illness in 13, with no sham-inoculation arm; the clinical companion report to the same trial in Kasel & Couch, Bull WHO 1969. _(upd 2026-11-10)_
 - [[sources/cradock-watson-1971-rapid-diagnosis-rsv-immunofluorescence|Rapid Diagnosis of Respiratory Syncytial Virus Infection in Children by the Immunofluorescent Technique]] — 1971 J Clin Pathol paper comparing RSV immunofluorescence diagnosis with culture in hospitalized young children, including bronchiolitis cases. _(upd 2026-05-31)_
+- [[sources/tsang-2023-hong-kong-household-asymptomatic-transmission-reconstruction|Reconstructing Household Transmission Dynamics to Estimate the Infectiousness of Asymptomatic Influenza Virus Infections]] — 2023 PNAS Bayesian transmission-model reconstruction of the Hong Kong 2009 pandemic H1N1 household cohort (727 households, 2,515 members; infection = >=4-fold HAI rise and/or positive PCR) - asymptomatic cases were an estimated 36% of infections with relative infectiousness 0.57 vs symptomatic cases (95% CrI 0.11-1.54); the authors' own power analysis (0.48 at the estimated effect size) and a CrI that includes 1.0 are recorded on the page. _(upd 2026-11-10)_
 - [[sources/han-2021-cr6261-placebo-controlled-h1n1pdm09-challenge|Safety and Efficacy of CR6261 in an Influenza A H1N1 Healthy Human Challenge Model]] — 2021 Clinical Infectious Diseases randomized double-blind placebo-controlled H1N1pdm09 challenge trial; the virus-only placebo arm (69% MMID, 88% confirmed influenza, 93% symptomatic) supplies the sham-controlled element GAP 1 needs. _(upd 2026-11-10)_
 - [[sources/kim-2012-kenya-household-pdm09-transmission-cohort|Secondary Household Transmission of 2009 Pandemic Influenza A (H1N1) Virus among an Urban and Rural Population in Kenya, 2009-2010]] — 2012 PLoS ONE prospective population-based household cohort (PBIDS, urban Kibera and rural Lwak, Kenya) comparing influenza-like illness in contacts of RT-PCR-confirmed pandemic H1N1 index patients against matched comparison households within a same-8-day timing window; secondary ILI was elevated in case households at both sites (RR 1.8 and 2.6), but secondary cases were self-reported ILI rather than virologically confirmed. _(upd 2026-11-10)_
 - [[sources/the-infectious-myth-busted-part-1-the-rosenau-spanish-flu-experiments-1918|The Infectious Myth Busted Part 1: The Rosenau Spanish Flu Experiments (1918)]] — Tier 3 commentary arguing that Rosenau's 1918 influenza transmission experiments undermine claims of influenza infectiousness. _(upd 2026-05-04)_
