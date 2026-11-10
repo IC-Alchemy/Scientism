@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 11
+sources: 12
 updated: 2026-11-10
 claim_status: supported
 claim_type: medical
@@ -77,6 +77,11 @@ They do not join the all-cause proof: mortality was a safety capture, not a powe
 [[sources/ison-2024-rsvpref3oa-two-season-rct]] (AReSVi-006, CID 2024;78(6):1732-1744, full text via PMC; NCT04886596) is the sixth experiment-grade placebo-controlled vaccine trial in this vault and the first for RSV: randomized, blinded, placebo-controlled phase 3 in >=60-year-olds (24,973 exposed, 17 countries), primary disease endpoints - committee-adjudicated, RT-PCR-confirmed RSV-related lower respiratory tract disease (67.2% [97.5% CI 48.2-80.0] over 2 seasons, 30 vs 139 cases; 82.6% in season 1, re-reporting the unreachable NEJM primary Papi et al. 2023) and severe RSV-LRTD (78.8%). It confirms the run-13 pattern: disease-specific benefit is demonstrable under blinded placebo-controlled conditions.
 
 It does not join the all-cause proof either: hospitalization efficacy "could not be evaluated" (1 vs 5 events), >=80-year and frail subgroups are uninformative (too few cases), deaths and serious adverse events are balanced safety captures (~0.4-0.5% fatal SAEs, ~4% SAEs in every arm) rather than powered outcomes, protection wanes within 18 months, and no transmission or asymptomatic-infection endpoint was collected. The placebo composition is not named in the CID report (it sits in the unreachable NEJM primary) - recorded rather than assumed. RSV vaccination in older adults is target-disease evidence only; the overall-health-outcome rung remains untested in this vault.
+
+### Iteration 8 - an influenza disease-endpoint RCT with an inert sham arm - and an intra-trial indirect-effect null, added 2026-11-10 (run 15)
+[[sources/belshe-1998-laiv-children-culture-confirmed-influenza-rct]] (Belshe et al., NEJM 1998;338(20):1405-1412, full publisher PDF recovered from an Internet Archive capture of the bronze-OA nejm.org PDF) is the seventh experiment-grade placebo-controlled vaccine trial in this vault and the first for influenza: randomized, double-blind, placebo-controlled multicenter trial in 1,602 healthy children 15-71 months (2:1), intranasal cold-adapted trivalent vaccine versus an indistinguishable egg-allantoic-fluid placebo spray (sham arm quoted verbatim on the source page), and a primary endpoint that is the disease itself - first episode of culture-confirmed wild-type influenza from active surveillance and rhesus-monkey-kidney cultures with vaccine-shedding phenotyping (14/1,070 vs 95/532; efficacy 93%, 95% CI 88-96), plus 21% fewer febrile illnesses and 30% fewer febrile otitis media episodes (both P<0.001). The febrile-illness and otitis-media outcomes are medically attended disease reductions, but they are still target-disease-adjacent, not all-cause health outcomes.
+
+Two additional facts earn this trial a distinct note in this synthesis. First, the vaccinated-sibling analysis inside the trial is a randomized-setting experimental negative for indirect protection: placebo recipients with a vaccinated sibling had the same 18% culture-positive influenza rate as placebo recipients overall (32/182) - "Clearly, having a vaccinated sibling was not protective" - so the trial's own data separate direct protection from herd effects in that season and setting. Second, the trial's gaps are instructive: zero wild-type A(H1N1) circulated (that component is untested against disease), surveillance was symptom-triggered (asymptomatic infection invisible), and there was no inactivated-vaccine arm - the "probably more efficacious" comparison rests on historical data, recorded as a leap. Mortality was not an endpoint at all; influenza vaccination here is target-disease evidence, and the overall-health-outcome rung for it remains untested in this vault.
 
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
