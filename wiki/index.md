@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-11-10 • 279 pages_
+_Auto-generated 2026-11-10 • 280 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -65,11 +65,11 @@ _Auto-generated 2026-11-10 • 279 pages_
 - [[synthesis/smallpox-variola-virus-evidence-ladder|Smallpox to Variola Virus Evidence Ladder]] — Source-by-source smallpox research pass separating variola animal inoculation, route boundaries, egg propagation, mouse lung recovery, contact/aerosol monkey transmission, and simian-reservoir limits. _(7 sources · upd 2026-05-31)_
 - [[synthesis/source-corpus-triage|Source Corpus Triage]] — First-pass inventory of the raw corpus by evidence level, dispute cluster, and next-step research value. _(34 sources · upd 2026-05-05)_
 - [[synthesis/source-verification-queue|Source Verification Queue]] — Work queue for moving the virology corpus toward the vault's evidence standard by fetching and verifying candidate papers end to end. _(upd 2026-11-10)_
-- [[synthesis/specific-vaccine-overall-health-outcome-evidence|Specific Vaccine Overall Health Outcome Evidence]] — Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial. _(6 sources · upd 2026-05-21)_
+- [[synthesis/specific-vaccine-overall-health-outcome-evidence|Specific Vaccine Overall Health Outcome Evidence]] — Current best direct evidence that a specific vaccine improved broader health outcomes, centered on the PCV9 Gambia randomized trial. _(7 sources · upd 2026-11-10)_
 - [[synthesis/synthesis|Synthesis]] — Map of all synthesis pages in the vault. _(upd 2026-10-16)_
 - [[synthesis/vault-maintenance-guide|Vault Maintenance Guide]] — Operating guide for maintaining this Obsidian research vault without blurring source quality, experimental scope, or wiki conclusions. _(3 sources · upd 2026-05-04)_
-- [[synthesis/viral-disease-causation-evidence-ladder|Viral Disease Causation Evidence Ladder]] — Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims. _(120 sources · upd 2026-11-10)_
-- [[synthesis/rotavirus-gastroenteritis-evidence-ladder|Viral Gastroenteritis to Rotavirus Evidence Ladder]] — Source-by-source rotavirus research pass separating pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, and natural-transmission limits. _(4 sources · upd 2026-05-31)_
+- [[synthesis/viral-disease-causation-evidence-ladder|Viral Disease Causation Evidence Ladder]] — Cross-cutting framework for separating detection, isolation, transmission, animal challenge, molecular, clinical, and intervention evidence in viral disease causation claims. _(121 sources · upd 2026-11-10)_
+- [[synthesis/rotavirus-gastroenteritis-evidence-ladder|Viral Gastroenteritis to Rotavirus Evidence Ladder]] — Source-by-source rotavirus research pass separating pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, and natural-transmission limits. _(5 sources · upd 2026-11-10)_
 - [[synthesis/virus-causation-inferential-leaps|Virus Causation Inferential Leaps]] — Analysis of how foundational virus-disease attribution papers can be extended beyond the question their experiments directly answer. _(197 sources · upd 2026-05-31)_
 - [[synthesis/virus-disease-attribution-audit-worklist|Virus-Disease Attribution Audit Worklist]] — Exploratory worklist of diseases commonly attributed to specific viruses, to be checked against foundational experiment-grade support. _(231 sources · upd 2026-10-01)_
 
@@ -106,7 +106,7 @@ _Auto-generated 2026-11-10 • 279 pages_
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
 
-## Source (213)
+## Source (214)
 
 ### Herpesviruses: HSV, VZV, EBV, Kaposi sarcoma (26)
 
@@ -193,7 +193,7 @@ _Auto-generated 2026-11-10 • 279 pages_
 - [[sources/volberding-1990-actg-019-zidovudine-in-asymptomatic-hiv|Zidovudine in asymptomatic human immunodeficiency virus infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter]] — Asymptomatic HIV zidovudine timing trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 - [[sources/mulder-1994-zidovudine-twice-daily-in-asymptomatic-hiv|Zidovudine twice daily in asymptomatic subjects with HIV infection, and a high risk of progression to AIDS: a randomized, double-blind placebo-controlled study]] — Asymptomatic high-risk zidovudine trial relevant to Gutknecht letter Q9. _(upd 2026-05-05)_
 
-### HPV and cervical cancer (34)
+### HPV and cervical cancer (35)
 
 - [[sources/boshart-gissmann-ikenberg-1984-hpv18-genital-cancer-biopsies|A New Type of Papillomavirus DNA in Genital Cancer Biopsies and Cervical Cancer Cell Lines]] — 1984 EMBO Journal paper cloning HPV18 from cervical carcinoma material and surveying HPV18 DNA in genital cancers, normal cervix, benign lesions, and cervical-cancer-derived cell lines. _(upd 2026-05-31)_
 - [[sources/durst-gissmann-ikenberg-zur-hausen-1983-hpv16-cervical-carcinoma|A Papillomavirus DNA from a Cervical Carcinoma and Its Prevalence in Cancer Biopsy Samples]] — 1983 PNAS paper cloning HPV16 DNA from a cervical carcinoma and surveying HPV16-homologous DNA in genital tumors. _(upd 2026-05-31)_
@@ -229,6 +229,7 @@ _Auto-generated 2026-11-10 • 279 pages_
 - [[sources/nelson-1940-variola-vaccinia-survival-mouse-lungs|The Survival of Variola and Vaccinia Viruses in the Lungs of Mice Previously Infected with Variola]] — 1940 Journal of Experimental Medicine paper comparing variola and vaccinia recovery from mouse lungs after prior variola exposure. _(upd 2026-05-31)_
 - [[sources/vaccine-clips-research-lead|Vaccine Clips (Research Lead)]] — Stub note asserting that disease prevention by vaccines is demonstrable while prevention-equals-health-benefit is an unproven logical inference; retained strictly as a research lead. _(upd 2026-10-08)_
 - [[sources/vaccine-makers-do-not-use-placebos-to-test-the-safety-of-their-vaccines-for-kids|Vaccine Makers Do Not Use Placebos to Test the Safety of Their Vaccines for Kids]] — Children's Health Defense article arguing that many pediatric vaccine trials use active comparators or non-inert controls rather than inert placebos. _(upd 2026-05-05)_
+- [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct|Vesikari 2006 Pentavalent Rotavirus Vaccine REST RCT]] — Randomized double-blind placebo-controlled trial of the pentavalent human-bovine (WC3) reassortant rotavirus vaccine in ~68,000 infants, with lab-confirmed rotavirus gastroenteritis, severity-scored severe disease, and health-care-use endpoints. _(upd 2026-11-10)_
 
 ### Hepatitis A, B, and C (17)
 

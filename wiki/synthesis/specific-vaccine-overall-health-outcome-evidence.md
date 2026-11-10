@@ -12,8 +12,8 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 6
-updated: 2026-05-21
+sources: 7
+updated: 2026-11-10
 claim_status: supported
 claim_type: medical
 ---
@@ -58,6 +58,11 @@ BCG and measles-vaccine nonspecific-effect studies are relevant but less clean f
 - Aaby et al. 2010 tested early two-dose measles vaccine timing. The overall mortality reduction did not reach statistical significance, though some subgroup analyses were favorable.
 - Higgins et al. 2016 systematically reviewed BCG, DTP, and measles-containing vaccines and all-cause mortality. It is useful for mapping the evidence but mixes trials with observational studies and identifies high risk of bias in much of the observational evidence.
 
+### Iteration 4 - a second full-text-grade placebo-controlled vaccine trial, but disease-endpoint only
+[[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]] (REST trial, NEJM 2006) is the second experiment-grade placebo-controlled vaccine trial now in the vault: ~68,000 infants, visibly indistinguishable placebo, lab-confirmed G1-G4 rotavirus gastroenteritis endpoints (74% efficacy any severity, 98% severe, per-protocol first season; hospitalization/ED reduction 94.5% for rotavirus-attributable disease).
+
+It does not join the all-cause proof above: all-cause mortality was 24 vaccine vs 20 placebo deaths with no efficacy analysis reported, and most gastroenteritis hospitalizations were not rotavirus-attributable (all-cause gastroenteritis hospitalization reduction 58.9%). REST is target-disease evidence; the overall-health-outcome rung for this vaccine remains untested.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
@@ -83,6 +88,7 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 
 ## Sources checked in this pass
 - [[sources/cutts-2005-pcv9-gambia-rct]]
+- [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]]
 - [Mackenzie et al. 2014 PCV schedule reanalysis](https://pubmed.ncbi.nlm.nih.gov/24631086/)
 - [Aaby et al. 2011 early BCG in low-birth-weight children](https://pubmed.ncbi.nlm.nih.gov/21673035/)
 - [Biering-Sorensen et al. 2017 early BCG-Denmark](https://pubmed.ncbi.nlm.nih.gov/29579158/)
