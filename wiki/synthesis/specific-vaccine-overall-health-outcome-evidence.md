@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 10
+sources: 11
 updated: 2026-11-10
 claim_status: supported
 claim_type: medical
@@ -73,6 +73,11 @@ It does not join the all-cause proof either, on three grounds: the endpoint is a
 
 They do not join the all-cause proof: mortality was a safety capture, not a powered endpoint (Polack: 2 vs 4 all-cause deaths, zero Covid deaths in either arm; Sadoff: 3 vs 16 all-cause deaths, all investigator-classified unrelated); the windows are short (Polack ~2 months median post-dose-2 follow-up; Sadoff median 58 days); and transmission and asymptomatic infection were not measured endpoints (Sadoff's preliminary 2,650-participant serology analysis and the authors' community-transmission sentence are recorded as inference on the source page). Covid-19 vaccination is target-disease evidence with numerically favorable, unpowered mortality splits; the overall-health-outcome rung for these vaccines remains untested in this vault.
 
+### Iteration 7 - an RSV disease-endpoint RCT for a second respiratory pathogen, added 2026-11-10 (run 14)
+[[sources/ison-2024-rsvpref3oa-two-season-rct]] (AReSVi-006, CID 2024;78(6):1732-1744, full text via PMC; NCT04886596) is the sixth experiment-grade placebo-controlled vaccine trial in this vault and the first for RSV: randomized, blinded, placebo-controlled phase 3 in >=60-year-olds (24,973 exposed, 17 countries), primary disease endpoints - committee-adjudicated, RT-PCR-confirmed RSV-related lower respiratory tract disease (67.2% [97.5% CI 48.2-80.0] over 2 seasons, 30 vs 139 cases; 82.6% in season 1, re-reporting the unreachable NEJM primary Papi et al. 2023) and severe RSV-LRTD (78.8%). It confirms the run-13 pattern: disease-specific benefit is demonstrable under blinded placebo-controlled conditions.
+
+It does not join the all-cause proof either: hospitalization efficacy "could not be evaluated" (1 vs 5 events), >=80-year and frail subgroups are uninformative (too few cases), deaths and serious adverse events are balanced safety captures (~0.4-0.5% fatal SAEs, ~4% SAEs in every arm) rather than powered outcomes, protection wanes within 18 months, and no transmission or asymptomatic-infection endpoint was collected. The placebo composition is not named in the CID report (it sits in the unreachable NEJM primary) - recorded rather than assumed. RSV vaccination in older adults is target-disease evidence only; the overall-health-outcome rung remains untested in this vault.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
@@ -102,6 +107,7 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 - [[sources/future-ii-study-group-2007-quadrivalent-hpv-cin2-rct]]
 - [[sources/polack-2020-bnt162b2-covid-rct]]
 - [[sources/sadoff-2021-ad26cov2s-covid-rct]]
+- [[sources/ison-2024-rsvpref3oa-two-season-rct]]
 - [Mackenzie et al. 2014 PCV schedule reanalysis](https://pubmed.ncbi.nlm.nih.gov/24631086/)
 - [Aaby et al. 2011 early BCG in low-birth-weight children](https://pubmed.ncbi.nlm.nih.gov/21673035/)
 - [Biering-Sorensen et al. 2017 early BCG-Denmark](https://pubmed.ncbi.nlm.nih.gov/29579158/)
