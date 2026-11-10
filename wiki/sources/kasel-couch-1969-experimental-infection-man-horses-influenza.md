@@ -38,7 +38,7 @@ pmcid: PMC2427734
 - The queue entry read "Couch et al. 1966, JAMA - experimental influenza, egg-grown inoculum vs placebo". No such paper exists. PubMed lists nine Couch publications dated 1966 and none is in JAMA; Crossref holds no 1966 JAMA article on induced influenza (the only 1966 JAMA influenza-title items are a news piece, "Purified RNA in influenza isolated", and editorials). This is the same name/journal-error pattern recorded for items 8 ("Cutland"→Cutts) and 10 ("Garland"→FUTURE II Study Group).
 - Couch's real 1966 volunteer paper (Couch, Cate, Douglas, Gerone, Knight, "Effect of route of inoculation on experimental respiratory viral disease in volunteers and evidence for airborne transmission", *Bacteriological Reviews* 1966;30(3):517-529, PMC378233) was retrieved in full this run and is NOT the queue item: it uses coxsackievirus A21, rhinovirus NIH 1734, and adenovirus type 4 (not influenza), tissue-culture-passaged inocula (not egg-grown), and contains no placebo/sham arm (its implicit background is the authors' observation that about 15% of uninfected inoculated men develop mild rhinitis).
 - The nearest Couch-authored controlled human influenza challenge with reachable full text is this 1969 Bulletin paper; it is verified and filed here as the item-1 anchor.
-- Future lead recorded from this paper's own reference list: "Couch, R. B., Douglas, R. G., Jr, Kasel, J. A., Riggs, S., & Knight, V. (1969) Nature (Lond.) (in press)" - the cited source of the A2/Hong Kong/68 human inoculation procedures; not yet held full-text.
+- Reference-list companion verified in run 9: the "Couch, R. B., Douglas, R. G., Jr, Kasel, J. A., Riggs, S., & Knight, V. (1969) Nature (Lond.) (in press)" item - the cited source of the A2/Hong Kong/68 human inoculation procedures - is [[sources/couch-1969-nature-equine-influenza-syndrome-man]], now held and read in full text. It is the clinical report of the same 15-man A/equi-2 trial (13/15 ill, 15/15 shedding, 14/15 seroconversion), and adds the March 1965 10^5.3-TCID50 no-illness pilot.
 
 ## Evidence fields
 | Field | Extraction |
@@ -76,6 +76,7 @@ pmcid: PMC2427734
 Supported at the controlled human-challenge rung as a historical anchor: Kasel and Couch report, with named endpoints and a concurrent control group on the heterologous challenge, that characterized influenza A inoculum produced febrile influenza-like illness and universal shedding in seronegative adult volunteers, and that pre-existing heterologous antibody tier predicted resistance to challenge. The paper has no sham-inoculation arm, uses a very large primary dose, and its "indistinguishable from natural influenza" claim is a textbook comparison - all recorded above rather than flattened.
 
 ## Connections
+- [[sources/couch-1969-nature-equine-influenza-syndrome-man]] - clinical companion report of the same 15-man trial (Nature 1969;224:512-514)
 - [[synthesis/source-verification-queue]] - item 1 reconciliation and status
 - [[synthesis/influenza-influenza-virus-evidence-ladder]] - rung 7 row
 - [[synthesis/viral-disease-causation-evidence-ladder]] - cross-cutting influenza note
