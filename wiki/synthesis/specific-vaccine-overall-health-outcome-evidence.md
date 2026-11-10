@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 12
+sources: 13
 updated: 2026-11-10
 claim_status: supported
 claim_type: medical
@@ -83,6 +83,9 @@ It does not join the all-cause proof either: hospitalization efficacy "could not
 
 Two additional facts earn this trial a distinct note in this synthesis. First, the vaccinated-sibling analysis inside the trial is a randomized-setting experimental negative for indirect protection: placebo recipients with a vaccinated sibling had the same 18% culture-positive influenza rate as placebo recipients overall (32/182) - "Clearly, having a vaccinated sibling was not protective" - so the trial's own data separate direct protection from herd effects in that season and setting. Second, the trial's gaps are instructive: zero wild-type A(H1N1) circulated (that component is untested against disease), surveillance was symptom-triggered (asymptomatic infection invisible), and there was no inactivated-vaccine arm - the "probably more efficacious" comparison rests on historical data, recorded as a leap. Mortality was not an endpoint at all; influenza vaccination here is target-disease evidence, and the overall-health-outcome rung for it remains untested in this vault.
 
+### Iteration 9 - a pertussis disease-endpoint field-trial set with a true killed-bacteria sham arm, added 2026-11-10 (run 17)
+[[sources/mrc-1951-whooping-cough-vaccine-field-trials]] (MRC Whooping-cough Immunization Committee, BMJ 1951;1(4719):1463-1471, complete scanned PDF read from PMC2069253) is the eighth experiment-grade sham-controlled vaccine study in this vault and the first for pertussis: ten field trials in five English areas, 7,558 children 6-18 months completing three inoculations (3,801 whole-cell pertussis vaccine vs 3,757 a four-species killed-bacterial "anticatarrhal" injection containing no H. pertussis, similar in turbidity, same bottle type, parents and observers blinded, allocation by pre-drawn random letter sheets stratified by age and sex), followed monthly for a mean 27 months; endpoint clinically diagnosed pertussis with 96.4% swab coverage and 57.7% culture confirmation, severity graded 1-5 from mothers' paroxysm diaries: 78% incidence reduction (149 vs 687 cases; 1.45 vs 6.72 per 1,000 child-months), home-exposure attack rates 18.2% vs 87.3%, mild-course fraction 73.2% vs 24.1%, complicated attacks 2 vs 28, zero deaths, batch potency spread 1:2.5-1:10.8 against near-constant control attack rates. Disease endpoint, not surrogate - but the endpoint is a single target disease: no all-cause or overall-health outcome was collected (other childhood infections were tallied only as group-similarity checks), the two-arm design cannot measure indirect (herd) effects, and the report's own potency ranking compares batches tested in different areas at different times. For the overall-health question this row adds a historical replicate of the target-disease pattern: a large relative reduction in the target syndrome with nothing measured about total health.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
@@ -113,6 +116,7 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 - [[sources/polack-2020-bnt162b2-covid-rct]]
 - [[sources/sadoff-2021-ad26cov2s-covid-rct]]
 - [[sources/ison-2024-rsvpref3oa-two-season-rct]]
+- [[sources/mrc-1951-whooping-cough-vaccine-field-trials]]
 - [Mackenzie et al. 2014 PCV schedule reanalysis](https://pubmed.ncbi.nlm.nih.gov/24631086/)
 - [Aaby et al. 2011 early BCG in low-birth-weight children](https://pubmed.ncbi.nlm.nih.gov/21673035/)
 - [Biering-Sorensen et al. 2017 early BCG-Denmark](https://pubmed.ncbi.nlm.nih.gov/29579158/)
