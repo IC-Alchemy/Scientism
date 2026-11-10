@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 7
+sources: 10
 updated: 2026-11-10
 claim_status: supported
 claim_type: medical
@@ -68,6 +68,11 @@ It does not join the all-cause proof above: all-cause mortality was 24 vaccine v
 
 It does not join the all-cause proof either, on three grounds: the endpoint is a precursor lesion, not cancer (no cancer cases occurred); the comparator contains the same adjuvant as the vaccine arm, so it is not an inert placebo; and follow-up averaged ~3 years. FUTURE II is target-lesion evidence; the overall-health-outcome rung for HPV vaccination remains untested in this vault.
 
+### Iteration 6 - two Covid-19 disease-endpoint RCTs with inert saline placebos, added 2026-11-10 (run 13)
+[[sources/polack-2020-bnt162b2-covid-rct]] (BNT162b2, NEJM 2020) and [[sources/sadoff-2021-ad26cov2s-covid-rct]] (Ad26.COV2.S ENSEMBLE, NEJM 2021) are the fourth and fifth experiment-grade placebo-controlled vaccine trials in this vault, and the first for SARS-CoV-2: randomized, blinded, saline (inert) placebo arms, and primary endpoints that are the disease itself - FDA-criteria symptomatic illness with NAAT confirmation (Polack, 95.0%, 8 vs 162 cases) and centrally confirmed, adjudicated moderate to severe-critical Covid-19 (Sadoff, 66.9% >=14 days / 66.1% >=28 days, with severe-critical 76.7-85.4% and 5 Covid deaths all in the placebo arm).
+
+They do not join the all-cause proof: mortality was a safety capture, not a powered endpoint (Polack: 2 vs 4 all-cause deaths, zero Covid deaths in either arm; Sadoff: 3 vs 16 all-cause deaths, all investigator-classified unrelated); the windows are short (Polack ~2 months median post-dose-2 follow-up; Sadoff median 58 days); and transmission and asymptomatic infection were not measured endpoints (Sadoff's preliminary 2,650-participant serology analysis and the authors' community-transmission sentence are recorded as inference on the source page). Covid-19 vaccination is target-disease evidence with numerically favorable, unpowered mortality splits; the overall-health-outcome rung for these vaccines remains untested in this vault.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
@@ -94,6 +99,9 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 ## Sources checked in this pass
 - [[sources/cutts-2005-pcv9-gambia-rct]]
 - [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]]
+- [[sources/future-ii-study-group-2007-quadrivalent-hpv-cin2-rct]]
+- [[sources/polack-2020-bnt162b2-covid-rct]]
+- [[sources/sadoff-2021-ad26cov2s-covid-rct]]
 - [Mackenzie et al. 2014 PCV schedule reanalysis](https://pubmed.ncbi.nlm.nih.gov/24631086/)
 - [Aaby et al. 2011 early BCG in low-birth-weight children](https://pubmed.ncbi.nlm.nih.gov/21673035/)
 - [Biering-Sorensen et al. 2017 early BCG-Denmark](https://pubmed.ncbi.nlm.nih.gov/29579158/)
