@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 17
+sources: 19
 updated: 2026-11-11
 claim_status: supported
 claim_type: medical
@@ -97,6 +97,9 @@ Two additional facts earn this trial a distinct note in this synthesis. First, t
 
 It does not join the all-cause proof: the counts come from one county with a missing uninoculated-control denominator and no rates computed; the master Francis 1955 AJPH analysis remains full-text-unreachable in this vault, so no national efficacy estimate is carried as experimentally supported here; the report's own leap ("in all probability prevented some cases of paralytic poliomyelitis") and its design criticism ("a trial originally designed on an unsound basis") are recorded on the source page. Polio vaccination is target-disease evidence at component-report grade; the overall-health-outcome rung remains untested in this vault. GAP 4's rung is now: PCV9 (all-cause), rotavirus, HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis (two platforms), measles, hepatitis B, poliomyelitis, hepatitis A.
 
+### Iteration 13 - a norovirus first row (the only challenge-exposure entry) and a rotavirus second platform, added 2026-11-11 (run 22)
+[[sources/atmar-2011-norovirus-vlp-vaccine-challenge-rct]] (Atmar et al., NEJM 2011;365(23):2178-2187, complete NIH author manuscript at PMC3761795) adds a twelfth pathogen with a structurally different design: randomized double-blind placebo-controlled vaccine-under-challenge trial, 98 FUT2-functional adults 18-50 (50/48), two intranasal doses of a monophosphoryl-lipid-A/chitosan-adjuvanted Norwalk VLP vaccine vs an excipients-only placebo, then BOTH arms challenged orally with 48 RT-PCR units of homologous Norwalk virus; primary endpoint blinded-committee-adjudicated Norwalk gastroenteritis with modified-Vesikari severity: per-protocol 37% vs 69% (P=0.006), any-assay infection 61% vs 82% (P=0.05), severity 3.6 vs 5.5 (P=0.009). This is the vault's only intervention row whose exposure is itself a controlled experiment (GAP 1's sham design + GAP 4's disease endpoint), and its placebo is the audit's first adjuvant-UNmatched arm - the placebo lacked MPL/chitosan, the authors' own first limitation, so antigen-specific and nonspecific protection cannot be separated by this experiment. [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]] (Ruiz-Palacios et al., NEJM 2006;354:11-22, complete 2006 HighWire Wayback HTML) replicates rotavirus on a second platform: 63,225 infants (efficacy cohort 20,169) across 11 Latin American countries and Finland, two oral doses of monovalent live G1P[8] Rotarix vs a same-constituents-minus-virus placebo (inert-class, quoted); severe rotavirus gastroenteritis 12 vs 77 = 84.7% efficacy (100% at Vesikari 19-20; G2P[4] non-significant at 41.0%, P=0.30), Brighton-adjudicated intussusception 6 vs 7 within 31 days of a dose, all-cause diarrhea hospitalization -42%, 99 deaths with a P=0.05 pneumonia-death imbalance investigated but unpowered. Both rows are target-disease evidence with no all-cause or overall-health endpoint; Rotarix's burden-inflation and strain-attribution sentences are recorded as leaps, and GSK Biologicals held the data and ran the analyses. GAP 4's rung is now: PCV9 (all-cause), rotavirus (two platforms), HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis (two platforms), measles, hepatitis B, poliomyelitis, hepatitis A, norovirus.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
@@ -133,6 +136,8 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 - [[sources/gustafsson-1996-acellular-pertussis-rct]]
 - [[sources/werzberger-1992-hepatitis-a-vaccine-rct]]
 - [[sources/perdue-1955-alameda-county-polio-field-trial]]
+- [[sources/atmar-2011-norovirus-vlp-vaccine-challenge-rct]]
+- [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]]
 - [Mackenzie et al. 2014 PCV schedule reanalysis](https://pubmed.ncbi.nlm.nih.gov/24631086/)
 - [Aaby et al. 2011 early BCG in low-birth-weight children](https://pubmed.ncbi.nlm.nih.gov/21673035/)
 - [Biering-Sorensen et al. 2017 early BCG-Denmark](https://pubmed.ncbi.nlm.nih.gov/29579158/)

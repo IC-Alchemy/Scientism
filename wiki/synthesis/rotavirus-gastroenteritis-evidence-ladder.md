@@ -12,8 +12,8 @@ tags:
   - pediatric
   - rotavirus
   - stool-detection
-sources: 5
-updated: 2026-11-10
+sources: 6
+updated: 2026-11-11
 claim_status: unresolved
 claim_type: empirical
 ---
@@ -31,6 +31,7 @@ The viral gastroenteritis -> rotavirus row can move from open status to a starte
 - [[sources/kapikian-1983-oral-human-rotavirus-volunteers]] supports adult human oral challenge, diarrhea, shedding, and serologic response endpoints.
 - [[sources/wyatt-1983-direct-isolation-human-rotaviruses-cell-culture-serotypes]] supports human rotavirus culture/isolation and serotyping endpoints.
 - [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]] supports a disease-endpoint intervention row: in a randomized double-blind placebo-controlled trial of ~68,000 infants, three oral doses of pentavalent human-bovine (WC3) reassortant vaccine reduced lab-confirmed G1-G4 rotavirus gastroenteritis (74% any severity, 98% severe, per-protocol first season) and its medical-care use (hospitalization/ED reduction 94.5%), with no detected intussusception excess.
+- [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]] replicates that intervention rung on a second platform: in a randomized double-blind placebo-controlled trial of 63,225 infants (efficacy cohort 20,169) across 11 Latin American countries and Finland, two oral doses of monovalent live attenuated G1P[8] (Rotarix) reduced severe rotavirus gastroenteritis 84.7% vs the same-constituents-minus-virus placebo (100% at Vesikari 19-20), with no intussusception excess and a 42% all-cause diarrhea-hospitalization reduction.
 
 The current full-text set supports a meaningful rotavirus attribution ladder, but pediatric tissue association, hospitalized-child stool detection, adult challenge, cell culture, and vaccine intervention are different rungs.
 
@@ -41,10 +42,10 @@ The current full-text set supports a meaningful rotavirus attribution ladder, bu
 | Clinical association | [[sources/mccormack-1982-clinical-features-rotavirus-gastroenteritis]] | Stool rotavirus was associated with hospitalized gastroenteritis in young children and absent from tested controls. | Causation for every case, community incidence, or clinical diagnosis from symptoms alone. |
 | Human oral challenge | [[sources/kapikian-1983-oral-human-rotavirus-volunteers]] | Oral rotavirus could induce infection, shedding, serologic response, and diarrhea in some adult volunteers. | Infant disease burden, natural dose, or universal illness after exposure. |
 | Culture/isolation | [[sources/wyatt-1983-direct-isolation-human-rotaviruses-cell-culture-serotypes]] | Some rotavirus-positive fecal specimens yielded cultivable human rotavirus and serotypes. | Clinical causality or natural infectiousness rate. |
-| Intervention (disease endpoint) | [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]] | Blocking a G1-G4,P[8] reassortant vaccine reduced lab-confirmed G1-G4 rotavirus gastroenteritis by 74% (severe 98%) and medical-care use by 86-95% versus placebo in ~68,000 infants. | Transmission dynamics, herd effects, all-cause health outcomes, developing-setting efficacy, long-term protection, and non-circulating serotypes. |
+| Intervention (disease endpoint) | [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]]; replicated 2026-11-11 (run 22) by [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]] | Blocking a G1-G4,P[8] reassortant vaccine reduced lab-confirmed G1-G4 rotavirus gastroenteritis by 74% (severe 98%) and medical-care use by 86-95% versus placebo in ~68,000 infants; blocking the monovalent live G1P[8] Rotarix reduced severe rotavirus gastroenteritis 84.7% (100% at Vesikari 19-20) versus a constituent-matched placebo in 63,225 Latin American/Finland infants, G1P[8] 90.8%, G2P[4] 41.0% non-significant. | Transmission dynamics, herd effects, all-cause health outcomes (REST 24 vs 20 deaths unanalyzed; Rotarix 56 vs 43 deaths P=0.20 with a P=0.05 pneumonia-death imbalance investigated but unpowered), duration past age 1, and the antigen-detection gap under the 42% all-cause reduction (authors' own undetected-rotavirus inference). |
 
 ## Current manuscript rule for rotavirus gastroenteritis
-Rotavirus should be presented as a multi-rung attribution chain. The manuscript may say that the current full-text set supports intestinal antigen localization, pediatric hospital association, adult oral-challenge illness, culture/serotyping, and a placebo-controlled disease-endpoint intervention result. It should also say that those rungs do not automatically settle every pediatric gastroenteritis case, natural transmission probability, or infant disease burden, and that the intervention rung's all-cause endpoints did not show a mortality benefit (24 vs 20 deaths, no efficacy analysis reported).
+Rotavirus should be presented as a multi-rung attribution chain. The manuscript may say that the current full-text set supports intestinal antigen localization, pediatric hospital association, adult oral-challenge illness, culture/serotyping, and - as of 2026-11-11 (run 22) - a replicated placebo-controlled disease-endpoint intervention rung (pentavalent REST in the US/Finland plus monovalent Rotarix in Latin America/Finland, independent sponsors, platforms, and populations). It should also say that those rungs do not automatically settle every pediatric gastroenteritis case, natural transmission probability, or infant disease burden; that neither intervention trial showed an all-cause mortality benefit (REST 24 vs 20 unanalyzed deaths; Rotarix 56 vs 43, P=0.20, with a pneumonia-death imbalance 16 vs 6 P=0.05 investigated but not powered to resolve); and that Rotarix's G2P[4] row (no shared capsid antigen) was non-significant within the trial (41.0%, P=0.30), with the 45%/67% cross-protection claims coming from the Discussion and a pooled meta-analysis rather than this experiment.
 
 ## Related
 - [[sources/davidson-1975-rotavirus-immunofluorescence-duodenal-mucosa]]
@@ -52,6 +53,7 @@ Rotavirus should be presented as a multi-rung attribution chain. The manuscript 
 - [[sources/kapikian-1983-oral-human-rotavirus-volunteers]]
 - [[sources/wyatt-1983-direct-isolation-human-rotaviruses-cell-culture-serotypes]]
 - [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]]
+- [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]]
 - [[synthesis/viral-disease-causation-evidence-ladder]]
 - [[synthesis/specific-vaccine-overall-health-outcome-evidence]]
 - [[synthesis/virus-causation-inferential-leaps]]

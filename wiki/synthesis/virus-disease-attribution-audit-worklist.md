@@ -51,8 +51,8 @@ Use [[synthesis/viral-disease-causation-evidence-ladder]] as the cross-cutting m
 | Kaposi sarcoma | Human herpesvirus 8 | ladder page started | [[synthesis/kaposi-sarcoma-hhv8-evidence-ladder]] now separates molecular discovery, lesion PCR, cross-status detection, viral characterization, limited serology, transmission gaps, and necessity/sufficiency claims. |
 | Hand, foot, and mouth disease | Coxsackievirus A16 / enterovirus 71 | ladder page started | [[synthesis/hand-foot-mouth-disease-enteroviruses-evidence-ladder]] now separates Coxsackie A16 lesion isolation, Coxsackie A16 serology, EV71 outbreak/CNS association, tree-shrew modeling, and ordinary-transmission limits. |
 | Bronchiolitis | Respiratory syncytial virus | ladder page started | [[synthesis/bronchiolitis-rsv-evidence-ladder]] now separates early CCA-related isolation, serology/epidemiology, diagnostic bronchiolitis association, cotton-rat pathology, adult route inoculation, a controlled adult challenge rung ([[sources/devincenzo-2010-rsv-human-challenge-model-validation]], no sham arm), a placebo-controlled challenge-trial rung ([[sources/byrne-2026-s337395-placebo-controlled-rsv-challenge]]), a replicated prospective household-cohort rung ([[sources/munywoki-2014-rsv-infant-source-household-cohort]] rural Kenya; [[sources/cox-2025-cascadia-rsv-household-transmission]] US 2022-23, WGS-corroborated), and a GAP 4 disease-endpoint vaccine trial ([[sources/ison-2024-rsvpref3oa-two-season-rct]], adjudicated RT-PCR-confirmed RSV-LRTD, hospitalization unpowered). |
-| Viral gastroenteritis | Rotavirus | ladder page started | [[synthesis/rotavirus-gastroenteritis-evidence-ladder]] now separates pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, a disease-endpoint intervention rung ([[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]]), and natural-transmission limits. |
-| Infectious gastroenteritis outbreaks | Norovirus | ladder page started | [[synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder]] now separates Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, and PCR-versus-infectiousness limits. |
+| Viral gastroenteritis | Rotavirus | ladder page started | [[synthesis/rotavirus-gastroenteritis-evidence-ladder]] now separates pediatric mucosal antigen, hospitalized-child association, adult oral challenge, cell-culture isolation, a replicated disease-endpoint intervention rung ([[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]] pentavalent + [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]] monovalent Rotarix, added 2026-11-11 run 22), and natural-transmission limits. |
+| Infectious gastroenteritis outbreaks | Norovirus | ladder page started | [[synthesis/norovirus-gastroenteritis-outbreaks-evidence-ladder]] now separates Norwalk particle visualization, human challenge, outbreak investigation, enteroid replication, a disease-endpoint intervention row under controlled challenge exposure ([[sources/atmar-2011-norovirus-vlp-vaccine-challenge-rct]], added 2026-11-11 run 22), and PCR-versus-infectiousness limits. |
 | Genital herpes | Herpes simplex virus 2, sometimes HSV-1 | ladder page started | [[synthesis/genital-herpes-hsv-evidence-ladder]] now separates lesion culture, asymptomatic reactivation, HSV-2 daily shedding, genital HSV-1 shedding, documented transmission, and PCR-infectiousness limits. |
 | Cold sores | Herpes simplex virus 1 | ladder page started | [[synthesis/cold-sores-hsv1-evidence-ladder]] now separates oral HSV recovery, recurrent labialis, UV-reactivation PCR/culture, asymptomatic shedding, and transmission limits. |
 
@@ -492,6 +492,10 @@ See [[synthesis/sars-sars-cov-evidence-ladder]] for the endpoint-level reconstru
   Why it matters: human rotavirus culture/isolation and serotyping paper.
   Capable question: whether some rotavirus-positive fecal specimens yield cultivable human rotavirus under the reported culture conditions.
   Source page: [[sources/wyatt-1983-direct-isolation-human-rotaviruses-cell-culture-serotypes]].
+- *Safety and efficacy of an attenuated vaccine against severe rotavirus gastroenteritis* (Ruiz-Palacios et al., 2006; DOI `10.1056/NEJMoa052434`; PMID `16394298`)
+  Why it matters: the intervention rung's second platform - monovalent live G1P[8] Rotarix vs a same-constituents-minus-virus placebo in 63,225 Latin American/Finland infants, severe-gastroenteritis endpoint 84.7%, Brighton-adjudicated intussusception safety, added 2026-11-11 (run 22).
+  Capable question: whether blocking the agent with a second, independent live oral rotavirus platform reduces clinically defined severe rotavirus gastroenteritis and hospitalization against placebo.
+  Source page: [[sources/ruiz-palacios-2006-rotarix-severe-rotavirus-rct]].
 
 ### Infectious gastroenteritis outbreaks -> norovirus
 - *Visualization by Immune Electron Microscopy of a 27-nm Particle Associated with Acute Infectious Nonbacterial Gastroenteritis* (1972; DOI `10.1128/jvi.10.5.1075-1081.1972`; PMID `4117963`; PMCID `PMC356579`)
@@ -510,6 +514,10 @@ See [[synthesis/sars-sars-cov-evidence-ladder]] for the endpoint-level reconstru
   Why it matters: human norovirus in vitro replication-system paper.
   Capable question: whether human noroviruses can replicate in stem-cell-derived human intestinal enteroids under defined conditions.
   Source page: [[sources/ettayebi-2016-human-norovirus-replication-enteroids]].
+- *Norovirus Vaccine against Experimental Human Norwalk Virus Illness* (Atmar et al., 2011; DOI `10.1056/NEJMoa1101245`; PMID `22150036`; PMCID `PMC3761795`)
+  Why it matters: the intervention rung's first entry - randomized double-blind placebo-controlled vaccine-under-challenge trial, Norwalk VLP vaccine vs excipients-only placebo with both arms challenged, clinical gastroenteritis endpoint, added 2026-11-11 (run 22).
+  Capable question: whether blocking the agent reduces adjudicated Norwalk gastroenteritis and virologically confirmed infection under an identical measured challenge exposure.
+  Source page: [[sources/atmar-2011-norovirus-vlp-vaccine-challenge-rct]].
 
 ### Hand, foot, and mouth disease -> Coxsackievirus A16 / enterovirus 71
 - *"Hand-foot-and-mouth disease" in Birmingham in 1959* (1960; DOI `10.1136/bmj.2.5214.1708`; PMID `13682692`; PMCID `PMC2098292`)
