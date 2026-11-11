@@ -13,7 +13,7 @@ tags:
   - randomized-trials
   - vaccines
 sources: 13
-updated: 2026-11-10
+updated: 2026-11-11
 claim_status: supported
 claim_type: medical
 ---
@@ -86,6 +86,9 @@ Two additional facts earn this trial a distinct note in this synthesis. First, t
 ### Iteration 9 - a pertussis disease-endpoint field-trial set with a true killed-bacteria sham arm, added 2026-11-10 (run 17)
 [[sources/mrc-1951-whooping-cough-vaccine-field-trials]] (MRC Whooping-cough Immunization Committee, BMJ 1951;1(4719):1463-1471, complete scanned PDF read from PMC2069253) is the eighth experiment-grade sham-controlled vaccine study in this vault and the first for pertussis: ten field trials in five English areas, 7,558 children 6-18 months completing three inoculations (3,801 whole-cell pertussis vaccine vs 3,757 a four-species killed-bacterial "anticatarrhal" injection containing no H. pertussis, similar in turbidity, same bottle type, parents and observers blinded, allocation by pre-drawn random letter sheets stratified by age and sex), followed monthly for a mean 27 months; endpoint clinically diagnosed pertussis with 96.4% swab coverage and 57.7% culture confirmation, severity graded 1-5 from mothers' paroxysm diaries: 78% incidence reduction (149 vs 687 cases; 1.45 vs 6.72 per 1,000 child-months), home-exposure attack rates 18.2% vs 87.3%, mild-course fraction 73.2% vs 24.1%, complicated attacks 2 vs 28, zero deaths, batch potency spread 1:2.5-1:10.8 against near-constant control attack rates. Disease endpoint, not surrogate - but the endpoint is a single target disease: no all-cause or overall-health outcome was collected (other childhood infections were tallied only as group-similarity checks), the two-arm design cannot measure indirect (herd) effects, and the report's own potency ranking compares batches tested in different areas at different times. For the overall-health question this row adds a historical replicate of the target-disease pattern: a large relative reduction in the target syndrome with nothing measured about total health.
 
+### Iteration 10 - an HPV replication row and a hepatitis B first row, both adjuvant-matched placebos, added 2026-11-11 (run 19)
+[[sources/future-i-study-group-2007-quadrivalent-hpv-anogenital-diseases-rct]] (FUTURE I, NEJM 2007;356:1928-1943, complete 2007 Wayback HighWire HTML) replicates the FUTURE II design in an independent 5,455-woman population (16-24) and extends the endpoint set to external anogenital disease: coprimary composites of anogenital warts + VIN/VaIN 1-3 or cancer, and CIN 1-3 + AIS or cancer, each with vaccine-type HPV DNA in the lesion, against an aluminum-containing (AAHS-matched, non-inert) placebo - per-protocol 100% (0 vs 60) and 100% (0 vs 65), ITT any-type only 34%/20%. [[sources/coutinho-1983-heat-inactivated-hbv-vaccine-placebo-rct]] (BMJ 1983;286:1305-1308, complete 4-page scanned PMC PDF) adds a ninth pathogen to the disease-endpoint rung: randomised placebo-controlled double-blind trial in 800 high-risk homosexual men, three 3-ug heat-inactivated HBsAg doses vs 600 ug human albumin on identical 0.6 mg aluminium phosphate (adjuvant-matched, not inert), infections adjudicated by an independent committee blinded to anti-HBs before the code break: clinical ALT-confirmed hepatitis B 1.5% vs 7.7% (PE 80.7%), all serologically defined infections 4.8% vs 23.8% (PE 79.7%) at 21.5 months. Both rows are target-disease evidence with no all-cause or overall-health outcome; both placebos are adjuvant-matched rather than inert, so neither trial can bound systemic safety against a true placebo; the Coutinho "no serious side effects" sentence rests on n=800 over 21.5 months with no numbered SAE table. GAP 4's rung is now: PCV9 (all-cause), rotavirus, HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis, measles, hepatitis B.
+
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
 
@@ -113,6 +116,8 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 - [[sources/cutts-2005-pcv9-gambia-rct]]
 - [[sources/vesikari-2006-pentavalent-rotavirus-rest-rct]]
 - [[sources/future-ii-study-group-2007-quadrivalent-hpv-cin2-rct]]
+- [[sources/future-i-study-group-2007-quadrivalent-hpv-anogenital-diseases-rct]]
+- [[sources/coutinho-1983-heat-inactivated-hbv-vaccine-placebo-rct]]
 - [[sources/polack-2020-bnt162b2-covid-rct]]
 - [[sources/sadoff-2021-ad26cov2s-covid-rct]]
 - [[sources/ison-2024-rsvpref3oa-two-season-rct]]
