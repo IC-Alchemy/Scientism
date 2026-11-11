@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 13
+sources: 14
 updated: 2026-11-11
 claim_status: supported
 claim_type: medical
@@ -88,6 +88,11 @@ Two additional facts earn this trial a distinct note in this synthesis. First, t
 
 ### Iteration 10 - an HPV replication row and a hepatitis B first row, both adjuvant-matched placebos, added 2026-11-11 (run 19)
 [[sources/future-i-study-group-2007-quadrivalent-hpv-anogenital-diseases-rct]] (FUTURE I, NEJM 2007;356:1928-1943, complete 2007 Wayback HighWire HTML) replicates the FUTURE II design in an independent 5,455-woman population (16-24) and extends the endpoint set to external anogenital disease: coprimary composites of anogenital warts + VIN/VaIN 1-3 or cancer, and CIN 1-3 + AIS or cancer, each with vaccine-type HPV DNA in the lesion, against an aluminum-containing (AAHS-matched, non-inert) placebo - per-protocol 100% (0 vs 60) and 100% (0 vs 65), ITT any-type only 34%/20%. [[sources/coutinho-1983-heat-inactivated-hbv-vaccine-placebo-rct]] (BMJ 1983;286:1305-1308, complete 4-page scanned PMC PDF) adds a ninth pathogen to the disease-endpoint rung: randomised placebo-controlled double-blind trial in 800 high-risk homosexual men, three 3-ug heat-inactivated HBsAg doses vs 600 ug human albumin on identical 0.6 mg aluminium phosphate (adjuvant-matched, not inert), infections adjudicated by an independent committee blinded to anti-HBs before the code break: clinical ALT-confirmed hepatitis B 1.5% vs 7.7% (PE 80.7%), all serologically defined infections 4.8% vs 23.8% (PE 79.7%) at 21.5 months. Both rows are target-disease evidence with no all-cause or overall-health outcome; both placebos are adjuvant-matched rather than inert, so neither trial can bound systemic safety against a true placebo; the Coutinho "no serious side effects" sentence rests on n=800 over 21.5 months with no numbered SAE table. GAP 4's rung is now: PCV9 (all-cause), rotavirus, HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis, measles, hepatitis B.
+
+### Iteration 11 - a poliomyelitis field-trial component with a confirmed-disease endpoint, added 2026-11-11 (run 20)
+[[sources/perdue-1955-alameda-county-polio-field-trial]] (Perdue & Malcolm, California Medicine 1955;83(3):233-236, complete scanned PMC PDF) is the tenth pathogen's entry in this file's disease-endpoint set and the first for polio: a local operations and follow-up report for the only California area in the 1954 nationwide Salk-vaccine field trials - 7,166 second-grade children injected three times (half vaccine, half placebo, "identified simply by a code, the key to which was known only at the Evaluation Center in Michigan"; placebo composition not stated in the report), first and third graders uninoculated controls, endpoint cases confirmed as poliomyelitis under uniform diagnostic criteria with muscle grading and stool virology, follow-up May 10-December 31, 1954: 10 confirmed cases - 7 uninjected, 3 placebo, 0 vaccinated.
+
+It does not join the all-cause proof: the counts come from one county with a missing uninoculated-control denominator and no rates computed; the master Francis 1955 AJPH analysis remains full-text-unreachable in this vault, so no national efficacy estimate is carried as experimentally supported here; the report's own leap ("in all probability prevented some cases of paralytic poliomyelitis") and its design criticism ("a trial originally designed on an unsound basis") are recorded on the source page. Polio vaccination is target-disease evidence at component-report grade; the overall-health-outcome rung remains untested in this vault. GAP 4's rung is now: PCV9 (all-cause), rotavirus, HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis, measles, hepatitis B, poliomyelitis.
 
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.

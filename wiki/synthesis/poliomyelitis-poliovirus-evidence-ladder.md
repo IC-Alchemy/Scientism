@@ -1,7 +1,7 @@
 ---
 title: Poliomyelitis to Poliovirus Evidence Ladder
 category: synthesis
-summary: Source-by-source polio research pass separating monkey challenge, exposure route, tissue recovery, tissue culture, direct isolation, and ordinary natural-route causation.
+summary: Source-by-source polio research pass separating monkey challenge, exposure route, tissue recovery, tissue culture, direct isolation, ordinary natural-route causation, and a placebo-controlled 1954 field-trial intervention component.
 tags:
   - causation
   - evidence-ladder
@@ -12,9 +12,10 @@ tags:
   - poliomyelitis
   - poliovirus
   - route-of-infection
+  - salk-vaccine
   - tissue-culture
-sources: 4
-updated: 2026-05-31
+sources: 5
+updated: 2026-11-11
 claim_status: unresolved
 claim_type: empirical
 ---
@@ -53,6 +54,7 @@ Under the vault standard, the currently supportable polio conclusion is narrow:
 | Route and tissue-localization boundary | [[sources/sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]] | Tissue recovery after intranasal instillation in normal and immune rhesus monkeys. | Direct host-to-host transmission success or failure, or a complete natural-route audit. |
 | Tissue-culture cultivation | [[sources/enders-weller-robbins-1949-cultivation-lansing-strain-human-embryonic-tissues]] | Propagation of Lansing strain in human embryonic tissue cultures and identity checks by mouse, monkey, and serologic endpoints. | Direct patient isolation, human clinical causation, or natural transmission. |
 | Direct patient isolation / serologic identification | 1951 Robbins-Enders-Weller-Florentino paper is logged as a candidate. | Unresolved until full text is obtained. | No manuscript-level claim should be strengthened from metadata alone. |
+| Intervention against confirmed disease (1954 field-trial component) | [[sources/perdue-1955-alameda-county-polio-field-trial]] (Perdue & Malcolm, California Medicine 1955;83(3):233-236) - local operations and follow-up report for the only California area in the 1954 nationwide Salk-vaccine field trials: 7,166 second-graders injected (half vaccine, half placebo, code at the Michigan Evaluation Center), first/third graders uninoculated controls, endpoint cases confirmed as poliomyelitis under uniform criteria with muscle grading and stool virology, May 10-December 31, 1954. | Whether, in this county component, confirmed poliomyelitis cases occurred by injected arm during the follow-up window: 7 uninjected, 3 placebo, 0 vaccinated. | National trial-level efficacy (the Francis 1955 master report is full-text-unreachable here); attack rates in the uninoculated arm (no denominator given); placebo composition; long-term safety; any all-cause outcome. |
 | Ordinary natural-route causation | Not yet reconstructed here. | We do not know from the current full-text set. | It cannot be inferred directly from invasive challenge or culture endpoints alone. |
 
 ## Current manuscript rule for polio
@@ -61,6 +63,7 @@ Polio should be presented as an evidence-ladder case, not as either settled proo
 It should not say that "only intracerebral inoculation worked," that "hundreds of natural-route experiments failed," or that tissue culture proves human causation, unless those claims are backed by full-text primary extraction.
 
 ## Related
+- [[sources/perdue-1955-alameda-county-polio-field-trial]]
 - [[sources/polio]]
 - [[sources/scobey-poisoning-as-the-cause-of-poliomyelitis]]
 - [[sources/sabin-olitsky-1938-fate-of-nasally-instilled-poliomyelitis-virus]]
