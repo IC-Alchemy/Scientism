@@ -1,7 +1,7 @@
 ---
 title: Hepatitis A to Hepatitis A Virus Evidence Ladder
 category: synthesis
-summary: Source-by-source hepatitis A research pass separating marmoset propagation, human-serology neutralization, particle characterization, tissue localization, cell-culture propagation, and acquisition gaps.
+summary: Source-by-source hepatitis A research pass separating marmoset propagation, human-serology neutralization, particle characterization, tissue localization, cell-culture propagation, chimpanzee challenge, and a placebo-controlled clinical-disease-endpoint vaccine trial.
 tags:
   - cell-culture
   - evidence-ladder
@@ -15,8 +15,9 @@ tags:
   - serology
   - serum-neutralization
   - viral-particles
-sources: 9
-updated: 2026-10-08
+  - vaccine-efficacy-trial
+sources: 10
+updated: 2026-11-11
 claim_status: unresolved
 claim_type: empirical
 ---
@@ -54,6 +55,7 @@ This ladder is not complete. The canonical 1973 Science immune-electron-microsco
 | Cell-culture propagation | [[sources/provost-hilleman-1979-human-hepatitis-a-cell-culture]] | CR326 could be serially propagated in marmoset liver explant cultures and FRhK6 cells, with serologic identity and marmoset infectivity confirmation. | Human natural-route causation, clinical severity, or population transmission. |
 | Human acute-case detection | Abstract-level record: [[sources/feinstone-kapikian-purcell-1973-hepatitis-a-iem]]. | The 1973 Science IEM record reports serologically specific 27-nm particles in acute hepatitis A stools with serologic responses in every tested patient. | Full text not in hand; sample sizes, control panels, and assay detail remain unextracted — no manuscript-strength claim yet. |
 | Chimpanzee challenge and tissue shedding | Full text: [[sources/thornton-1977-human-hepatitis-a-chimpanzees]]. Abstract-level records: [[sources/dienstag-1975-experimental-chimpanzee-hepatitis-a]], [[sources/schulman-1976-hepatitis-a-antigen-liver-bile-stool]], [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]]. | Thornton 1977 (full text) documents multi-source inoculation consistency with an uninoculated control group and hepatitis-B exclusion. The abstract-level records report controlled filtrate challenge (positive vs negative, IV and oral), liver/bile/stool antigen localization, and marmoset passage stability. | Thornton answers chimpanzee infection under inoculation, not natural-route human causation. The other three records are abstract-level; histology, titrations, and per-animal detail still need full text. |
+| Intervention with clinical disease endpoint (GAP 4; added 2026-11-11, loop run 21, queue item 39) | [[sources/werzberger-1992-hepatitis-a-vaccine-rct]] (Werzberger et al., NEJM 1992;327:453-457 - randomized double-blind placebo-controlled single-dose trial, 1,037 seronegative children 2-16 y in the Kiryas Joel outbreak community, 519/518; formalin-inactivated CR326F' MRC-5-derived vaccine vs an aluminum-hydroxide diluent placebo quoted as containing 300 ug aluminum and thimerosal - adjuvant-matched, not inert; adjudicated clinical hepatitis A endpoint = IgM anti-HAV + ALT >=2x ULN + defined signs/symptoms, counted from day 50) | 0/498 vaccine vs 25/496 placebo cases, efficacy 100% (one-sided 95% CI lower bound 87.3, P<0.001); 7 vaccine-arm early cases confined to days 5-18 read as incubating infections; seroconversion 304/305, GMT 42 mIU/mL; no serious adverse reactions (8% vs 9% local reactions) | One insular community mid-outbreak, ~103-day mean follow-up, stopped at first interim analysis with placebo then vaccinated; subclinical infection unmeasured; no transmission or duration measurement; the "should replace immune globulin" recommendation outruns the trial (no globulin arm) |
 
 ## Current manuscript rule for hepatitis A and hepatitis A virus
 Hepatitis A should be presented as a partial evidence ladder:
@@ -62,8 +64,9 @@ Hepatitis A should be presented as a partial evidence ladder:
 - Provost et al. 1975 answers a particle morphology, density, stability, and infected-liver localization question.
 - Provost and Hilleman 1979 answers a cell-culture propagation and marmoset infectivity confirmation question.
 - Feinstone/Kapikian/Purcell 1973 and the chimpanzee papers now have abstract-level source pages ([[sources/feinstone-kapikian-purcell-1973-hepatitis-a-iem]], [[sources/dienstag-1975-experimental-chimpanzee-hepatitis-a]], [[sources/schulman-1976-hepatitis-a-antigen-liver-bile-stool]], [[sources/maynard-1975-infectivity-hepatitis-nonhuman-primates]]) but remain full-text acquisition gaps at manuscript strength. Thornton 1977 is now full-text (PMC2041211 page images) and anchors the chimpanzee rung with an uninoculated control group and hepatitis-B exclusion.
+- Werzberger et al. 1992 ([[sources/werzberger-1992-hepatitis-a-vaccine-rct]]) answers a clinical-disease-endpoint intervention question: one aluminum-adjuvanted dose of purified formalin-inactivated CR326F' vaccine vs an aluminum-hydroxide placebo in 1,037 seronegative children during an outbreak - 0 vs 25 adjudicated clinical hepatitis A cases from day 50 (100%, one-sided 95% CI lower bound 87.3).
 
-The manuscript may upgrade hepatitis A from candidate status to a started ladder, with the CR326 marmoset/characterization/cell-culture chain and the Thornton 1977 chimpanzee challenge at full-text strength. It should say the human acute-stool IEM detection rung and the remaining chimpanzee challenge/tissue-shedding records are abstract-level, not full-text reconstructions.
+The manuscript may upgrade hepatitis A from candidate status to a started ladder, with the CR326 marmoset/characterization/cell-culture chain, the Thornton 1977 chimpanzee challenge, and the Werzberger 1992 clinical-endpoint vaccine trial at full-text strength. It should say the human acute-stool IEM detection rung and the remaining chimpanzee challenge/tissue-shedding records are abstract-level, not full-text reconstructions. The intervention rung is outbreak-contained (~103-day mean follow-up, early-stopped, placebo then vaccinated) and measures protection against clinical disease only - subclinical infection, transmission, and duration remain unmeasured, and natural-route human transmission has no rung in this ladder.
 
 ## Related
 - [[sources/provost-ittensohn-villarejos-1973-cr326-hepatitis-a-neutralization]]

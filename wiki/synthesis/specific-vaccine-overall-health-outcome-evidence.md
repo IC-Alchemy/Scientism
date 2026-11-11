@@ -12,7 +12,7 @@ tags:
   - pneumococcal-conjugate-vaccine
   - randomized-trials
   - vaccines
-sources: 14
+sources: 17
 updated: 2026-11-11
 claim_status: supported
 claim_type: medical
@@ -92,7 +92,10 @@ Two additional facts earn this trial a distinct note in this synthesis. First, t
 ### Iteration 11 - a poliomyelitis field-trial component with a confirmed-disease endpoint, added 2026-11-11 (run 20)
 [[sources/perdue-1955-alameda-county-polio-field-trial]] (Perdue & Malcolm, California Medicine 1955;83(3):233-236, complete scanned PMC PDF) is the tenth pathogen's entry in this file's disease-endpoint set and the first for polio: a local operations and follow-up report for the only California area in the 1954 nationwide Salk-vaccine field trials - 7,166 second-grade children injected three times (half vaccine, half placebo, "identified simply by a code, the key to which was known only at the Evaluation Center in Michigan"; placebo composition not stated in the report), first and third graders uninoculated controls, endpoint cases confirmed as poliomyelitis under uniform diagnostic criteria with muscle grading and stool virology, follow-up May 10-December 31, 1954: 10 confirmed cases - 7 uninjected, 3 placebo, 0 vaccinated.
 
-It does not join the all-cause proof: the counts come from one county with a missing uninoculated-control denominator and no rates computed; the master Francis 1955 AJPH analysis remains full-text-unreachable in this vault, so no national efficacy estimate is carried as experimentally supported here; the report's own leap ("in all probability prevented some cases of paralytic poliomyelitis") and its design criticism ("a trial originally designed on an unsound basis") are recorded on the source page. Polio vaccination is target-disease evidence at component-report grade; the overall-health-outcome rung remains untested in this vault. GAP 4's rung is now: PCV9 (all-cause), rotavirus, HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis, measles, hepatitis B, poliomyelitis.
+### Iteration 12 - a hepatitis A first row and a pertussis second platform, both aluminum-adjuvant comparator arms, added 2026-11-11 (run 21)
+[[sources/werzberger-1992-hepatitis-a-vaccine-rct]] (Werzberger et al., NEJM 1992;327:453-457, verified from the 2023 Wayback full-text HTML plus the complete 2012 scanned PDF) adds an eleventh pathogen: randomized double-blind placebo-controlled single-dose trial, 1,037 seronegative children 2-16 y in the Kiryas Joel, New York outbreak community (519/518), purified formalin-inactivated CR326F' cell-culture vaccine vs an aluminum-hydroxide diluent placebo ("300 ug of aluminum and thimerosal" - adjuvant-matched, not inert); adjudicated clinical hepatitis A endpoint (IgM + ALT >=2x ULN + defined signs/symptoms) counted from day 50: 0/498 vs 25/496, efficacy 100% (one-sided 95% CI lower bound 87.3), 7 vaccine-arm cases vs 3 placebo cases confined to days 5-18 (read as pre-injection incubating infections), seroconversion 304/305. [[sources/gustafsson-1996-acellular-pertussis-rct]] (Gustafsson et al., NEJM 1996;334:349-355, complete publisher PDF from a 2022 Wayback capture) replicates pertussis on the acellular platform: four-arm randomized double-blind trial, 9,829 Swedish infants (40.4% of eligible), three doses at 2/4/6 months of two-component acellular (2,566), five-component acellular (2,587), US whole-cell (2,102), or no-pertussis DT control (2,574); WHO 1991 primary endpoint: efficacy vs DT 58.9% / 85.2% / 48.3% over ~21-23.5 months, five-component 0.29 relative risk vs whole-cell with sustained efficacy while whole-cell declined over 720 days; whole-cell reactogenicity (23 crying >=3 h, 28 fevers >=40 C, 5 hypotonic-hyporesponsive episodes) against acellular safety matching DT; in-trial antibody inversion (higher titer, lower efficacy) recorded. Both rows are target-disease evidence with no all-cause or overall-health endpoint; both comparator arms contain aluminum adjuvant rather than inert material, so neither bounds systemic safety against a true placebo; the Werzberger trial stopped at its first interim analysis with the placebo arm vaccinated (mean follow-up ~103 days), and the Gustafsson transmission/control sentence is recorded as inference.
+
+It does not join the all-cause proof: the counts come from one county with a missing uninoculated-control denominator and no rates computed; the master Francis 1955 AJPH analysis remains full-text-unreachable in this vault, so no national efficacy estimate is carried as experimentally supported here; the report's own leap ("in all probability prevented some cases of paralytic poliomyelitis") and its design criticism ("a trial originally designed on an unsound basis") are recorded on the source page. Polio vaccination is target-disease evidence at component-report grade; the overall-health-outcome rung remains untested in this vault. GAP 4's rung is now: PCV9 (all-cause), rotavirus, HPV (two rows), SARS-CoV-2 (two platforms), RSV, influenza, pertussis (two platforms), measles, hepatitis B, poliomyelitis, hepatitis A.
 
 ## Current best-supported claim
 Supported: PCV9, as tested by Cutts et al. 2005 in young children in eastern Gambia, reduced all-cause hospital admissions and all-cause mortality compared with placebo during trial follow-up.
@@ -127,6 +130,9 @@ The PCV9 Gambia trial meets several high-value criteria: randomization, blinding
 - [[sources/sadoff-2021-ad26cov2s-covid-rct]]
 - [[sources/ison-2024-rsvpref3oa-two-season-rct]]
 - [[sources/mrc-1951-whooping-cough-vaccine-field-trials]]
+- [[sources/gustafsson-1996-acellular-pertussis-rct]]
+- [[sources/werzberger-1992-hepatitis-a-vaccine-rct]]
+- [[sources/perdue-1955-alameda-county-polio-field-trial]]
 - [Mackenzie et al. 2014 PCV schedule reanalysis](https://pubmed.ncbi.nlm.nih.gov/24631086/)
 - [Aaby et al. 2011 early BCG in low-birth-weight children](https://pubmed.ncbi.nlm.nih.gov/21673035/)
 - [Biering-Sorensen et al. 2017 early BCG-Denmark](https://pubmed.ncbi.nlm.nih.gov/29579158/)
