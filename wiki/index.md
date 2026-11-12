@@ -13,7 +13,7 @@ tags:
 ---
 # Index — Scientism
 
-_Auto-generated 2026-11-11 • 321 pages_
+_Auto-generated 2026-11-12 • 322 pages_
 
 > Content-oriented catalog of every page in `wiki/`, grouped by category.
 > Source pages are grouped by topic cluster. Regenerate with
@@ -101,10 +101,11 @@ _Auto-generated 2026-11-11 • 321 pages_
 - [[entities/robert-koch|Robert Koch]] — Historical scientist whose laboratory methods and later reputation are central to this vault's questions about causal-proof standards in germ-theory history. _(upd 2026-10-08)_
 - [[entities/viroliegy|ViroLIEgy]] — A commentary source used repeatedly in this vault for revisionist critiques of virology, smallpox history, Pasteur, and infectious-disease claims. _(upd 2026-05-04)_
 
-## Comparison (2)
+## Comparison (3)
 
 - [[comparisons/disease-prevention-vs-health-outcomes|Disease Prevention vs Health Outcomes]] — A starter comparison between narrower disease-prevention claims and broader claims about overall health benefit. _(upd 2026-10-08)_
 - [[comparisons/ladder-standard-vs-revisionist-virus-causation-critique|Ladder Standard vs Revisionist Virus-Causation Critique]] — A dispute-structure comparison between this vault's rung-separated evidence ladder for virus-disease attribution and the Tier 3 revisionist critique that treats the same experiments as unsupported. _(upd 2026-10-01)_
+- [[comparisons/methodological-rigor-vaccinology-vs-chemistry-2015-2024|Methodological rigor — vaccinology vs chemistry (2015–2024 random sample)]] — PubMed random-sample audit (n=12+12) scoring eight methodological dimensions; no significant total-score difference. _(upd 2026-11-11)_
 
 ## Source (255)
 
